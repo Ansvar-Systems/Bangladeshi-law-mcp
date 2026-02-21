@@ -1,0 +1,90 @@
+{
+  "id": "bd-bta-2001",
+  "type": "statute",
+  "title": "Bangladesh Telecommunication Act 2001",
+  "title_en": "Bangladesh Telecommunication Act 2001",
+  "short_name": "BTA",
+  "status": "in_force",
+  "issued_date": "2001-07-01",
+  "in_force_date": "2001-07-05",
+  "url": "https://bdlaws.minlaw.gov.bd/act-884.html",
+  "description": "The Bangladesh Telecommunication Act 2001 provides the regulatory framework for the telecommunications sector in Bangladesh, establishing the Bangladesh Telecommunication Regulatory Commission (BTRC) as the independent sector regulator. The Act governs the licensing, interconnection, spectrum management, tariff regulation, and consumer protection in the telecommunications sector, including mobile and internet services.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1. Short Title, Extent and Commencement",
+      "content": "This Act may be called the Bangladesh Telecommunication Act, 2001. It extends to the whole of Bangladesh. It shall come into force on such date as the Government may, by notification in the official Gazette, appoint. The Act establishes the framework for the regulation of telecommunications services in Bangladesh, recognizing telecommunications as an essential public utility of strategic importance for national development. The Act aims to promote competition, ensure affordable access to telecommunications services, protect consumer rights, and facilitate the development of the information and communication technology sector in Bangladesh. The Bangladesh Telecommunication Regulatory Commission established under this Act operates as an autonomous regulatory body with financial and administrative independence from the Government."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2. Definitions",
+      "content": "In this Act: 'Commission' means the Bangladesh Telecommunication Regulatory Commission established under section 3; 'licence' means a licence granted under this Act for the establishment, operation and maintenance of a telecommunication service or system; 'network operator' means a person who operates a public telecommunication network; 'service provider' means a person who provides a telecommunication service; 'spectrum' means the range of electromagnetic frequencies used for wireless communications; 'interconnection' means the commercial and technical linking of public telecommunications networks used by the same or a different operator; 'universal service' means the availability of a basic set of telecommunications services to all citizens at affordable prices with an adequate quality; 'consumer' means any person who uses or subscribes to a telecommunications service for personal or business purposes."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3. Establishment of the Bangladesh Telecommunication Regulatory Commission",
+      "content": "There shall be established a Bangladesh Telecommunication Regulatory Commission to carry out the purposes of this Act. The Commission shall be a body corporate with perpetual succession and a common seal, with power to acquire, hold and dispose of property and to sue and be sued in its own name. The Commission shall consist of a Chairman and not more than four Commissioners, appointed by the Government. The Chairman and Commissioners shall serve for a fixed term of three years and shall be eligible for re-appointment. The Commission shall operate independently of the Government in the exercise of its regulatory functions and shall be accountable to the Government for its performance. The Government may issue policy directions to the Commission, but such directions shall be in writing and shall be published in the official Gazette."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11. Functions and Powers of the Commission",
+      "content": "The Commission shall have the following functions and powers: (a) issue, modify, suspend, revoke and renew licences for telecommunications services; (b) manage and administer the radio frequency spectrum; (c) regulate interconnection between telecommunications service providers; (d) establish and enforce technical standards for telecommunications equipment and services; (e) determine tariffs for telecommunications services where competition is insufficient; (f) protect the rights and interests of consumers; (g) resolve disputes between telecommunications service providers; (h) promote competition in the telecommunications sector; (i) ensure universal access to telecommunications services; (j) approve and regulate mergers and acquisitions in the sector; (k) monitor compliance with licence conditions; (l) impose penalties for violations of this Act and Commission regulations; (m) advise the Government on telecommunications policy."
+    },
+    {
+      "provision_ref": "sec20",
+      "section": "20",
+      "title": "Section 20. Interconnection",
+      "content": "Every licensed operator providing public telecommunications services shall have the right to interconnect with the networks of other licensed operators, and the duty to provide interconnection to other licensed operators on reasonable request. Interconnection shall be provided on terms and conditions that are transparent, cost-oriented, non-discriminatory, and consistent with the principles of fair competition. Where parties cannot agree on interconnection terms within ninety days, either party may refer the dispute to the Commission for determination. The Commission shall issue reference interconnection offers for dominant operators which shall serve as the basis for interconnection negotiations. Interconnection charges shall be cost-oriented and shall not discriminate between national and international operators in similar circumstances. The Commission may inspect interconnection agreements and require modifications where they are inconsistent with the principles of fair competition or with the public interest."
+    },
+    {
+      "provision_ref": "sec30",
+      "section": "30",
+      "title": "Section 30. Radio Frequency Spectrum",
+      "content": "The radio frequency spectrum in Bangladesh is a national resource owned by the Government and its use shall be subject to licensing by the Commission. The Commission shall prepare and maintain a National Frequency Allocation Table in conformity with the Radio Regulations of the International Telecommunication Union. The Commission shall manage the spectrum to ensure its efficient and effective use, taking into account: the requirements of national security and defence; the requirements of public safety services; the obligations of Bangladesh under international agreements; the promotion of competition in the telecommunications sector; and the advancement of digital inclusion and economic development. Spectrum licences may be awarded through competitive processes including auctions or comparative selection procedures. The Commission may recover spectrum from licence holders who fail to use it efficiently or who violate the conditions of their licence."
+    },
+    {
+      "provision_ref": "sec40",
+      "section": "40",
+      "title": "Section 40. Confidentiality of Communications",
+      "content": "Telecommunications operators shall maintain the confidentiality of communications transmitted over their networks and shall not intercept, monitor, store, or disclose the content of any communication without the consent of the user or unless required to do so by a competent court or other lawful authority. Operators shall implement appropriate technical and organizational measures to protect the confidentiality and security of communications. Where an operator is required by law to intercept communications for law enforcement purposes, it shall implement lawful interception capabilities in accordance with the relevant laws and standards. The Commission may set standards for the security measures to be implemented by operators to protect the confidentiality of communications. Violations of the duty to maintain the confidentiality of communications shall be subject to penalties by the Commission and criminal prosecution under applicable laws."
+    },
+    {
+      "provision_ref": "sec60",
+      "section": "60",
+      "title": "Section 60. Consumer Protection",
+      "content": "The Commission shall adopt and enforce consumer protection regulations establishing minimum standards for the quality of telecommunications services, the terms and conditions of consumer contracts, billing and dispute resolution procedures, and the protection of consumer data. Service providers shall: provide consumers with accurate information about the services they offer, their prices, and terms and conditions; maintain minimum quality of service standards as prescribed by the Commission; provide consumers with itemized bills upon request; maintain a consumer complaint handling mechanism with specified response times; and compensate consumers for service failures that exceed the prescribed standards. The Commission shall maintain a Consumer Information Portal providing information about telecommunications services, tariffs, and consumer rights. Service providers shall not engage in unfair or deceptive practices in the marketing and provision of telecommunications services."
+    },
+    {
+      "provision_ref": "sec70",
+      "section": "70",
+      "title": "Section 70. Offences and Penalties",
+      "content": "Any person who establishes or operates a telecommunications service or system without a licence shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding five years, or a fine not exceeding ten lakh taka, or both. Any licensed operator who violates the terms and conditions of its licence shall be subject to an administrative penalty imposed by the Commission of up to fifty lakh taka per violation. The Commission may suspend or revoke the licence of an operator that repeatedly violates the provisions of this Act. Any person who interferes with the operation of a licensed telecommunications network, intercepts communications without authorization, or damages telecommunications infrastructure shall be liable to imprisonment not exceeding seven years and/or a fine. Operators that fail to meet consumer protection standards shall pay compensation to affected consumers as prescribed by the Commission."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "BTRC",
+      "definition": "Bangladesh Telecommunication Regulatory Commission, the independent regulatory body established under the Bangladesh Telecommunication Act 2001 to regulate the telecommunications sector.",
+      "source_provision": "sec3"
+    },
+    {
+      "term": "interconnection",
+      "definition": "The commercial and technical linking of public telecommunications networks used by the same or different operators, enabling users of one network to communicate with users of another.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "spectrum",
+      "definition": "The range of electromagnetic frequencies used for wireless communications, constituting a national resource owned by the Government and managed by BTRC.",
+      "source_provision": "sec30"
+    },
+    {
+      "term": "universal service",
+      "definition": "The availability of a basic set of telecommunications services to all citizens at affordable prices with adequate quality, regardless of geographic location or economic circumstances.",
+      "source_provision": "sec2"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "bd-financial-integrity-framework-electronic",
+  "type": "statute",
+  "title": "আর্থিক সততা কার্যক্রম — ইলেকট্রনিক বিধান — বাংলাদেশ",
+  "title_en": "Financial Integrity Framework — Electronic Provisions — Bangladesh",
+  "short_name": "FIF-BD (Electronic)",
+  "status": "in_force",
+  "issued_date": "2015-01-01",
+  "in_force_date": "2015-01-01",
+  "url": "https://www.bb.org.bd/",
+  "description": "The Financial Integrity Framework — Electronic Provisions consolidates the regulatory guidelines and policy instruments governing financial integrity obligations as they apply to electronic financial transactions, digital payment systems, mobile financial services, and online financial platforms in Bangladesh. It integrates the requirements of the Money Laundering Prevention Act 2012, the Anti-Terrorism Act 2009, Bangladesh Bank's Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT) guidelines, and the guidelines of the Bangladesh Financial Intelligence Unit (BFIU), with specific application to electronic and digital channels.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1. Scope and Application",
+      "content": "This Framework applies to all reporting organisations engaged in electronic financial transactions in Bangladesh, including: scheduled banks offering internet banking, mobile banking, and digital payment services; mobile financial service providers; payment service providers and payment system operators; fintech companies offering financial products or services; electronic money institutions; and e-commerce platforms with integrated payment functions subject to applicable thresholds. The Framework establishes the AML/CFT obligations applicable to these entities with specific reference to the management of risks arising from digital channels. All reporting organisations shall comply with applicable requirements of the Money Laundering Prevention Act 2012, the Anti-Terrorism Act 2009, and directives issued by the Bangladesh Financial Intelligence Unit. The BFIU has primary oversight responsibility for the AML/CFT obligations established in this Framework."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2. Risk-Based Approach to Digital Financial Services",
+      "content": "Reporting organisations shall implement a risk-based approach to AML/CFT compliance, identifying, assessing, and managing the financial integrity risks arising from their digital financial services and channels. Digital financial services risk assessment shall consider: the nature and type of digital products and services offered; the customer segments served, including by risk category; the geographic distribution of services and customers; transaction volumes, values, and patterns by channel; the degree of anonymity or pseudonymity associated with different digital channels; the potential for misuse of digital services for money laundering or terrorist financing; and the adequacy of existing controls relative to identified risks. Risk assessments shall be documented and reviewed at least annually and whenever significant changes to digital products, services, or channels occur. The BFIU may issue sector-specific risk guidance applicable to different categories of digital financial service provider."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3. Customer Due Diligence in Digital Channels",
+      "content": "Reporting organisations shall apply customer due diligence (CDD) requirements to customers accessing digital financial services, commensurate with the risk profile of the customer and the service. CDD requirements for digital financial services include: verifying customer identity using reliable and independent sources, including biometric data where available through the national digital identity infrastructure; verifying the identity of beneficial owners of business accounts; understanding the purpose and intended nature of the customer relationship; and ongoing monitoring of the customer relationship. Digital identity verification may be conducted remotely using the National ID Card, Birth Registration Number, or other government-issued identification, subject to verification of the authenticity of the documentation. Enhanced due diligence shall be applied for customers identified as high risk, including politically exposed persons, and for transactions above specified thresholds. Simplified due diligence may be applied for low-risk products and customer segments as permitted by BFIU guidance."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4. Mobile Financial Services — AML/CFT Requirements",
+      "content": "Mobile financial service providers shall implement AML/CFT controls adapted to the characteristics of mobile financial services, including the predominance of lower-value transactions, the importance of agent networks, and the potential for greater geographic reach and financial inclusion. MFS-specific AML/CFT requirements include: customer identification and verification at account opening, whether through agents, USSD, or mobile application; transaction limits calibrated to the risk profile of different customer segments; agent due diligence and ongoing agent monitoring; transaction monitoring systems identifying patterns indicative of money laundering or terrorist financing; customer alert systems for unusual account activity; and reporting of suspicious transactions to the BFIU. MFS providers shall implement agent monitoring programmes ensuring agent compliance with AML/CFT requirements. Bangladesh Bank shall coordinate MFS AML/CFT oversight with the BFIU."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5. Transaction Monitoring in Digital Channels",
+      "content": "Reporting organisations shall implement automated transaction monitoring systems capable of identifying transactions and patterns that may be indicative of money laundering, terrorist financing, or other financial crime. Transaction monitoring system requirements include: real-time or near-real-time monitoring of electronic transactions; rule-based and behavioural analytics detecting anomalous patterns; scenario coverage addressing the money laundering and terrorist financing risks specific to digital channels; alert generation, triage, and investigation workflows; documentation of monitoring decisions; escalation procedures for high-risk alerts; and integration with customer risk profiles. Transaction monitoring systems shall be calibrated to the entity's risk assessment and shall be reviewed and updated regularly to maintain effectiveness. The BFIU may issue guidance on transaction monitoring scenarios applicable to digital channels. Reporting organisations shall document the governance, testing, and performance of their transaction monitoring systems."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6. Suspicious Transaction Reporting",
+      "content": "Reporting organisations shall file Suspicious Transaction Reports (STRs) with the Bangladesh Financial Intelligence Unit when there are reasonable grounds to suspect that a transaction or attempted transaction involves proceeds of crime, is related to terrorist financing, or is otherwise suspicious. STR obligations applicable to digital channel transactions include: filing STRs for digital transactions meeting the suspicion threshold regardless of transaction value; filing STRs in cases where a customer declines to provide required information or closes an account following an inquiry; filing Cash Transaction Reports (CTRs) for electronic transactions meeting applicable thresholds as specified by the BFIU; and filing STRs where transaction patterns suggest structuring to avoid reporting thresholds. STRs shall be filed electronically through the BFIU reporting portal within the timeframe specified in applicable regulations. Reporting organisations shall maintain the confidentiality of STR filings and shall not tip off customers that a report has been filed."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7. Record Keeping for Electronic Transactions",
+      "content": "Reporting organisations shall maintain complete and accurate records of electronic financial transactions and customer identification information for the periods specified in applicable law and regulations. Record keeping requirements for electronic transactions include: records of all electronic transactions sufficient to reconstruct the transaction, including sender and receiver details, transaction amounts, dates, and channels used; customer identification and due diligence records for the duration of the relationship and for five years after the relationship ends; STR filing records; transaction monitoring records including alert decisions; and agent records for agent-based digital financial services. Records shall be stored in a manner ensuring their integrity, accessibility, and availability to the BFIU and Bangladesh Bank upon request. Electronic records shall be maintained in formats enabling their reliable retrieval within reasonable timeframes for investigation and regulatory purposes."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8. Digital Financial Inclusion and AML/CFT",
+      "content": "The regulatory framework recognises that AML/CFT requirements must be calibrated to avoid creating barriers to financial inclusion while maintaining the integrity of the financial system. The BFIU and Bangladesh Bank shall develop AML/CFT requirements for low-value digital financial products that are proportionate to the risk posed while enabling access by unbanked and underbanked populations. Proportionate AML/CFT measures for low-risk digital financial products may include: simplified customer due diligence based on national identity card verification; transaction and balance limits calibrated to the risk profile of the product; monitoring adapted to the lower risk characteristics of the product; and simplified reporting requirements. Financial inclusion products eligible for simplified AML/CFT treatment shall be specified by the BFIU in applicable guidance. Reporting organisations shall monitor the usage of simplified AML/CFT products to detect escalation in risk."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9. Beneficial Ownership in Digital Business Accounts",
+      "content": "Reporting organisations providing business accounts or services to corporate customers through digital channels shall verify beneficial ownership information in accordance with applicable AML/CFT requirements. Beneficial ownership requirements for digital business accounts include: identifying and verifying the natural persons who ultimately own or control the legal entity customer; maintaining records of beneficial ownership information; updating beneficial ownership information when changes are identified; applying enhanced due diligence to high-risk corporate structures; and implementing systems to prevent the use of complex corporate structures to obscure beneficial ownership. The BFIU shall develop guidance on beneficial ownership requirements applicable to different categories of corporate customer and digital service. Reporting organisations shall implement risk-based procedures for verifying beneficial ownership information provided by customers."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10. Correspondent Banking and Digital Payments",
+      "content": "Banks providing correspondent banking services, including settlement of digital payment transactions for foreign financial institutions, shall implement enhanced due diligence on their correspondent relationships. Correspondent banking AML/CFT requirements include: assessing the AML/CFT regime and controls of the respondent institution before establishing a correspondent relationship; documenting the nature and purpose of the correspondent relationship; understanding and monitoring the volume and nature of transactions processed through correspondent accounts; implementing specific controls for payable-through accounts and nested correspondent relationships; and conducting periodic reviews of correspondent relationships. Banks shall not establish or continue correspondent relationships with shell banks. Reporting organisations involved in cross-border digital payment processing shall implement controls addressing the specific money laundering and terrorist financing risks of cross-border transactions."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11. Targeted Financial Sanctions in Digital Transactions",
+      "content": "Reporting organisations shall implement controls ensuring compliance with targeted financial sanctions obligations in respect of electronic financial transactions. Targeted financial sanctions compliance requirements include: screening of customers and transaction counterparties against applicable sanctions lists, including United Nations Security Council consolidated lists and national designation lists; real-time or pre-transaction screening for digital payment transactions; documented procedures for handling sanctions matches; freezing of assets and reporting to the BFIU where a sanctions match is confirmed; and maintaining records of sanctions screening activities. Screening systems shall be updated promptly when sanctions lists are amended. Reporting organisations shall implement procedures for handling false positives and shall document screening decisions. The BFIU shall publish applicable guidance on targeted financial sanctions compliance for digital financial service providers."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Section 12. AML/CFT Governance and Compliance Function",
+      "content": "Reporting organisations shall establish a dedicated AML/CFT compliance function responsible for implementing and monitoring compliance with applicable financial integrity obligations. AML/CFT compliance function requirements include: appointment of a designated Money Laundering Prevention Compliance Officer (MLPCO) with appropriate seniority and resources; independence of the compliance function from business line management; documented AML/CFT policies and procedures covering digital channels; regular compliance testing and audit of AML/CFT controls; reporting of AML/CFT compliance matters to senior management and the Board; and maintaining the skills and knowledge of compliance staff. The MLPCO shall be the primary point of contact with the BFIU and Bangladesh Bank for AML/CFT matters. AML/CFT policies shall be reviewed annually and updated to reflect changes in the regulatory framework and risk environment."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13. AML/CFT Training for Digital Finance Staff",
+      "content": "Reporting organisations shall implement AML/CFT training programmes ensuring that all staff involved in digital financial services understand their obligations and are equipped to identify and respond to financial integrity risks. AML/CFT training requirements for digital finance operations include: induction training for new staff covering AML/CFT obligations applicable to their role; annual refresher training for all relevant staff; role-specific training for high-risk functions including customer onboarding, transaction monitoring, and alert investigation; training on digital channel-specific financial crime typologies; training for management and board members on AML/CFT governance responsibilities; and agent training for mobile financial service providers. Training effectiveness shall be assessed and documented. The BFIU shall issue guidance on AML/CFT training requirements and may publish training materials for use by reporting organisations."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14. International Cooperation and Information Exchange",
+      "content": "The Bangladesh Financial Intelligence Unit shall maintain membership of the Egmont Group of Financial Intelligence Units and shall participate actively in international AML/CFT cooperation. International cooperation activities include: exchanging financial intelligence with foreign FIUs through Egmont Group mechanisms; cooperating with foreign supervisory authorities on cross-border AML/CFT supervision matters; implementing applicable Financial Action Task Force (FATF) recommendations and guidance; participating in mutual evaluation processes and implementing recommended improvements; sharing best practices on digital financial services AML/CFT; and cooperating with international bodies on the development of AML/CFT standards for new financial technologies. Reporting organisations shall cooperate with BFIU requests for information in support of international cooperation activities. Bangladesh shall participate actively in FATF and FATF-style regional body activities."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15. Supervision, Enforcement, and Review",
+      "content": "The Bangladesh Financial Intelligence Unit and Bangladesh Bank shall exercise risk-based supervision of reporting organisations' compliance with AML/CFT requirements applicable to digital financial services. Supervisory activities shall include: off-site monitoring of STR and CTR filing patterns; on-site assessments of AML/CFT controls and systems; targeted thematic reviews of specific AML/CFT risk areas; and follow-up on findings from previous assessments. Supervisory findings shall be communicated to reporting organisations with requirements for remediation. Persistent or serious non-compliance shall be subject to regulatory action under applicable law, including requirements for enhanced compliance plans, restriction of activities, or financial penalties. This Framework shall be reviewed every two years by the BFIU and Bangladesh Bank, in consultation with reporting organisations and relevant stakeholders, to ensure continued relevance and effectiveness."
+    }
+  ],
+  "definitions": [
+    {"term": "BFIU", "definition": "Bangladesh Financial Intelligence Unit, the authority responsible for receiving and analysing suspicious transaction reports and coordinating AML/CFT activities.", "source_provision": "sec1"},
+    {"term": "suspicious transaction report (STR)", "definition": "A report filed by a reporting organisation with the BFIU when there are reasonable grounds to suspect that a transaction involves proceeds of crime or is related to terrorist financing.", "source_provision": "sec6"},
+    {"term": "customer due diligence (CDD)", "definition": "The process of identifying and verifying customer identity, understanding the nature of the customer relationship, and monitoring transactions.", "source_provision": "sec3"},
+    {"term": "beneficial ownership", "definition": "The natural persons who ultimately own or control a legal entity customer.", "source_provision": "sec9"},
+    {"term": "MLPCO", "definition": "Money Laundering Prevention Compliance Officer, the designated officer responsible for AML/CFT compliance within a reporting organisation.", "source_provision": "sec12"},
+    {"term": "targeted financial sanctions", "definition": "Asset freezes and prohibitions on dealings with designated persons and entities as required by United Nations Security Council resolutions or national designations.", "source_provision": "sec11"}
+  ]
+}

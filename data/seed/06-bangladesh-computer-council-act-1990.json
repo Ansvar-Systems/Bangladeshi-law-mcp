@@ -1,0 +1,111 @@
+{
+  "id": "bd-bangladesh-computer-council-act-1990",
+  "type": "statute",
+  "title": "বাংলাদেশ কম্পিউটার কাউন্সিল আইন, ১৯৯০",
+  "title_en": "Bangladesh Computer Council Act 1990",
+  "short_name": "BCC Act 1990",
+  "status": "amended",
+  "issued_date": "1990-01-01",
+  "in_force_date": "1990-01-01",
+  "url": "https://bdlaws.minlaw.gov.bd/act-763.html",
+  "description": "The Bangladesh Computer Council Act 1990 establishes the Bangladesh Computer Council (BCC) as the national institution responsible for promoting the use of computers and information technology in Bangladesh. The BCC serves as the technical arm of the government for ICT policy implementation, manages national ICT infrastructure, promotes ICT education and training, and provides technical assistance to government agencies and the private sector.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1. Short Title and Commencement",
+      "content": "This Act may be called the Bangladesh Computer Council Act, 1990. It extends to the whole of Bangladesh. It came into force on such date as the Government notified in the official Gazette. The Act establishes the Bangladesh Computer Council as a statutory body responsible for promoting and developing the use of information technology in Bangladesh. Since its establishment, the BCC has evolved to become a key technical institution supporting the Government's Digital Bangladesh initiative and playing a central role in the development of national ICT infrastructure, the promotion of the software industry, and the provision of technical services to government agencies."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2. Establishment of Bangladesh Computer Council",
+      "content": "There shall be established a Council to be called the Bangladesh Computer Council. The Bangladesh Computer Council shall be a body corporate with perpetual succession and a common seal, with power to acquire, hold and dispose of property both movable and immovable, and to contract and shall by that name sue and be sued. The BCC shall be under the administrative control of the Ministry responsible for information and communication technology. The BCC shall be governed by an Executive Committee appointed by the Government. The Executive Director of the BCC shall be appointed by the Government. The BCC shall have such offices and shall employ such officers and staff as may be necessary for the discharge of its functions."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3. Functions of the Bangladesh Computer Council",
+      "content": "The Bangladesh Computer Council shall perform the following functions: (a) to promote the use of computers and information technology in Bangladesh; (b) to advise the Government on matters relating to information technology; (c) to manage and operate the national ICT infrastructure assigned to it; (d) to promote the development of the software and IT-enabled services industry; (e) to provide training and education in information technology; (f) to conduct and coordinate research and development in the field of information technology; (g) to provide technical services to government agencies and the private sector; (h) to promote cooperation with foreign countries and international organisations in the field of information technology; (i) to implement programmes of the Government relating to information technology; and (j) to do such other acts and things as may be necessary or incidental to the attainment of the objectives of the BCC."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4. National ICT Infrastructure",
+      "content": "The Bangladesh Computer Council shall manage and develop national ICT infrastructure as assigned by the Government, including data centres, government networks, and shared ICT platforms for government use. The BCC shall operate the National Data Centre (NDC) providing data hosting, cloud computing services, and disaster recovery capabilities for government agencies. The BCC shall manage the Bangladesh National Digital Architecture (BNDA), establishing standards and frameworks for interoperability of government information systems. The BCC shall coordinate the development and deployment of shared government ICT platforms, avoiding duplication and promoting efficiency. The BCC shall establish and maintain technical standards for government ICT procurement, ensuring interoperability, security, and value for money in government ICT investments."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5. ICT Training and Education",
+      "content": "The Bangladesh Computer Council shall promote ICT education and training at all levels, from basic digital literacy through to advanced professional qualifications. The BCC shall operate the Bangladesh Computer Council Training Programme, offering short courses, professional certifications, and customised training for government and private sector employees. The BCC shall work with universities and technical and vocational education institutions to promote ICT education and to align curricula with industry needs. The BCC shall develop and maintain a national ICT skills framework identifying the competencies expected of ICT professionals at different levels. The BCC shall promote coding education and computational thinking from an early age, in coordination with the Ministry of Education. The BCC shall maintain relationships with international ICT training and certification organisations to promote access to globally recognised qualifications."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6. ICT Industry Development",
+      "content": "The Bangladesh Computer Council shall support the development of the domestic ICT industry, particularly the software and IT-enabled services sectors. Support activities shall include: providing incubation and technical support to ICT start-ups; promoting Bangladesh as a destination for software outsourcing and IT-enabled services; facilitating access to finance for ICT businesses; supporting the development of ICT parks and innovation hubs; promoting the registration and protection of software and other intellectual property created by Bangladeshi ICT companies; and facilitating the participation of Bangladeshi ICT companies in international markets. The BCC shall coordinate with the ICT Division, the Bangladesh Investment Development Authority, and other relevant bodies on ICT industry development activities."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7. Cybersecurity Functions",
+      "content": "The Bangladesh Computer Council shall provide technical cybersecurity services to government agencies, including: security assessments of government information systems; technical assistance in responding to cybersecurity incidents; development and dissemination of cybersecurity guidelines and best practices; and coordination with the Digital Security Agency on matters relating to government cybersecurity. The BCC shall operate a cybersecurity monitoring facility providing real-time monitoring of government networks and early warning of security threats. The BCC shall coordinate with the national CIRT on incidents affecting government information systems. The BCC shall promote cybersecurity awareness among government employees through training programmes and communications campaigns."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8. Digital Bangladesh Programme",
+      "content": "The Bangladesh Computer Council shall serve as a primary implementing agency for the Government's Digital Bangladesh programme, contributing to the four pillars of the programme: developing human resources; connecting citizens; providing digital government services; and promoting the ICT industry. The BCC shall coordinate with ministries, departments, and agencies in the implementation of Digital Bangladesh initiatives and shall provide technical support for the digitisation of government services. The BCC shall maintain a monitoring and evaluation framework for Digital Bangladesh implementation and shall report on progress to the ICT Division and to Cabinet. The BCC shall conduct public awareness campaigns promoting Digital Bangladesh and supporting the adoption of digital services by citizens and businesses."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9. E-Government Services",
+      "content": "The Bangladesh Computer Council shall provide technical support for the development and deployment of e-Government services by government agencies. The BCC shall maintain the technical infrastructure for key shared government platforms, including the National Portal, the National ID Card system, and the Government Enterprise Resource Planning system. The BCC shall advise government agencies on the design and implementation of e-Government services, including requirements for usability, security, accessibility, and interoperability. The BCC shall conduct technical assessments of proposed e-Government projects before their approval and shall monitor their implementation to ensure technical quality. The BCC shall maintain a registry of government digital services and shall coordinate the development of an integrated e-Government service catalogue accessible to citizens through the National Portal."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10. Research and Development",
+      "content": "The Bangladesh Computer Council shall promote and conduct research and development in the field of information technology, with a focus on areas of relevance to Bangladesh's development needs. The BCC shall maintain research partnerships with universities, research institutions, and international organisations working on ICT research. The BCC shall manage a research programme funding applied ICT research projects of relevance to government and industry needs. The BCC shall promote the commercialisation of ICT research outputs, including through technology transfer mechanisms and support for research-based start-ups. The BCC shall participate in regional and international ICT research collaboration programmes and shall facilitate access by Bangladeshi researchers to international knowledge and expertise."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11. Standards and Interoperability",
+      "content": "The Bangladesh Computer Council shall develop and maintain national ICT standards applicable to government information systems. National ICT standards shall address: technical standards for government networks, hardware, and software; interoperability standards for government information exchange; security standards for government information systems; accessibility standards for government digital services; and data management standards for government data assets. The BCC shall coordinate with international standards bodies and shall align national ICT standards with applicable international standards where this promotes interoperability and value for money. Compliance with national ICT standards shall be a requirement for government ICT procurement and shall be assessed in the review of ICT projects."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Section 12. Technical Assistance to Government",
+      "content": "The Bangladesh Computer Council shall provide technical assistance to government ministries, departments, and agencies in the planning, procurement, implementation, and operation of ICT systems. Technical assistance services provided by the BCC include: ICT needs assessment and requirements analysis; feasibility studies and technical evaluations; project management support; system integration and testing; training and capacity building; and post-implementation review and monitoring. Government agencies seeking to undertake major ICT investments shall engage the BCC in the planning process and shall benefit from BCC's technical expertise and knowledge of applicable standards and best practices. The BCC shall maintain a register of technical assistance engagements and shall report on the outcomes of its technical assistance activities."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13. International Cooperation",
+      "content": "The Bangladesh Computer Council shall maintain and develop cooperation relationships with ICT institutions in other countries and with international organisations working in the field of information technology. International cooperation activities shall include: technology transfer and capacity building partnerships; joint research and development projects; exchange of technical knowledge and expertise; participation in international ICT forums and working groups; and bilateral ICT cooperation agreements. The BCC shall represent Bangladesh in relevant international ICT technical forums, including ITU-T and regional bodies. International cooperation activities shall be conducted in coordination with the Ministry of Foreign Affairs and the ICT Division. The BCC shall seek to leverage international cooperation as a source of technical knowledge, expertise, and resources for national ICT development."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14. Funding and Financial Management",
+      "content": "The Bangladesh Computer Council shall be financed through: government budget allocations; fees for services provided to government agencies and the private sector; grants and donations from national and international sources; revenues from commercial activities carried out by the BCC; and any other income lawfully received. The BCC shall maintain its accounts in accordance with applicable public financial management law and standards. The BCC shall prepare annual budgets and financial statements which shall be audited by the Comptroller and Auditor General. The BCC shall provide annual financial reports to the Ministry of ICT and shall publish its financial statements. The BCC shall manage its resources efficiently and effectively, consistent with its mandate and applicable public sector financial management requirements."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15. Reporting and Accountability",
+      "content": "The Bangladesh Computer Council shall submit an annual report to the Government through the Minister responsible for ICT, covering: the activities of the BCC during the year; the state of ICT development in Bangladesh; progress against the objectives of the Digital Bangladesh programme; the financial performance of the BCC; and plans for the coming year. The annual report shall be submitted to Parliament and shall be publicly available. The BCC shall respond to requests for information from Parliament and from the public in accordance with the Right to Information Act 2009. The BCC shall establish a Performance Management Framework measuring its effectiveness against defined objectives and shall publish performance information annually."
+    }
+  ],
+  "definitions": [
+    {"term": "Bangladesh Computer Council (BCC)", "definition": "The statutory body established under this Act to promote and develop the use of information technology in Bangladesh.", "source_provision": "sec2"},
+    {"term": "National Data Centre (NDC)", "definition": "The government data centre operated by the BCC providing hosting, cloud, and disaster recovery services for government agencies.", "source_provision": "sec4"},
+    {"term": "Digital Bangladesh", "definition": "The Government's programme for digital transformation, covering human resources, connectivity, digital services, and the ICT industry.", "source_provision": "sec8"},
+    {"term": "national ICT standards", "definition": "Technical standards developed by the BCC applicable to government ICT systems, covering interoperability, security, and accessibility.", "source_provision": "sec11"},
+    {"term": "BNDA", "definition": "Bangladesh National Digital Architecture, the framework for interoperability of government information systems.", "source_provision": "sec4"}
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "bd-national-cybersecurity-strategy-2021",
+  "type": "statute",
+  "title": "জাতীয় সাইবার নিরাপত্তা কৌশল, ২০২১",
+  "title_en": "National Cybersecurity Strategy 2021",
+  "short_name": "NCS 2021",
+  "status": "in_force",
+  "issued_date": "2021-01-01",
+  "in_force_date": "2021-01-01",
+  "url": "https://dsa.gov.bd/",
+  "description": "The National Cybersecurity Strategy 2021 of Bangladesh establishes the Government's strategic framework for securing national digital infrastructure, developing national cybersecurity capabilities, and promoting a culture of cybersecurity across the public and private sectors. Issued by the Digital Security Agency under the authority of the Ministry of Posts, Telecommunications and Information Technology, the Strategy provides a five-year roadmap for achieving a secure, resilient, and trusted digital Bangladesh. It builds on the institutional framework of the Digital Security Act 2018 and aligns with international cybersecurity frameworks and good practices.",
+  "provisions": [
+    {
+      "provision_ref": "str1",
+      "section": "1",
+      "title": "Strategy Statement 1. Vision, Mission, and Scope",
+      "content": "The National Cybersecurity Strategy 2021 establishes the vision of a secure, resilient, and prosperous digital Bangladesh in which citizens, businesses, and government can engage with confidence in the digital environment. The Strategy's mission is to protect Bangladesh's digital infrastructure, strengthen national cybersecurity capabilities, and build a culture of cybersecurity across all sectors of society. The Strategy applies across government ministries, departments, and agencies; operators of critical national infrastructure; the private sector; civil society and academia; and the general public. The Strategy provides direction for the Digital Security Agency and its partners for the period 2021 to 2025 and shall be reviewed annually to assess progress and to adapt to the evolving threat environment."
+    },
+    {
+      "provision_ref": "str2",
+      "section": "2",
+      "title": "Strategy Statement 2. Threat Assessment and Strategic Context",
+      "content": "The Government of Bangladesh recognises that the nation's increasing digital connectivity creates significant economic and social opportunities while also exposing citizens, businesses, and government to evolving cybersecurity risks. Key cybersecurity challenges addressed by this Strategy include: threats to critical national infrastructure from state and non-state actors; cybersecurity vulnerabilities in government information systems; threats to the financial system from digital financial crime; risks to citizens from online fraud, scams, and identity theft; threats to national security from espionage and sabotage of digital systems; and challenges arising from rapid expansion of internet access and mobile connectivity. The Strategy is informed by the Digital Security Agency's national threat assessment and by analysis of international cybersecurity trends. The threat environment shall be monitored continuously and the Strategy shall be updated accordingly."
+    },
+    {
+      "provision_ref": "str3",
+      "section": "3",
+      "title": "Strategy Statement 3. Institutional Framework",
+      "content": "The National Cybersecurity Strategy 2021 is implemented through the institutional framework established by the Digital Security Act 2018. The Digital Security Council provides high-level policy direction and inter-ministerial coordination. The Digital Security Agency serves as the lead implementing agency for the Strategy, exercising its functions through: the National CIRT providing incident response and threat intelligence; the Critical Information Infrastructure Protection Programme coordinating security of designated national assets; the National Cybersecurity Regulatory Framework establishing and enforcing security standards; the Cybersecurity Awareness Programme promoting public and private sector security culture; and the Cybersecurity Research and Innovation Programme. Sector regulators, including the BTRC and Bangladesh Bank, shall exercise sector-specific cybersecurity oversight functions within the overall coordination framework of this Strategy."
+    },
+    {
+      "provision_ref": "str4",
+      "section": "4",
+      "title": "Strategy Statement 4. Critical Infrastructure Protection",
+      "content": "A primary objective of the National Cybersecurity Strategy 2021 is to establish and maintain effective protection of Bangladesh's critical national infrastructure against cybersecurity threats. Critical infrastructure protection activities under this Strategy include: finalising and maintaining the national designation of critical information infrastructure across key sectors including energy, water, telecommunications, financial services, government, transport, and health; establishing sector-specific cybersecurity requirements for critical infrastructure operators; implementing continuous monitoring of threats to designated critical infrastructure; developing national incident response capabilities for critical infrastructure protection; conducting regular exercises testing national response to critical infrastructure cybersecurity incidents; and promoting information sharing between critical infrastructure operators and the DSA. Designated critical infrastructure operators shall comply with applicable security standards and shall participate in national security exercises."
+    },
+    {
+      "provision_ref": "str5",
+      "section": "5",
+      "title": "Strategy Statement 5. Government Cybersecurity",
+      "content": "The Strategy establishes a programme to achieve and maintain a high level of cybersecurity across Bangladesh Government information systems and digital services. Government cybersecurity programme activities include: implementing the National Digital Security Regulatory Framework across all government ministries and agencies; conducting baseline security assessments of government information systems; developing and implementing minimum cybersecurity standards for government procurement; establishing continuous monitoring capabilities for government networks; implementing multi-factor authentication for access to sensitive government systems; developing government-wide cybersecurity incident response procedures; coordinating cybersecurity activities through the Government CIRT; and establishing accountability mechanisms for government cybersecurity performance. The Bangladesh Computer Council shall provide technical support to government agencies in implementing cybersecurity requirements. Annual government cybersecurity assessments shall be conducted and results shall inform strategic priorities."
+    },
+    {
+      "provision_ref": "str6",
+      "section": "6",
+      "title": "Strategy Statement 6. National CIRT Capabilities",
+      "content": "The Digital Security Agency shall develop the national CIRT into a world-class incident response capability serving the needs of government, critical infrastructure operators, and the broader national cybersecurity ecosystem. CIRT capability development priorities include: achieving 24/7 operational monitoring with the technical capacity to detect, analyse, and respond to sophisticated cybersecurity threats; developing advanced malware analysis and digital forensics capabilities; building a national cyber threat intelligence function integrating information from government, private sector, and international sources; establishing and maintaining trusted information sharing relationships with sector CIRTs, international CIRTs, and commercial threat intelligence providers; developing the technical expertise of CIRT staff through international training and collaboration; and expanding the CIRT's national reach through regional offices and sector coordination mechanisms."
+    },
+    {
+      "provision_ref": "str7",
+      "section": "7",
+      "title": "Strategy Statement 7. Cybersecurity Workforce Development",
+      "content": "The Strategy recognises that the development of a skilled and sustainable cybersecurity workforce is a foundational requirement for achieving national cybersecurity objectives. Cybersecurity workforce development activities include: developing a National Cybersecurity Skills Framework defining competencies at different levels; establishing government-supported cybersecurity degree and certificate programmes in universities and technical institutions; developing a national cybersecurity apprenticeship and internship programme; supporting the development of cybersecurity professional certifications aligned with international standards; promoting diversity in the cybersecurity workforce including through targeted programmes for women; establishing a national cybersecurity talent pool register; and developing continuing professional development requirements for cybersecurity professionals in government. The Digital Security Agency shall coordinate with the Ministry of Education and the Bangladesh Computer Council on cybersecurity education and training programmes."
+    },
+    {
+      "provision_ref": "str8",
+      "section": "8",
+      "title": "Strategy Statement 8. Cybersecurity for the Private Sector",
+      "content": "The Strategy recognises that the private sector is a critical actor in national cybersecurity and that effective national cybersecurity requires active private sector participation. Private sector cybersecurity activities under this Strategy include: developing cybersecurity guidelines and toolkits tailored to the needs of small and medium enterprises; promoting the adoption of internationally recognised cybersecurity frameworks by larger enterprises; establishing an industry cybersecurity information sharing platform; developing incentives for private sector cybersecurity investment; promoting the growth of a domestic cybersecurity products and services industry; supporting the development of public-private partnerships for cybersecurity research and innovation; and promoting cyber insurance as a risk management tool for the private sector. The DSA shall maintain a structured engagement mechanism with the private sector including regular industry briefings, consultations, and joint exercises."
+    },
+    {
+      "provision_ref": "str9",
+      "section": "9",
+      "title": "Strategy Statement 9. Cybersecurity Awareness and Digital Literacy",
+      "content": "The Strategy establishes a national programme to build cybersecurity awareness and digital literacy across all segments of Bangladeshi society. The national cybersecurity awareness programme shall address: safe online behaviour for general internet users; cybersecurity for businesses, covering both technical and human factors; cybersecurity awareness for government employees; online safety for children and young people; cybersecurity awareness for senior citizens and vulnerable groups; and awareness of specific threat categories including phishing, fraud, and identity theft. The programme shall use multiple communication channels including digital media, television, radio, community outreach, and school programmes. The Digital Security Agency shall coordinate the awareness programme with the Ministry of Education, telecommunications operators, mobile financial service providers, and civil society organisations. A national Safe Internet Day shall be designated annually."
+    },
+    {
+      "provision_ref": "str10",
+      "section": "10",
+      "title": "Strategy Statement 10. International Cooperation",
+      "content": "Bangladesh shall actively engage in international cybersecurity cooperation to benefit from global expertise, contribute to regional and international cybersecurity, and advance Bangladesh's strategic cybersecurity interests. International cybersecurity cooperation priorities include: active participation in ITU cybersecurity programmes and the ITU Global Cybersecurity Index; membership in regional cybersecurity cooperation bodies and CIRTs; developing bilateral cybersecurity cooperation arrangements with key partner countries; participating in international capacity building programmes; contributing to international cybersecurity norm development; seeking international support for national cybersecurity capacity building; and engaging with international cybersecurity standards bodies. The Digital Security Agency shall coordinate international cybersecurity cooperation in partnership with the Ministry of Foreign Affairs. Bangladesh shall seek to develop a positive international reputation as a responsible and capable cybersecurity actor."
+    },
+    {
+      "provision_ref": "str11",
+      "section": "11",
+      "title": "Strategy Statement 11. Cybersecurity Research and Innovation",
+      "content": "The Strategy establishes a programme to develop national cybersecurity research and innovation capacity supporting the long-term development of Bangladesh's cybersecurity capabilities. Cybersecurity research and innovation priorities include: supporting university research in priority cybersecurity areas relevant to Bangladesh's threat environment; developing a national cybersecurity research agenda aligned with strategic priorities; promoting the commercialisation of cybersecurity research outputs; establishing a cybersecurity innovation sandbox for testing new technologies and approaches; supporting the development of Bangladeshi cybersecurity products and solutions; participating in regional and international cybersecurity research collaboration; and promoting the development of cybersecurity standards. The Digital Security Agency shall maintain research partnerships with leading cybersecurity research institutions and shall publish research findings supporting national cybersecurity development."
+    },
+    {
+      "provision_ref": "str12",
+      "section": "12",
+      "title": "Strategy Statement 12. Cybersecurity Legal and Regulatory Framework",
+      "content": "The Strategy supports the development and maintenance of an effective legal and regulatory framework for cybersecurity in Bangladesh. Cybersecurity legal and regulatory framework development priorities include: implementing the Cyber Security Act 2023 framework effectively; developing sector-specific cybersecurity regulations in coordination with sector regulators; reviewing and updating cybersecurity incident reporting requirements; developing cybersecurity requirements for government procurement; aligning the national legal framework with applicable international standards and treaty obligations; developing legal frameworks for cross-border cybersecurity cooperation; and reviewing the legal status of ethical security research. The Digital Security Agency shall coordinate regulatory framework development with the Ministry of ICT, sector regulators, and the law enforcement agencies. Regulatory requirements shall be designed to be risk-proportionate and to avoid creating unnecessary compliance burdens."
+    },
+    {
+      "provision_ref": "str13",
+      "section": "13",
+      "title": "Strategy Statement 13. Digital Financial System Security",
+      "content": "The Strategy recognises the financial system as a priority sector for cybersecurity, given its central role in the economy and its exposure to sophisticated cybersecurity threats. Digital financial system security activities under this Strategy include: implementing the Bangladesh Bank ICT Security Guidelines across all financial institutions; developing a financial sector cyber threat intelligence sharing mechanism; establishing financial sector cybersecurity incident response coordination procedures; conducting regular cybersecurity exercises for the financial sector; promoting the adoption of internationally recognised financial cybersecurity standards; developing cybersecurity requirements for fintech and payment service providers; and enhancing cybersecurity awareness among financial sector employees and customers. Bangladesh Bank shall coordinate financial sector cybersecurity with the DSA and shall report on financial sector cybersecurity performance in its annual report."
+    },
+    {
+      "provision_ref": "str14",
+      "section": "14",
+      "title": "Strategy Statement 14. Child Online Safety",
+      "content": "The Strategy includes specific provision for the protection of children in the online environment, recognising that rapid growth in internet access creates particular risks for young users. Child online safety activities under this Strategy include: developing age-appropriate cybersecurity and internet safety education for children from primary school onwards; supporting parents and educators in promoting safe online behaviour; working with telecommunications operators and platform providers on child safety measures; developing national guidance on safe use of social media and messaging applications by children and young people; raising awareness of online child safety issues among the general public; and coordinating with international organisations on child online safety best practices. The Digital Security Agency shall coordinate child online safety activities with the Ministry of Women and Children Affairs, the Ministry of Education, and the telecommunications sector regulator."
+    },
+    {
+      "provision_ref": "str15",
+      "section": "15",
+      "title": "Strategy Statement 15. Implementation, Monitoring, and Governance",
+      "content": "The National Cybersecurity Strategy 2021 shall be implemented through a National Cybersecurity Implementation Plan setting out specific activities, milestones, resource requirements, and responsibility assignments for each strategic objective. Implementation shall be governed by a National Cybersecurity Coordination Committee chaired by the Director General of the Digital Security Agency and comprising representatives of key ministries, sector regulators, and the private sector. Annual progress reports shall be produced and shall be submitted to the Digital Security Council and published publicly. Key performance indicators shall be established for each strategic objective and shall be tracked against national and international benchmarks, including the ITU Global Cybersecurity Index. The Strategy shall be reviewed in 2023 to assess progress and updated in 2026 to establish the next strategic cycle."
+    }
+  ],
+  "definitions": [
+    {"term": "National Cybersecurity Strategy", "definition": "The Government's five-year strategic framework for securing national digital infrastructure and developing national cybersecurity capabilities.", "source_provision": "str1"},
+    {"term": "critical information infrastructure", "definition": "Computer systems or networks whose incapacity or destruction would have a debilitating impact on national security, economic security, or public health and safety.", "source_provision": "str4"},
+    {"term": "national CIRT", "definition": "The national Computer Incident Response Team operated by the Digital Security Agency, responsible for detecting, analysing, and coordinating responses to cybersecurity incidents.", "source_provision": "str6"},
+    {"term": "cybersecurity workforce", "definition": "The body of trained professionals responsible for implementing cybersecurity measures in government, critical infrastructure, and the private sector.", "source_provision": "str7"},
+    {"term": "ITU Global Cybersecurity Index", "definition": "The International Telecommunication Union's benchmark measuring countries' cybersecurity commitments and capabilities.", "source_provision": "str15"}
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "bd-mlpa-2012",
+  "type": "statute",
+  "title": "Money Laundering Prevention Act 2012",
+  "title_en": "Money Laundering Prevention Act 2012 (Bangladesh) — Cyber and Digital Financial Crime Provisions",
+  "short_name": "MLPA",
+  "status": "in_force",
+  "issued_date": "2012-02-28",
+  "in_force_date": "2012-02-28",
+  "url": "https://bdlaws.minlaw.gov.bd/act-1081.html",
+  "description": "The Money Laundering Prevention Act 2012 is Bangladesh's primary legislation combating money laundering and the financing of terrorism. The Act establishes reporting obligations for financial institutions and designated non-financial businesses, creates the Bangladesh Financial Intelligence Unit (BFIU) as the national AML/CFT authority, and sets out the offences and penalties for money laundering. The Act has particular relevance to the digital financial sector, establishing obligations for mobile financial service providers, payment service providers, cryptocurrency-related businesses, and e-commerce platforms. It incorporates cyber-enabled financial crime provisions to address the laundering of proceeds from cybercrime.",
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2. Definitions",
+      "content": "In this Act, unless the context otherwise requires: 'money laundering' means the process by which a person disguises the illegal origin of proceeds of predicate offences including by concealing, transferring, converting or using such proceeds in legitimate transactions; 'predicate offence' means any offence from the proceeds of which money laundering may be committed, including but not limited to drug trafficking, corruption, fraud, cybercrime, tax evasion, and terrorism financing; 'proceeds of crime' means any property derived from or obtained, directly or indirectly, through the commission of a predicate offence; 'reporting organisation' means any financial institution, money service business, mobile financial service provider, payment service provider, virtual asset service provider, or designated non-financial business or profession (DNFBP) subject to reporting obligations under this Act; 'virtual asset' means a digital representation of value that can be digitally traded, transferred, or used for payment, including cryptocurrencies and digital tokens but excluding digital representations of fiat currency regulated by Bangladesh Bank; 'suspicious transaction' means a transaction that departs from normal patterns of behavior or that raises suspicion of money laundering, terrorism financing, or other predicate offences."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3. Money Laundering Offence",
+      "content": "A person commits the offence of money laundering who: (a) converts, transfers, or moves property knowing or having reason to believe that such property constitutes proceeds of crime, for the purpose of concealing or disguising the illicit origin of such property or of assisting any person involved in the commission of a predicate offence to evade the legal consequences of that offence; (b) conceals or disguises the true nature, source, location, disposition, movement, or ownership of property knowing or having reason to believe that such property constitutes proceeds of crime; (c) acquires, possesses, or uses property knowing or having reason to believe that such property constitutes proceeds of crime; (d) participates in, associates with, conspires to commit, attempts to commit, aids or abets, facilitates, or counsels the commission of any of the acts described above. The offence of money laundering may be committed through digital financial channels including mobile financial services, online banking, cryptocurrency exchanges, and digital payment platforms. Proof of conviction for the predicate offence is not required for a conviction for money laundering."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4. Cyber-Enabled Money Laundering",
+      "content": "The following activities constitute cyber-enabled money laundering for the purposes of this Act and shall be subject to enhanced investigation and prosecution: (a) the use of online financial platforms, digital wallets, or payment service providers to layer or integrate proceeds of cybercrime; (b) the conversion of proceeds of cybercrime into virtual assets or the exchange of virtual assets for fiat currency through unregulated or unlicensed services; (c) the use of anonymizing technologies including mixers, tumblers, or privacy coins to obscure the origin or destination of funds derived from predicate offences; (d) the use of money mule networks recruited through social media or online platforms to transfer or receive proceeds of cybercrime; (e) the purchase of digital goods, services, or virtual assets with proceeds of crime for subsequent resale; (f) the use of e-commerce platforms to conduct fictitious transactions for the purpose of laundering proceeds of crime. Cybercrime as defined in the Digital Security Act 2018 constitutes a predicate offence for money laundering under this Act. BFIU shall issue guidance to reporting organisations on indicators of cyber-enabled money laundering."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5. Bangladesh Financial Intelligence Unit",
+      "content": "There shall be established a Bangladesh Financial Intelligence Unit (BFIU) which shall be the national center for receiving, analyzing, and disseminating financial intelligence related to money laundering, terrorism financing, and related predicate offences. The BFIU shall be headed by a Director General appointed by the Government and shall operate under the Bangladesh Bank with appropriate operational independence. The BFIU shall: (a) receive and analyze suspicious transaction reports (STRs) and cash transaction reports (CTRs) from reporting organisations; (b) analyze financial intelligence to identify money laundering, terrorism financing, and predicate offence networks; (c) disseminate actionable financial intelligence to law enforcement agencies, including the Cyber Crime Investigation Division; (d) cooperate with international financial intelligence units through the Egmont Group and bilateral arrangements; (e) issue AML/CFT guidelines and circulars to reporting organisations; (f) supervise and enforce compliance with reporting obligations; (g) maintain databases of financial intelligence for analysis and law enforcement access; (h) analyze digital transaction data and blockchain analytics to identify suspicious patterns."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6. Reporting Obligations of Financial Institutions",
+      "content": "All reporting organisations shall: (a) establish and maintain a robust AML/CFT compliance program including policies, procedures, and internal controls; (b) designate a Chief Anti-Money Laundering Compliance Officer responsible for AML/CFT compliance; (c) implement a risk-based customer due diligence (CDD) program to verify the identity of customers and beneficial owners; (d) apply enhanced due diligence (EDD) to high-risk customers, politically exposed persons (PEPs), and transactions from high-risk jurisdictions; (e) monitor customer transactions on an ongoing basis for suspicious activity; (f) submit suspicious transaction reports (STRs) to BFIU within seven working days of becoming suspicious; (g) submit cash transaction reports (CTRs) for all cash transactions exceeding the threshold prescribed by BFIU; (h) maintain records of all transactions and CDD information for at least five years; (i) not disclose to any customer or third party the fact that an STR has been submitted or that BFIU has received information relating to such customer. Mobile financial service providers and payment service providers shall apply customer identification requirements to all digital accounts and shall monitor digital transactions for suspicious patterns consistent with guidance issued by BFIU."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7. Customer Due Diligence for Digital Channels",
+      "content": "Reporting organisations offering digital financial services shall implement customer due diligence measures appropriate to the risks presented by digital channels: (a) digital account opening shall be subject to identity verification meeting standards prescribed by BFIU and Bangladesh Bank, utilizing the National Identity Database or equivalent; (b) the level of CDD applied shall be proportionate to the risk profile of the customer and the channel, with higher risk digital services subject to enhanced due diligence; (c) mobile financial service providers shall verify the identity of mobile wallet holders at registration and shall restrict transaction limits for accounts with incomplete verification; (d) payment service providers shall apply transaction monitoring to identify patterns consistent with money mule activity, including rapid movement of funds through newly opened accounts; (e) beneficial ownership verification shall be applied to business accounts, including businesses registered as digital commerce sellers; (f) virtual asset service providers operating in Bangladesh shall apply CDD requirements equivalent to those applied to financial institutions. Reporting organisations shall update customer information when inconsistencies are identified through transaction monitoring."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8. Virtual Asset Service Providers",
+      "content": "Any person or entity providing virtual asset exchange, transfer, custody, or related services in Bangladesh shall: (a) register with BFIU prior to commencing operations; (b) implement AML/CFT controls equivalent to those required of payment service providers; (c) conduct customer due diligence on all users, including verification of identity through the national identity system; (d) monitor virtual asset transactions for suspicious activity, applying blockchain analytics to identify transactions with high-risk addresses or mixing services; (e) submit suspicious transaction reports to BFIU within the prescribed timeframe; (f) maintain transaction records in a format that allows reconstruction of the transaction trail, including blockchain transaction identifiers; (g) comply with the travel rule by collecting and transmitting originator and beneficiary information for virtual asset transfers above the threshold prescribed by BFIU; (h) cooperate with BFIU and law enforcement investigations involving virtual assets, including providing access to transaction data and blockchain analytics. Operation of an unregistered virtual asset service provider shall be an offence under this Act. Bangladesh Bank shall issue guidelines on the permissible scope of virtual asset services in Bangladesh."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9. E-Commerce Platform Obligations",
+      "content": "Digital commerce platforms and online marketplaces operating in Bangladesh that facilitate payments between buyers and sellers shall: (a) register with BFIU if their annual transaction volume exceeds the threshold prescribed by BFIU; (b) verify the identity of sellers registered on their platform using a reliable identity verification process; (c) apply transaction monitoring to detect patterns indicative of fraud, fictitious transactions, or money laundering through the platform; (d) report suspicious transactions to BFIU in accordance with the timelines prescribed under this Act; (e) maintain records of all transactions, including seller and buyer identification information and payment records, for at least five years; (f) cooperate with BFIU and law enforcement investigations, including providing access to transaction data and seller information upon request; (g) implement controls to prevent the listing and sale of prohibited goods, the proceeds of which may constitute proceeds of crime. Failure to comply with these obligations shall constitute an offence under this Act. BFIU shall issue sector-specific AML/CFT guidelines for digital commerce platforms."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10. Seizure and Confiscation of Digital Assets",
+      "content": "Where there are reasonable grounds to believe that property, including digital assets, constitutes proceeds of money laundering or a predicate offence: (a) a court of competent jurisdiction may, on the application of the investigating authority, issue an order freezing, seizing, or restraining such property; (b) digital assets held in cryptocurrency wallets or on virtual asset service providers may be seized through technical means, including private key custody, or through orders directed to virtual asset service providers; (c) digital assets held on foreign virtual asset service providers may be seized through mutual legal assistance requests to the jurisdiction where the service provider is incorporated; (d) upon conviction for money laundering or a predicate offence, the court shall order the confiscation of all proceeds of crime and instrumentalities of the offence, including digital devices, online accounts, and virtual assets; (e) Bangladesh Bank and BFIU shall maintain a register of frozen digital asset accounts; (f) confiscated virtual assets shall be managed by the designated asset management authority pending liquidation or other disposal. The Government may enter into international agreements for the sharing of confiscated proceeds of cross-border money laundering."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11. Financial Investigations",
+      "content": "The investigating authority designated under this Act, in coordination with the Cyber Crime Investigation Division of Bangladesh Police, shall have the following powers in investigating money laundering involving digital financial channels: (a) to require any reporting organisation to produce records of transactions, including digital transaction records, account information, and customer identification data; (b) to require any digital financial service provider, including mobile financial service providers, payment service providers, and virtual asset service providers, to preserve and produce digital transaction data; (c) to access and analyze blockchain transaction records related to the investigation; (d) to require internet service providers to preserve and disclose communications data relevant to the investigation; (e) to apply to a court for warrants to search and seize digital devices, computers, mobile phones, and digital storage media; (f) to apply to a court for orders requiring the production of encrypted data or decryption assistance; (g) to submit requests for mutual legal assistance to foreign jurisdictions for the recovery of digital evidence and foreign-held assets. The BFIU shall provide financial intelligence and analytical support to investigating authorities conducting money laundering investigations."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Section 12. International Cooperation",
+      "content": "Bangladesh shall cooperate with foreign jurisdictions in the investigation, prosecution, and asset recovery relating to money laundering involving digital financial channels: (a) BFIU is authorized to exchange financial intelligence with foreign financial intelligence units (FIUs) that are members of the Egmont Group or with which BFIU has concluded a memorandum of understanding, subject to appropriate confidentiality requirements; (b) mutual legal assistance requests relating to cybercrime-related money laundering may be made and received through the Ministry of Home Affairs under the Mutual Assistance in Criminal Matters Act; (c) Bangladesh shall implement the Financial Action Task Force (FATF) Recommendations, including the Recommendation on virtual assets and virtual asset service providers; (d) BFIU shall participate in regional AML/CFT networks including those of SAARC and the Asia Pacific Group on Money Laundering; (e) information received from foreign FIUs shall be used only for the purposes for which it was provided unless the providing FIU consents to other use; (f) BFIU shall provide capacity building assistance to FIUs in countries with which Bangladesh has strong financial ties, particularly through mobile financial services cross-border corridors."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13. Penalties",
+      "content": "A person convicted of the offence of money laundering shall be liable: (a) to imprisonment for a term of not less than four years and not more than twelve years; (b) to a fine equivalent to twice the value of the property involved in the money laundering, or such greater fine as the court thinks appropriate; (c) to confiscation of all property that constitutes proceeds of crime or was used as an instrumentality of the offence. Where money laundering is committed through digital financial channels or involves virtual assets, courts shall treat the use of technology to evade detection as an aggravating factor warranting enhanced penalties within the prescribed range. A reporting organisation that fails to submit required suspicious transaction reports, fails to implement required AML/CFT controls, or commits tipping off shall be liable to: (a) an administrative penalty of not less than Taka one hundred thousand and not more than Taka ten million; (b) suspension or revocation of its operating licence; (c) publication of the penalty decision. Individual officers of a reporting organisation who knowingly participate in violations of this Act shall be personally liable to penalties under this section."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14. BFIU Supervisory Powers",
+      "content": "The BFIU shall exercise supervisory authority over reporting organisations to ensure compliance with AML/CFT obligations under this Act: (a) BFIU may conduct on-site inspections and off-site monitoring of reporting organisations, including reviews of digital transaction monitoring systems, AML/CFT compliance programs, and STR processes; (b) BFIU may require reporting organisations to provide any information, records, or documents relevant to AML/CFT compliance; (c) BFIU may issue binding directives to reporting organisations requiring specific corrective actions; (d) BFIU may impose administrative penalties on reporting organisations that fail to comply with AML/CFT obligations; (e) BFIU shall conduct risk-based supervision, allocating supervisory resources according to the money laundering risks presented by different categories of reporting organisations; (f) digital financial service providers, including mobile financial service providers, payment service providers, and virtual asset service providers, shall be subject to enhanced supervisory attention given the money laundering risks associated with digital channels. BFIU shall publish an annual report on the AML/CFT compliance status of the reporting sector and the money laundering and terrorism financing risks identified in Bangladesh."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15. National AML/CFT Strategy",
+      "content": "The Government shall, based on a National Risk Assessment, develop and implement a National Anti-Money Laundering and Counter-Terrorism Financing Strategy. The Strategy shall: (a) identify the key money laundering and terrorism financing risks facing Bangladesh, including those arising from digital financial channels, cybercrime, and cross-border mobile money flows; (b) establish priorities and action plans to address identified risks across government agencies, law enforcement, and the private sector; (c) set targets for improving the detection, investigation, and prosecution of money laundering, including cybercrime-related money laundering; (d) identify legislative, regulatory, and operational gaps and the measures required to address them; (e) provide for coordination between BFIU, law enforcement agencies including the Cyber Crime Investigation Division, financial regulators, and relevant ministries; (f) be updated at least every four years following a new National Risk Assessment. The National Risk Assessment shall specifically assess the money laundering risks arising from mobile financial services, digital commerce, and virtual assets given the rapid growth of these sectors in Bangladesh."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bangladesh Financial Intelligence Unit",
+      "definition": "The national financial intelligence unit established under the Money Laundering Prevention Act 2012, operating under Bangladesh Bank, responsible for receiving and analyzing suspicious transaction reports and disseminating financial intelligence to law enforcement agencies.",
+      "source_provision": "sec5"
+    },
+    {
+      "term": "virtual asset service provider",
+      "definition": "A person or entity that, as a business, conducts one or more of the following activities: exchange between virtual assets and fiat currencies; exchange between one or more forms of virtual assets; transfer of virtual assets; safekeeping or administration of virtual assets; and participation in financial services related to virtual asset issuances.",
+      "source_provision": "sec8"
+    },
+    {
+      "term": "suspicious transaction report",
+      "definition": "A report submitted by a reporting organisation to BFIU when the reporting organisation knows, suspects, or has reasonable grounds to suspect that a transaction or attempted transaction involves proceeds of crime, money laundering, or terrorism financing.",
+      "source_provision": "sec6"
+    },
+    {
+      "term": "travel rule",
+      "definition": "The requirement under FATF Recommendation 16 for financial institutions and virtual asset service providers to collect, maintain, and transmit originator and beneficiary information for wire transfers and virtual asset transfers above specified thresholds.",
+      "source_provision": "sec8"
+    }
+  ]
+}

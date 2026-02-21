@@ -1,0 +1,79 @@
+{
+  "id": "bd-bcc-1990",
+  "type": "statute",
+  "title": "Bangladesh Computer Council Act 1990",
+  "title_en": "Bangladesh Computer Council Act 1990",
+  "short_name": "BCCA",
+  "status": "in_force",
+  "issued_date": "1990-03-07",
+  "in_force_date": "1990-03-07",
+  "url": "https://bdlaws.minlaw.gov.bd/act-756.html",
+  "description": "The Bangladesh Computer Council Act 1990 established the Bangladesh Computer Council (BCC) as the national IT policy and advisory body, responsible for promoting the development of computer technology and the IT industry in Bangladesh. BCC has evolved into a key implementing agency for the Digital Bangladesh initiative, managing programs for digital literacy, software development, and the promotion of IT-enabled services.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1. Short Title, Extent and Commencement",
+      "content": "This Act may be called the Bangladesh Computer Council Act, 1990. It extends to the whole of Bangladesh. It shall come into force on such date as the Government may, by notification in the official Gazette, appoint. The Bangladesh Computer Council established under this Act is the primary government agency responsible for developing and implementing national information technology policy, promoting computer education and digital literacy, supporting the ICT industry, and advising the Government on information technology matters. The BCC operates under the Ministry of Posts, Telecommunications and Information Technology and works in close coordination with other relevant ministries and agencies to advance the digital transformation of Bangladesh."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3. Establishment of the Bangladesh Computer Council",
+      "content": "There shall be established a Bangladesh Computer Council (BCC) which shall be a body corporate with perpetual succession and a common seal, having power to acquire, hold and dispose of property and to sue and be sued in its own name. The Council shall consist of a Board of Directors with the Minister for Posts, Telecommunications and Information Technology as Chairman, a Vice-Chairman, a number of Government-appointed members representing relevant ministries and agencies, and representatives of the private sector and academia. The BCC shall be headed by an Executive Director responsible for day-to-day operations. The Government shall provide the BCC with the financial resources necessary for the achievement of its objectives and mandate. The BCC's accounts shall be audited annually by the Comptroller and Auditor General of Bangladesh."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5. Functions of the Bangladesh Computer Council",
+      "content": "The Bangladesh Computer Council shall have the following functions: (a) formulate and recommend national policies for the development of computer technology and the IT industry; (b) coordinate and promote the use of computer technology in government administration; (c) plan, organize and supervise computer education and digital literacy programs; (d) assist in the establishment of computer training centers and IT education institutions; (e) advise the Government on the procurement of computer hardware and software; (f) establish standards and codes of practice for the IT industry; (g) promote research and development in computer science and information technology; (h) maintain a register of IT professionals and certify their qualifications; (i) organize national and international conferences on information technology; (j) manage and implement government IT projects as assigned by the Ministry; (k) promote the export of software and IT-enabled services."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8. Digital Literacy Programs",
+      "content": "The Bangladesh Computer Council shall plan, organize and implement programs to improve digital literacy among citizens of Bangladesh. Digital literacy programs shall be targeted at: school and university students; government employees; rural communities, with particular attention to women and disadvantaged groups; small and medium enterprises; and the general public. The BCC shall establish computer laboratories in educational institutions and community centers throughout Bangladesh, with priority for rural and under-served areas. Digital literacy training shall include basic computer skills, internet use, digital safety, and online services. The BCC shall develop and maintain an online learning platform providing free digital skills training. In cooperation with the Ministry of Education, digital literacy shall be integrated into the national curriculum. The BCC shall work with the private sector to develop industry-relevant digital skills training programs."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10. IT Industry Development",
+      "content": "The Bangladesh Computer Council shall promote the development of the IT and IT-enabled services (ITES) industry in Bangladesh. Industry development activities shall include: (a) providing a business incubation facility for IT startups; (b) facilitating access to financing for IT companies through government-backed schemes; (c) establishing software technology parks and IT special economic zones; (d) promoting Bangladesh as a destination for offshore IT services; (e) assisting IT companies with certification to international quality standards including CMMI and ISO; (f) organizing business matchmaking events connecting Bangladeshi IT companies with international clients. The BCC shall maintain a register of IT companies operating in Bangladesh and shall provide them with certification of their status as IT companies for tax and other regulatory purposes. The BCC shall prepare an annual IT industry report documenting the size, growth, and contributions of the sector."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Section 12. National Data Center",
+      "content": "The Bangladesh Computer Council shall establish, operate and maintain a National Data Center providing shared computing infrastructure and services for government agencies. The National Data Center shall: provide server hosting, storage, and networking infrastructure to government agencies on a shared basis; implement appropriate security measures including physical security, access controls, and cybersecurity protections; ensure the availability and reliability of government digital services hosted in the center; maintain disaster recovery capabilities to ensure business continuity; and comply with environmental standards for energy efficiency. Government agencies shall be required to use the National Data Center for new ICT infrastructure deployments, subject to exceptions approved by the Ministry. The BCC shall promote the transition of government agencies from on-premises infrastructure to the National Data Center. The National Data Center shall serve as the foundation for the government cloud services platform."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14. Cybersecurity Responsibilities",
+      "content": "The Bangladesh Computer Council shall, in coordination with the Digital Security Agency established under the Digital Security Act 2018, support the implementation of cybersecurity measures across government information systems. BCC's cybersecurity responsibilities include: (a) providing cybersecurity technical assistance to government agencies; (b) developing and maintaining cybersecurity guidelines and standards for government IT systems; (c) conducting cybersecurity capacity building training for government IT staff; (d) supporting the implementation of security measures in government IT infrastructure; (e) coordinating with international organizations on cybersecurity best practices. The BCC shall maintain a dedicated cybersecurity team with expertise in government IT security. The BCC shall work with the Digital Security Agency to develop and implement the national cybersecurity framework for government systems. Government agencies shall consult with the BCC on cybersecurity matters before implementing new IT systems."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15. Digital Bangladesh Implementation",
+      "content": "The Bangladesh Computer Council is designated as a key implementing agency for the Digital Bangladesh Vision, working in close coordination with the ICT Division and other relevant agencies. Digital Bangladesh implementation responsibilities include: (a) managing the government computer network (BGD e-GOV CIRT) for secure government communications; (b) implementing the Union Information and Service Centers (UISCs) program to provide digital services in rural areas; (c) managing the Digital Services Architecture connecting government agencies; (d) implementing the National Portal linking all government websites; (e) developing and maintaining government digital services applications; (f) implementing the national e-procurement system; (g) supporting the development of the national identity card system; and (h) managing key e-government projects as assigned by the Government. The BCC shall report annually to Parliament on the progress of Digital Bangladesh implementation."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "BCC",
+      "definition": "Bangladesh Computer Council, the statutory body established under the Bangladesh Computer Council Act 1990 responsible for IT policy, digital literacy, industry development, and implementing the Digital Bangladesh initiative.",
+      "source_provision": "sec3"
+    },
+    {
+      "term": "digital literacy",
+      "definition": "The skills and knowledge required to effectively use digital technologies and the internet, including basic computer skills, internet navigation, digital safety, and the use of digital government services.",
+      "source_provision": "sec8"
+    },
+    {
+      "term": "National Data Center",
+      "definition": "The shared computing infrastructure established and operated by BCC to provide hosting, storage, and networking services for government agencies of Bangladesh.",
+      "source_provision": "sec12"
+    }
+  ]
+}

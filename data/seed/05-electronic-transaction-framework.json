@@ -1,0 +1,112 @@
+{
+  "id": "bd-electronic-transaction-framework",
+  "type": "statute",
+  "title": "ইলেকট্রনিক লেনদেন কার্যক্রম — বাংলাদেশ",
+  "title_en": "Electronic Transaction Framework — Bangladesh",
+  "short_name": "ETF-BD",
+  "status": "in_force",
+  "issued_date": "2012-01-01",
+  "in_force_date": "2012-01-01",
+  "url": "https://www.ictd.gov.bd/",
+  "description": "The Electronic Transaction Framework for Bangladesh consolidates the regulatory guidelines and policy instruments governing electronic commercial transactions, electronic payment systems, digital contracts, and e-commerce. It supplements the ICT Act 2006 and provides operational guidance for businesses, financial institutions, and government agencies conducting electronic transactions, consistent with Bangladesh Bank regulations and applicable international standards.",
+  "provisions": [
+    {
+      "provision_ref": "fr1",
+      "section": "1",
+      "title": "Framework Statement 1. Scope and Purpose",
+      "content": "The Electronic Transaction Framework establishes the regulatory requirements and operational guidelines applicable to electronic commercial transactions in Bangladesh. The Framework applies to: businesses providing goods or services through electronic channels; financial institutions facilitating electronic payments and fund transfers; government agencies receiving electronic applications, payments, and submissions; and internet and mobile platform operators enabling electronic transactions. The Framework aims to build trust and confidence in electronic commerce by ensuring that electronic transactions are secure, reliable, and legally recognised. The Framework is issued by the Ministry of Posts, Telecommunications and Information Technology and Bangladesh Bank, each within their respective jurisdictions, and shall be updated periodically to reflect technological developments and evolving best practices."
+    },
+    {
+      "provision_ref": "fr2",
+      "section": "2",
+      "title": "Framework Statement 2. Formation of Electronic Contracts",
+      "content": "Electronic contracts are formed when an offer made electronically is accepted electronically, in accordance with general contract law. An offer made through a website or other electronic channel shall be treated as an invitation to make an offer unless it clearly states it is a binding offer. Acceptance of an electronic offer shall be communicated by electronic means, and the contract shall be formed at the time the acceptance reaches the offeror, unless the parties have agreed otherwise. Electronic contracts shall have the same legal validity as paper contracts where they meet applicable requirements of form and substance. Parties to an electronic contract shall be entitled to a printed confirmation of the contract upon request. The terms and conditions of electronic contracts shall be presented clearly and shall be accessible to the contracting party before conclusion of the contract."
+    },
+    {
+      "provision_ref": "fr3",
+      "section": "3",
+      "title": "Framework Statement 3. Electronic Payment Standards",
+      "content": "Electronic payment systems operating in Bangladesh shall comply with standards established by Bangladesh Bank and the Payment Systems Department. Electronic payment standards address: authentication requirements for payment initiation; encryption requirements for payment data in transit and at rest; fraud detection and prevention obligations; transaction monitoring and reporting requirements; customer notification requirements for payment events; dispute resolution procedures; and settlement procedures. Payment service providers shall be licensed by Bangladesh Bank and shall comply with all applicable prudential and operational requirements. Bangladesh Bank shall maintain a national payment system oversight framework ensuring the safety and efficiency of the national payment ecosystem. Payment service providers shall implement risk management frameworks addressing operational, credit, liquidity, and cyber risks."
+    },
+    {
+      "provision_ref": "fr4",
+      "section": "4",
+      "title": "Framework Statement 4. Mobile Financial Services",
+      "content": "Mobile Financial Services (MFS) shall be regulated by Bangladesh Bank as a category of payment service, subject to applicable guidelines on permissible activities, customer due diligence, transaction limits, and security requirements. MFS providers shall implement customer identification procedures meeting applicable anti-money laundering and know-your-customer requirements. Transaction limits applicable to MFS accounts shall be calibrated to the risk profile of different customer segments. MFS providers shall implement robust fraud prevention and detection systems appropriate to the scale and nature of their services. Consumer protection requirements applicable to MFS shall include: clear disclosure of fees; effective complaint handling; and mechanisms enabling customers to verify transactions and account balances. Bangladesh Bank shall conduct periodic assessments of the safety and soundness of MFS providers."
+    },
+    {
+      "provision_ref": "fr5",
+      "section": "5",
+      "title": "Framework Statement 5. Electronic Commerce Security Requirements",
+      "content": "Businesses providing electronic commerce services shall implement security measures protecting their platforms, customer data, and payment systems against cyber threats. Security requirements for e-commerce platforms include: implementation of HTTPS with current TLS standards for all customer-facing interactions; secure storage of customer data using encryption and access controls; payment card industry data security standards (PCI DSS) compliance for platforms processing card payments; regular security testing including vulnerability scanning and penetration testing; security incident response plans; and consumer notification procedures for data breaches affecting customer information. Businesses shall not store full payment card details unless specifically authorised and compliant with applicable security standards. Security incidents affecting e-commerce platforms shall be reported to the Bangladesh Computer Council and applicable regulatory authorities."
+    },
+    {
+      "provision_ref": "fr6",
+      "section": "6",
+      "title": "Framework Statement 6. Consumer Protection in Electronic Commerce",
+      "content": "Sellers operating through electronic channels shall comply with applicable consumer protection law and shall treat online consumers fairly and transparently. Consumer protection obligations applicable to electronic commerce include: clear disclosure of the seller's identity, address, and contact details; accurate and complete product or service descriptions; transparent pricing including all taxes and charges; clear disclosure of refund and return policies; effective complaint handling mechanisms accessible through digital channels; and secure and convenient payment options. Consumers shall have the right to cancel distance sales contracts within a reasonable period where goods have not been received or where services have not been performed, subject to applicable exceptions. The Department of National Consumer Rights Protection shall exercise oversight of consumer protection in electronic commerce."
+    },
+    {
+      "provision_ref": "fr7",
+      "section": "7",
+      "title": "Framework Statement 7. Electronic Invoicing and Records",
+      "content": "Electronic invoices shall have the same legal effect as paper invoices provided they ensure the authenticity of origin, the integrity of content, and their legibility and accessibility. Businesses engaged in electronic commerce shall maintain electronic records of transactions sufficient to demonstrate compliance with applicable tax obligations. Electronic records shall be stored in a format and medium that ensures their accessibility and integrity for the required retention period. The National Board of Revenue shall issue specific guidelines on electronic invoicing and record-keeping requirements applicable to businesses engaged in electronic commerce. Electronic records of commercial transactions shall be made available to tax authorities upon request within specified timeframes. Businesses shall implement access controls ensuring that financial records are accessible only to authorised personnel and to competent authorities upon lawful request."
+    },
+    {
+      "provision_ref": "fr8",
+      "section": "8",
+      "title": "Framework Statement 8. Cross-Border Electronic Commerce",
+      "content": "The Government of Bangladesh shall promote cross-border electronic commerce as a driver of economic growth and export diversification, particularly for the information technology and IT-enabled services sectors. Cross-border electronic transactions shall comply with applicable foreign exchange regulations administered by Bangladesh Bank. Businesses engaged in cross-border electronic commerce shall maintain records of international transactions and shall comply with export and import reporting requirements. The Government shall work within applicable international frameworks, including the World Trade Organization work programme on electronic commerce, to promote favourable conditions for cross-border electronic trade. Customs and tax authorities shall develop simplified procedures for the processing of goods purchased through international electronic commerce transactions. Specific exemptions or simplified procedures may apply to low-value imports made through e-commerce channels."
+    },
+    {
+      "provision_ref": "fr9",
+      "section": "9",
+      "title": "Framework Statement 9. National Payment Switch",
+      "content": "Bangladesh Bank shall develop and maintain a national payment switch enabling interoperability between different payment systems and service providers. The national payment switch shall connect licensed payment service providers, banks, and mobile financial service providers, enabling transactions between their customers without the need for bilateral agreements. The national payment switch shall be designed to international standards for security, availability, and performance. Participation in the national payment switch shall be mandatory for licensed payment service providers above a threshold specified by Bangladesh Bank. The national payment switch operator shall implement robust security measures, redundancy, and business continuity capabilities ensuring the continuous availability of payment services. Bangladesh Bank shall maintain oversight of the national payment switch to ensure its safe and efficient operation."
+    },
+    {
+      "provision_ref": "fr10",
+      "section": "10",
+      "title": "Framework Statement 10. Digital Financial Inclusion",
+      "content": "The Government and Bangladesh Bank shall promote digital financial inclusion, ensuring that all citizens have access to appropriate digital financial services regardless of income level, location, or digital literacy. Digital financial inclusion initiatives shall address: availability of digital payment infrastructure in rural areas; development of agent banking networks serving remote and underserved populations; design of simple and accessible mobile financial service products suitable for low-income users; digital literacy and financial capability programmes; consumer protection tailored to the needs of first-time digital financial service users; and data collection and analysis to monitor inclusion progress. Bangladesh Bank shall publish an annual Financial Inclusion Strategy assessing progress and setting targets for the coming year. The private sector shall be encouraged to innovate in developing affordable digital financial products for underserved segments."
+    },
+    {
+      "provision_ref": "fr11",
+      "section": "11",
+      "title": "Framework Statement 11. Anti-Money Laundering in Electronic Transactions",
+      "content": "All entities engaged in electronic financial transactions, including mobile financial service providers, payment service providers, and electronic commerce platforms with integrated payment features, shall comply with applicable anti-money laundering (AML) and combating the financing of terrorism (CFT) obligations. AML/CFT obligations for electronic transaction service providers include: customer identification and verification procedures; transaction monitoring to detect unusual patterns; filing of suspicious transaction reports with the Bangladesh Financial Intelligence Unit (BFIU); record keeping of customer identification data and transaction records; and staff training on AML/CFT awareness. BFIU shall provide guidance on AML/CFT requirements applicable to different categories of electronic financial service providers. Electronic transaction service providers shall cooperate with BFIU and law enforcement in investigations relating to money laundering and terrorist financing."
+    },
+    {
+      "provision_ref": "fr12",
+      "section": "12",
+      "title": "Framework Statement 12. Data Localisation and Sovereignty",
+      "content": "The Government of Bangladesh may, through applicable regulations, require that certain categories of personal data relating to Bangladeshi citizens and financial data generated within Bangladesh be stored on servers located within Bangladeshi territory. Data localisation requirements shall be established through applicable law and regulations issued by the Ministry of Posts, Telecommunications and Information Technology and Bangladesh Bank, each within their respective jurisdictions. Where data localisation requirements apply, affected entities shall implement compliant data storage and management infrastructure within specified timeframes. Cross-border transfer of regulated data categories shall require prior approval of the competent authority or shall be subject to applicable transfer mechanisms ensuring adequate protection. The Government shall develop a national data policy establishing a comprehensive framework for data governance, including data localisation, data sovereignty, and cross-border data transfer requirements."
+    },
+    {
+      "provision_ref": "fr13",
+      "section": "13",
+      "title": "Framework Statement 13. Government Electronic Services",
+      "content": "All Government ministries, departments, and agencies shall implement electronic service delivery channels enabling citizens and businesses to access government services online. Electronic government services shall be designed to be accessible to all users, including those with disabilities and those with limited digital skills. Government agencies shall accept electronic payments for fees, taxes, and other charges through approved payment methods. The National Portal of Bangladesh (bangladesh.gov.bd) shall serve as the central access point for government electronic services. Each government agency shall designate a focal point for electronic services and shall develop an annual plan for expanding electronic service delivery. Government electronic services shall be subject to regular assessment and improvement based on user feedback and performance metrics."
+    },
+    {
+      "provision_ref": "fr14",
+      "section": "14",
+      "title": "Framework Statement 14. Dispute Resolution",
+      "content": "Businesses engaged in electronic commerce shall implement accessible and effective dispute resolution mechanisms enabling consumers to resolve complaints without recourse to formal legal proceedings. The Government shall promote the development of online dispute resolution services accredited by the competent authority. Online dispute resolution mechanisms shall be timely, affordable, and capable of providing binding or non-binding outcomes. Where electronic commerce disputes cannot be resolved through the seller's complaint mechanism, consumers may seek assistance from the Department of National Consumer Rights Protection or, where applicable, from the relevant sector regulator. Businesses shall maintain records of consumer complaints and their outcomes and shall make aggregate statistics available to the competent authority upon request. Cross-border consumer disputes shall be addressed through applicable international cooperation mechanisms."
+    },
+    {
+      "provision_ref": "fr15",
+      "section": "15",
+      "title": "Framework Statement 15. Framework Review",
+      "content": "This Electronic Transaction Framework shall be reviewed every two years by the Ministry of Posts, Telecommunications and Information Technology and Bangladesh Bank, in consultation with industry stakeholders, consumer groups, and civil society. The review shall assess: changes in the technological environment; evolving security risks and threats; emerging regulatory issues in electronic commerce and payment systems; the adequacy of consumer protection provisions; and the alignment of the Framework with applicable international standards and Bangladesh's international trade commitments. The results of each review shall be published and shall inform updates to the Framework. Stakeholders may submit comments and proposals for the Framework review through a public consultation process managed by the Ministry."
+    }
+  ],
+  "definitions": [
+    {"term": "electronic transaction", "definition": "Any commercial, governmental, or financial transaction conducted through electronic means, including online purchasing, electronic payments, and digital contract formation.", "source_provision": "fr1"},
+    {"term": "mobile financial services (MFS)", "definition": "Financial services, including mobile money and mobile banking, provided through mobile devices and regulated by Bangladesh Bank.", "source_provision": "fr4"},
+    {"term": "national payment switch", "definition": "The interoperability infrastructure connecting licensed payment service providers to enable transactions between their customers.", "source_provision": "fr9"},
+    {"term": "data localisation", "definition": "A requirement that certain categories of data be stored on servers located within national territory.", "source_provision": "fr12"},
+    {"term": "BFIU", "definition": "Bangladesh Financial Intelligence Unit, the authority responsible for receiving suspicious transaction reports and coordinating anti-money laundering activities.", "source_provision": "fr11"},
+    {"term": "online dispute resolution", "definition": "A mechanism enabling consumers and businesses to resolve disputes arising from electronic transactions without physical attendance.", "source_provision": "fr14"}
+  ]
+}

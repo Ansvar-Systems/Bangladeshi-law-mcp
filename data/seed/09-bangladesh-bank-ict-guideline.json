@@ -1,0 +1,96 @@
+{
+  "id": "bd-bb-ict-v4",
+  "type": "statute",
+  "title": "Bangladesh Bank ICT Security Guideline Version 4.0",
+  "title_en": "Bangladesh Bank ICT Security Guideline for Banks and Financial Institutions v4.0",
+  "short_name": "BB-ICT-v4",
+  "status": "in_force",
+  "issued_date": "2021-01-01",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.bb.org.bd/mediaroom/circulars/bfiu/2021/ictsg4.0.pdf",
+  "description": "Bangladesh Bank's ICT Security Guideline Version 4.0 establishes comprehensive requirements for information and communication technology security in banks and financial institutions regulated by Bangladesh Bank. The Guideline sets out governance, technical, and operational requirements for ICT security, covering areas including network security, application security, data protection, incident management, and the security of internet banking and mobile financial services.",
+  "provisions": [
+    {
+      "provision_ref": "ch1",
+      "section": "Chapter 1",
+      "title": "Chapter 1. Introduction and Scope",
+      "content": "The Bangladesh Bank ICT Security Guideline Version 4.0 applies to all scheduled banks, financial institutions, mobile financial service providers, and payment service providers licensed and regulated by Bangladesh Bank. The Guideline establishes the minimum ICT security standards that covered institutions must implement to protect their information assets, digital services, and customer data. The Guideline is aligned with international standards including ISO 27001, PCI DSS, NIST Cybersecurity Framework, and the Basel Committee on Banking Supervision's Principles for Sound Management of Operational Risk. Banks shall treat the requirements of this Guideline as mandatory minimum standards and shall implement additional controls as appropriate based on their risk assessment. The Guideline shall be reviewed and updated every two years to reflect developments in the threat landscape and technology."
+    },
+    {
+      "provision_ref": "ch2",
+      "section": "Chapter 2",
+      "title": "Chapter 2. ICT Governance",
+      "content": "Banks shall establish ICT governance structures providing oversight of ICT security at the highest level of management. ICT governance requirements include: (a) Board-level approval of the ICT security policy and strategy; (b) appointment of a Chief Information Security Officer (CISO) reporting to the Board or senior management with appropriate independence; (c) establishment of an IT Security Committee at senior management level; (d) integration of ICT risk into the institution's overall risk management framework; (e) annual ICT security risk assessments approved by the Board; (f) regular Board and management reporting on ICT security metrics and incidents. Banks shall document their information assets and classify them according to their sensitivity and criticality. All significant ICT projects shall include an ICT security assessment before implementation. The CISO shall have adequate authority and resources to implement ICT security measures throughout the institution."
+    },
+    {
+      "provision_ref": "ch3",
+      "section": "Chapter 3",
+      "title": "Chapter 3. Network Security",
+      "content": "Banks shall implement appropriate network security controls to protect their information assets from unauthorized access and cyber attacks. Required network security controls include: (a) network segmentation separating critical systems from general systems and from the internet; (b) firewalls at all network perimeters with documented and regularly reviewed rule sets; (c) intrusion detection and prevention systems (IDPS) monitoring network traffic for attack signatures; (d) web application firewalls (WAF) protecting internet-facing applications; (e) DDoS protection for internet-facing services; (f) secure remote access through VPN with multi-factor authentication; (g) Wi-Fi security using WPA3 or equivalent encryption in branch networks; (h) regular network vulnerability scanning and penetration testing. Banks shall maintain network topology diagrams and asset inventories. All network devices shall run current firmware and be configured according to security hardening standards. Network access shall be controlled through network access control (NAC) systems."
+    },
+    {
+      "provision_ref": "ch4",
+      "section": "Chapter 4",
+      "title": "Chapter 4. Application Security",
+      "content": "Banks shall ensure the security of all applications used for banking operations and customer services. Application security requirements include: (a) a secure software development lifecycle (SSDLC) for applications developed internally or by third parties; (b) secure coding standards based on OWASP guidelines; (c) static and dynamic application security testing (SAST/DAST) before production deployment; (d) penetration testing of all internet-facing applications at least annually; (e) vulnerability management and patch management for all applications; (f) security reviews for all third-party software components and libraries; (g) application-level authentication and authorization controls; (h) protection against common web application attacks including SQL injection, cross-site scripting, and CSRF. Internet banking and mobile banking applications shall comply with OWASP Mobile Security and Web Security guidelines. Banks shall maintain an application inventory and shall not use unsupported applications."
+    },
+    {
+      "provision_ref": "ch5",
+      "section": "Chapter 5",
+      "title": "Chapter 5. Data Security and Privacy",
+      "content": "Banks shall implement comprehensive data security measures to protect customer data and sensitive financial information. Data security requirements include: (a) data classification identifying all sensitive data and applying appropriate controls; (b) encryption of sensitive data at rest using AES-256 or equivalent; (c) encryption of all data in transit using TLS 1.2 or higher; (d) data masking for sensitive data in non-production environments; (e) data loss prevention (DLP) systems to prevent unauthorized exfiltration of sensitive data; (f) database activity monitoring (DAM) to detect unauthorized access to databases; (g) secure deletion of data that is no longer needed; (h) data retention policies complying with Bangladesh Bank regulations and applicable laws. Banks shall not store card data beyond what is permitted by PCI DSS. Customer data shall only be used for the purposes for which it was collected, and shall not be disclosed to third parties without the customer's consent except as required by law."
+    },
+    {
+      "provision_ref": "ch6",
+      "section": "Chapter 6",
+      "title": "Chapter 6. Incident Management",
+      "content": "Banks shall establish a formal ICT Security Incident Management process covering detection, response, recovery, and post-incident review. Incident management requirements include: (a) a documented Incident Response Plan (IRP) reviewed and tested annually; (b) a Security Operations Center (SOC) or equivalent monitoring capability for critical banks; (c) a designated ICT Security Incident Response Team (ISIRT); (d) clear escalation procedures for incidents of different severity levels; (e) procedures for preserving digital evidence during incident investigation; (f) post-incident reviews identifying lessons learned and required improvements. Banks shall report significant ICT security incidents to Bangladesh Bank within two hours of initial detection for incidents involving unauthorized access to customer data, fraud through digital channels, ransomware attacks, or disruption of core banking services affecting more than 100 customers. A comprehensive incident report shall be submitted to Bangladesh Bank within five working days of containment."
+    },
+    {
+      "provision_ref": "ch7",
+      "section": "Chapter 7",
+      "title": "Chapter 7. Mobile Banking and Internet Banking Security",
+      "content": "Banks offering mobile banking and internet banking services shall implement enhanced security controls to protect customers conducting transactions through digital channels. Required controls include: (a) multi-factor authentication (MFA) for all transactions, with the second factor being out-of-band to the banking channel; (b) transaction limits for digital channels with lower limits for new customers and higher-risk transactions; (c) real-time transaction monitoring with fraud detection algorithms; (d) immediate notification to customers of all transactions through SMS and email; (e) session management controls including automatic session timeout; (f) end-to-end encryption of all communications between customer devices and bank servers; (g) protection against SIM swap fraud and account takeover attacks; (h) customer-facing security features including device registration and unusual activity alerts. Banks shall provide customers with clear guidance on how to protect themselves from digital banking fraud. Banks shall operate a dedicated helpline for reporting digital banking fraud."
+    },
+    {
+      "provision_ref": "ch8",
+      "section": "Chapter 8",
+      "title": "Chapter 8. Third-Party Risk Management",
+      "content": "Banks that rely on third-party service providers for ICT services shall manage the associated risks through a formal Third-Party Risk Management (TPRM) program. TPRM requirements include: (a) due diligence of all technology vendors prior to engagement, including security assessments; (b) contractual provisions covering data security, audit rights, incident notification, and exit planning; (c) ongoing monitoring of vendor security posture and performance; (d) regular assessments of the security measures of critical vendors; (e) right to audit vendors directly or through independent assessors; (f) exit plans for all critical outsourced services. Banks shall not outsource the management of their ICT security functions without Bangladesh Bank's prior approval. Cloud services used for processing or storing customer data shall be subject to Bangladesh Bank's approval and shall comply with data localization requirements. Banks remain responsible for the security of customer data regardless of the outsourcing arrangement."
+    },
+    {
+      "provision_ref": "ch9",
+      "section": "Chapter 9",
+      "title": "Chapter 9. Business Continuity and Disaster Recovery",
+      "content": "Banks shall maintain Business Continuity Plans (BCPs) and ICT Disaster Recovery Plans (DRPs) ensuring the continuity of critical banking services in the event of a major ICT incident. BCP/DRP requirements include: (a) recovery time objectives (RTO) and recovery point objectives (RPO) approved by the Board for each critical system; (b) a geographically separated disaster recovery site capable of resuming critical operations within the RTO; (c) regular testing of the DRP through simulation exercises at least twice annually; (d) training of staff in BCP/DRP procedures; (e) maintenance of a Crisis Management Team with clear roles and responsibilities. RTOs for core banking systems shall not exceed four hours, and for internet banking and ATM services shall not exceed two hours. Banks shall conduct full-scale disaster recovery simulations at least annually with the results reported to the Board. Any significant weaknesses identified during testing shall be remediated within prescribed timeframes."
+    },
+    {
+      "provision_ref": "ch10",
+      "section": "Chapter 10",
+      "title": "Chapter 10. Compliance and Reporting",
+      "content": "Banks shall demonstrate compliance with this Guideline through regular self-assessments, internal audits, and external assessments. Compliance requirements include: (a) annual ICT security self-assessment submitted to Bangladesh Bank; (b) biennial independent ICT security audit by Bangladesh Bank-approved auditors; (c) periodic on-site inspections by Bangladesh Bank's ICT examination team; (d) immediate reporting of significant ICT incidents as defined in Chapter 6; (e) annual Board-approved ICT security budget demonstrating adequate investment. The ICT security self-assessment shall cover all areas of this Guideline and shall be submitted to Bangladesh Bank within sixty days of year-end. Bangladesh Bank may impose corrective action plans on banks that fail to meet the requirements of this Guideline. Non-compliant banks may be subject to enhanced supervisory requirements, financial penalties, and restrictions on new digital product launches. Bangladesh Bank may publish anonymized statistics on ICT security compliance across the banking sector."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "CISO",
+      "definition": "Chief Information Security Officer, the senior executive responsible for establishing and maintaining ICT security governance within a bank, with appropriate independence from the IT operations function.",
+      "source_provision": "ch2"
+    },
+    {
+      "term": "recovery time objective",
+      "definition": "The maximum acceptable time period within which an ICT system or service must be recovered following a disruption, as approved by the Board of Directors.",
+      "source_provision": "ch9"
+    },
+    {
+      "term": "ISIRT",
+      "definition": "ICT Security Incident Response Team, the designated team within a bank responsible for coordinating the response to ICT security incidents.",
+      "source_provision": "ch6"
+    },
+    {
+      "term": "Security Operations Center",
+      "definition": "A dedicated facility or function that monitors an organization's ICT environment for security events, detects threats, and coordinates incident response activities on a continuous basis.",
+      "source_provision": "ch6"
+    }
+  ]
+}

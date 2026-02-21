@@ -1,0 +1,111 @@
+{
+  "id": "bd-national-digital-commerce-policy-2018",
+  "type": "statute",
+  "title": "জাতীয় ডিজিটাল কমার্স নীতিমালা, ২০১৮",
+  "title_en": "National Digital Commerce Policy 2018",
+  "short_name": "NDCP 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-09",
+  "in_force_date": "2018-05-09",
+  "url": "https://www.commerce.gov.bd/",
+  "description": "The National Digital Commerce Policy 2018 establishes Bangladesh's strategic framework for the development of electronic commerce and the digital economy. Issued by the Ministry of Commerce, the Policy sets out the Government's objectives, principles, and action plan for promoting digital trade, developing digital market infrastructure, protecting consumer rights in online transactions, and supporting the growth of domestic e-commerce enterprises. The Policy integrates with the Digital Bangladesh initiative and the national ICT development agenda.",
+  "provisions": [
+    {
+      "provision_ref": "pol1",
+      "section": "1",
+      "title": "Policy Statement 1. Vision and Objectives",
+      "content": "The National Digital Commerce Policy 2018 establishes the Government of Bangladesh's vision for digital commerce as an engine of inclusive economic growth and job creation. The Policy aims to: develop a comprehensive enabling environment for digital commerce in Bangladesh; promote consumer confidence in online transactions; support the development of domestic e-commerce enterprises, including micro, small, and medium enterprises; expand the participation of rural producers and entrepreneurs in digital markets; enhance export competitiveness through digital trade channels; and ensure that digital commerce development is inclusive and benefits citizens across geographic and income divides. The Ministry of Commerce shall have primary responsibility for the implementation of this Policy, in coordination with relevant ministries and regulatory bodies."
+    },
+    {
+      "provision_ref": "pol2",
+      "section": "2",
+      "title": "Policy Statement 2. Scope and Definitions",
+      "content": "This Policy applies to all forms of electronic commerce conducted through digital channels, including: business-to-consumer (B2C) e-commerce involving online retailers and end consumers; business-to-business (B2B) digital transactions; consumer-to-consumer (C2C) transactions through digital platforms; and government-to-business (G2B) digital procurement. For the purposes of this Policy, 'digital commerce' means any commercial transaction for goods or services where the order is placed or the transaction is conducted through digital means. 'E-commerce platform' means any website, mobile application, or digital channel enabling buyers and sellers to transact. 'Digital marketplace' means a platform bringing together multiple sellers and buyers through a shared digital interface. The Policy applies to digital commerce transactions involving buyers or sellers located in Bangladesh."
+    },
+    {
+      "provision_ref": "pol3",
+      "section": "3",
+      "title": "Policy Statement 3. Regulatory Framework",
+      "content": "Digital commerce in Bangladesh shall be conducted within an enabling regulatory framework that provides legal certainty for online transactions while protecting consumers and promoting fair competition. The regulatory framework for digital commerce is established by: the Information and Communication Technology Act 2006 governing electronic contracts and digital signatures; the Electronic Transaction Framework governing online payment systems and consumer protection; the Consumer Rights Protection Act 2009 applicable to online transactions; applicable competition law; and import/export regulations applicable to cross-border digital trade. The Ministry of Commerce shall maintain oversight of the regulatory framework applicable to digital commerce and shall coordinate with the Ministry of ICT, Bangladesh Bank, and other relevant regulators to ensure a coherent and enabling environment."
+    },
+    {
+      "provision_ref": "pol4",
+      "section": "4",
+      "title": "Policy Statement 4. E-Commerce Platform Registration",
+      "content": "E-commerce platforms operating in Bangladesh shall be registered with the Department of Commerce and shall comply with applicable registration requirements. Registration requirements for e-commerce platforms shall include: disclosure of business identity, ownership structure, and contact details; agreement to comply with applicable consumer protection requirements; implementation of effective complaint handling mechanisms; and provision of accessible and accurate product and price information. A national registry of registered e-commerce platforms shall be maintained by the Department of Commerce and shall be publicly accessible. Marketplace platforms hosting third-party sellers shall be responsible for verifying the identity and legitimacy of seller businesses listed on their platforms. The registration framework shall be designed to promote trust and confidence in the digital commerce ecosystem without creating unnecessary barriers to market entry."
+    },
+    {
+      "provision_ref": "pol5",
+      "section": "5",
+      "title": "Policy Statement 5. Consumer Protection in Digital Commerce",
+      "content": "Consumers engaging in digital commerce transactions shall be entitled to the same protections as in physical commerce, and to additional protections addressing the specific characteristics of online purchasing. Consumer protection obligations applicable to digital commerce include: accurate and complete product descriptions, including photographs or digital representations; transparent and complete pricing, including all charges and delivery costs; clear disclosure of seller identity and contact information; accessible and fair return, refund, and cancellation policies; secure payment mechanisms; and effective complaint handling. Consumers shall have the right to cancel distance contracts within a prescribed period where goods have not been delivered, subject to applicable exceptions. The Department of National Consumer Rights Protection shall exercise oversight of consumer protection in digital commerce transactions."
+    },
+    {
+      "provision_ref": "pol6",
+      "section": "6",
+      "title": "Policy Statement 6. Digital Payment Infrastructure",
+      "content": "The Government shall support the development of a comprehensive and interoperable digital payment infrastructure enabling convenient, secure, and affordable payment options for digital commerce. Digital payment infrastructure development priorities include: expanding the availability and use of mobile financial services for e-commerce payments; promoting interoperability between different payment service providers; supporting the development of payment solutions suitable for low-value and rural transactions; promoting the adoption of secure digital payment methods; and ensuring that digital payment infrastructure is accessible to all segments of the population. Bangladesh Bank shall coordinate the development of digital payment infrastructure through its payment system oversight and development functions. Payment service providers shall cooperate in implementing interoperability requirements established by Bangladesh Bank."
+    },
+    {
+      "provision_ref": "pol7",
+      "section": "7",
+      "title": "Policy Statement 7. Logistics and Delivery Infrastructure",
+      "content": "The Government shall support the development of efficient logistics and delivery infrastructure enabling timely and reliable delivery of goods purchased through digital commerce channels. Logistics and delivery priorities include: expanding last-mile delivery capabilities to rural and remote areas; developing standards for packaging, labelling, and tracking of e-commerce consignments; promoting the development of shared logistics infrastructure; supporting the development of digital logistics platforms enabling efficient matching of delivery capacity and demand; and integrating logistics requirements into the planning for digital commerce zones and hubs. The Ministry of Commerce shall coordinate with the Ministry of Shipping, postal service providers, and private sector logistics operators on the development of e-commerce logistics infrastructure. Bangladesh Post shall be supported in developing its capabilities for e-commerce delivery services."
+    },
+    {
+      "provision_ref": "pol8",
+      "section": "8",
+      "title": "Policy Statement 8. Digital Commerce for SMEs and Rural Enterprises",
+      "content": "The Government shall implement programmes to expand the participation of small and medium enterprises, micro enterprises, and rural producers in digital commerce. SME and rural digital commerce support programmes shall include: digital literacy and e-commerce training for potential sellers; assistance with digital catalogue development and online presence; access to digital payment solutions; integration with digital marketplaces and aggregator platforms; access to finance for digital commerce investment; and support for meeting quality and packaging standards for online sales. Special attention shall be given to promoting digital commerce opportunities for women entrepreneurs and youth. The Government shall work with major e-commerce platforms to facilitate the onboarding of small and rural sellers. Digital commerce incubation programmes shall be established to support new enterprises entering digital markets."
+    },
+    {
+      "provision_ref": "pol9",
+      "section": "9",
+      "title": "Policy Statement 9. Cross-Border Digital Commerce",
+      "content": "The Government of Bangladesh shall promote cross-border digital commerce as a channel for export growth, particularly for small and artisan producers and the ready-made garments and handicrafts sectors. Cross-border digital commerce development activities shall include: simplifying customs procedures for low-value e-commerce exports and imports; developing agreements with major international e-commerce platforms to feature Bangladeshi products; promoting Bangladesh's digital commerce capabilities in international forums; facilitating access to international payment systems for export-oriented digital sellers; and developing export-quality standards for products sold through digital channels. Customs and National Board of Revenue shall develop simplified and expedited processing procedures for e-commerce consignments. Bangladesh Bank shall facilitate the remittance of export revenues received through international digital payment systems."
+    },
+    {
+      "provision_ref": "pol10",
+      "section": "10",
+      "title": "Policy Statement 10. Digital Commerce Zones and Hubs",
+      "content": "The Government shall establish designated digital commerce zones and hubs providing concentrated infrastructure and support services for e-commerce enterprises. Digital commerce zones shall offer: reliable high-speed connectivity; shared warehousing and logistics facilities; product photography and cataloguing services; access to digital payment solutions; training and technical assistance; and access to finance. Digital commerce hubs shall be developed in both urban and rural areas to promote geographically inclusive digital commerce development. The Bangladesh Export Processing Zones Authority and the Bangladesh Economic Zones Authority shall incorporate digital commerce facilities into their development programmes. Digital commerce zones shall be designed to accommodate enterprises of different sizes and shall provide accessible and affordable facilities for micro and small enterprises."
+    },
+    {
+      "provision_ref": "pol11",
+      "section": "11",
+      "title": "Policy Statement 11. Digital Commerce Security and Trust",
+      "content": "The Government shall promote the security and trustworthiness of digital commerce transactions to build consumer confidence and support sustainable market growth. Digital commerce security and trust measures include: promoting the adoption of secure payment standards by e-commerce platforms; developing a trust mark or accreditation scheme for compliant digital commerce operators; raising consumer awareness of safe online purchasing practices; developing and disseminating guidelines for consumer verification of e-commerce platform legitimacy; and improving the effectiveness of enforcement against fraudulent and deceptive online practices. The Ministry of Commerce shall coordinate with the Bangladesh Computer Council, the DSA, Bangladesh Bank, and consumer protection authorities on digital commerce security and trust promotion activities. Consumer awareness campaigns shall address common online fraud patterns and consumer protection mechanisms."
+    },
+    {
+      "provision_ref": "pol12",
+      "section": "12",
+      "title": "Policy Statement 12. Data Governance in Digital Commerce",
+      "content": "Digital commerce operators shall implement data governance practices ensuring the protection of consumer personal data, the maintenance of transaction records, and compliance with applicable data protection requirements. Data governance obligations applicable to digital commerce operators include: collecting only the personal data necessary for the transaction and related services; providing consumers with clear information about data collection and use; implementing appropriate security measures protecting consumer data; retaining transaction data for periods specified in applicable law; and responding to consumer requests regarding their personal data. The Ministry of Commerce shall work with the competent data protection authority to develop guidance on data governance requirements applicable to digital commerce. E-commerce platforms shall maintain records enabling the resolution of consumer complaints and regulatory inquiries."
+    },
+    {
+      "provision_ref": "pol13",
+      "section": "13",
+      "title": "Policy Statement 13. Digital Commerce Research and Innovation",
+      "content": "The Government shall promote research, innovation, and knowledge development supporting the growth of digital commerce in Bangladesh. Digital commerce research and innovation priorities include: consumer behaviour research informing platform and product design; logistics technology development supporting efficient e-commerce delivery; payment technology innovation expanding access to digital payment services; development of Bengali-language digital commerce tools and interfaces; research on digital commerce impacts on employment, trade, and development; and innovation in digital commerce business models suited to Bangladeshi market conditions. The Bangladesh Computer Council and relevant universities shall be supported in conducting applied digital commerce research. Research findings shall be published and made accessible to support industry and policy development."
+    },
+    {
+      "provision_ref": "pol14",
+      "section": "14",
+      "title": "Policy Statement 14. Digital Skills for Digital Commerce",
+      "content": "The Government shall promote the development of digital skills enabling citizens, businesses, and government to participate effectively in the digital commerce economy. Digital skills priorities for digital commerce include: basic digital literacy enabling citizens to access and use online platforms and payment services; digital marketing and e-commerce business management skills for entrepreneurs and SMEs; technical skills for e-commerce platform development and management; and data analytics skills supporting evidence-based e-commerce business development. Digital skills programmes shall be coordinated by the Ministry of ICT and the Bangladesh Computer Council, with the participation of the Ministry of Education, vocational and technical education institutions, and private sector training providers. Targeted skills programmes shall be developed for women entrepreneurs, youth, and rural communities."
+    },
+    {
+      "provision_ref": "pol15",
+      "section": "15",
+      "title": "Policy Statement 15. Implementation, Monitoring, and Review",
+      "content": "The Ministry of Commerce shall establish an implementation mechanism for the National Digital Commerce Policy 2018, including a National Digital Commerce Task Force comprising representatives of relevant ministries, regulatory bodies, the private sector, and civil society. An annual Digital Commerce Action Plan shall be developed setting out specific initiatives, timelines, and responsibility assignments. The Ministry of Commerce shall collect and publish data on digital commerce development in Bangladesh, including market size, consumer participation, enterprise development, and cross-border trade. Key performance indicators shall be established for each Policy objective and shall be tracked annually. The Policy shall be reviewed every three years to assess implementation progress and to update objectives and strategies in light of technological developments and market changes."
+    }
+  ],
+  "definitions": [
+    {"term": "digital commerce", "definition": "Any commercial transaction for goods or services where the order is placed or the transaction is conducted through digital means.", "source_provision": "pol2"},
+    {"term": "e-commerce platform", "definition": "Any website, mobile application, or digital channel enabling buyers and sellers to transact.", "source_provision": "pol2"},
+    {"term": "digital marketplace", "definition": "A platform bringing together multiple sellers and buyers through a shared digital interface.", "source_provision": "pol2"},
+    {"term": "last-mile delivery", "definition": "The final leg of the logistics chain delivering goods from a distribution point to the end consumer.", "source_provision": "pol7"},
+    {"term": "trust mark", "definition": "An accreditation or certification scheme indicating that a digital commerce operator meets defined standards of trustworthiness and consumer protection.", "source_provision": "pol11"}
+  ]
+}
