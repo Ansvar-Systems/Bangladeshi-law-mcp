@@ -449,8 +449,8 @@ function buildDatabase(): void {
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'EE');
-    insertMeta.run('source', 'official-source');
+    insertMeta.run('jurisdiction', 'BD');
+    insertMeta.run('source', 'http://bdlaws.minlaw.gov.bd');
     insertMeta.run('licence', 'See sources.yml');
   });
   writeMeta();

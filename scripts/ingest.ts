@@ -1,30 +1,36 @@
 #!/usr/bin/env tsx
 /**
- * Bangladeshi Law MCP -- Ingestion Pipeline
- *
- * Fetches Bangladeshi legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Bangladeshi Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Bangladeshi legislation is public domain under Art. 4 of the Copyright Act
+ * Real-legislation ingestion for Laws of Bangladesh (bdlaws.minlaw.gov.bd).
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseBangladeshiHtml, KEY_BANGLADESHI_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchHtml, toAbsoluteUrl } from './lib/fetcher.js';
+import {
+  buildProvisionRef,
+  extractDefinitions,
+  normalizeSectionNumber,
+  parseActPage,
+  parseSectionPage,
+  type DocumentStatus,
+  type ParsedAct,
+  type ParsedProvision,
+} from './lib/parser.js';
+
+interface TargetLaw {
+  fileSlug: string;
+  id: string;
+  actId: number;
+  shortName: string;
+  status: DocumentStatus;
+  titleEn?: string;
+}
+
+interface CliArgs {
+  limit: number | null;
+  skipFetch: boolean;
+}
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,19 +38,102 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+const TARGET_LAWS: TargetLaw[] = [
+  {
+    fileSlug: 'cyber-protection-ordinance-2025',
+    id: 'bd-cyber-protection-ordinance-2025',
+    actId: 1538,
+    shortName: 'Cyber Protection Ordinance 2025',
+    status: 'in_force',
+    titleEn: 'Cyber Protection Ordinance, 2025',
+  },
+  {
+    fileSlug: 'cyber-security-act-2023',
+    id: 'bd-cyber-security-act-2023',
+    actId: 1457,
+    shortName: 'Cyber Security Act 2023',
+    status: 'repealed',
+    titleEn: 'Cyber Security Act, 2023',
+  },
+  {
+    fileSlug: 'digital-security-act-2018',
+    id: 'bd-digital-security-act-2018',
+    actId: 1261,
+    shortName: 'Digital Security Act 2018',
+    status: 'repealed',
+    titleEn: 'Digital Security Act, 2018',
+  },
+  {
+    fileSlug: 'information-and-communication-technology-act-2006',
+    id: 'bd-information-and-communication-technology-act-2006',
+    actId: 950,
+    shortName: 'ICT Act 2006',
+    status: 'amended',
+    titleEn: 'Information and Communication Technology Act, 2006',
+  },
+  {
+    fileSlug: 'bangladesh-telecommunication-regulation-act-2001',
+    id: 'bd-bangladesh-telecommunication-regulation-act-2001',
+    actId: 857,
+    shortName: 'BTRA 2001',
+    status: 'amended',
+    titleEn: 'Bangladesh Telecommunication Regulation Act, 2001',
+  },
+  {
+    fileSlug: 'right-to-information-act-2009',
+    id: 'bd-right-to-information-act-2009',
+    actId: 1011,
+    shortName: 'RTI Act 2009',
+    status: 'amended',
+    titleEn: 'Right to Information Act, 2009',
+  },
+  {
+    fileSlug: 'bankers-books-evidence-act-2021',
+    id: 'bd-bankers-books-evidence-act-2021',
+    actId: 1392,
+    shortName: 'Bankers\' Books Evidence Act 2021',
+    status: 'in_force',
+    titleEn: 'Bankers\' Books Evidence Act, 2021',
+  },
+  {
+    fileSlug: 'evidence-act-1872',
+    id: 'bd-evidence-act-1872',
+    actId: 24,
+    shortName: 'Evidence Act 1872',
+    status: 'amended',
+  },
+  {
+    fileSlug: 'telegraph-act-1885',
+    id: 'bd-telegraph-act-1885',
+    actId: 55,
+    shortName: 'Telegraph Act 1885',
+    status: 'amended',
+  },
+  {
+    fileSlug: 'official-secrets-act-1923',
+    id: 'bd-official-secrets-act-1923',
+    actId: 132,
+    shortName: 'Official Secrets Act 1923',
+    status: 'in_force',
+  },
+];
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+function parseArgs(): CliArgs {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
-      i++;
-    } else if (args[i] === '--skip-fetch') {
+      const parsed = Number.parseInt(args[i + 1], 10);
+      if (Number.isFinite(parsed) && parsed > 0) {
+        limit = parsed;
+      }
+      i += 1;
+      continue;
+    }
+
+    if (args[i] === '--skip-fetch') {
       skipFetch = true;
     }
   }
@@ -52,135 +141,208 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
-}
-
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Bangladeshi Acts from api.sejm.gov.pl...\n`);
-
+function ensureDirs(): void {
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
+}
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
+function clearExistingSeeds(): void {
+  if (!fs.existsSync(SEED_DIR)) return;
 
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
+  for (const file of fs.readdirSync(SEED_DIR)) {
+    if (file.endsWith('.json')) {
+      fs.unlinkSync(path.join(SEED_DIR, file));
+    }
+  }
+}
 
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
+function looksBangla(text: string): boolean {
+  return /[\u0980-\u09FF]/.test(text);
+}
+
+function shortenDescription(text: string | undefined): string | undefined {
+  if (!text) return undefined;
+
+  const normalized = text.replace(/\s+/g, ' ').trim();
+  if (!normalized) return undefined;
+
+  const chunks = normalized.split(/(?<=[.!?।])\s+/).filter(Boolean);
+  const firstTwo = chunks.slice(0, 2).join(' ').trim();
+  const result = firstTwo.length > 0 ? firstTwo : normalized;
+
+  if (result.length <= 420) return result;
+  return `${result.slice(0, 417)}...`;
+}
+
+function buildCachePath(law: TargetLaw, kind: 'act' | 'section', sectionPageId?: string): string {
+  if (kind === 'act') {
+    return path.join(SOURCE_DIR, law.fileSlug, 'act.html');
+  }
+
+  if (!sectionPageId) {
+    throw new Error('sectionPageId is required for section cache path');
+  }
+
+  return path.join(SOURCE_DIR, law.fileSlug, 'sections', `section-${sectionPageId}.html`);
+}
+
+async function readOrFetch(url: string, cachePath: string, skipFetch: boolean): Promise<string> {
+  if (skipFetch && fs.existsSync(cachePath)) {
+    return fs.readFileSync(cachePath, 'utf-8');
+  }
+
+  const fetched = await fetchHtml(url);
+  fs.mkdirSync(path.dirname(cachePath), { recursive: true });
+  fs.writeFileSync(cachePath, fetched.body);
+  return fetched.body;
+}
+
+function uniqueProvisionRef(proposed: string, used: Set<string>): string {
+  if (!used.has(proposed)) {
+    used.add(proposed);
+    return proposed;
+  }
+
+  let attempt = 2;
+  while (true) {
+    const candidate = `${proposed}-${attempt}`;
+    if (!used.has(candidate)) {
+      used.add(candidate);
+      return candidate;
+    }
+    attempt += 1;
+  }
+}
+
+async function ingestLaw(law: TargetLaw, skipFetch: boolean): Promise<ParsedAct> {
+  const actUrl = toAbsoluteUrl(`/act-${law.actId}.html`);
+  const actHtml = await readOrFetch(actUrl, buildCachePath(law, 'act'), skipFetch);
+  const actMeta = parseActPage(actHtml);
+
+  if (actMeta.sections.length === 0) {
+    throw new Error(`No section links discovered for ${law.id} at ${actUrl}`);
+  }
+
+  const provisions: ParsedProvision[] = [];
+  const provisionRefs = new Set<string>();
+
+  for (let i = 0; i < actMeta.sections.length; i++) {
+    const section = actMeta.sections[i];
+    const sectionUrl = toAbsoluteUrl(section.href);
+    const sectionCache = buildCachePath(law, 'section', section.sectionPageId);
+
+    const sectionHtml = await readOrFetch(sectionUrl, sectionCache, skipFetch);
+    const parsedSection = parseSectionPage(sectionHtml);
+
+    const sectionNumber = normalizeSectionNumber(
+      parsedSection.sectionFromBody ?? section.section ?? String(i + 1)
+    );
+
+    const heading = (parsedSection.heading || section.title || `Section ${sectionNumber}`).trim();
+    const content = parsedSection.content.trim();
+
+    if (!content) {
       continue;
     }
 
-    try {
-      let html: string;
+    const proposedRef = buildProvisionRef(section.sectionPageId);
+    const provisionRef = uniqueProvisionRef(proposedRef, provisionRefs);
 
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
+    provisions.push({
+      provision_ref: provisionRef,
+      chapter: parsedSection.chapter,
+      section: sectionNumber,
+      title: `${sectionNumber}. ${heading}`,
+      content,
+    });
 
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
-      }
-
-      const parsed = parseBangladeshiHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
+    if ((i + 1) % 25 === 0 || i + 1 === actMeta.sections.length) {
+      console.log(`    ${law.fileSlug}: ${i + 1}/${actMeta.sections.length} sections parsed`);
     }
-
-    processed++;
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Bangladeshi Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
-  }
-  console.log('');
+  const definitions = extractDefinitions(provisions);
+
+  const title = actMeta.title || law.shortName;
+  const titleEn = law.titleEn ?? (looksBangla(title) ? undefined : title);
+
+  return {
+    id: law.id,
+    type: 'statute',
+    title,
+    title_en: titleEn,
+    short_name: law.shortName,
+    status: law.status,
+    issued_date: actMeta.issuedDate,
+    in_force_date: actMeta.issuedDate,
+    url: actUrl,
+    description: shortenDescription(actMeta.description),
+    provisions,
+    definitions,
+  };
 }
 
 async function main(): Promise<void> {
   const { limit, skipFetch } = parseArgs();
 
-  console.log('Bangladeshi Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Bangladeshi Copyright Act)`);
+  ensureDirs();
+  clearExistingSeeds();
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  const laws = limit ? TARGET_LAWS.slice(0, limit) : TARGET_LAWS;
 
-  const acts = limit ? KEY_BANGLADESHI_ACTS.slice(0, limit) : KEY_BANGLADESHI_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  console.log('Bangladeshi Law MCP — Real Ingestion (bdlaws.minlaw.gov.bd)');
+  console.log('============================================================');
+  console.log(`Target laws: ${laws.length}`);
+  if (skipFetch) console.log('Mode: --skip-fetch (reuse cached HTML where available)');
+  console.log('');
+
+  const summaries: Array<{ file: string; id: string; provisions: number; definitions: number }> = [];
+  let totalProvisions = 0;
+  let totalDefinitions = 0;
+
+  for (let i = 0; i < laws.length; i++) {
+    const law = laws[i];
+    const fileName = `${String(i + 1).padStart(2, '0')}-${law.fileSlug}.json`;
+    const outputPath = path.join(SEED_DIR, fileName);
+
+    console.log(`[${String(i + 1).padStart(2, '0')}/${laws.length}] Fetching ${law.fileSlug} (act-${law.actId})`);
+
+    const parsed = await ingestLaw(law, skipFetch);
+
+    fs.writeFileSync(outputPath, JSON.stringify(parsed, null, 2));
+
+    totalProvisions += parsed.provisions.length;
+    totalDefinitions += parsed.definitions.length;
+
+    summaries.push({
+      file: fileName,
+      id: parsed.id,
+      provisions: parsed.provisions.length,
+      definitions: parsed.definitions.length,
+    });
+
+    console.log(`    -> saved ${fileName}: ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions`);
+    console.log('');
+  }
+
+  const metaPath = path.join(SEED_DIR, '_ingestion-meta.json');
+  const meta = {
+    source: 'http://bdlaws.minlaw.gov.bd',
+    retrieved_at_utc: new Date().toISOString(),
+    laws_ingested: laws.length,
+    total_provisions: totalProvisions,
+    total_definitions: totalDefinitions,
+    files: summaries,
+  };
+  fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2));
+
+  console.log('Ingestion complete.');
+  console.log(`Total provisions: ${totalProvisions}`);
+  console.log(`Total definitions: ${totalDefinitions}`);
+  console.log(`Seed directory: ${SEED_DIR}`);
 }
 
 main().catch(error => {
-  console.error('Fatal error:', error);
+  console.error('Fatal ingestion error:', error);
   process.exit(1);
 });

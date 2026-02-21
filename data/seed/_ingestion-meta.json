@@ -1,0 +1,69 @@
+{
+  "source": "http://bdlaws.minlaw.gov.bd",
+  "retrieved_at_utc": "2026-02-21T20:27:32.808Z",
+  "laws_ingested": 10,
+  "total_provisions": 682,
+  "total_definitions": 153,
+  "files": [
+    {
+      "file": "01-cyber-protection-ordinance-2025.json",
+      "id": "bd-cyber-protection-ordinance-2025",
+      "provisions": 51,
+      "definitions": 31
+    },
+    {
+      "file": "02-cyber-security-act-2023.json",
+      "id": "bd-cyber-security-act-2023",
+      "provisions": 60,
+      "definitions": 22
+    },
+    {
+      "file": "03-digital-security-act-2018.json",
+      "id": "bd-digital-security-act-2018",
+      "provisions": 62,
+      "definitions": 0
+    },
+    {
+      "file": "04-information-and-communication-technology-act-2006.json",
+      "id": "bd-information-and-communication-technology-act-2006",
+      "provisions": 90,
+      "definitions": 39
+    },
+    {
+      "file": "05-bangladesh-telecommunication-regulation-act-2001.json",
+      "id": "bd-bangladesh-telecommunication-regulation-act-2001",
+      "provisions": 108,
+      "definitions": 31
+    },
+    {
+      "file": "06-right-to-information-act-2009.json",
+      "id": "bd-right-to-information-act-2009",
+      "provisions": 37,
+      "definitions": 11
+    },
+    {
+      "file": "07-bankers-books-evidence-act-2021.json",
+      "id": "bd-bankers-books-evidence-act-2021",
+      "provisions": 15,
+      "definitions": 12
+    },
+    {
+      "file": "08-evidence-act-1872.json",
+      "id": "bd-evidence-act-1872",
+      "provisions": 202,
+      "definitions": 0
+    },
+    {
+      "file": "09-telegraph-act-1885.json",
+      "id": "bd-telegraph-act-1885",
+      "provisions": 40,
+      "definitions": 7
+    },
+    {
+      "file": "10-official-secrets-act-1923.json",
+      "id": "bd-official-secrets-act-1923",
+      "provisions": 17,
+      "definitions": 0
+    }
+  ]
+}

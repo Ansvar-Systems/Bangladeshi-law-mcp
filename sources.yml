@@ -4,21 +4,21 @@ jurisdiction: "BD"
 
 sources:
   - name: "Laws of Bangladesh"
-    authority: "Laws of Bangladesh"
+    authority: "Legislative and Parliamentary Affairs Division, Ministry of Law, Justice and Parliamentary Affairs"
     official_portal: "http://bdlaws.minlaw.gov.bd"
     retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
+    update_frequency: "irregular"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Government Open Data"
+      type: "government_terms"
       url: "http://bdlaws.minlaw.gov.bd"
-      summary: "Official legislative texts are public domain"
+      summary: "Official legislative text portal maintained by the Government of Bangladesh."
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Acts and ordinances published in the Laws of Bangladesh portal, including historical and amended legislation."
+      limitations: "Portal content is HTML-based and section-oriented; schedules/attachments may be separate pages."
     languages:
-      - "en"
       - "bn"
+      - "en"
 
 data_freshness:
   automated_checks: true
