@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-433",
+  "type": "statute",
+  "title": "The Appropriation (Railways) Act, 1973",
+  "title_en": "The Appropriation (Railways) Act, 1973",
+  "short_name": "Act 433",
+  "status": "in_force",
+  "issued_date": "1973-06-30",
+  "in_force_date": "1973-06-30",
+  "url": "http://bdlaws.minlaw.gov.bd/act-433.html",
+  "description": "An Act to authorise payment and appropriation of certain sums in respect of Bangladesh Railways from and out of the Consolidated Fund for the service of the period beginning on the first day of July, 1973, and ending on the thirtieth day of June, 1974 WHEREAS it is expedient to authorise payment and appropriation of certain sums in respect of Bangladesh Railways from and out of the Consolidated Fund for the servic...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Appropriation (Railways) Act, 1973 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Issue of Taka 59,95,27,000 from and out of the Consolidated Fund for the period beginning on the first day of July, 1973 and ending on the thirtieth day of June, 1974",
+      "content": "2. From and out of the Consolidated Fund there may be paid and applied sums not exceeding those specified in column (3) of the Schedule, amounting in the aggregate to the sums of Taka 59,95,27,000 towards defraying the several charges which will come in course of payment during the period beginning on the first day of July, 1973 and ending on the thirtieth day of June, 1974 in respect of Bangladesh Railways for the services and purposes specified in column (2) of the Schedule."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Appropriation",
+      "content": "3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Act shall be appropriated in respect of Bangladesh Railways for the services and purposes expressed in the Schedule in relation to the period specified in section 2."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-456",
+  "type": "statute",
+  "title": "The Special Police Establishment (Repeal) Act, 1974",
+  "title_en": "The Special Police Establishment (Repeal) Act, 1974",
+  "short_name": "Act 456",
+  "status": "in_force",
+  "issued_date": "1974-01-22",
+  "in_force_date": "1974-01-22",
+  "url": "http://bdlaws.minlaw.gov.bd/act-456.html",
+  "description": "An Act to repeal the Special Police Establishment Ordinance, 1948. WHEREAS it is expedient to repeal the Special Police Ordinance, 1948 (VIII of 1948); It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the Special Police Establishment (Repeal) Act, 1974 .\n(2) It shall be deemed to have come into force on the 17th day of October, 1973."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of Ordinance VIII of 1948",
+      "content": "2. The Special Police Establishment Ordinance, 1948 (VIII of 1948), is hereby repealed."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Repeal of Ordinance XX of 1973",
+      "content": "3. The Special Police Establishment (Repeal) Ordinance, 1973 (XX of 1973), is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

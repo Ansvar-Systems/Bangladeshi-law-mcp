@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-215",
+  "type": "statute",
+  "title": "The Hindu Marriage Disabilities Removal Act, 1946",
+  "title_en": "The Hindu Marriage Disabilities Removal Act, 1946",
+  "short_name": "Act 215",
+  "status": "in_force",
+  "issued_date": "1946-11-22",
+  "in_force_date": "1946-11-22",
+  "url": "http://bdlaws.minlaw.gov.bd/act-215.html",
+  "description": "An Act to remove certain disabilities and doubts under Hindu Law in respect of marriages between Hindus. WHEREAS it is expedient to remove certain disabilities and doubts under the Hindu Law in respect of marriages between Hindus; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Hindu Marriage Disabilities Removal Act, 1946 .\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Marriages between persons of same gotra or pravara or of different sub-divisions of the same caste",
+      "content": "2. Notwithstanding any text, rule or interpretation of the Hindu Law or any custom or usage, a marriage between Hindus, which is otherwise valid, shall not be invalid by reason only of the fact that the parties thereto-\n(a) belong to the same gotra or pravara, or\n(b) belong to different sub divisions of the same caste."
+    }
+  ],
+  "definitions": []
+}

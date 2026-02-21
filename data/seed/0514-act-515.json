@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-515",
+  "type": "statute",
+  "title": "The Statutory Corporations (Delegation of Powers) (Repeal) Ordinance, 1976",
+  "title_en": "The Statutory Corporations (Delegation of Powers) (Repeal) Ordinance, 1976",
+  "short_name": "Act 515",
+  "status": "in_force",
+  "issued_date": "1976-03-10",
+  "in_force_date": "1976-03-10",
+  "url": "http://bdlaws.minlaw.gov.bd/act-515.html",
+  "description": "An Ordinance to repeal the Statutory Corporations (Delegation of Powers) Ordinance, 1975. WHEREAS it is expedient to repeal the Statutory Corporations (Delegation of Powers) Ordinance, 1975 (XXXVIII of 1975); NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and the 8th November, 1975, and in exercise of all powers enabling him in that behalf, the President is pleased to make and promulga...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short Title",
+      "content": "1. This Ordinance may be called the Statutory Corporations (Delegation of Powers) (Repeal) Ordinance, 1976 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of Ordinance XXXVIII of 1975",
+      "content": "2. The Statutory Corporations (Delegation of Powers) Ordinance, 1975 (XXXVIII of 1975), is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

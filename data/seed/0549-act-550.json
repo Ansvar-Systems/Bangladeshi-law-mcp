@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-550",
+  "type": "statute",
+  "title": "The Minimum Wages (Fixation) (Repeal) Ordinance, 1977",
+  "title_en": "The Minimum Wages (Fixation) (Repeal) Ordinance, 1977",
+  "short_name": "Act 550",
+  "status": "in_force",
+  "issued_date": "1977-07-06",
+  "in_force_date": "1977-07-06",
+  "url": "http://bdlaws.minlaw.gov.bd/act-550.html",
+  "description": "An Ordinance to repeal the Minimum Wages (Fixation) Ordinance, 1969. WHEREAS it is expedient to repeal the Minimum Wages (Fixation) Ordinance, 1969 (E.P.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Minimum Wages (Fixation) (Repeal) Ordinance, 1977 .\n(2) It shall be deemed to have come into force on the 6th day of November, 1973."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of E.P. Ord. X of 1969",
+      "content": "2. The Minimum Wages (Fixation) Ordinance, 1969 (E.P. Ord. X of 1969), is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

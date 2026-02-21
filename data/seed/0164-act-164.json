@@ -1,0 +1,79 @@
+{
+  "id": "bd-act-164",
+  "type": "statute",
+  "title": "The Sugar-Cane Act, 1934",
+  "title_en": "The Sugar-Cane Act, 1934",
+  "short_name": "Act 164",
+  "status": "in_force",
+  "issued_date": "1934-05-01",
+  "in_force_date": "1934-05-01",
+  "url": "http://bdlaws.minlaw.gov.bd/act-164.html",
+  "description": "An Act to regulate the price of sugar-cane intended for use in sugar factories. WHEREAS it is expedient, for the purpose of assuring to sugar-cane growers a fair price for their produce, to regulate the price at which sugar-cane intended to be used in the manufacture of sugar may be purchased by or for factories; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Sugar-Cane Act, 1934 .\n(2) It extends to the whole of [Bangladesh].\n(3) This section shall come into force at once; the remaining sections of this Act shall come into force [* * *] on such date as the Government may, by notification in the official Gazette, appoint in that behalf."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(1) \"controlled area\" means any area specified in a notification issued under sub-suction (1) of section 3.\n(2) \"factory\" means any premises (including the precincts thereof ) wherein twenty or more workers are working or were working on any day of the preceding twelve months and in any part of which any manufacturing\nprocess connected with the production of sugar is being carried on or is ordinarily carried on with the aid of power; and\n(3) \"sugar\" means any form of sugar containing more than ninety per cent. of sucrose."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Declaration of controlled areas, and fixing of prices",
+      "content": "3. (1) The Government may, by notification in the official Gazette, declare any area specified in the notification to be a controlled area for the purposes of this Act.\n(2) The Government may, by notification in the official Gazette, fix a minimum price or minimum prices for the purchase in any controlled area of sugar-cane intended for use in any factory.\n(3) The Government may, by notification in the official Gazette, prohibit in any controlled area the purchase of sugar-cane intended for use in any factory otherwise than from the grower of the sugar-cane or from a person licensed by the Government to act as a purchasing agent."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Previous publication of notifications under section 3",
+      "content": "4. Not less than thirty days before the issue of any notification under sub-section (1) or sub-section (2) of section 3, the Government shall publish in the official Gazette and in such other manner (if any) as it thinks fit a draft of the proposed notification specifying a date on or after which the draft will be taken into consideration, and shall consider any objection or suggestion which may be received from any person with respect to the draft before the date so specified."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Penalty for purchase of sugar-cane in contravention of notification under section 3",
+      "content": "5. Whoever in any controlled area purchases any sugar-cane intended for use in a factory at a price less than the minimum price fixed therefor by notification under sub-section (2) of section 3 or in contravention of any prohibition made under sub-section (3) of section 3 shall be punishable with fine which may extend to two-thousand [Taka]."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Sanction for prosecution under this Act",
+      "content": "6. No Court shall take cognizance of any offence punishable under section 5 except upon complaint made by order of, or under authority from, the District Magistrate."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Power of Government to make rules",
+      "content": "7. (1) The Government may, by notification in the official Gazette, make rules for the purpose of carrying into effect the objects of this Act.\n(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for-\n(a) the carrying out of inquiries preliminary to the exercise of the powers conferred by section 3;\n(b) establishing Advisory Committees for any purpose connected with the administration of this Act and defining the powers, functions and procedure of such Committees.\n(c) the issue of licenses to purchasing agents, the fees for such licences, and the regulation of the purchase and sale of sugar-cane by and to such agents;\n(d) the organization of growers of sugar-cane into societies for the sale of sugar-cane to factories;\n(e) the authorities by which any functions under this Act or the rules made thereunder are to be performed; and\n(f) the records, registers and accounts to be maintained for ensuring compliance with the provisions of this Act.\n(3) In making any rule under sub-section (1) or under clause (c) or clause (f) of sub-section (2) the Government may provide that a breach of the rule shall, where no other penalty is provided by this Act, be punishable with fine not exceeding two-thousand [Taka]."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Power to Government to make rules",
+      "content": "8. The Government after previous publication may, by notification in the official Gazette, make rules providing for the exemption of factories or any class of factories from the provisions of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "controlled area",
+      "definition": "any area specified in a notification issued under sub-suction (1) of section 3.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "factory",
+      "definition": "any premises (including the precincts thereof ) wherein twenty or more workers are working or were working on any day of the preceding twelve months and in any part of which any manufacturing",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "sugar",
+      "definition": "any form of sugar containing more than ninety per cent. of sucrose.",
+      "source_provision": "sec2"
+    }
+  ]
+}

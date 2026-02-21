@@ -1,0 +1,67 @@
+{
+  "id": "bd-act-121",
+  "type": "statute",
+  "title": "The Passport Act, 1920",
+  "title_en": "The Passport Act, 1920",
+  "short_name": "Act 121",
+  "status": "in_force",
+  "issued_date": "1920-09-09",
+  "in_force_date": "1920-09-09",
+  "url": "http://bdlaws.minlaw.gov.bd/act-121.html",
+  "description": "An Act to take power to require passports of persons entering Bangladesh. WHEREAS it is expedient to take power to require passports of persons entering Bangladesh; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1.(1) This Act may be called the Passport Act, 1920 .\n(2) It extends to the whole of Bangladesh."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n\"entry\" means entry by water, land or air;\n\"passport\" means a passport for the time being in force issued or renewed by the prescribed authority and satisfying the conditions prescribed relating to the class of passports to which it belongs; and\n\"prescribed\" means prescribed by rules made under this Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to make rules",
+      "content": "3.(1) The Government may make rules requiring that persons entering Bangladesh shall be in possession of passports, and for all matters ancillary or incidental to that purpose.\n(2) Without prejudice to the generality of the foregoing power such rules may-\n(a) prohibit the entry into Bangladesh or any part thereof of any person who has not in his possession a passport issued to him;\n(b) prescribe the authorities by whom passports must have been issued or renewed , and the conditions with which they must comply, for the purposes of this Act; and\n(c) provide for the exemption, either absolutely or on any condition, of any person or class of persons from any provision of such rules.\n(3) Rules made under this section may provide that any contravention thereof or of any order issued under the authority of any such rule shall be punishable with imprisonment for a term which may extend to three months, or with fine or with both.\n(4) All rules made under this section shall be published in the official Gazette, and shall thereupon have effect as if enacted in this Act."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Power of arrest",
+      "content": "4.(1) Any officer of police, not below the rank of a sub-inspector, and any officer of the Customs Department empowered by a general or special order of the Government in this behalf may arrest without warrant any person who has contravened or against whom a reasonable suspicion exists that he has contravened any rule or order made under section 3.\n(2) Every officer making an arrest under this section shall, without unnecessary delay, take or send the person arrested before a Magistrate having jurisdiction in the case or to the officer in charge of the nearest police-station and the provisions of section 61 of the Code of Criminal Procedure, 1898 , shall, so far as may be, apply in the case of any such arrest."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Power of removal",
+      "content": "5. The Government may, by general or special order, direct the removal of any person from Bangladesh who, in contravention of any rule made under section 3 prohibiting entry into Bangladesh without passport, has entered therein, and thereupon any officer of the Government shall have all reasonable powers necessary to enforce such direction."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. [ Omitted]",
+      "content": "6. [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "entry",
+      "definition": "entry by water, land or air",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "passport",
+      "definition": "a passport for the time being in force issued or renewed by the prescribed authority and satisfying the conditions prescribed relating to the class of passports to which it belongs",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules made under this Act.",
+      "source_provision": "sec2"
+    }
+  ]
+}

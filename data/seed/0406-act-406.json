@@ -1,0 +1,51 @@
+{
+  "id": "bd-act-406",
+  "type": "statute",
+  "title": "The Bangladesh Currency Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh Currency Order, 1972 (President's Order)",
+  "short_name": "Act 406",
+  "status": "in_force",
+  "issued_date": "1972-07-24",
+  "in_force_date": "1972-07-24",
+  "url": "http://bdlaws.minlaw.gov.bd/act-406.html",
+  "description": "WHEREAS it is expedient to provide for the issue and putting into circulation of one Taka note [and two Taka note] by the Government of the People’s Republic of Bangladesh; NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that behalf, the President is pleased to make the fo...",
+  "provisions": [
+    {
+      "provision_ref": "sec8980",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh Currency Order, 1972.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once and shall be deemed to have taken effect on the 26th day of March, 1971."
+    },
+    {
+      "provision_ref": "sec8981",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. In this Order, unless there is anything repugnant in the subject or context,-\n[(a) “Bangladesh one Taka note” and “Bangladesh two Taka note” shall respectively mean a one Taka note and a two Taka note issued by the Government.]\n(b) “Government” means the Government of the People's Republic of Bangladesh."
+    },
+    {
+      "provision_ref": "sec8982",
+      "section": "[3",
+      "title": "[3. 3.",
+      "content": "[3. Notwithstanding anything contained in any other law for the time being in force, the Government may issue Bangladesh one Taka notes and Bangladesh two Taka notes and any such notes shall be current in Bangladesh in the same manner and to the same extent and as fully as Taka coin called Government Taka issued under the provisions of the Bangladesh Coinage Order, 1972 (P.O. No. 83 of 1972), and shall be legal tender in Bangladesh for the payment of any amount until such time as they are called in by the Government under the provisions of Article 8 of that Order.]"
+    },
+    {
+      "provision_ref": "sec8983",
+      "section": "4",
+      "title": "4. 4.",
+      "content": "4. The provisions of Sections 489A, 489B, 489C and 489D of the [Penal Code (Act XLV of 1860)] shall apply in respect of notes issued under this Order as they apply in respect of currency notes and bank notes."
+    },
+    {
+      "provision_ref": "sec8984",
+      "section": "5",
+      "title": "5. 5.",
+      "content": "5. The Pakistan Currency Act, 1950 (Act No. XXIX of 1950) is hereby repealed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Government",
+      "definition": "the Government of the People's Republic of Bangladesh.",
+      "source_provision": "sec8981"
+    }
+  ]
+}

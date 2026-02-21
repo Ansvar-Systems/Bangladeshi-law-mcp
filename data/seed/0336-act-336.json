@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-336",
+  "type": "statute",
+  "title": "The Chittagong Development Authority (Land Acquisition Validation) Ordinance, 1963 (East Pakistan Ordinance)",
+  "title_en": "The Chittagong Development Authority (Land Acquisition Validation) Ordinance, 1963 (East Pakistan Ordinance)",
+  "short_name": "Act 336",
+  "status": "in_force",
+  "issued_date": "1964-02-08",
+  "in_force_date": "1964-02-08",
+  "url": "http://bdlaws.minlaw.gov.bd/act-336.html",
+  "description": "An Ordinance to validate acquisition of lands for the Chittagong Development Authority. WHEREAS it is expedient to validate acquisition of lands for the Chittagong Development Authority; AND WHEREAS it is expedient, in the public interest, to validate acquisition of lands for the said Authority; AND WHEREAS the Provincial Assembly of East Pakistan is not in session and the Governor is satisfied that circumstances ...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Chittagong Development Authority (Land Acquisition Validation) Ordinance, 1963.\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Validation of certain acquisitions",
+      "content": "2. Notwithstanding anything contained in the Chittagong Development Authority Ordinance, 1959, or in the East Bengal (Emergency) Requisition of Property Act, 1948, or in any judgment, decree or order of any Court, every acquisition of immovable property made or purported to have been made by the [Government] or Deputy Commissioner, as the case may\nbe, for the Chittagong Development Authority for any public purpose under the said Ordinance or Act, as the case may be, and which, immediately before such commencement, was used or occupied by the [Government] or the said Authority or by any officer, shall, notwithstanding any defect in, or invalidity of, the enactment or order under which acquisition was made, be deemed for all purposes to have been validly made in accordance with law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Validation of orders of officers",
+      "content": "3. Notwithstanding anything contained in the Chittagong Development Authority Ordinance, 1959, or in the East Bengal (Emergency) Requisition of Property Act, 1948, or in any judgment, decree or order, all orders made or purported to have been made under the said Ordinance or Act before the commencement of this Ordinance in respect of lands acquired for the Chittagong Development Authority by the Deputy Commissioner or any officer shall be deemed to have been lawfully and validly made by him as if under proper authority and no such order shall be called in question in any Court."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Validation of certain acts",
+      "content": "4. Notwithstanding anything contained in any law for the time being in force or in any judgment, decree or order of any Court, anything done or action taken or purported to have been done or taken (including any declaration made, any notice or orders issued, assessments or payment of compensations made under the Chittagong Development Authority Ordinance, 1959, or the East Bengal (Emergency) Requisition of Property Act, 1948) shall be deemed to have been validly done, taken or made by or under the said Ordinance."
+    }
+  ],
+  "definitions": []
+}

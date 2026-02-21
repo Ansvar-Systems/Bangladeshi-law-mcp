@@ -1,0 +1,86 @@
+{
+  "id": "bd-act-288",
+  "type": "statute",
+  "title": "The Government Fisheries (Protection) Ordinance, 1959 (East Pakistan Ordinance)",
+  "title_en": "The Government Fisheries (Protection) Ordinance, 1959 (East Pakistan Ordinance)",
+  "short_name": "Act 288",
+  "status": "in_force",
+  "issued_date": "1959-03-24",
+  "in_force_date": "1959-03-24",
+  "url": "http://bdlaws.minlaw.gov.bd/act-288.html",
+  "description": "WHEREAS it is expedient to make provisions for preventing unauthorised fishing in fisheries belonging to, or under the management and control of, the Government; NOW, THEREFORE, in pursuance of the Presidential Proclamation of the 7th day of October, 1958, and in exercise of all powers enabling him in that behalf, the Governor of East Pakistan is pleased to make and promulgate the following Ordinance, namely:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Government Fisheries (Protection) Ordinance, 1959.\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context-\n(a) “Khas managed fishery” means a fishery declared by the Government under section 3 to be a Khas managed fishery;\n(b) “prescribed” means prescribed by rules made under this Ordinance."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Declaration of a fishery to be a khas managed fishery",
+      "content": "3. The Government may, by notification in the official Gazette, declare any fishery belonging to, or under the management and control of, the Government to be a khas managed fishery."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Bar to unauthorised fishing in khas managed fisheries",
+      "content": "4. (1) On the declaration of a fishery to be a khas managed fishery under section 3, no person shall fish in such a fishery without a valid licence for fishing issued by such authority as may be prescribed.\n(2) It shall be competent for the Government or any authority authorised by the Government to fix different rates of licence fees for fishing in a khas managed fishery with different varieties of fishing contrivances or by using different methods of fishing and to lay down the terms and conditions of any license."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Carrying of valid licence of fishing and production of the same",
+      "content": "5. Every person fishing in any manner or carrying any fishing contrivance in a khas managed fishery shall carry with him a valid licence for fishing in such manner or with such contrivance and produce the same when required by such person or class of persons as may be prescribed."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Bar to unauthorised fishing in other fisheries",
+      "content": "6. No person shall fish or attempt to fish in any fishery, other than khas managed fishery, belonging to, or under the management and control of, the Government or enter into any such fishery for the purpose of fishing or causing fishing to be done, without the authority of the Government or of any lessee of the Government."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Authorisation by Government to question illegal fishing",
+      "content": "7. The Government may, by notification in the official Gazette, authorise any person or class of persons,-\n(a) to detain and search any boat found in any fishery belonging to, or under the management and control of, the Government and seize the boat with the fishing contrivance used or carried without valid licence or authority;\n(b) to search any place where fish caught or fishing contrivances used or carried without a valid licence or authority are reasonably suspected to be found and seize such fish or contrivances;\n(c) to seize any fish caught in contravention of the provisions of this Ordinance; and\n(d) to require any person found fishing or attempting to fish in any fishery belonging to, or under the management and control of, the Government to state truly his name, his father's name and address and to produce his authority for such fishing."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Exemption",
+      "content": "8. Nothing in this Ordinance shall apply to carrying of fishing contrivances in a boat or ship plying as a public carrier on a regulated route or to fishing with line and rod, basket or kotch for personal consumption."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Penal clauses",
+      "content": "9. (1) Contravention of any provision of this Ordinance or any rules made thereunder shall, on conviction by a Court of competent jurisdiction, be punishable with imprisonment which may extend to 2 years or with fine which may extend to [Tk] 5,000 or with both and any fish or fishing contrivance including any boat may be forfeited to the Government.\n(2) An offence under this Ordinance shall be cognizable and bailable."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Rule-making power",
+      "content": "10. The Government may make rules for carrying out the purposes of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Khas managed fishery",
+      "definition": "a fishery declared by the Government under section 3 to be a Khas managed fishery",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules made under this Ordinance.",
+      "source_provision": "sec2"
+    }
+  ]
+}

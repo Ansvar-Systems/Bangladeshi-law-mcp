@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-171",
+  "type": "statute",
+  "title": "The Hindu Women's Rights to Property Act, 1937",
+  "title_en": "The Hindu Women's Rights to Property Act, 1937",
+  "short_name": "Act 171",
+  "status": "in_force",
+  "issued_date": "1937-04-14",
+  "in_force_date": "1937-04-14",
+  "url": "http://bdlaws.minlaw.gov.bd/act-171.html",
+  "description": "An Act to amend the Hindu Law governing Hindu Women’s Rights to Property. WHEREAS it is expedient to amend the Hindu Law to give better rights to women in respect of property; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Hindu Women's Rights to Property Act, 1937 .\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Application",
+      "content": "2. Notwithstanding any rule of Hindu Law or custom to the contrary, the provisions of section 3 shall apply where a Hindu dies intestate leaving a widow."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Devolution of property",
+      "content": "3. (1) When a Hindu governed by the Dayabhag School of Hindu Law dies intestate leaving any property, and when a Hindu governed by any other school of Hindu Law or by customary law dies intestate leaving separate property, his widow, or if there is more than one widow all his widows together, shall, subject to the provisions of sub-section (3), be entitled in respect of property in respect of which he dies intestate to the same share as a son:\nProvided that the widow of a predeceased son shall inherit in like manner as a son if there is no son surviving of such predeceased son, and shall inherit in like manner as a son's son if there is surviving a son or son's son of such predeceased son:\nProvided further that the same provision shall apply mutatis mutandis to the widow of a predeceased son of a predeceased son.\n(2) When a Hindu governed by any school of Hindu Law other than the Dayabhag School or by customary law dies having at the time of his death an interest in a Hindu joint family property, his widow shall, subject to the provisions of sub-section (3), have in the property the same interest as he himself had.\n(3) Any interest devolving on a Hindu widow under the provisions of this section shall be the limited interest known as a Hindu Woman's estate, provided however that she shall have the same right of claiming partition as a male owner.\n(4) The provisions of this section shall not apply to an estate which by a customary or other rule of succession or by the terms of the grant applicable thereto descends to a single heir or to any property to which the Succession Act, 1925 , applies."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Savings",
+      "content": "4. Nothing in this Act shall apply to the property of any Hindu dying intestate before the commencement of this Act."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Meaning of expression “die intestate”",
+      "content": "5. For the purposes of this Act, a person shall be deemed to die intestate in respect of all property of which he has not made a testamentary disposition which is capable of taking effect."
+    }
+  ],
+  "definitions": []
+}

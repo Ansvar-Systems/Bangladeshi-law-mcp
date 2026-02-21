@@ -1,0 +1,86 @@
+{
+  "id": "bd-act-339",
+  "type": "statute",
+  "title": "The Aircraft (Removal of Danger to Safety) Ordinance, 1965",
+  "title_en": "The Aircraft (Removal of Danger to Safety) Ordinance, 1965",
+  "short_name": "Act 339",
+  "status": "in_force",
+  "issued_date": "1965-07-16",
+  "in_force_date": "1965-07-16",
+  "url": "http://bdlaws.minlaw.gov.bd/act-339.html",
+  "description": "An Ordinance to make provision for the removal of danger to the safety of aircraft. WHEREAS it is expedient to make provision for the removal of danger to the safety of aircraft caused by the location of bird attracting sites around certain airfields; AND WHEREAS the National Assembly is not in session and the President is satisfied that circumstances exist which render immediate legislation necessary; NOW, THEREF...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Aircraft (Removal of Danger to Safety) Ordinance, 1965 .\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n[(a) “airfield” means the Zia International Airport, Dhaka, Civil Airport Chittagong, Sylhet Osmani Airport, Civil Airport Cox's Bazar, Civil Airport Saidpur, Civil Airport Rajshahi, Civil Airport Jessore, Civil Airport Ishurdi, the Bangladesh Air Force airfield at Dhaka and such other aerodrome as the Government may, by notification in the official Gazette, declare to be an airfield within the meaning of this Ordinance.]\n(b) “specified area” means the area lying within a radius of five nautical miles from either end of a runway of an airfield."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Measures to avoid attraction of birds",
+      "content": "3. (1) The Government may by order require the owner or the person in possession or having the management or control of any tannery, slaughter-house, cattle-yard, fish-drying area, refuse-dump or other place within a specified area which attracts birds to take within such period as may be specified in the order such measures for avoiding attraction of birds which may endanger the safety of aircraft as may be so specified.\n(2) Any person affected by an order under sub-section (1) may, within thirty days following the order, make an application to the Government for a review of the order on the ground that the measures directed to be taken are not necessary or that alternative measures described in the application would be equally effective for avoiding attraction of birds.\n(3) The Government may, after considering the application made under sub-section (2) and giving the applicant an opportunity of being heard, modify, cancel or confirm the order made under sub-section (1)."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Non-compliance with order under section 3",
+      "content": "4. Where an order made under sub-section (1) of section 3 is not complied with the Government may, by notification in the official Gazette, prohibit the use of, or the carrying on of any trade or occupation in the tannery, slaughter-house, cattle-yard, fish-drying area, refuse-dump or other place with respect to which the order was made."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Restriction on construction or extension of tannery, etc.",
+      "content": "5. Within a specified area, no tannery, slaughter-house or cattle-yard shall be constructed, established or extended and no place shall be used for fish-drying or as a refuse-dump or for carrying on any trade or occupation which attracts birds except with the prior permission in writing of the Government and in accordance with the terms and conditions, if any, on which the permission is granted."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Power of entry in premises, etc.",
+      "content": "6. Any person authorised in this behalf by the Government may at any time between sunrise and sunset enter and inspect any tannery, slaughter-house, cattle-yard or fish-drying area or any premises or land used as a refuse-dump or for carrying on any trade or occupation which may attract birds, for the purpose of ascertaining the extent of danger to the safety of aircraft caused by the attraction of birds and seeing whether the provisions of this Ordinance and any order or notification made or issued thereunder have been complied with."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Penalty",
+      "content": "7. Whoever fails to comply with or contravenes any of the provisions of this Ordinance or any order, direction or notification issued or made thereunder, or wilfully obstructs any person in doing any of the acts authorised by this Ordinance shall be punishable with imprisonment for a term which may extend to [three years], or with fine which may extend to [five thousand Taka], or with both, and in the case of a continuing offence, with an additional fine which may extend to [fifty Taka] for every day after the first during which the offence continues."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Power to try an offence",
+      "content": "8. No Court inferior to that of a Magistrate of the first class shall try an offence punishable under this Ordinance."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Indemnity",
+      "content": "9. (1) No order made, notification issued or proceeding taken under this Ordinance shall be called in question in any Court.\n(2) No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Ordinance."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Power to make rules",
+      "content": "10. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "airfield",
+      "definition": "the Zia International Airport, Dhaka, Civil Airport Chittagong, Sylhet Osmani Airport, Civil Airport Cox's Bazar, Civil Airport Saidpur, Civil Airport Rajshahi, Civil Airport Jessore, Civil Airport Ishurdi, the Bangladesh Air Force airfield at Dhaka and such other aerodrome as the Government may, by notification in the official Gazette, declare to be an airfield within the meaning of this Ordinance.]",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "specified area",
+      "definition": "the area lying within a radius of five nautical miles from either end of a runway of an airfield.",
+      "source_provision": "sec2"
+    }
+  ]
+}

@@ -55,6 +55,21 @@ export interface SectionPageData {
   sectionFromBody?: string;
 }
 
+export interface FullActSection {
+  section: string;
+  heading: string;
+  chapter?: string;
+  content: string;
+}
+
+export interface FullActDetailsData {
+  title: string;
+  description?: string;
+  issuedDate?: string;
+  status: DocumentStatus;
+  sections: FullActSection[];
+}
+
 const BANGLA_DIGIT_MAP: Record<string, string> = {
   '০': '0',
   '১': '1',
@@ -206,6 +221,71 @@ function parseSectionLabel(label: string, fallbackIndex: number): { section: str
   };
 }
 
+interface DivBlock {
+  start: number;
+  end: number;
+  raw: string;
+  inner: string;
+}
+
+function extractDivBlockAt(html: string, openStart: number): DivBlock | undefined {
+  const openEnd = html.indexOf('>', openStart);
+  if (openEnd < 0) return undefined;
+
+  const divTagRegex = /<\/?div\b[^>]*>/gi;
+  divTagRegex.lastIndex = openEnd + 1;
+  let depth = 1;
+  let match: RegExpExecArray | null;
+
+  while ((match = divTagRegex.exec(html)) !== null) {
+    if (match[0].startsWith('</')) {
+      depth -= 1;
+    } else {
+      depth += 1;
+    }
+
+    if (depth === 0) {
+      return {
+        start: openStart,
+        end: divTagRegex.lastIndex,
+        raw: html.slice(openStart, divTagRegex.lastIndex),
+        inner: html.slice(openEnd + 1, match.index),
+      };
+    }
+  }
+
+  return undefined;
+}
+
+function findDivBlocksByClass(html: string, classNeedle: string): DivBlock[] {
+  const lower = html.toLowerCase();
+  const needle = classNeedle.toLowerCase();
+  const blocks: DivBlock[] = [];
+
+  let scanAt = 0;
+  while (scanAt < lower.length) {
+    const classIndex = lower.indexOf(needle, scanAt);
+    if (classIndex < 0) break;
+
+    const openStart = lower.lastIndexOf('<div', classIndex);
+    if (openStart < 0) {
+      scanAt = classIndex + needle.length;
+      continue;
+    }
+
+    const block = extractDivBlockAt(html, openStart);
+    if (!block) {
+      scanAt = classIndex + needle.length;
+      continue;
+    }
+
+    blocks.push(block);
+    scanAt = block.end;
+  }
+
+  return blocks;
+}
+
 function extractDivInnerByClass(html: string, classNeedle: string): string | undefined {
   const lower = html.toLowerCase();
   const classIndex = lower.indexOf(classNeedle.toLowerCase());
@@ -261,6 +341,14 @@ function extractChapterLabel(sectionHtml: string): string | undefined {
 
   if (parts.length === 0) return undefined;
   return parts.join(' / ');
+}
+
+function extractPartOrChapterLabel(blockHtml: string, noClass: string, nameClass: string): string | undefined {
+  const no = extractHierarchyLabel(blockHtml, noClass);
+  const name = extractHierarchyLabel(blockHtml, nameClass);
+  if (!no && !name) return undefined;
+  if (no && name) return `${no}: ${name}`;
+  return no ?? name;
 }
 
 function htmlFragmentToText(fragment: string): string {
@@ -357,6 +445,94 @@ export function parseSectionPage(html: string): SectionPageData {
 
 export function buildProvisionRef(sectionPageId: string): string {
   return `sec${sectionPageId}`;
+}
+
+function inferDocumentStatus(html: string, title: string): DocumentStatus {
+  const repealedSection = html.match(/<section class="bt-act-repealed[\s\S]*?<\/section>/i);
+  if (repealedSection) {
+    const text = cleanInlineText(repealedSection[0]).toLowerCase();
+    if (/(repeal|repealed|রহিত|বাতিল)/.test(text)) {
+      return 'repealed';
+    }
+  }
+
+  if (/(amendment|সংশোধন)/i.test(title)) {
+    return 'amended';
+  }
+
+  return 'in_force';
+}
+
+export function parseFullActDetailsPage(html: string): FullActDetailsData {
+  const normalizedHtml = html.replace(/^\uFEFF/, '');
+  const title = extractTitleTag(normalizedHtml);
+  const description = extractMetaDescription(normalizedHtml);
+  const issuedDate = extractPublishedDateIso(normalizedHtml);
+  const status = inferDocumentStatus(normalizedHtml, title);
+
+  const partBlocks = findDivBlocksByClass(normalizedHtml, 'act-part-group');
+  const chapterBlocks = findDivBlocksByClass(normalizedHtml, 'act-chapter-group');
+  const headingBlocks = findDivBlocksByClass(normalizedHtml, 'col-sm-3 txt-head');
+  const contentBlocks = findDivBlocksByClass(normalizedHtml, 'col-sm-9 txt-details');
+
+  type Event = { type: 'part' | 'chapter' | 'heading' | 'content'; block: DivBlock };
+  const events: Event[] = [
+    ...partBlocks.map(block => ({ type: 'part' as const, block })),
+    ...chapterBlocks.map(block => ({ type: 'chapter' as const, block })),
+    ...headingBlocks.map(block => ({ type: 'heading' as const, block })),
+    ...contentBlocks.map(block => ({ type: 'content' as const, block })),
+  ].sort((a, b) => a.block.start - b.block.start);
+
+  const sections: FullActSection[] = [];
+  let currentPart: string | undefined;
+  let currentChapter: string | undefined;
+  let pendingHeading: string | undefined;
+
+  for (const event of events) {
+    if (event.type === 'part') {
+      currentPart = extractPartOrChapterLabel(event.block.raw, 'act-part-no', 'act-part-name');
+      continue;
+    }
+
+    if (event.type === 'chapter') {
+      currentChapter = extractPartOrChapterLabel(event.block.raw, 'act-chapter-no', 'act-chapter-name');
+      continue;
+    }
+
+    if (event.type === 'heading') {
+      pendingHeading = cleanInlineText(event.block.inner);
+      continue;
+    }
+
+    if (!pendingHeading) continue;
+
+    const content = htmlFragmentToText(event.block.inner);
+    if (!content) {
+      pendingHeading = undefined;
+      continue;
+    }
+
+    const parsed = parseSectionLabel(pendingHeading, sections.length);
+    const chapterParts = [currentPart, currentChapter].filter(Boolean) as string[];
+    const chapter = chapterParts.length > 0 ? chapterParts.join(' / ') : undefined;
+
+    sections.push({
+      section: parsed.section,
+      heading: parsed.title,
+      chapter,
+      content,
+    });
+
+    pendingHeading = undefined;
+  }
+
+  return {
+    title,
+    description,
+    issuedDate,
+    status,
+    sections,
+  };
 }
 
 function isDefinitionCandidate(provision: ParsedProvision): boolean {

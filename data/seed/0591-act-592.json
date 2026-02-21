@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-592",
+  "type": "statute",
+  "title": "The Defence Services (Supreme Command) Ordinance, 1979",
+  "title_en": "The Defence Services (Supreme Command) Ordinance, 1979",
+  "short_name": "Act 592",
+  "status": "repealed",
+  "issued_date": "1979-03-31",
+  "in_force_date": "1979-03-31",
+  "url": "http://bdlaws.minlaw.gov.bd/act-592.html",
+  "description": "An Ordinance to provide for regulation of the exercise of the Supreme command of the defence services vested in the President. WHEREAS it is expedient to provide for regulation of the exercise of the supreme command of the defence services vested in the President; NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and 8th November, 1975, and in exercise of all powers enabling him in that b...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Defence Services (Supreme Command) Ordinance, 1979 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Exercise of supreme command by the President",
+      "content": "2. (1) The President shall be the Supreme Commander of the Defence Services and shall exercise the supreme command of the defence services vested in him under Article 61 of the Constitution through the Chiefs of Staff of the defence services.\n(2) The Chiefs of Staff of the defence services shall exercise their command over the forces under them subject to the general direction and control of the President."
+    }
+  ],
+  "definitions": []
+}

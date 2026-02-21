@@ -1,0 +1,51 @@
+{
+  "id": "bd-act-341",
+  "type": "statute",
+  "title": "The Reservists (Reinstatement in Civil Employment) Ordinance, 1965",
+  "title_en": "The Reservists (Reinstatement in Civil Employment) Ordinance, 1965",
+  "short_name": "Act 341",
+  "status": "in_force",
+  "issued_date": "1965-07-21",
+  "in_force_date": "1965-07-21",
+  "url": "http://bdlaws.minlaw.gov.bd/act-341.html",
+  "description": "An Ordinance to provide for the reinstatement in civil employment of reservists called up for service or training in any of the Defence Services. WHEREAS it is expedient to provide for the reinstatement in civil employment of reservists called up for service or training in any of the Defence Services and matters ancillary thereto; AND WHEREAS the national interest of Pakistan in relation to the achievement of unif...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Reservists (Reinstatement in Civil Employment) Ordinance, 1965 .\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “employer” means any person who employs any other person, either directly or through another person, whether on behalf of himself or any other person, and includes Government and any corporation, institution or undertaking established or set up under any law or by or under the authority of Government;\n(b) “reservist” has the same meaning as in the [* * *] Army and Air Force Reserves Act, 1950 , and includes a person who is liable to be recalled after retirement, release or discharge to service or training under any rule or regulation made under the [* * *] Army Act, 1952 , the [* * *] Air Force Act, 1953 and the [* * *] Navy Ordinance, 1961 ."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Reinstatement of reservists called up for army service, etc.",
+      "content": "3. (1) Notwithstanding anything contained in any other law for the time being in force or in any contract or agreement, a reservist who has been called up for service or training whether before or after the commencement of this Ordinance shall, upon the termination of such service or training, be entitled to reinstatement in the employment from which he was released at the time he was called up and the employer shall reinstate such reservist in such employment or, if such reinstatement is less favourable to the reservist than that to which he would, in the ordinary course, have been entitled, give him such employment as is not so less favourable:\nProvided that the employer shall not be required to reinstate or employ any reservist if he does not apply or report to the employer for the purpose within three months of his release from service or training.\n(2) Where for any reason reinstatement or employment of a reservist under sub-section (1) is not practicable, the employer shall, within ten days from the date on which the reservist applies or reports himself for reinstatement or employment, make an application to the Government or an authority empowered by it in this behalf for exemption from the provisions of sub-section (1) and send a copy thereof to such reservists.\n(3) Upon an application under sub-section (2) the Government or the authority empowered by it shall, after such enquiry and hearing as it considers necessary, make an order-\n(a) exempting the employer from the provisions of sub-section (1); or\n(b) requiring the employer to reinstate or give employment to the reservist on such terms and conditions as it may specify in the order.\n(4) If any employer contravenes the provisions of sub-section (1) or fails or neglects to carry out an order under sub-section (3), he shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand [Taka], or with both, and the Court convicting him shall direct that the employer shall also pay as compensation to the reservist concerned an amount equal to six months' remuneration of the reservist at the rate to which he was entitled when he was released.\n[(4A) Where the person guilty of an offence under this Ordinance is a company or other body corporate, every director, manager, secretary or other officer thereof who is, for the time being, competent to comply with the provisions of this Ordinance shall, unless he proves that he exercised all due diligence to prevent the commission of the offence, be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.]\n(5) No Court inferior to that of a Magistrate of the first class invested with powers under section 30 of the Code of Criminal Procedure, 1898 , shall try an offence under this section."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Jurisdiction of Courts barred",
+      "content": "4. No order made or proceedings taken under this Ordinance shall be called in question in any Court."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Power to make rules",
+      "content": "5. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "employer",
+      "definition": "any person who employs any other person, either directly or through another person, whether on behalf of himself or any other person, and includes Government and any corporation, institution or undertaking established or set up under any law or by or under the authority of Government",
+      "source_provision": "sec2"
+    }
+  ]
+}

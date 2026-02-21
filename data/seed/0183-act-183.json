@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-183",
+  "type": "statute",
+  "title": "The Commercial Documents Evidence Act, 1939",
+  "title_en": "The Commercial Documents Evidence Act, 1939",
+  "short_name": "Act 183",
+  "status": "in_force",
+  "issued_date": "1939-09-26",
+  "in_force_date": "1939-09-26",
+  "url": "http://bdlaws.minlaw.gov.bd/act-183.html",
+  "description": "An Act to amend the Law of Evidence with respect to certain commercial documents. WHEREAS it is expedient to amend the Law of Evidence with respect to certain commercial documents; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Commercial Documents Evidence Act, 1939 .\n(2) It extends to the whole of Bangladesh."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Statements of relevant facts in scheduled documents to be themselves relevant facts",
+      "content": "2. Notwithstanding anything contained in the Evidence Act, 1872 , statements of facts in issue or of relevant facts made in any document included in the Schedule as to matters usually stated in such document shall be themselves relevant facts within the meaning of that Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Presumption as to genuineness of documents",
+      "content": "3. For the purposes of the Evidence Act, 1872 , and notwithstanding anything contained therein, a Court-\n(a) shall presume, within the meaning of that Act, in relation to documents included in Part I of the Schedule, and\n(b) may presume, within the meaning of that Act, in relation to documents included in Part II of the Schedule-\nthat any document purporting to be a document included in Part I or Part II of the Schedule, as the case may be, and to have been duly made by or under the appropriate authority, was so made and that the statements contained therein are accurate."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Definition",
+      "content": "4. In the Schedule the expression “recognised Chamber of Commerce” means a Chamber of Commerce recognised by the Government of its country as being competent to issue certificates of origin, and includes any other association similarly recognised."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "recognised Chamber of Commerce",
+      "definition": "a Chamber of Commerce recognised by the Government of its country as being competent to issue certificates of origin, and includes any other association similarly recognised.",
+      "source_provision": "sec4"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-196",
+  "type": "statute",
+  "title": "The Armed Forces (Special Powers) Ordinance, 1942",
+  "title_en": "The Armed Forces (Special Powers) Ordinance, 1942",
+  "short_name": "Act 196",
+  "status": "in_force",
+  "issued_date": "1942-08-15",
+  "in_force_date": "1942-08-15",
+  "url": "http://bdlaws.minlaw.gov.bd/act-196.html",
+  "description": "An Ordinance to confer certain special powers upon certain officers of the armed forces. WHEREAS an emergency has arisen which makes it necessary to confer certain special powers upon certain officers of the armed forces; NOW, THEREFORE, in exercise of the powers conferred by section 72 of the Government of India Act as set out in the Ninth Schedule to the Government of India Act, 1935, the Governor General is ple...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Armed Forces (Special Powers) Ordinance, 1942 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Power to certain officers of armed forces to order use of force in certain circumstances",
+      "content": "2. (1) Any officer not below the rank of Captain in the military forces of Bangladesh and any officer holding equivalent rank either in the naval or air forces of Bangladesh or in the forces of a foreign power allied with Bangladesh or in the forces of a foreign authority recognised by Government as competent to maintain armed forces for service in association with the forces of Bangladesh [* * *] may, if in his opinion it is necessary for the proper performance of his duty so to do, by general or special order in writing, require any personnel under his command to use such force as may be necessary, even to the causing of death, against any person who-\n(a) fails to halt when challenged by a sentry, or\n(b) does, attempts to do, or appears to be about to do or attempt to do, any such act as would endanger or damage any property of any description whatsoever which it is the duty of such officer to protect;\nand it shall be lawful for such personnel, when so ordered, to use such force against such person.\n(2) The use of force against any person in obedience to an order under sub section (1) shall include the power to arrest and take into custody such person, and the use of such force as may be necessary, even to the causing of death, in order to effect such arrest."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Arrested persons to be made over to appropriate authority",
+      "content": "3. Any person arrested and taken into custody under this Ordinance shall, as soon as practicable, be made over, together with a report of the circumstances occasioning the arrest, to the officer in charge of the nearest police station, or where the said person is a person subject to military law, to the appropriate military officer."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Protection to persons acting under this Ordinance",
+      "content": "4. No prosecution, suit or other legal proceedings for any order purporting to be made under this Ordinance or for any act purporting to be done in obedience to any such order shall be instituted in any Court except with the previous sanction of the [Government], and notwithstanding anything contained in any other law for the time being in force, no person purporting in good faith to make such an order or to do any act in obedience thereto shall, whatever consequences ensue, be liable therefore."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-179",
+  "type": "statute",
+  "title": "The Criminal Law Amendment Act, 1938",
+  "title_en": "The Criminal Law Amendment Act, 1938",
+  "short_name": "Act 179",
+  "status": "amended",
+  "issued_date": "1938-09-14",
+  "in_force_date": "1938-09-14",
+  "url": "http://bdlaws.minlaw.gov.bd/act-179.html",
+  "description": "An Act to amend the criminal law. WHEREAS it is expedient to supplement the criminal law by providing for the punishment of certain acts prejudicial to the recruitment of persons to serve in, and to the discipline of, the Armed Forces of Bangladesh; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Criminal Law Amendment Act, 1938 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint in this behalf, [* * *]"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Dissuasion from enlistment and instigation to mutiny or insubordination after enlistment",
+      "content": "2. Whoever-\n(a) with intent to affect adversely the recruitment of persons to serve in the Military, Naval or Air Forces of [Bangladesh], wilfully dissuades or attempts to dissuade the public or any person from entering any such Forces, or\n(b) without dissuading or attempting to dissuade any person from entering such Forces, instigates the public or any person to do, after entering any such Force, anything which is an offence punishable as mutiny or insubordination [31 of the Army Act, 1952 , or sections 36, 40 and 41 of the Navy Ordinance, 1961 , or sections 37 and 42 of the Air Force Act, 1953 ], as the case may be,\nshall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.\nNo person shall be prosecuted for any offence under this Act except with the previous sanction of the Government.\nException 1.- The provisions of clause (a) of this section do not extend to comments on or criticism of the policy of Government in connection with the Military, Naval or Air Forces, made in good faith without any intention of dissuading from enlistment.\nException 2.- The provisions of clause (a) of this section do not extend to the case in which advice is given in good faith for the benefit of the individual to whom it is given, or for the benefit of any member of his family or of any of his dependants."
+    }
+  ],
+  "definitions": []
+}

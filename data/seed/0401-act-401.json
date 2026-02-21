@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-401",
+  "type": "statute",
+  "title": "The Bangladesh (Budgetary Provisions) Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh (Budgetary Provisions) Order, 1972 (President's Order)",
+  "short_name": "Act 401",
+  "status": "in_force",
+  "issued_date": "1972-06-29",
+  "in_force_date": "1972-06-29",
+  "url": "http://bdlaws.minlaw.gov.bd/act-401.html",
+  "description": "WHEREAS it is expedient to make provisions for authentication of the schedule of authorised expenditure; NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that behalf, the President is pleased to make the following Order:-",
+  "provisions": [
+    {
+      "provision_ref": "sec23854",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh (Budgetary Provisions) Order, 1972.\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec23855",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. (1) The President shall, in respect of a financial year, cause to be prepared before the commencement of that year an Annual Budget Statement specifying the estimated receipts into, and the estimated expenditure from, the Consolidated Fund and may cause to be prepared Supplementary Budget Statements and Excess Budget Statements as and when required.\n(2) Notwithstanding anything contained in the preceding Article, the President shall cause an Annual Budget Statement to be prepared in relation to the affairs of the Government of Bangladesh in respect of the period commencing from the 16th day of December, 1971 and ending on the 30th day of June, 1972 and shall authenticate the same by signature on or before the 30th day of June, 1972.\n(3) The President shall cause to be prepared a Schedule of the estimated expenditure from the Consolidated Fund and shall, by his signature, authenticate the schedule which shall be called the Schedule of Authorised Expenditure.\n(4) The Schedule of Authorised Expenditure, as authenticated by the President, shall be the authority for withdrawal of moneys from the Consolidated Fund."
+    }
+  ],
+  "definitions": []
+}

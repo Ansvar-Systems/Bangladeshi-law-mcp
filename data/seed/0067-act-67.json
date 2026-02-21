@@ -1,0 +1,88 @@
+{
+  "id": "bd-act-67",
+  "type": "statute",
+  "title": "The Bankers' Book Evidence Act, 1891",
+  "title_en": "The Bankers' Book Evidence Act, 1891",
+  "short_name": "Act 67",
+  "status": "repealed",
+  "issued_date": "1890-10-01",
+  "in_force_date": "1890-10-01",
+  "url": "http://bdlaws.minlaw.gov.bd/act-67.html",
+  "description": "An Act to amend the Law of Evidence with respect to Bankers' Books. WHEREAS it is expedient to amend the Law of Evidence with respect to Bankers' books; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Title and extent",
+      "content": "1.(1) This Act may be called the Bankers' Books Evidence Act, 1891.\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is something repugnant in the subject or context,-\n[(1) \"Company\" means a company registered under any of the enactments relating to companies for the time being in force in Bangladesh or incorporated by any Bangladesh Law;]\n(2) \"bank\" and \"banker\" mean-\n(a) any company carrying on the business of bankers,\n[* * *]\n(c) any post office savings bank or money order office:\n(3) \"bankers' books\" include ledgers, day-books, cash-books, account-books and all other books used in the ordinary business of a bank:\n(4) \"legal proceeding\" means any proceeding or inquiry in which evidence is or may be given, and includes an arbitration:\n(5) \"the Court\" means the person or persons before whom a legal proceeding is held or taken:\n(6) \"Judge\" means a Judge of [the High Court Division]:\n(7) \"trial\" means any hearing before the Court at which evidence is taken: and\n(8) \"certified copy\" means a copy of any entry in the books of a bank together with a certificate written at the foot of such copy that it is a true copy of such entry, that such entry is contained in one of the ordinary books of the bank and was made in the usual and ordinary course of business, and that such book is still in the custody of the bank, such certificate being dated and subscribed by the principal accountant or manager of the bank with his name and official title."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. [OMITTED]",
+      "content": "3. [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Mode of proof of entries in bankers' books",
+      "content": "4. Subject to the provisions of this Act, a certified copy of any entry in a banker's book shall in all legal proceedings be received as prima facie evidence of the existence of such entry, and shall be admitted as evidence of the matters, transactions and accounts therein recorded in every case where, and to the same extent as, the original entry itself is now by law admissible, but not further or otherwise."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Case in which officer of bank not compellable to produce books",
+      "content": "5. No officer of a bank shall in any legal proceeding to which the bank is not a party be compellable to produce any banker's book the contents of which can be proved under this Act, or to appear as a witness to prove the matters, transactions and accounts therein recorded, unless by order of the Court or a Judge made for special cause."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Inspection books by order of Court or Judge",
+      "content": "6. (1) On the application of any party to a legal proceeding the Court or a Judge may order that such party be at liberty to inspect and take copies of any entries in a banker's book for any of the purposes of such proceeding, or may order the bank to prepare and produce, within a time to be specified in the order, certified copies of all such entries, accompanied by a further certificate that no other entries are to be found in the books of the bank relevant to the matters in issue in such proceeding, and such further certificate shall be dated and subscribed in manner hereinbefore directed in reference to certified copies.\n(2) An order under this or the preceding section may be made either with or without summoning the bank, and shall be served on the bank three clear days (exclusive of bank holidays) before the same is to be obeyed, unless the Court or Judge shall otherwise direct.\n(3) The bank may at any time before the time limited for obedience to any such order as aforesaid either offer to produce their books at the trial or give notice of their intention to show cause against such order, and thereupon the same not be enforced without further order."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Costs",
+      "content": "7. (1) The costs of any application to the Court or a Judge under or for the purposes of this Act and the costs of anything done or to be done under an order of the Court or a Judge made under or for the purposes of this Act shall be in the discretion of the Court or Judge, who may further order such costs or any part thereof to be paid to any party by the bank if they have been incurred in consequence of any fault or improper delay on the part of the bank.\n(2) Any order made under this section for the payment of costs to or by a bank may be enforced as if the bank were a party to the proceeding.\n(3) Any order under this section awarding costs may, on application to any Court of Civil Judicature designated in the order, be executed by such Court as if the order were a decree for money passed by itself:\nProvided that nothing in this sub-section shall be construed to derogate from any power which the Court or Judge making the order may possess for the enforcement of its or his directions with respect to the payment of costs."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Company",
+      "definition": "a company registered under any of the enactments relating to companies for the time being in force in Bangladesh or incorporated by any Bangladesh Law",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "legal proceeding",
+      "definition": "any proceeding or inquiry in which evidence is or may be given, and includes an arbitration:",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "the Court",
+      "definition": "the person or persons before whom a legal proceeding is held or taken:",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Judge",
+      "definition": "a Judge of [the High Court Division]:",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "trial",
+      "definition": "any hearing before the Court at which evidence is taken: and",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "certified copy",
+      "definition": "a copy of any entry in the books of a bank together with a certificate written at the foot of such copy that it is a true copy of such entry, that such entry is contained in one of the ordinary books of the bank and was made in the usual and ordinary course of business, and that such book is still in the custody of the bank, such certificate being dated and subscribed by the principal accountant or manager of the bank with his name and official title.",
+      "source_provision": "sec2"
+    }
+  ]
+}

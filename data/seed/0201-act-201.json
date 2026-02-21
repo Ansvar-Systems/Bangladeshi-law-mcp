@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-201",
+  "type": "statute",
+  "title": "The Hindu Women's Rights to Property (Extension to Agricultural Land) Act, 1943 (Assam Act)",
+  "title_en": "The Hindu Women's Rights to Property (Extension to Agricultural Land) Act, 1943 (Assam Act)",
+  "short_name": "Act 201",
+  "status": "in_force",
+  "issued_date": "1943-12-15",
+  "in_force_date": "1943-12-15",
+  "url": "http://bdlaws.minlaw.gov.bd/act-201.html",
+  "description": "An Act to extend the operation of the Hindu Women’s Rights to Property Act, 1937, and the Hindu Women’s Rights to Property (Amendment) Act, 1938, to agricultural land in the district of Sylhet. WHEREAS the Hindu Women’s Rights to Property Act, 1937, and the Hindu Women’s Rights to Property (Amendment) Act, 1938, purport to give better rights to women in respect of property in general; AND WHEREAS transactions have...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Hindu Women's Rights to Property (Extension to Agricultural Land) Act, 1943.\n(2) It extends to the whole of the district of Sylhet.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. “Property” to include agricultural land",
+      "content": "2. The term “property” in the Hindu Women's Rights to Property Act, 1937 , and the Hindu Women's Rights to Property (Amendment) Act, 1938, shall include, and shall be deemed always to have included, agricultural land:\nProvided that where any person who, but for this Act, would have been entitled to any property has been in possession or has made a transfer thereof, his possession till the commencement of this Act shall be deemed to be as lawful, and the transfer made by him shall be deemed to be as valid, as if this Act had not been passed."
+    }
+  ],
+  "definitions": []
+}

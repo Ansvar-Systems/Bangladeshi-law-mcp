@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-292",
+  "type": "statute",
+  "title": "The Rent Receipt Ordinance, 1959 (East Pakistan Ordinance)",
+  "title_en": "The Rent Receipt Ordinance, 1959 (East Pakistan Ordinance)",
+  "short_name": "Act 292",
+  "status": "in_force",
+  "issued_date": "1959-08-15",
+  "in_force_date": "1959-08-15",
+  "url": "http://bdlaws.minlaw.gov.bd/act-292.html",
+  "description": "An Ordinance to make provision for prevention of issue, possession and use of ante-dated rent-receipt by any person. WHEREAS it is expedient to make provision for prevention of issue, possession and use of ante-dated rent-receipt by any person; NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of October, 1958, and in exercise of all powers enabling him in that behalf, the Governor o...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Rent-receipt Ordinance, 1959.\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Prohibition of issue, possession and use of ante-dated rent-receipt",
+      "content": "2. Whoever issues any ante-dated rent-receipt or amalnama or has in his possession any ante-dated rent-receipt or amalnama, knowing or having reason to believe the same to be ante-dated, or uses the same as genuine, shall be punished with imprisonment for a term which may extend to five years, or with fine, or with both."
+    }
+  ],
+  "definitions": []
+}

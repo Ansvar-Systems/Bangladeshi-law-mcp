@@ -1,0 +1,77 @@
+{
+  "id": "bd-act-357",
+  "type": "statute",
+  "title": "The Pilotage Ordinance, 1969 (East Pakistan Ordinance)",
+  "title_en": "The Pilotage Ordinance, 1969 (East Pakistan Ordinance)",
+  "short_name": "Act 357",
+  "status": "in_force",
+  "issued_date": "1969-06-06",
+  "in_force_date": "1969-06-06",
+  "url": "http://bdlaws.minlaw.gov.bd/act-357.html",
+  "description": "An Ordinance to provide for pilotage for certain vessels plying on inland waters of Bangladesh. WHEREAS it is expedient to provide for pilotage for certain vessels plying on inland waters of Bangladesh; NOW, THEREFORE, in pursuance of the Proclamation of the 25th day of March, 1969, read with the Provisional Constitution Order, and in exercise of all powers enabling him in that behalf, the Martial Law Administrato...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Pilotage Ordinance, 1969.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “Authority” means the Bangladesh Inland Water Transport Authority;\n(b) “Chairman” means the Chairman of the Authority;\n(c) “inland water” means any canal, river or other navigable water in Bangladesh;\n(d) “pilot” means a pilot of the Authority;\n(e) “vessel” means every description of vessel ordinarily plying on inland waters and propelled wholly or in part by steam, electricity or other mechanical power, and includes a dumb barge, flat and any other craft not mechanically propelled when towed or pushed by a mechanically propelled vessel."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Certain vessels not to ply without pilot",
+      "content": "3. (1) A vessel not registered in Bangladesh shall not ply on any inland water without a pilot on board [:\nProvided that a vessel chartered for movement of food and relief materials may ply without such a Pilot.]\n(2) A vessel registered in Bangladesh and having a hull of one hundred tons or above displacement shall not ply without a pilot on board on any inland water between-\n(a) Chandpur and Barisal,\n(b) Chandpur and Ilishaghat,\n(c) Barisal and Ilishaghat, [* * *]\n(d) Ilishaghat and Chittagong [, and]\n[(e) Mongla and Jhalokati via Mongla-Ghasiakhali Canal.]\n(3) Notwithstanding anything contained in sub-sections (1) and (2), the owner, the agent or the master of a vessel, which is by these sub-sections required to have a pilot on board, shall be answerable for any loss or damage caused by the vessel or by any fault of the navigation of the vessel in the same manner as he would have been if the vessel had not been so required by these sub-sections."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Penalty",
+      "content": "4. If any vessel plies in contravention of section 3, the owner, the agent and the master thereof shall each be punishable with fine which may extend to five hundred rupees, or with imprisonment for a term which may extend to six months, or with both."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Procedure",
+      "content": "5. (1) No Court inferior to that of a Magistrate of the first class shall try an offence under this Ordinance.\n(2) A Court trying an offence under this Ordinance may make orders for the detention of the vessel till such time as a pilot is taken on board.\n(3) No prosecution for an offence punishable under this Ordinance shall be instituted except on a complaint made in writing by the Chairman or any person authorised by the Chairman in this behalf.\n(4) An offence under this Ordinance may be tried in any place in which the offender may be found or which the Government, by notification in the official Gazette, appoints in this behalf or in any other place in which the offender might be tried under the Code of Criminal Procedure, 1898 ."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Power to make rules",
+      "content": "6. The Government may make rules for carrying out the purposes of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Bangladesh Inland Water Transport Authority",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Chairman",
+      "definition": "the Chairman of the Authority",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "inland water",
+      "definition": "any canal, river or other navigable water in Bangladesh",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "pilot",
+      "definition": "a pilot of the Authority",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "vessel",
+      "definition": "every description of vessel ordinarily plying on inland waters and propelled wholly or in part by steam, electricity or other mechanical power, and includes a dumb barge, flat and any other craft not mechanically propelled when towed or pushed by a mechanically propelled vessel.",
+      "source_provision": "sec2"
+    }
+  ]
+}

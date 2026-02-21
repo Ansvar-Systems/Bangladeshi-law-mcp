@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-501",
+  "type": "statute",
+  "title": "The Government of Bangladesh (Services) (Repeal) Ordinance, 1975",
+  "title_en": "The Government of Bangladesh (Services) (Repeal) Ordinance, 1975",
+  "short_name": "Act 501",
+  "status": "in_force",
+  "issued_date": "1975-08-22",
+  "in_force_date": "1975-08-22",
+  "url": "http://bdlaws.minlaw.gov.bd/act-501.html",
+  "description": "An Ordinance to repeal the Government of Bangladesh (Services) Order, 1972. WHEREAS it is expedient to repeal the Government of Bangladesh (Services) Order, 1972 (P.O.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Government of Bangladesh (Services) (Repeal) Ordinance, 1975 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of P.O. No. 9 of 1972",
+      "content": "2. The Government of Bangladesh (Services) Order, 1972 (P.O. No. 9 of 1972), is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

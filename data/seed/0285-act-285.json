@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-285",
+  "type": "statute",
+  "title": "The Cattle (Prevention of Trespass) Ordinance, 1959 (East Pakistan Ordinance)",
+  "title_en": "The Cattle (Prevention of Trespass) Ordinance, 1959 (East Pakistan Ordinance)",
+  "short_name": "Act 285",
+  "status": "in_force",
+  "issued_date": "1959-01-24",
+  "in_force_date": "1959-01-24",
+  "url": "http://bdlaws.minlaw.gov.bd/act-285.html",
+  "description": "WHEREAS it is expedient to supplement the law relating to trespass and damage of crops by cattle; NOW, THEREFORE, in pursuance of the Presidential Proclamation of the 7th day of October, 1958 and in exercise of all powers enabling him in that behalf, the Governor of East Pakistan is pleased to make and promulgate the following Ordinance, namely:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Cattle (Prevention of Trespass) Ordinance, 1959.\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force on such date and in such areas as the [Government] may, by notification in the official Gazette, direct."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Prevention of trespass and damage by cattle",
+      "content": "2. (1) Any Police officer may take charge of any cattle which may be found straying in any street or trespassing on any land, and doing damage thereto or to the crop or produce thereon and may take or send the same to the nearest pound.\n(2) If any cattle is found straying in a street or trespassing on any land or doing damage thereto or to any plant or crop or produce thereon with the knowledge or connivance of the keeper or where there is no keeper, the owner, such keeper or owner, as the case may be, shall, on conviction by a Magistrate, be punishable with fine which may extend to [Tk] 200."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Interpretation",
+      "content": "3. (1) All words and expressions used in this Ordinance and defined in the Cattle Trespass Act, 1871, shall be deemed to have the meanings respectively attributed to them by that Act.\n(2) The provisions of this Ordinance shall be in addition to and not in derogation of the provision of the Cattle Trespass Act, 1871."
+    }
+  ],
+  "definitions": []
+}

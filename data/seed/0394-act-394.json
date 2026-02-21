@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-394",
+  "type": "statute",
+  "title": "The Bangladesh Taxation Laws (Adaptation) Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh Taxation Laws (Adaptation) Order, 1972 (President's Order)",
+  "short_name": "Act 394",
+  "status": "in_force",
+  "issued_date": "1972-06-08",
+  "in_force_date": "1972-06-08",
+  "url": "http://bdlaws.minlaw.gov.bd/act-394.html",
+  "description": "WHEREAS the Laws Continuance Enforcement Order provides that all laws which were in force on the 25th day of March, 1971 in the territories now comprised in the People’s Republic of Bangladesh shall continue to be in force in Bangladesh subject to such consequential changes as may be necessary; NOW, THEREFORE, in pursuance of Proclamation of Independence of Bangladesh, read with the Provisional Constitution of Ban...",
+  "provisions": [
+    {
+      "provision_ref": "sec23709",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh Taxation Laws (Adaptation) Order, 1972.\n(2) It shall come into force at once and shall be deemed to have taken effect on the 26th day of March, 1971."
+    },
+    {
+      "provision_ref": "sec23710",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. The taxation laws specified in the Schedule shall, until repealed or amended by competent authority, have effect and be deemed to have at all material times had effect subject to the modifications directed by the Schedule."
+    }
+  ],
+  "definitions": []
+}

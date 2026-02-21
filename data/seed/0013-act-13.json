@@ -1,0 +1,171 @@
+{
+  "id": "bd-act-13",
+  "type": "statute",
+  "title": "The Stage-Carriages Act, 1861",
+  "title_en": "The Stage-Carriages Act, 1861",
+  "short_name": "Act 13",
+  "status": "in_force",
+  "issued_date": "1861-07-07",
+  "in_force_date": "1861-07-07",
+  "url": "http://bdlaws.minlaw.gov.bd/act-13.html",
+  "description": "An Act for licensing and regulating Stage-Carriages WHEREAS it is expedient to license and to regulate stage-carriages in Bangladesh; It is enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Definition of stage-carriage",
+      "content": "1. Every carriage drawn by one or more horses which shall ordinarily be used for the purpose of conveying passengers for hire to or from any place in Bangladesh shall, without regard to the form or construction of such carriage, be deemed to be a stage-carriage within the meaning of this Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Carriages to be licensed",
+      "content": "2. No carriage shall be used as a stage-carriage unless licensed by a Magistrate."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to refuse license",
+      "content": "3. The Magistrate to whom the application for a license of stage-carriage is made may refuse to license the same if he shall be of opinion that such stage-carriage is unserviceable or is unsafe or unfit for public accommodation or use."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Particulars of license",
+      "content": "If a Magistrate as aforesaid shall grant a license, the license shall set forth the number thereof, the name and residence of the proprietor of the stage-carriage, the place at which his head office is held, the largest number of passengers and the greatest weight of luggage to be carried in or on such carriage, the number of horses by which such carriage is to be drawn, and the name of the place at which such carriage is licensed."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Charge for and duration of license",
+      "content": "4. For every such license there shall be paid by the proprietor of the stage-carriage the sum of five taka or such less sum as the Government may fix, and such license shall be in force for one year from the date thereof.\nWhen a licensed stage-carriage is transferred to a new proprietor within the year, the name of such new proprietor shall, on application to that effect, be substituted in the license for the name of the former proprietor without any further payment for that year; and every person who appears by the license to be the proprietor shall be deemed to be such proprietor for all the purposes of this Act."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Particulars to be painted on conspicuous part of carriage",
+      "content": "5. On any stage-carriage being licensed the proprietor thereof shall cause the number of the license and all the other particulars of the license to be distinctly paint in the [Bengali] language and character upon a conspicuous part of such stage-carriage."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Penalty for letting carriage without having particulars painted",
+      "content": "6. The proprietor of any licensed stage-carriage who shall let such stage-carriage for hire without the particulars specified in section 3 being painted on such carriage in the manner directed in the last preceding section shall be liable to a fine not exceeding one hundred taka."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Penalty for letting for hire unlicensed carriage",
+      "content": "7. Whoever lets for hire any stage-carriage without the same being licensed as provided by this Act, shall be liable, on a first conviction, to a fine not exceeding one hundred taka, and on any subsequent conviction, to a fine which may extend to five hundred taka."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Penalty for allowing carriage to be drawn by fewer animals or more passengers, etc., to be carried than provided by license",
+      "content": "8. Any proprietor, or agent of a proprietor, or any driver of a licensed stage-carriage, who knowingly permits such carriage to be drawn by a less number of horses, or who knowingly permits a larger number of passengers, or a greater weight of luggage, to be carried by such stage-carriage than shall be provided by the license, shall be liable on a first conviction to a fine not exceeding one hundred taka and on any subsequent conviction, to a fine which may extend to five hundred taka.\nIn every case where such stage-carriage shall be proved to have been drawn by a less number of horses, or to have carried a larger number of passengers or a greater weight of luggage, than shall be provided by the license, the proprietor of such carriage shall be held to have knowingly permitted such offence, unless he shall prove that the offence was not committed with his connivance, and that he had taken every reasonable precaution and had made reasonable provision to prevent the commission of the offence."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Penalty for ill-treating animals",
+      "content": "9. Any person who shall cruelly beat, ill-treat, over-drive, abuse, torture or cause or procure to be cruelly beaten, ill-treated, over-driven, abused or tortured, any horse employed in drawing or harnessed to any stage-carriage, or who shall harness to or drive in any stage-carriage any horse which from sickness, age, wounds or other cause is unfit to be driven in such stage-carriage, shall for every such offence be liable to a fine not exceeding one hundred taka."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "11. Revocation of license",
+      "content": "10. Any Magistrate within the local limits of whose jurisdiction any stage-carriage shall ply, or who has granted the license of any stage-carriage may cancel the license of such stage-carriage if it shall appear to him that such stage-carriage or any horse or any harness used with such carriage is unserviceable or unsafe or otherwise unfit for public accommodation or use."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "12. Penalty for not conforming to provisions of section 5",
+      "content": "11. In any station or place in which a Magistrate shall reside and be, any police-officer may, in any place within two miles of the office of such Magistrate, seize any stage-carriage with the horse harnessed thereto, if the full particulars of the license of such stage-carriage be not distinctly painted on such stage-carriage in the manner provided in section 5 of this Act.\nSuch carriage with the horse harnessed thereto shall be taken without delay by such police-officer before such Magistrate, who shall forthwith proceed to hear and determine the complaint of such police-officer; and, if thereupon any fine is imposed by such Magistrate and such fine is paid, such stage-\ncarriage and horse shall be immediately released; and if such fine be not paid, such stage-carriage and horse may be detained for twenty days as security for the payment thereof; and if the fine be not sooner paid, they may be sold and the proceeds applied (so far as they extend) to the payment of the said fine, and all costs and charges incurred on account of the detention and sale; and the surplus (if any),when claimed, shall be paid to the proprietor of such carriage and horse; and if such surplus be not claimed within a further period of two months from such sale, the same shall be forfeited to the State.\nIf the proceeds of such sale do not fully pay the fine and costs and charges aforesaid, the balance may be recovered as hereinafter provided."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "13. Penalty for misconduct on part of drivers",
+      "content": "12. If any driver of any stage-carriage, or any other person having the care thereof, shall, through intoxication, neglect or by wanton or furious driving or by any other misconduct, endanger the safety of any passenger or other person, or shall injure or endanger the property of the proprietor of such stage-carriage or of any other person, every such person so offending shall be liable to a fine not exceeding one hundred taka."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "14. Penalty when recoverable from proprietor 14. Issue of summons",
+      "content": "13. Whenever the driver of any stage-carriage of the owner of any horse employed in drawing any stage-carriage shall have committed any offence against this Act for the commission where of any penalty is by this Act imposed, other than an offence specified in section 8, and such driver or owner shall not be known, or being known can not be found, or if the penalty cannot be recovered from such driver or owner, the proprietor of such carriage shall be liable to every such penalty as if he had been the driver of such carriage or owner of such horse at the time when such offence was committed:\nProvided that if any such proprietor shall make out, to the satisfaction of the Magistrate before whom any complaint or information shall be heard, by sufficient evidence, that the offence was committed by such driver or owner without\nthe privity or knowledge of such proprietor, and that no profit,\nadvantage or benefit, either directly or indirectly, has accrued or can accrue to such proprietor therefrom, and that he has used his endeavour to find out such driver or owner, and has done all that was in his power to recover the amount of the penalty from him, the Magistrate may discharge the proprietor from such penalty, and shall levy the same upon such driver or owner when found."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "15. Issue of summons",
+      "content": "14. Whenever any charge is made before any Magistrate of any offence under this Act on which it is necessary to issue a summons to the proprietor of a stage-carriage, the Magistrate shall issue such summons directed to such proprietor or his nearest agent, and may transmit such summons by letter-post, which shall be deemed to be good service thereof.\nThe letter shall be registered at the post-office, and the cost of the registration shall be borne by the Government in the first instance, but may be charged as costs in the case.\nThe summons shall allow a reasonable time, in reference to the distance to which the summons is sent, for the appearance of such proprietor or his agent as aforesaid."
+    },
+    {
+      "provision_ref": "sec16",
+      "section": "16",
+      "title": "16. Adjudication of penalties",
+      "content": "15. All penalties incurred under this Act shall be adjudged by a Magistrate as aforesaid, and all orders made under this Act by such Magistrate shall be final."
+    },
+    {
+      "provision_ref": "sec17",
+      "section": "17",
+      "title": "17. Recovery of penalties, etc.",
+      "content": "16. All penalties imposed under this Act, or any balance of any fine, costs or charges as mentioned in section 11 of this Act, may in case of non-payment or non-recovery thereof be levied by distress and sale of the moveable property of the offender by warrant under the hand of the Magistrate who imposed the same."
+    },
+    {
+      "provision_ref": "sec18",
+      "section": "18",
+      "title": "18. Offender may be apprehended and detained in custody until return of warrant of distress",
+      "content": "17. In case any such penalties shall not be forthwith paid, such Magistrate may order the offender to be apprehended and detained in safe custody until the return can be conveniently made to such warrant of distress, unless the offender shall give security to the satisfaction of such Magistrate for his appearance at such place and time as shall be appointed for the return of the warrant of distress."
+    },
+    {
+      "provision_ref": "sec19",
+      "section": "19",
+      "title": "19. Imprisonment of offender if distress not sufficient",
+      "content": "18. If upon the return of such warrant it shall appear that no sufficient distress can be had whereon to levy such penalty, and same shall not be forthwith paid, or in case it shall appear to the satisfaction of such Magistrate by the confession of the offender or otherwise that he has not sufficient goods and chattels whereupon such penalty could be levied if warrant of distress were issued, such Magistrate may, by warrant under his hand, commit the offender, to prison, there to be imprisoned, according to the discretion of such officer, for any term not exceeding two calendar months when the amount of penalty shall not exceed fifty taka, and for any term not exceeding four calendar months when the amount shall not exceed one hundred taka, and for any term not exceeding six calendar months in any other case, the commitment to be determinable in each of the cases aforesaid on payment of the amount."
+    },
+    {
+      "provision_ref": "sec20",
+      "section": "20",
+      "title": "20. [Omitted]",
+      "content": "19. [Omitted by the Central Laws (Adaptation) Order, 1961.]"
+    },
+    {
+      "provision_ref": "sec21",
+      "section": "21",
+      "title": "21. Jurisdiction",
+      "content": "20. On complaint made before any Magistrate of any offence committed under this Act, it shall not be necessary to prove that the offence was committed within the local limits of such Magistrate or other officer."
+    },
+    {
+      "provision_ref": "sec22",
+      "section": "22",
+      "title": "22. Power to make rules",
+      "content": "[20A. (1) The Government may, by notification in the official Gazette, make rules to carry out the purposes and objects of this Act in the territories under its administration or any part of the said territories.\n(2) In particular and without prejudice to the generality of the foregoing power, such rules may\n(a) prescribe forms for licenses under this Act, the sums payable for the same and the conditions on which they may be granted, and the cases in which they may be revoked;\n(b) provide for the inspection of stage-carriages, and of the animals employed in drawing them; and\n(c) regulate the number and length of the stages for which animals may be driven in stage-carriages and the manner in which they shall be harnessed and yoked.\n(3) In making any rule under this section, the Government may direct that a breach thereof shall be punishable with fine which may extend to one hundred taka.]"
+    },
+    {
+      "provision_ref": "sec23",
+      "section": "23",
+      "title": "23. Interpretation-clause “Magistrate”",
+      "content": "21. The term \"Magistrate\" in this Act shall include all Magistrates and other persons exercising the powers of a Magistrate:"
+    },
+    {
+      "provision_ref": "sec24",
+      "section": "24",
+      "title": "24. Act applicable to all animals used for drawing carriages",
+      "content": "All expressions and provisions which in this Act are applied to horses shall also apply to all other animals employed in drawing any carriage ordinarily used for the purpose of conveying passengers for hire to or from any place in Bangladesh."
+    },
+    {
+      "provision_ref": "sec25",
+      "section": "25",
+      "title": "25. Extent of Act",
+      "content": "22. This Act, as amended by subsequent Acts, extends to the whole of Bangladesh; but it shall not apply to carriages ordinarily paying for hire within the limits of any municipality or cantonment or other place in which any law for the regulation of carriages is for the time being in force."
+    },
+    {
+      "provision_ref": "sec26",
+      "section": "26",
+      "title": "26. Power to Government to exempt",
+      "content": "23. The Government may, by notifications in the official Gazette, exempt any carriages or class of carriages from all or any of the provisions of this Act."
+    }
+  ],
+  "definitions": []
+}

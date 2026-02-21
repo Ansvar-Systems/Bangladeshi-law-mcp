@@ -1,0 +1,57 @@
+{
+  "id": "bd-act-1312",
+  "type": "statute",
+  "title": "The Chittagong Hill-tracts (Land Acquisition) Regulation, 1958",
+  "title_en": "The Chittagong Hill-tracts (Land Acquisition) Regulation, 1958",
+  "short_name": "Act 1312",
+  "status": "in_force",
+  "issued_date": "1958-07-26",
+  "in_force_date": "1958-07-26",
+  "url": "http://bdlaws.minlaw.gov.bd/act-1312.html",
+  "description": "A Regulation to provide for the acquisition of land in the Chittagong Hill-tracts. WHEREAS by a Proclamation dated the 25th day of June, 1958, under Article 193 of the Constitution of the Islamic Republic of Pakistan, the President has assumed to himself all the powers vested in, or exercisable by the [Government]; AND WHEREAS the President has, in pursuance of sub-clause (i) of clause (c) of the said Proclamation...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Regulation may be called Chittagong Hill-tracts (Land Acquisition) Regulation, 1958 ' href='/act-1363.html'>THE Chittagong Hill-tracts (Land Acquisition) Regulation, 1958 .\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2.In this Regulation, unless there is anything repugnant in the subject or context,-\n(a) \"Deputy Commissioner\" means the Deputy Commissioner of the Chittagong Hill-tracts and includes any officer specially appointed by the [Government] to perform all or any of the functions of the Deputy Commissioner under this Regulation;\n(b) \"land\" includes benefits to arise out of land, and things attached to the earth or permanently fastened to anything attached to the earth;\n(c) \"Person interested\" includes all persons claiming an interest in the compensation to be paid on account of the acquisition of and under this Regulation."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Acquisition",
+      "content": "3.(1) When any land held on valid title, which is not resumable under the Chittagong Hill-tracts Regulation, 1900 , or the rules made thereunder, is required for any public purpose, the Deputy Commissioner may acquire such land by an order in writing.\n(2) When an order is made under sub-section (1), the Deputy Commissioner shall serve a copy of such order on the person or persons interested:\nProvided that if the Deputy Commissioner is of the opinion that the service of the copy of such order on each such person will cause delay in taking possession of the land, he may dispense with such service and cause a public notice of such order to be given at convenient places in the locality.\n(3) On and from the date of service of a copy of the order or publication of a notice under sub-section (2), the land so acquired shall vest absolutely in the [Government] free from all incumbrances and the Deputy Commissioner may take possession of such land by using such force as may be necessary."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Compensation",
+      "content": "4. (1) When any land is acquired under section 3, the [Government] shall pay compensation therefor as may be determined by the Deputy Commissioner and in determining the amount of such compensation, the Deputy Commissioner shall take into consideration,-\nfirstly , the market value of the land on the date of the order of acquisition, but he shall not take into consideration the changes in the value of the land resulting from the project to which the acquisition relates;\nsecondly , the damage sustained by the person interested by reason of the taking of any structures, bamboos, trees or standing crops which may be on the land at the time of the Deputy Commissioner's taking possession thereof;\nthirdly , the damage, if any, sustained by the person interested at the time of the Deputy Commissioner's taking possession of the land by reason of severing such land from his other land;\nfourthly , the damage, if any, sustained by the person interested at the time of the Deputy Commissioner's taking possession of the land, by reason of the acquisition injuriously affecting his other property, movable or immovable, in any other manner, or his earnings;\nfifthly , if in consequence of the acquisition of the land by the Deputy Commissioner the person interested is compelled to change his residence or place of business, the reasonable expenses, if any, incidental to such change; and\nsixthly, the damage, if any, bona fide resulting from diminution of the profits of the land between the time of the service of a copy of the order or publication of the notice under sub-section (2) of section 3 and the time of the Deputy Commissioner's taking possession of the land.\n[(2) In addition to the market value of the land, as provided above, the Deputy Commissioner shall, in every case, award a sum of 200 (two hundred) per centum for public purpose and 300 (three hundred) per centum for private purpose on such market value, in consideration of the compulsory nature of the acquisition.]"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Appeal",
+      "content": "5. (1) An appeal against an order made by the Deputy Commissioner determining the compensation under section 4 shall, if presented within thirty days of the date of service of the notice of such determination, lie to the [Government].\n(2) [The sub-section (2) was omitted by Article 3, Schedule of the Bangladesh Laws (Repealing and Amending) Order, 1973 (President's Order No. 12 of 1973).]"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Power to make rules",
+      "content": "6. The [Government] may make rules for carrying out the purposes of this Regulation."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Deputy Commissioner",
+      "definition": "the Deputy Commissioner of the Chittagong Hill-tracts and includes any officer specially appointed by the [Government] to perform all or any of the functions of the Deputy Commissioner under this Regulation",
+      "source_provision": "sec2"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-70",
+  "type": "statute",
+  "title": "The Government Grants Act, 1895",
+  "title_en": "The Government Grants Act, 1895",
+  "short_name": "Act 70",
+  "status": "in_force",
+  "issued_date": "1895-10-10",
+  "in_force_date": "1895-10-10",
+  "url": "http://bdlaws.minlaw.gov.bd/act-70.html",
+  "description": "An Act to explain the Transfer of Property Act, 1882, so far as relates to grants from the Government, and to remove certain doubts as to the powers of the Government in relation to such grants. WHEREAS doubts have arisen as to the extent and operation of the Transfer of Property Act, 1882, and as to the power of the Government to impose limitations and restrictions upon grants and other transfers of land made by ...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Title and extent",
+      "content": "1. (1) This Act may be called the Government Grants Act, 1895 .\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Transfer of Property Act, 1882, not to apply to Government grants",
+      "content": "2. Nothing in the Transfer of Property Act, 1882 , contained shall apply or be deemed ever to have applied to any grant or other transfer of land or of any interest therein heretofore made or hereafter to be made by or on behalf of the Government to, or in favour of, any person whomsoever; but every such grant and transfer shall be construed and take effect as if the said Act had not been passed."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Government grant to take effect according to their tenor",
+      "content": "3. All provisions, restrictions, conditions and limitations over contained in any such grant or transfer as aforesaid shall be valid and take effect according to their tenor, any rule of law, statute or enactment of the [Parliament] to the contrary notwithstanding."
+    }
+  ],
+  "definitions": []
+}

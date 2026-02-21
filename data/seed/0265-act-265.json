@@ -1,0 +1,75 @@
+{
+  "id": "bd-act-265",
+  "type": "statute",
+  "title": "The Food (Special Courts) Act, 1956 (East Pakistan Act)",
+  "title_en": "The Food (Special Courts) Act, 1956 (East Pakistan Act)",
+  "short_name": "Act 265",
+  "status": "repealed",
+  "issued_date": "1956-11-13",
+  "in_force_date": "1956-11-13",
+  "url": "http://bdlaws.minlaw.gov.bd/act-265.html",
+  "description": "An Act to provide for setting up of Courts for speedy trial of offences in relation to foodstuffs. WHEREAS it is expedient to provide for setting up of Courts for speedy trial of offences in relation to foodstuffs; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the [* * *] Food (Special Courts) Act, 1956.\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act unless there is anything repugnant in the subject or context,-\n(a) “foodstuffs” and “notified order” shall have the meanings respectively assigned to them in the [* * *] Control of Essential Commodities Act, 1956.\n(b) “Special Magistrate” means Special Magistrate appointed under this Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Offences under the Ordinance",
+      "content": "3. Notwithstanding anything contained in the [* * *] Control of Essential Commodities Act, 1956, or in any other law for the time being in force, contravention of any notified order in respect of foodstuffs made or deemed to have been made under the [* * *] Control of Essential Commodities Act, 1956, shall be tried and punished by Special Magistrates appointed under this Act and no other Court shall have any jurisdiction to take cognizance of any such offence."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Appointment of Special Magistrates",
+      "content": "4. The Government may appoint as many Special Magistrates as it may deem necessary to try and punish offences under this Act."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Cognizance of offences by Special Magistrates",
+      "content": "5. A Special Magistrate may take cognizance of any offence punishable under this Act, committed within the territorial limits of his jurisdiction:-\n(a) upon receiving a complaint of facts which constitutes such offences;\n(b) upon a report in writing of such facts made by any police officer;\n(c) upon information received from any person other than a police officer or upon his own knowledge or suspicion that such offence has been committed."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Penalties",
+      "content": "6. If any person commits an offence punishable under this Act, he shall be punishable with an imprisonment for a term which may extend to three years or with fine or with any one or both of them and the Court of Special Magistrate trying such offence may direct that any foodstuffs in respect of which the said Court is satisfied that a notified order has been contravened shall be forfeited to the Government."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Procedure for trials",
+      "content": "7. (1) A Special Magistrate may pass any sentence authorised by this Act.\n(2) A Special Magistrate trying an offence under this Act shall have power to try such offences summarily and in trying such offences such Magistrate shall follow the procedure laid down in the Code of Criminal Procedure, 1898 , for summary trials:\nProvided that such Magistrate shall not be required to record more than a memorandum of the evidence."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Inconsistency with other laws",
+      "content": "8. The provisions of the Code of Criminal Procedure, 1898 , in so far as they are applicable and in so far as they are not inconsistent with the provisions of this Act, shall apply to all matters connected with, arising from or consequent upon a trial by a Special Magistrate appointed under this Act."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. [Repealed]",
+      "content": "9. [Repeal and saving.- Repealed by section 3 and the Second Schedule of the East Pakistan Repealing and Amending Ordinance, 1966 (East Pakistan Ordinance No. XIII of 1966).]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Special Magistrate",
+      "definition": "Special Magistrate appointed under this Act.",
+      "source_provision": "sec2"
+    }
+  ]
+}

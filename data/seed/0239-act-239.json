@@ -1,0 +1,49 @@
+{
+  "id": "bd-act-239",
+  "type": "statute",
+  "title": "The Protective Duties Act, 1950",
+  "title_en": "The Protective Duties Act, 1950",
+  "short_name": "Act 239",
+  "status": "in_force",
+  "url": "http://bdlaws.minlaw.gov.bd/act-239.html",
+  "description": "An Act to enable the immediate imposition of protective duties of customs on imported goods. WHEREAS it is expedient to enable the Government to impose with immediate effect protective duties of customs on goods produced or manufactured outside Bangladesh and imported into Bangladesh where such imposition is urgently necessary in the interest of industries established in Bangladesh; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. This Act may be called the Protective Duties Act, 1950 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Powers of Government to impose duties of Customs",
+      "content": "2. (1) If the Government is of the opinion that it is urgently necessary to provide for the protection of the interests of any industry established in Bangladesh the Government may, by notification in the official Gazette-\n(a) impose on any goods produced or manufactured in any country outside Bangladesh and imported into Bangladesh a duty of customs of such amount and for such period as it thinks fit; or\n[* * *]\n(2) Every duty imposed under sub-section (1) shall be deemed to be a duty leviable under the [ Customs Act, 1969 ], and shall be in addition to any duties imposed under that Act or any other law for the time being in force."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to alter rates of protective duty and to extend the duration of the protection and the continuance of certain protective duties",
+      "content": "3. (1) If, after such enquiry as it thinks necessary the Government is satisfied that the duty imposed on any goods under sub-section (1) of section 2 (altered, where necessary, in the manner hereinafter provided) has become unnecessary or excessive or that it is too low to provide adequate protection to the industry concerned in Bangladesh, it may, by notification in the official Gazette, reduce or raise the duty to such extent and for such period (which may be extended from time to time but by not more than three years at any one time) as it thinks fit.\n(2) On the expiration of the period specified in any notification issued under sub-section (1) of section 2 or sub-section (1) of this section, whichever is the later, there shall be levied and collected on the goods referred to therein customs duty at the rates for the time being in force under the [ Customs Act, 1969 ], and the provisions of the said Act and any other law for the time being in force relating to the levy and collection of the duty of customs shall apply accordingly.\n(3) [Omitted by section 6 of the Finance Act, 1980 (Act No. XXIII of 1980).]"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Powers of the Tariff Commission",
+      "content": "[3A. The Tariff Commission shall have all the powers of a civil court while trying a suit under the Code of Civil Procedure, 1908 , in respect of the following matters, namely: -\n(a) summoning and enforcing the attendance of any person and examining him on oath;\n(b) requiring the supply of any information and production of any document which may be useful for the conduct of its enquiry.]"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Power to make rules",
+      "content": "4. (1) The Government may, by notification in the official Gazette, make rules for the purpose of carrying into effect the provisions of this Act.\n(2) In particular and without prejudice to the generality of the foregoing power such rules may prescribe the conditions subject to which any goods shall be deemed to be produced or manufactured in a particular country for the purposes of this Act."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. [Repealed]",
+      "content": "5. [Repeal.- Repealed by section 2 and 1st Schedule of the Repealing and Amending Ordinance, 1965 (Ordinance No. X of 1965). ]"
+    }
+  ],
+  "definitions": []
+}

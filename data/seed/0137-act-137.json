@@ -1,0 +1,57 @@
+{
+  "id": "bd-act-137",
+  "type": "statute",
+  "title": "The Carriage of Goods by Sea Act, 1925",
+  "title_en": "The Carriage of Goods by Sea Act, 1925",
+  "short_name": "Act 137",
+  "status": "in_force",
+  "issued_date": "1925-09-21",
+  "in_force_date": "1925-09-21",
+  "url": "http://bdlaws.minlaw.gov.bd/act-137.html",
+  "description": "An Act to amend the law with respect to the carriage of goods by sea. WHEREAS at the International Conference on Maritime Law held at Brussels in October, 1922, the delegates at the Conference, including the delegates representing His majesty, agree unanimously to recommend their respective Governments to adopt as the basis of a convention a draft convention for the unification of certain rules relating to bills o...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1.(1) This Act may be called the Carriage of Goods by Sea Act, 1925 .\n(2) It extends to the whole of Bangladesh."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Application of Rules",
+      "content": "2. Subject to the provisions of this Act, the rules set out in the Schedule (hereinafter referred to as \" the Rules\") shall have effect in relation to and in connection with the carriage of goods by sea in ships carrying goods from any port in Bangladesh to any other port whether in or outside Bangladesh."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Absolute warranty of seaworthiness not to be implied in contracts to which Rules apply",
+      "content": "3. There shall not be implied in any contract for the carriage of goods by sea to which the Rules apply any absolute undertaking by the carrier of the goods to provide a seaworthy ship."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Statement as to application of Rules to be included in bills of lading",
+      "content": "4. Every bill of lading, or similar document of title, issued in Bangladesh which contains or is evidence of any contract to which the Rules apply, shall contain an express statement that it is to have effect subject to the provisions of the said Rules as applied by this Act."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Modification of Article VI of Rules in relation to goods carried in sailing ships and by prescribed routes",
+      "content": "5. Article VI of the Rules shall, in relation to-\n(a) the carriage of goods by sea in sailing ships carrying goods from any port in Bangladesh to any other port whether in or outside Bangladesh, and\n(b) the carriage of goods by sea in ships carrying goods from a port in Bangladesh notified in this behalf in the official Gazette by the Government to a port [in India, Ceylon or Pakistan] specified in the said notification,\nhave effect as though the said Article referred to goods any class instead of to particular goods and as though the proviso to the second paragraph of the said Article were omitted."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Modification of Rules 4 and 5 of Article III in relation to bulk cargoes",
+      "content": "6. Where under the custom of any trade the weight of any bulk cargo inserted in the bill of lading is a weight ascertained or accepted by a third party other than the carrier or the shipper and the fact that the weight is so ascertained or accepted is stated in the bill of lading, then, notwithstanding anything in the Rules, the bill of lading shall not be deemed to be prima facie evidence against the carrier of the receipt of goods of the weight so inserted in the bill of lading, and the accuracy thereof at the time of shipment shall not be deemed to have been guaranteed by the shipper."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Saving and operation",
+      "content": "7.(1) Nothing in this Act shall affect the operation of sections four hundred and forty six to four hundred and fifty, both inclusive, five hundred and two, and five hundred and three of the Merchant Shipping Act, 1894, as amended by any subsequent enactment, or the operation of any other enactment for the time being in force limiting the liability of the owners of sea-going vessels.\n(2) The Rules shall not be virtue of this Act apply to any contract for the carriage of goods by sea before such day, not being earlier than the first day of January, 1926, as the Government may, by notification in the official Gazette, appoint, nor to any bill of lading or similar document of title issued, whether before or after such day as aforesaid, in pursuance of any such contract as aforesaid."
+    }
+  ],
+  "definitions": []
+}

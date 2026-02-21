@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-17",
+  "type": "statute",
+  "title": "The Acting Judges Act, 1867",
+  "title_en": "The Acting Judges Act, 1867",
+  "short_name": "Act 17",
+  "status": "in_force",
+  "issued_date": "1867-03-01",
+  "in_force_date": "1867-03-01",
+  "url": "http://bdlaws.minlaw.gov.bd/act-17.html",
+  "description": "An Act to authorize the making of acting appointments to certain Judicial Offices. WHEREAS the [President], is empowered by divers enactments to appoint the Judges of certain Courts in [Bangladesh]: And whereas it has been doubted whether he [* * *] is empowered to appoint persons to act temporarily as such Judges, and it is expedient to remove such douIt;It is hereby enacted follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Power to appoint acting Judges",
+      "content": "1. In every case in which the [President], has power under any Act or Regulation to appoint a Judge of any Court,\nsuch power shall be taken to include the power to appoint any person capable of being appointed a permanent Judge of such Court, to act as Judge of the same Court for such time as the [President], shall direct. Every person so appointed to act temporarily as a Judge of any such Court shall have the powers and perform the duties which he would have had and been liable to perform in case he had been duly appointed a permanent Judge of the same Court."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Certain enact-ments to be construed as if they contained a clause like section 1 of this Act",
+      "content": "2. Every such Act and Regulation shall be construed as if it contained a special clause to the purport or effect of the first section of this Act."
+    }
+  ],
+  "definitions": []
+}

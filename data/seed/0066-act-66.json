@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-66",
+  "type": "statute",
+  "title": "The Excise (Malt Liquors) Act, 1890",
+  "title_en": "The Excise (Malt Liquors) Act, 1890",
+  "short_name": "Act 66",
+  "status": "in_force",
+  "issued_date": "1890-03-28",
+  "in_force_date": "1890-03-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-66.html",
+  "description": "Long title [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision and Declaration) Act, 1973 (Act No. VIII of 1973).] WHEREAS it is expedient to apply to malt liquor [provisions of the Customs Act, 1969,]respecting spirit; it is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Title",
+      "content": "1. (1) This Act may be called the Excise (Malt Liquors) Act, 1890 :\n(2) [Repealed by the Repealing and Amending Act, 1914 (Act No. X of 1914).]"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. [Repealed]",
+      "content": "2-5. [Repealed by the Excise Act, 1896 (Act No. XII of 1896).]"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. [Repealed]",
+      "content": "6-8. [Repealed by the Bengal Excise Act, 1909 (Act No. V of 1909).]"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Application of provisions of Customs Act, 1969, to malt liquor",
+      "content": "9. The provisions of [ Customs Act, 1969 ,] with respect to the allowance of a drawback of excise-duty paid on spirit manufactured in [Bangladesh] and exported to a foreign port, and with respect to the regulation of the drawback by the quantity of such spirit, shall apply also, so far as they can be made applicable, to fermented liquor made in [Bangladesh] from malt and so exported and to the drawback of the excise-duty paid on such liquor."
+    }
+  ],
+  "definitions": []
+}

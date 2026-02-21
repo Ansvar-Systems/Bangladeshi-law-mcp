@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-526",
+  "type": "statute",
+  "title": "The Newspapers (Annulment of Declaration) (Repeal) Ordinance, 1976",
+  "title_en": "The Newspapers (Annulment of Declaration) (Repeal) Ordinance, 1976",
+  "short_name": "Act 526",
+  "status": "in_force",
+  "issued_date": "1976-06-30",
+  "in_force_date": "1976-06-30",
+  "url": "http://bdlaws.minlaw.gov.bd/act-526.html",
+  "description": "An Ordinance to repeal the Newspapers (Annulment of Declaration) Act, 1975. WHEREAS it is expedient to repeal the Newspapers (Annulment of Declaration) Act, 1975 (XLII of 1975); NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and 8th November, 1975, and in exercise of all powers enabling him in that behalf, the President is pleased to make and promulgate the following Ordinance :-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Newspapers (Annulment of Declaration) (Repeal) Ordinance, 1976 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of Act XLII of 1975",
+      "content": "2. The Newspapers (Annulment of Declaration) Act, 1975 (XLII of 1975), is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

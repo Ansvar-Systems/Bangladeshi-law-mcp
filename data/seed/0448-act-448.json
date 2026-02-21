@@ -1,0 +1,55 @@
+{
+  "id": "bd-act-448",
+  "type": "statute",
+  "title": "The Bangladesh Laws (Repealing and Amending) Order, 1973 (President's Order).",
+  "title_en": "The Bangladesh Laws (Repealing and Amending) Order, 1973 (President's Order).",
+  "short_name": "Act 448",
+  "status": "in_force",
+  "issued_date": "1973-02-19",
+  "in_force_date": "1973-02-19",
+  "url": "http://bdlaws.minlaw.gov.bd/act-448.html",
+  "description": "WHEREAS for streamlining the administrative machinery with a view to facilitating the implementation of land reforms measures, it is expedient, in public interest, to abolish the Board of Revenue as re-constituted under the Board of Revenue Act, 1913 (Bengal Act II of 1913), and to exclude the Commissioners of Divisions from matters relating to land administration and land reforms and to make alternative provision...",
+  "provisions": [
+    {
+      "provision_ref": "sec7431",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh Laws (Repealing and Amending) Order, 1973.\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec7432",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. In this Order, unless there is anything repugnant in the subject or context,-\n(a) “Board of Revenue” means the Board of Revenue as re-constituted under the Board of Revenue Act, 1913 (Bengal Act II of 1913);\n(b) “Commissioner of Division” means a Commissioner of Division appointed under the Revenue Commissioners Regulation, 1829 (Bengal Regulation I of 1829); and\n(c) “Schedule” means the Schedule appended to this Order."
+    },
+    {
+      "provision_ref": "sec7433",
+      "section": "3",
+      "title": "3. 3.",
+      "content": "3. On coming into force of this Order, the laws specified in the Schedule shall be repealed or amended as indicated in the fourth column thereof."
+    },
+    {
+      "provision_ref": "sec7434",
+      "section": "4",
+      "title": "4. 4.",
+      "content": "4. Any application or appeal pending before the Board of Revenue or a Commissioner of Division under any law mentioned in the Schedule on the date of coming into force of this Order shall stand transferred to the authority or Court empowered to dispose of it according to the amended provision as indicated in the fourth column of the Schedule."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board of Revenue",
+      "definition": "the Board of Revenue as re-constituted under the Board of Revenue Act, 1913 (Bengal Act II of 1913)",
+      "source_provision": "sec7432"
+    },
+    {
+      "term": "Commissioner of Division",
+      "definition": "a Commissioner of Division appointed under the Revenue Commissioners Regulation, 1829 (Bengal Regulation I of 1829)",
+      "source_provision": "sec7432"
+    },
+    {
+      "term": "Schedule",
+      "definition": "the Schedule appended to this Order.",
+      "source_provision": "sec7432"
+    }
+  ]
+}

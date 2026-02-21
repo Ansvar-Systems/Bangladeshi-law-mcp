@@ -1,0 +1,20 @@
+{
+  "id": "bd-act-1",
+  "type": "statute",
+  "title": "The Districts Act, 1836",
+  "title_en": "The Districts Act, 1836",
+  "short_name": "Act 1",
+  "status": "in_force",
+  "issued_date": "1836-09-11",
+  "in_force_date": "1836-09-11",
+  "url": "http://bdlaws.minlaw.gov.bd/act-1.html",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Power to create new Districts",
+      "content": "It shall be lawful for the [***] Government, by notification in the official Gazette, to create new districts in any part of Bangladesh.\n[Government may, from time to time, alter the limits of the existing districts in any part of Bangladesh]."
+    }
+  ],
+  "definitions": []
+}

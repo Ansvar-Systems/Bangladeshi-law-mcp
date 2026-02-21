@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-602",
+  "type": "statute",
+  "title": "The Appropriation (Railways) Act, 1980",
+  "title_en": "The Appropriation (Railways) Act, 1980",
+  "short_name": "Act 602",
+  "status": "in_force",
+  "issued_date": "1980-06-29",
+  "in_force_date": "1980-06-29",
+  "url": "http://bdlaws.minlaw.gov.bd/act-602.html",
+  "description": "An Act to authorise expenditure of certain sums in respect of Bangladesh Railways from and out of the Consolidated Fund for the services of the financial year ending on the thirtieth day of June, 1981. WHEREAS it is expedient to authorise expenditure of certain sums in respect of Bangladesh Railways from and out of the Consolidated Fund for the services of the financial year ending on the thirtieth day of June, 19...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Appropriation (Railways) Act, 1980 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Issue of Taka 227,20,50,000 out of the Consolidated Fund for the year 1980-81",
+      "content": "2. There may be paid and applied from and out of the Consolidated Fund sums not exceeding those specified in column 3 of the Schedule amounting in the aggregate to the sum of Taka two hundred twenty-seven crores, twenty lakhs and fifty thousand towards defraying the several charges which will come in course of payment during the financial year ending on the thirtieth day of June, 1981 in respect of the services and purposes specified in column 2 of the Schedule."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Appropriation",
+      "content": "3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Act shall be appropriated for the services and purposes expressed in the Schedule in relation to the financial year ending on the thirtieth day of June, 1981."
+    }
+  ],
+  "definitions": []
+}

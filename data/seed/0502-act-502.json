@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-502",
+  "type": "statute",
+  "title": "The District Administration (Repeal) Ordinance, 1975",
+  "title_en": "The District Administration (Repeal) Ordinance, 1975",
+  "short_name": "Act 502",
+  "status": "in_force",
+  "issued_date": "1975-08-27",
+  "in_force_date": "1975-08-27",
+  "url": "http://bdlaws.minlaw.gov.bd/act-502.html",
+  "description": "An Ordinance to repeal the District Administration Act, 1975. WHEREAS it is expedient to repeal the District Administration Act, 1975 (VI of 1975); AND WHEREAS Parliament is not in session and the President is satisfied that circumstances exist which render immediate action necessary; NOW, THEREFORE, in pursuance of the Proclamation of the 20th August, 1975, and in exercise of the powers conferred by clause (1) of...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the District Administration (Repeal) Ordinance, 1975 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of Act VI of 1975",
+      "content": "2. The District Administration Act, 1975 (VI of 1975), is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

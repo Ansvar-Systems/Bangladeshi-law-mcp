@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-631",
+  "type": "statute",
+  "title": "The Attia Forest (Protection) Ordinance, 1982",
+  "title_en": "The Attia Forest (Protection) Ordinance, 1982",
+  "short_name": "Act 631",
+  "status": "in_force",
+  "issued_date": "1982-09-11",
+  "in_force_date": "1982-09-11",
+  "url": "http://bdlaws.minlaw.gov.bd/act-631.html",
+  "description": "An Ordinance to make provision for the protection of the Attia Forest in the districts of Dacca and Tangail. WHEREAS it is expedient to make provisions for the protection of the Attia Forest in the districts of Dacca and Tangail; NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in exercise of all powers enabling him in that behalf, the Chief Martial Law Administrator is pleased to make...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Attia Forest (Protection) Ordinance, 1982 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context, “Court” means a civil, criminal or revenue Court and includes the High Court Division and the Appellate Division."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Constitution of reserved forest",
+      "content": "3. Notwithstanding anything contained to the contrary in the Forest Act, 1927 (XVI of 1927), or in any other law for the time being in force, or in any judgment, decree or order, the lands comprising of 59,648.70 acres constituting a reserved forest known as the Attia Forest under Notifications mentioned in the Schedule shall, notwithstanding any defect in such constitution or Notifications, be deemed to have been validly constituted a reserved forest and the Notifications so issued shall be deemed to have had effect accordingly."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Abatement of legal proceedings",
+      "content": "4. (1) The constitution of Reserved forest as is referred to in section 3 shall not be called in question on any ground whatsoever before any Court.\n(2) All suits, appeals, petitions, applications, and other legal proceedings pending immediately before the commencement of this Ordinance in any Court against the Government or any of its officers in which the constitution of the reserved forest or the Notification as are referred to in section 3 has been called in questions in any manner whatsoever shall abate forthwith and shall not be further proceeded with."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Court",
+      "definition": "a civil, criminal or revenue Court and includes the High Court Division and the Appellate Division.",
+      "source_provision": "sec2"
+    }
+  ]
+}

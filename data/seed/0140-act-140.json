@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-140",
+  "type": "statute",
+  "title": "The Contempt of Courts Act, 1926",
+  "title_en": "The Contempt of Courts Act, 1926",
+  "short_name": "Act 140",
+  "status": "repealed",
+  "issued_date": "1926-03-08",
+  "in_force_date": "1926-03-08",
+  "url": "http://bdlaws.minlaw.gov.bd/act-140.html",
+  "description": "An Act to define and limit the powers of certain Courts in punishing contempts of courts. WHEREAS doubts have arisen as to the powers of [the High Court Division] to punish contempts of Courts; AND WHEREAS it is expedient to resolve these doubts and to define and limit the powers exercisable by [the High Court Division] in punishing contempt of Court; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1)This Act may be called the Contempt of Courts Act, 1926 .\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force on such date as the [Government] may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Power of superior Courts to punish contempts of court",
+      "content": "2. (1) Subject to the provisions of sub-section (3), the [High Court Division] shall have and exercise the same Jurisdiction, powers and authority, in accordance with the same procedure and practice, in respect of contempt of courts subordinate to [it as it has and exercises in respect of contempts of itself].\n(2) [Omitted by section 4 of the Contempt of Courts (Amendment) Ordinance, 1959 (Ordinance No. XLV of 1959).]\n(3) [The High Court Division shall not] take cognizance of a contempt alleged to have been committed in respect of a court subordinate to it where such contempt is an offence punishable under the [Penal Code]."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Limit of punishment for contempt of court",
+      "content": "3. Save as otherwise expressly provided by any law for the time being in force, a contempt of court may be punished with simple imprisonment for a term which may extend to six months, or with fine, which may extend to two thousand [Taka], or with both\nProvided that the accused may be discharged or the punishment awarded may be remitted on apology being made to the satisfaction of the Court:\nProvided further that notwithstanding anything else where contained in any law [the High Court Division shall not] impose a sentence in excess of that specified in this section for any contempt either in respect of itself or of a Court subordinate to it."
+    }
+  ],
+  "definitions": []
+}

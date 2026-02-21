@@ -1,0 +1,44 @@
+{
+  "id": "bd-act-419",
+  "type": "statute",
+  "title": "The Bangladesh Industrial Development Corporation (Dissolution) Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh Industrial Development Corporation (Dissolution) Order, 1972 (President's Order)",
+  "short_name": "Act 419",
+  "status": "in_force",
+  "issued_date": "1972-11-15",
+  "in_force_date": "1972-11-15",
+  "url": "http://bdlaws.minlaw.gov.bd/act-419.html",
+  "description": "WHEREAS in view of the re organisation of industrial enterprises the Bangladesh Industrial Development Corporation is no longer required to discharge any functions and it is desirable that the same shall be dissolved; NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that be...",
+  "provisions": [
+    {
+      "provision_ref": "sec18430",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh Industrial Development Corporation (Dissolution) Order, 1972.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec18431",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. In this Order, unless there is anything repugnant in the subject or context,-\n(a) “Corporation” means the Bangladesh Industrial Development Corporation established by the Bangladesh Industrial Development Corporation Order, 1972 (P.O. No. 39 of 1972);\n(b) “Government” means the Government of the People's Republic of Bangladesh."
+    },
+    {
+      "provision_ref": "sec18432",
+      "section": "3",
+      "title": "3. 3.",
+      "content": "3. Notwithstanding anything contained in any other law, rule or regulation for the time being in force, or in any contract, agreement, or document, on the commencement of this Order,-\n(a) the Corporation shall stand dissolved;\n(b) all assets of whatsoever nature of the Corporation shall vest in the Government;\n(c) the Government shall consider any representations which may be made to it by or on behalf of any person claiming that the Corporation or any predecessor-in-title of the Corporation had incurred any debt, liability or obligation to that person and shall have power to make ex-gratia payment of compensation to that person in respect of such claim if and to the extent that the same shall to it appear to be just."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Corporation",
+      "definition": "the Bangladesh Industrial Development Corporation established by the Bangladesh Industrial Development Corporation Order, 1972 (P.O. No. 39 of 1972)",
+      "source_provision": "sec18431"
+    },
+    {
+      "term": "Government",
+      "definition": "the Government of the People's Republic of Bangladesh.",
+      "source_provision": "sec18431"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "bd-act-458",
+  "type": "statute",
+  "title": "The Primary Schools (Taking Over) Act, 1974",
+  "title_en": "The Primary Schools (Taking Over) Act, 1974",
+  "short_name": "Act 458",
+  "status": "in_force",
+  "issued_date": "1974-02-05",
+  "in_force_date": "1974-02-05",
+  "url": "http://bdlaws.minlaw.gov.bd/act-458.html",
+  "description": "An act to make provisions for the taking over by the Government of certain primary schools in Bangladesh. WHEREAS it is expedient to make provisions for taking over by the Government of certain primary schools in Bangladesh and for matters ancillary thereto; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the Primary Schools (Taking Over) Act, 1974 .\n(2) It shall be deemed to have come into force on the 31st day of October, 1973."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context, “primary school” means a school or department of a school giving instruction in primary education."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Taking over of primary school",
+      "content": "3. (1) Notwithstanding anything contained in any other law, rule, regulation or bye-law for the time being in force or in any contract or agreement, or in any deed or other instrument, the Government may by notification in the official Gazette, take over any primary school on such date as may be specified in the notification.\n(2) On the date specified in the notification under sub-section (1),-\n(a) the primary school and all its assets and property, including lands, buildings and funds and all other rights and interests in, or arising out of, such property, and all records and other documents of whatever nature relating thereto, shall stand transferred to, and vested in the Government;\n(b) all teachers of the primary school shall become employees of the Government and shall hold their service under the Government on such terms and conditions as the Government may determine; and\n(c) all committees or authorities managing and administering the affairs of the primary school shall cease to function."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Management of the primary school taken over",
+      "content": "4. After a primary school is taken over under section 3(1), the Government shall manage and administer the affairs of that school in such manner as it may deem fit."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Removal of difficulty",
+      "content": "5. The Government may, for the purpose of removing any difficulty arising out of, or in connection with, or in relation to the taking over of any primary school under section 3, make such order as it considers expedient."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Power to make rules",
+      "content": "6. That the Government may, after previous publication, make rules for carrying out the purposes of this Act."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Repeal and savings",
+      "content": "7. (1) The Primary Schools (Taking Over) Ordinance, 1973 (P.O. No. XXII of 1973), is hereby repealed.\n(2) Notwithstanding such repeal, anything done or any action taken, including any order made, notification issued or direction given under the said Ordinance shall be deemed to have been done, taken, made, issued or given, as the case may be, under the corresponding provision of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "primary school",
+      "definition": "a school or department of a school giving instruction in primary education.",
+      "source_provision": "sec2"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-224",
+  "type": "statute",
+  "title": "The United Nations (Security Council) Act, 1948",
+  "title_en": "The United Nations (Security Council) Act, 1948",
+  "short_name": "Act 224",
+  "status": "in_force",
+  "issued_date": "1948-06-11",
+  "in_force_date": "1948-06-11",
+  "url": "http://bdlaws.minlaw.gov.bd/act-224.html",
+  "description": "An Act to enable effect to be given to certain provisions of the Charter of the United Nations. WHEREAS it is expedient to enable effect to be given to certain provisions of the Charter of the United Nations; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the United Nations (Security Council) Act, 1948 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Measures under Art. 41 of the Charter of the United Nations",
+      "content": "2. If, under Article 41 of the Charter of the United Nations signed at San Francisco on the 26th day of June, 1945, the Security Council of the United Nations calls upon the [Government] to apply any measures, not involving the use of armed force, to give effect to any decision of that Council, the [Government] may, by order published in the official Gazette, make such provisions (including provisions having extra-territorial operation) as appear to it necessary or expedient for enabling those measures to be effectively applied , and without prejudice to the generality of the foregoing power, provision may be made for the punishment of persons offending against the order."
+    }
+  ],
+  "definitions": []
+}

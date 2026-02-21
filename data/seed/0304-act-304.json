@@ -1,0 +1,72 @@
+{
+  "id": "bd-act-304",
+  "type": "statute",
+  "title": "The Eye Surgery (Restriction) Ordinance, 1960",
+  "title_en": "The Eye Surgery (Restriction) Ordinance, 1960",
+  "short_name": "Act 304",
+  "status": "in_force",
+  "issued_date": "1960-12-31",
+  "in_force_date": "1960-12-31",
+  "url": "http://bdlaws.minlaw.gov.bd/act-304.html",
+  "description": "An Ordinance to prevent surgery on the eye by persons other than registered medical practitioners. WHEREAS it is expedient to prevent surgery on the eye by persons other than registered medical practitioners; NOW, THEREFORE, in pursuance of the Proclamation of the seventh day of October 1958, and in exercise of the powers conferred by Article 2 of the State Arrangements Order, 1959, and of all other powers enablin...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Eye Surgery (Restriction) Ordinance, 1960 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context-\n(1) “complete blindness” means absence of sight through total loss of perception of light in both eyes;\n(2) “eye surgery” means any surgical operation performed on or in relation to the eye by means of any instrument of whatever kind;\n(3) “partial blindness” means total loss of perception of light in one eye or sub-total loss of perception of light in both eyes resulting in restriction of visual field and acuity; and\n(4) “registered medical practitioner” means a person who is, for the time being, registered under any law relating to the registration of medical practitioners in Bangladesh."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Punishment for performing eye surgery in certain cases",
+      "content": "3. (1) Any person, not being a registered medical practitioner, who performs eye surgery upon another, whether with or without the latter's consent, shall be punishable with imprisonment for a term which may extend to one year, and with fine which may extend to one thousand taka.\n(2) The term of imprisonment under sub-section (1) may extend-\n(a) to three years, if the offence results in partial blindness, and\n(b) to seven years , if the offence results in complete blindness."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Punishment for unlawful practice or holding out",
+      "content": "4. Any person not being a registered medical practitioner who practises, or holds himself out, whether directly or by implication, as practising, or as being prepared to practise, eye surgery shall be punishable with imprisonment for a term which may extend to six months, and with fine which may extend to five hundred taka."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Offences to be cognizable",
+      "content": "5. An offence punishable under sub-section (1) of section 3 or under section 4 shall be a cognizable offence for the purposes of the Code of Criminal Procedure, 1898 , notwithstanding anything to the contrary contained therein."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Trial of offences",
+      "content": "6. No court inferior to that of a Magistrate of the first class shall try any offence punishable under this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "complete blindness",
+      "definition": "absence of sight through total loss of perception of light in both eyes",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "eye surgery",
+      "definition": "any surgical operation performed on or in relation to the eye by means of any instrument of whatever kind",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "partial blindness",
+      "definition": "total loss of perception of light in one eye or sub-total loss of perception of light in both eyes resulting in restriction of visual field and acuity",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "registered medical practitioner",
+      "definition": "a person who is, for the time being, registered under any law relating to the registration of medical practitioners in Bangladesh.",
+      "source_provision": "sec2"
+    }
+  ]
+}

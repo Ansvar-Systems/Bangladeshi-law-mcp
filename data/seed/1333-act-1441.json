@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-1441",
+  "type": "statute",
+  "title": "State Acquisition and Tenancy (Amendment) Act, 2023",
+  "title_en": "State Acquisition and Tenancy (Amendment) Act, 2023",
+  "short_name": "Act 1441",
+  "status": "amended",
+  "issued_date": "2023-07-11",
+  "in_force_date": "2023-07-11",
+  "url": "http://bdlaws.minlaw.gov.bd/act-1441.html",
+  "description": "State Acquisition and Tenancy Act, 1950 এর অধিকতর সংশোধনকল্পে প্রণীত আইন যেহেতু নিম্নবর্ণিত উদ্দেশ্যসমূহ পূরণকল্পে State Acquisition and Tenancy Act, 1950 (Act No. XXVII of 1951) এর অধিকতর সংশোধন সমীচীন ও প্রয়োজনীয়; সেহেতু এতদ্বারা নিম্নরূপ আইন করা হইল:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. সংক্ষিপ্ত শিরোনাম ও প্রবর্তন",
+      "content": "১। (১) এই আইন State Acquisition and Tenancy (Amendment) Act, 2023 নামে অভিহিত হইবে।\n(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Act No. XXVIII of 1951 এর section 145A এর সংশোধন",
+      "content": "২। State Acquisition and Tenancy Act, 1950 (Act No. XXVIII of 1951), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 145A এর-\n(ক) sub section (3) এর পর নিম্নরূপ নূতন sub-section (3A), (3B) ও (3C) সন্নিবেশিত হইবে, যথা:-\n\"(3A) Until such judge is appointed under sub-section (3), the Government may empower a Joint District Judge in each district as the judge of the Land Survey Tribunal of the district.\n(3B) The Joint District Judge empowered under sub-section (3A) shall be deemed to be the judge of the Land Survey Tribunal appointed under sub-section (3).\n(3C) The Government may, if necessary, appoint one or more Senior Assistant judge or Assistant Judge as a judge of the Land Survey Tribunal to dispose of the suits transferred by the judge of the Land Survey Tribunal appointed or empowered under this section.\";\n(খ) sub section (7) এর পর নিম্নরূপ নূতন sub-section (7A) সন্নিবেশিত হইবে, যথা:-\n\"(7A) The Land Survey Tribunal shall conclude the trail of a suit within 180 (one hundred and eighty) days from the date fixed for its final hearing.\" ।"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Act No. XXVIII of 1951 এর section 145B এর সংশোধন",
+      "content": "৩। উক্ত Act এর section 145B এর-\n(ক) sub-section (3) এর পরিবর্তে নিম্নরূপ sub-section (3) প্রতিস্থাপিত হইবে, যথা:-\n\"(3) The Government shall appoint the judge of the Land Survey Appellate Tribunal from among the persons who are District judges.\"; এবং\n(খ) sub-section (3) এর পর নিম্নরূপ নূতন sub-sections (3A), (3B) ও (3C) সন্নিবেশিত হইবে, যথা:-\n\"(3A) Until such judge is appointed under sub-section (3), the Government may empower the District Judge as the judge of the Land Survey Appellate Tribunal of the district.\n(3B) The District Judge, empowered under sub-section (3A), shall be deemed to be the judge of the Land Survey Appellate Tribunal appointed under sub-section (3).\n(3C) The Government may, if necessary, appoint one or more Additional District Judges as a judge of the Land Survey Appellate Tribunal to hear appeals transferred by the judge of the Land Survey Appellate Tribunal appointed or empowered under this section.\" ।"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Act No. XXVIII of 1951 এর section 145C এর বিলোপ",
+      "content": "৪। উক্ত Act এর section 145C বিলুপ্ত হইবে।"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Act No. XXVIII of 1951 এর section 145E এর প্রতিস্থাপন",
+      "content": "৫। উক্ত Act এর section 145E এর পরিবর্তে নিম্নরূপ section 145E প্রতিস্থাপিত হইবে, যথা :-\n\"145E. Finality of Tribunals decisions and orders.- Subject to the decisions and orders of the Land Survey Appellate Tribunal, the decisions and orders of the Land Survey Tribunal shall be final.\" ।"
+    }
+  ],
+  "definitions": []
+}

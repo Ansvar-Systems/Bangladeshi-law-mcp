@@ -1,0 +1,21 @@
+{
+  "id": "bd-act-452",
+  "type": "statute",
+  "title": "The Bangladesh Wild Life (Preservation) Order, 1973 (President's Order)",
+  "title_en": "The Bangladesh Wild Life (Preservation) Order, 1973 (President's Order)",
+  "short_name": "Act 452",
+  "status": "repealed",
+  "issued_date": "1973-03-28",
+  "in_force_date": "1973-03-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-452.html",
+  "description": "null WHEREAS it is expedient to provide for the preservation, conservation and management of wild life in Bangladesh; NOW, THEREFORE, in pursuance of paragraph 3 of the Fourth Schedule to the Constitution of the People’s Republic of Bangladesh, and in exercise of all powers enabling him in that behalf, the President is pleased to make the following Order:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. [Repealed]",
+      "content": "48. The enactments mentioned in the table below are hereby repealed to the extent specified in the third column thereof."
+    }
+  ],
+  "definitions": []
+}

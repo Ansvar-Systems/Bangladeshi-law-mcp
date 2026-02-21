@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-380",
+  "type": "statute",
+  "title": "The Bangladesh (Vesting of Property and Assets) Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh (Vesting of Property and Assets) Order, 1972 (President's Order)",
+  "short_name": "Act 380",
+  "status": "in_force",
+  "issued_date": "1972-03-26",
+  "in_force_date": "1972-03-26",
+  "url": "http://bdlaws.minlaw.gov.bd/act-380.html",
+  "description": "WHEREAS it is necessary to vest all properties and assets vested in and managed by the Government of Pakistan or Board constituted by or under any law and the former Government of East Pakistan in the Government of Bangladesh; NOW, THEREFORE, in pursuance of the Proclamation of Independence read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that behalf, ...",
+  "provisions": [
+    {
+      "provision_ref": "sec23322",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh (Vesting of Property and Assets) Order, 1972.\n(2) It shall extend to the whole of Bangladesh.\n(3) It shall come into force at once and shall be deemed to have come into force on the 26th day of March, 1971."
+    },
+    {
+      "provision_ref": "sec23323",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. (1) Notwithstanding anything contained in any other law for the time being in force, all properties and assets which were vested in the Government of Pakistan [or, any officer appointed by such Government] or were vested in or managed by any Board constituted by or under any law or in the former Government of East Pakistan shall be deemed to have vested in the Government of Bangladesh on and from the 26th day of March, 1971.\nExplanation.– “properties” means properties of any kind, movable or immovable and includes any right or interest in such properties and any debt or actionable claim, any security or negotiable instrument, any right under a contract and any industrial or commercial undertaking;\n“security” includes share, scrip, stock, bond, debenture, debenture stock, or other marketable security of a like nature in or of any body corporate and Government securities.\n(2) Nothing contained in this Order shall be called in question in any Court."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "properties",
+      "definition": "properties of any kind, movable or immovable and includes any right or interest in such properties and any debt or actionable claim, any security or negotiable instrument, any right under a contract and any industrial or commercial undertaking",
+      "source_provision": "sec23323"
+    }
+  ]
+}

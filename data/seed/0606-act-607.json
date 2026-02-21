@@ -1,0 +1,75 @@
+{
+  "id": "bd-act-607",
+  "type": "statute",
+  "title": "The Dowry Prohibition Act, 1980",
+  "title_en": "The Dowry Prohibition Act, 1980",
+  "short_name": "Act 607",
+  "status": "repealed",
+  "issued_date": "1980-12-26",
+  "in_force_date": "1980-12-26",
+  "url": "http://bdlaws.minlaw.gov.bd/act-607.html",
+  "description": "An Act to prohibit the taking or giving of dowry in marriages. WHEREAS it is expedient to make provision to prohibit the taking or giving of dowry in marriages; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the Dowry Prohibition Act, 1980 .\n(2) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context, “dowry” means any property or valuable security given or agreed to be given either directly or indirectly-\n(a) by one party to a marriage to the other party to the marriage; or\n(b) by the parents of either party to a marriage or by any other person to either party to the marriage or to any other person;\n[at the time of marriage or at any time] before or after the marriage as consideration for the marriage of the said parties, but does not include dower or mehr in the case of persons to whom the Muslim Personal Law (Shariat) applies.\nExplanation I.- For the removal of doubts, it is hereby declared that any presents made at the time of a marriage by any person other than a party to the marriage to either party to the marriage in the form of any articles the value of which does not exceed five hundred taka, shall not be deemed to be dowry within the meaning of this section, unless they are made as consideration for the marriage of the said party.\nExplanation II.- The expression “valuable security” has the same meaning as the section 30 of the Penal Code (Act XLV of 1860)."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Penalty for giving or taking dowry",
+      "content": "3. If any person, after the commencement of this Act, gives or takes or abets the giving or taking of dowry, he shall be punishable with imprisonment which may extend to [five years and shall not be less than one year, or with fine, or with both]."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Penalty for demanding dowry",
+      "content": "4. If any person, after the commencement of this Act, demands, directly or indirectly, from the parents or guardian of a bride or bridegroom, as the case may be, any dowry, he shall be punishable with imprisonment which may extend to [five years and shall not be less than one year, or with fine, or with both].\n[* * *]"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Agreement for giving or taking dowry to be void",
+      "content": "5. Any agreement for the giving or taking of dowry shall be void."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. [Omitted]",
+      "content": "6. [Dowry for the benefit of the wife or her heirs-.Omitted by section 3 of The Dowry Prohibition (Amendment) Ordinance, 1984 (Ordinance No. XLIV of 1984).]"
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Cognizance of offences",
+      "content": "7. Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act V of 1898),-\n(a) no Court inferior to that of a magistrate of the first class shall try any offence under this Act;\n(b) no Court shall take cognizance of any such offence except on a complaint made within one year from the date of the offence;\n(c) it shall be lawful for a magistrate of the first class to pass any sentence authorised by this Act on any person convicted of an offence under this Act."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Offence to be non cognizable, etc.",
+      "content": "[8. Every offence under this Act shall be non cognizable, non-bailable and compoundable.]"
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Power to make rules",
+      "content": "9. (1) The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.\n(2) Every rule made under this section shall, as soon as may be after it is made, be laid before Parliament and if Parliament before the expiry of the session in which it is laid, agree in making any modification in the rule or agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be, subject that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dowry",
+      "definition": "any property or valuable security given or agreed to be given either directly or indirectly-",
+      "source_provision": "sec2"
+    }
+  ]
+}

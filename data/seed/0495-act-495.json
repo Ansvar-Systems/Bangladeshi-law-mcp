@@ -1,0 +1,87 @@
+{
+  "id": "bd-act-495",
+  "type": "statute",
+  "title": "The Services (Reorganisation and Conditions) Act, 1975",
+  "title_en": "The Services (Reorganisation and Conditions) Act, 1975",
+  "short_name": "Act 495",
+  "status": "repealed",
+  "issued_date": "1975-07-18",
+  "in_force_date": "1975-07-18",
+  "url": "http://bdlaws.minlaw.gov.bd/act-495.html",
+  "description": "An Act to provide for the reorganisation of the services of the Republic and of public bodies and nationalised enterprises, and for prescribing unified grades and scales of pay and other terms and conditions of service for persons employed in such services. WHEREAS it is expedient to provide for the reorganisation of the services of the Republic and of public bodies and nationalised enterprises and for prescribing...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the Services (Reorganisation and Conditions) Act, 1975 .\n(2) It shall be deemed to have come into force on the 1st day of July, 1973."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) “Nationalised Enterprise” includes any industrial or commercial concern which is owned, controlled or managed by, or vested in, the Government or any public body;\n(b) “Pay” includes salary, allowance and any other emoluments by whatever name called;\n(c) “Public body” means any body, authority, corporation or institution constituted or established by or under any law and includes any other body, authority or institution owned, controlled, managed or set up by the Government;\n(d) “Service” includes any post or office."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Act to override all other laws, etc.",
+      "content": "3. The provisions of this Act or any order made thereunder shall have effect notwithstanding anything inconsistent therewith contained in any other law or in any rule, regulation, by-law, agreement, award, settlement or term or condition of services."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Power of Government to reorganise services of the Republic and of public bodies and nationalised enterprises",
+      "content": "4. The Government may, by order notified in the official Gazette, reorganise the service of the Republic or of any public body or nationalised enterprise and for that purpose create new services or amalgamate or unify existing services."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Power of Government to prescribe unified grades and scales of pay, etc.",
+      "content": "5. (1) The Government may, with a view to bringing uniformity in the grades and scales of pay of different persons or classes of persons employed in the service of the Republic or of any public body or nationalised enterprise, by order notified in the official Gazette, prescribe grades and scales of pay and other terms and conditions of service for all or any such persons or classes of persons.\n(2) No persons whose grade or scale of pay is prescribed under sub-section (1) shall receive, and no person shall allow such person, any benefit of a grade or scale of pay which is higher than the grade or scale of pay prescribed for him."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Retrospective effect to order",
+      "content": "6. (1) An order under section 4 or 5 may be made so as to be retrospective to any date not earlier than the date of commencement of this Act.\n(2) Nothing in this section shall have the effect of creating any offence retrospectively."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Variation and revocation of conditions of service permitted",
+      "content": "7. An order under section 4 or 5 may vary or revoke any condition of service of a person employed in the service of the Republic or of any public body or nationalised enterprise, and no such person shall be entitled to any compensation for such variation or revocation of any condition of his service to his disadvantage."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Indemnity",
+      "content": "8. No order made under section 4 or 5 shall be called in question in any court, and no suit or other legal proceeding shall lie against the Government or any person for anything done or intended to be done in pursuance of this Act or any order made thereunder."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Penalty",
+      "content": "9. Whoever contravenes any provision of section 5(2) shall be punishable with fine which may extend to five thousand taka, and with a further fine which may extend to five hundred taka for each month after the first during which such contravention continues."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Cognizance of offence",
+      "content": "10. No court shall take cognizance of an offence punishable under this Act except on a complaint in writing made by the Government or by a person authorised by it in this behalf."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "11. Repeal and savings",
+      "content": "11. (1) The Services (Reorganisation and Conditions) Ordinance, 1975 (Ord. XXII of 1975), is hereby repealed.\n(2) Notwithstanding such repeal, anything done or any action taken or any order made under the said Ordinance shall be deemed to have been done, taken or made, as the case may be, under the corresponding provision of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Public body",
+      "definition": "any body, authority, corporation or institution constituted or established by or under any law and includes any other body, authority or institution owned, controlled, managed or set up by the Government",
+      "source_provision": "sec2"
+    }
+  ]
+}

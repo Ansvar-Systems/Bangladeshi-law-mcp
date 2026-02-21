@@ -1,0 +1,68 @@
+{
+  "id": "bd-act-321",
+  "type": "statute",
+  "title": "The Domestic Servants' Registration Ordinance, 1961 (East Pakistan Ordinance)",
+  "title_en": "The Domestic Servants' Registration Ordinance, 1961 (East Pakistan Ordinance)",
+  "short_name": "Act 321",
+  "status": "in_force",
+  "issued_date": "1961-12-12",
+  "in_force_date": "1961-12-12",
+  "url": "http://bdlaws.minlaw.gov.bd/act-321.html",
+  "description": "An Ordinance to provide for the registration of domestic servants. WHEREAS it is expedient to make provisions for the registration of domestic servants working in certain areas in the manner and for the purpose hereinafter appearing; NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of October, 1958, and having received the previous instructions of the President, the Governor is plea...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Domestic Servants' Registration Ordinance, 1961.\n(2) It extends to the specified Areas.\n(3) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint in this behalf."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “domestic servant” includes every person who renders domestic services (i.e., services pertaining to household affairs) to his employer in lieu of wages or any other consideration;\n(b) “registration” means registration under this Ordinance;\n(c) “Specified Areas” means the areas specified in the Schedule and such other area or areas as may, from time to time, be included therein by the Government by notification in the official Gazette."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Registration of domestic servants",
+      "content": "3. (1) Any person who takes employment as a domestic servant within the Specified Areas shall, [* * *] within fifteen days of his taking such employment, [* * *] report for registration to the Officer in charge of the police station of the area or any other police officer not below the rank of an Assistant Sub Inspector of Police authorised by the Officer in charge in this behalf (hereinafter referred to as the authorised officer).\n(2) Any person who seeks employment as a domestic servant within the Specified Areas may report for registration to the Officer-in-charge of the police station of the area or the authorised officer.\n(3) Any person reporting for registration under sub section (1) or sub section (2) shall-\n(a) give his correct name and address or addresses and such other particulars as the Officer in charge of the police-station or the authorised officer may consider necessary,\n(b) supply a copy of his own photograph in duplicate, and\n(c) allow his finger impressions and measurements to be taken by the Officer in charge of the police station or the authorised officer.\n(4) The Officer in charge of the police station or the authorised officer shall make enquiries about the correctness of the particulars given by the person and his character and antecedents.\n(5) When the Officer in charge of the police station or the authorised officer is satisfied about the correctness of the particulars given by the person and his character and antecedents, he shall issue a registration card in such form and containing such particulars as may be prescribed. The photograph of the person shall be affixed on the registration card."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Prohibition to work as a domestic servant without registration card",
+      "content": "4. No person shall work as a domestic servant within the Specified Areas without obtaining a registration card as required by section 3 beyond the period allowed under sub section (1) of that section."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Penalty",
+      "content": "5. Whoever contravenes the provisions of section 4 shall be punished with simple imprisonment which may extend to one month or with fine which may extend to one hundred [taka] or with both."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Cognizance",
+      "content": "6. No Court shall take cognizance of an offence punishable under this Ordinance except upon a complaint in writing made by the Officer in charge of the police station or the authorised officer stating the facts constituting the offence."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Power to make rules",
+      "content": "7. The Government may make rules consistent with the provisions of this Ordinance for carrying out its purposes."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "registration",
+      "definition": "registration under this Ordinance",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Specified Areas",
+      "definition": "the areas specified in the Schedule and such other area or areas as may, from time to time, be included therein by the Government by notification in the official Gazette.",
+      "source_provision": "sec2"
+    }
+  ]
+}

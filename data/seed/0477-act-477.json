@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-477",
+  "type": "statute",
+  "title": "The Primary Education Laws (Repeal) Act, 1974",
+  "title_en": "The Primary Education Laws (Repeal) Act, 1974",
+  "short_name": "Act 477",
+  "status": "in_force",
+  "issued_date": "1974-07-26",
+  "in_force_date": "1974-07-26",
+  "url": "http://bdlaws.minlaw.gov.bd/act-477.html",
+  "description": "An Act to repeal the Primary Education Act, 1919, the Rural Primary Education Act, 1930 and the Rural Primary Education (Supplementary Provisions) Act, 1957. WHEREAS it is expedient to repeal the Primary Education Act, 1919 (Ben.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Primary Education Laws (Repeal) Act, 1974 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal",
+      "content": "2. The Primary Education Act, 1919 (Ben. Act IV of 1919), the Rural Primary Education Act, 1930 (Ben. Act VII of 1930), and the Rural Primary Education (Supplementary Provisions) Act, 1957 (E.P. Act XXVIII of 1957), are hereby repealed."
+    }
+  ],
+  "definitions": []
+}

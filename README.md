@@ -23,7 +23,8 @@ npx @ansvar/bangladeshi-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Official ingestion from Laws of Bangladesh (`http://bdlaws.minlaw.gov.bd`) with full-portal crawl coverage.  
+Current corpus: 1,516 acts in SQLite (3 source endpoints unavailable at ingestion time and documented in `data/seed/_ingestion-meta.json`).
 
 ## License
 

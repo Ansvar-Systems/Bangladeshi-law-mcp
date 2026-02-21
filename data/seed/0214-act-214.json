@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-214",
+  "type": "statute",
+  "title": "The Hindu Married Women's Right to Separate Residence and Maintenance Act, 1946",
+  "title_en": "The Hindu Married Women's Right to Separate Residence and Maintenance Act, 1946",
+  "short_name": "Act 214",
+  "status": "in_force",
+  "issued_date": "1946-04-23",
+  "in_force_date": "1946-04-23",
+  "url": "http://bdlaws.minlaw.gov.bd/act-214.html",
+  "description": "An Act to give Hindu married women a right to separate residence and maintenance under certain circumstances. WHEREAS it is expedient to provide for the right to separate residence and maintenance under certain circumstances in the case of Hindu married women; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Hindu Married Women's Right to Separate Residence and Maintenance Act, 1946 .\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Grounds for claiming separate residence and maintenance",
+      "content": "2. Notwithstanding any custom or law to the contrary a Hindu married woman shall be entitled to separate residence and maintenance from her husband on one or more of the following grounds, namely,-\n(1) if he is suffering from any loathsome disease not contracted from her;\n(2) if he is guilty of such cruelty towards her as renders it unsafe or undesirable for her to live with him;\n(3) if he is guilty of desertion, that is to say, of abandoning her without her consent or against her wish;\n(4) if he marries again;\n(5) if he ceases to be a Hindu by conversion to another religion;\n(6) if he keeps a concubine in the house or habitually resides with a concubine;\n(7) for any other justifiable cause:\nProvided that a Hindu married woman shall not be entitled to separate residence and maintenance from her husband if she is unchaste or ceases to be a Hindu by change to another religion or fails without sufficient cause to comply with a decree of a competent Court for the restitution of conjugal rights."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Amount of maintenance",
+      "content": "3. When allowing a claim for separate residence and maintenance under section 2, the Court shall determine the amount to be paid by the husband to the wife therefore, and in so doing shall have regard to the social standing of the parties and the extent of the husband's means."
+    }
+  ],
+  "definitions": []
+}

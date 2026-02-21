@@ -1,0 +1,79 @@
+{
+  "id": "bd-act-271",
+  "type": "statute",
+  "title": "The Diplomatic Immunities (Commonwealth Countries Representatives) Act, 1957",
+  "title_en": "The Diplomatic Immunities (Commonwealth Countries Representatives) Act, 1957",
+  "short_name": "Act 271",
+  "status": "in_force",
+  "issued_date": "1957-04-30",
+  "in_force_date": "1957-04-30",
+  "url": "http://bdlaws.minlaw.gov.bd/act-271.html",
+  "description": "An Act to declare and confer certain immunities on representatives in Bangladesh of Commonwealth Countries and on certain other persons. WHEREAS it is expedient to declare and confer certain immunities upon representatives in Bangladesh of Commonwealth Countries and on certain other persons and to provide for certain other matters; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Diplomatic Immunities (Commonwealth Countries Representatives) Act, 1957 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act unless there is anything repugnant in the subject or context,-\n(a) “chief representative” means a person whether known by the title of High Commissioner or by any other title, who for the time being is recognised by the Government of Bangladesh as the chief representative in Bangladesh of a Commonwealth Country for the purposes of this Act;\n(b) “envoy” means the envoy of a foreign sovereign power duly accredited in Bangladesh;\n(c) “member of the family” of a person means his wife and his unmarried children below the age of twenty one, when resident with him;\n(d) “prescribed” means prescribed by rules made under this Act;\n(e) “staff” of a chief representative includes every person employed by the chief representative but not servants employed by a member of the staff;\n(f) “the official staff” of a chief representative means officials employed in a representative capacity directly under the orders of the chief representative."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Immunity of chief representative",
+      "content": "3. A chief representative is and shall be entitled to the immunity from suit and legal process, and to the inviolability of residence, official premises and official archives, to which he would be entitled if he were an envoy."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Immunity of member of staff or family",
+      "content": "4. (1) Subject to sub-section (2) a person who is,-\n(a) a member of the family of a chief representative,\n(b) a member of the staff of a chief representative, or\n(c) a member of the family of a member of the official staff of a chief representative,\nis and shall be entitled to the immunity from suit and legal process to which he would be entitled if the chief representative were an envoy.\n(2) When a person who is a member of the staff of a chief representative is or is deemed to be a citizen of Bangladesh-\n(a) that person is and shall be entitled to immunity under this Act only in respect of things done or omitted to be done in the course of the performance of his duties as a member of that staff; and\n(b) a member of the family of that person is not by reason only of his being a member of that family entitled to any immunity under this Act."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Rules for grant of consular immunity",
+      "content": "5. The [Government] may make rules providing that any person who holds any prescribed office in the service of the Government of a prescribed part of the Commonwealth shall, on being recognised by the Government of Bangladesh in the prescribed manner as a person entitled to the immunity from suit and legal process and to the inviolability of official premises and official archives to which he would be entitled if he were a consular officer of a foreign sovereign power, be so entitled."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Waiver of Immunity",
+      "content": "6. (1) A chief representative may waive any right to immunity or inviolability to which-\n(a) he or a member of his family,\n(b) a member of his staff, or\n(c) a member of the family of a member of his official staff may be entitled under this Act.\n(2) A person may waive any right to immunity or inviolability which has been conferred on him under the rules."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Certificate regarding immunity",
+      "content": "7. (1) The Government may issue in the prescribed manner a certificate certifying any fact relevant to the question whether a person is or is not entitled under this Act or the rules made thereunder to immunity from suit or legal process or to inviolability of residence, official premises or official archives.\n(2) A certificate issued under sub-section (1) shall be conclusive evidence in any legal proceedings of the facts certified in the certificate."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Rules",
+      "content": "8. (1) The [Government] may make rules for the purpose of carrying out the purposes of this Act.\n(2) Without prejudice to the generality of the foregoing power the rules may provide that, if the [Government] is of the opinion that persons representing Bangladesh in any country within the Commonwealth are not accorded treatment corresponding to the treatment accorded to persons representing that country in Bangladesh, the recognition of any representative of that country for the purposes of this Act and the immunities and inviolabilities to which the representatives or other persons of that country are otherwise entitled under this Act or the rules made thereunder shall cease, or that the immunities and inviolabilities shall be curtailed to the extent and in the manner prescribed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "chief representative",
+      "definition": "a person whether known by the title of High Commissioner or by any other title, who for the time being is recognised by the Government of Bangladesh as the chief representative in Bangladesh of a Commonwealth Country for the purposes of this Act",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "envoy",
+      "definition": "the envoy of a foreign sovereign power duly accredited in Bangladesh",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules made under this Act",
+      "source_provision": "sec2"
+    }
+  ]
+}

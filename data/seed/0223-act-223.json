@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-223",
+  "type": "statute",
+  "title": "The Armed Forces (Recruitment and Conditions of Service) Act, 1948",
+  "title_en": "The Armed Forces (Recruitment and Conditions of Service) Act, 1948",
+  "short_name": "Act 223",
+  "status": "in_force",
+  "issued_date": "1948-06-09",
+  "in_force_date": "1948-06-09",
+  "url": "http://bdlaws.minlaw.gov.bd/act-223.html",
+  "description": "An Act to provide for the regulation and control of the recruitment and conditions of service of the Bangladesh Armed Forces. WHEREAS it is necessary to provide for the regulation and control of the recruitment and conditions of service of the Bangladesh Armed Forces; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Armed Forces (Recruitment and Conditions of Service) Act, 1948 .\n(2) It extends to [the whole of Bangladesh].\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Power to make rules for recruitment",
+      "content": "2. The recruitment to the Armed Forces of [Bangladesh] including the Army, the Navy and the Air Force shall be governed by rules framed by the Government."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to make rules for conditions of service",
+      "content": "3. The Government shall make Rules for the regulation and control of the conditions of service as respects pay, leave, pensions and general rights of the services mentioned in section 2."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. [Omitted]",
+      "content": "4. [Saving as to sections 12 and 13 of the Independence Act.- Omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    }
+  ],
+  "definitions": []
+}

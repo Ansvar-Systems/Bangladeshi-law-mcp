@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-579",
+  "type": "statute",
+  "title": "The Law Reforms Ordinance, 1978",
+  "title_en": "The Law Reforms Ordinance, 1978",
+  "short_name": "Act 579",
+  "status": "in_force",
+  "issued_date": "1978-12-05",
+  "in_force_date": "1978-12-05",
+  "url": "http://bdlaws.minlaw.gov.bd/act-579.html",
+  "description": "An Ordinance to amend certain laws for purposes of law reform. WHEREAS the Government constituted a Law Committee to review the recommendations of Law Reforms Commissions of 1958 and 1967 and to make suggestions with respect thereto in the light of the changed circumstances; AND WHEREAS the said Law Committee has made certain recommendations for reform with respect to certain laws; AND WHEREAS it is expedient to a...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Law Reforms Ordinance, 1978 .\n(2) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint; and separate dates may be appointed with respect to different provisions thereof."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Amendment of certain laws",
+      "content": "2. The laws specified in third column of the Schedule shall be amended in the manner set out in the fourth column thereof."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Repeal of Letters Patent",
+      "content": "3. The Letters Patent in so far as they may have any application in relation to Bangladesh, or to, or in respect of jurisdiction, power and authority of, the Supreme Court of Bangladesh are hereby repealed."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Savings",
+      "content": "4. (1) Notwithstanding any amendment made by this Ordinance in the Code of Criminal Procedure, 1898 (Act V of 1898), hereinafter referred to as the said Code, any appeal, application, trial, inquiry or investigation which was pending immediately before such amendment takes effect shall be continued, held, made or disposed of in accordance with the provisions of the said Code as was in force before such amendment as if no such amendment had been made:\nProvided that an inquiry under Chapter XVIII of the said Code which was so pending shall be held, conducted and disposed of in accordance with the provisions of the said Code as amended by this Ordinance [:\nProvided further that it shall not be necessary for a Court of Session to hold trials with the aid of assessors.]\n(2) Notwithstanding any amendment made by this Ordinance in the Code of Civil Procedure, 1908 (Act V of 1908), an appeal from an appellate decree, or an application for revision under section 115, which was pending before the High Court Division immediately before such amendment takes effect shall be continued and disposed of in accordance with the provisions of that Code as was in force before such amendment, as if no such amendment had been made.\n(3) Notwithstanding the repeal of the Letters Patent, all proceedings under the Letters Patent pending before the High Court Division immediately before such repeal shall be continued and disposed of, as if the repeal had not taken effect."
+    }
+  ],
+  "definitions": []
+}

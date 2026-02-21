@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-542",
+  "type": "statute",
+  "title": "The Government of Bangladesh (Services Screening) (Repeal) Ordinance, 1977",
+  "title_en": "The Government of Bangladesh (Services Screening) (Repeal) Ordinance, 1977",
+  "short_name": "Act 542",
+  "status": "in_force",
+  "issued_date": "1977-04-28",
+  "in_force_date": "1977-04-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-542.html",
+  "description": "An Ordinance to repeal the Government of Bangladesh (Services Screening) Order, 1972. WHEREAS it is expedient to repeal the Government of Bangladesh (Services Screening) Order, 1972 (P.O.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Government of Bangladesh (Services Screening) (Repeal) Ordinance, 1977 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of P.O. No. 67 of 1972",
+      "content": "2. The Government of Bangladesh (Services Screening) Order, 1972 (P.O. No. 67 of 1972), is hereby repealed."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to review",
+      "content": "3. Notwithstanding the repeal of the Government of Bangladesh (Services Screening) Order, 1972 (P.O. No. 67 of 1972) by section 2, the Government may, at any time, either of its own motion or on application, review any order passed by it under clause (2) of Article 6 of that Order."
+    }
+  ],
+  "definitions": []
+}

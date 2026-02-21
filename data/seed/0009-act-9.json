@@ -1,0 +1,57 @@
+{
+  "id": "bd-act-9",
+  "type": "statute",
+  "title": "The Hindu Widow's Re-marriage Act, 1856",
+  "title_en": "The Hindu Widow's Re-marriage Act, 1856",
+  "short_name": "Act 9",
+  "status": "in_force",
+  "issued_date": "1856-07-25",
+  "in_force_date": "1856-07-25",
+  "url": "http://bdlaws.minlaw.gov.bd/act-9.html",
+  "description": "An Act to remove all legal obstacles to the marriage of Hindu Widows. WHEREAS it is known that, by the law as administered in the Civil Courts [* * *], Hindu widows with certain exceptions are held to be, by reason of their having been once married, incapable of contracting a second valid marriage, and the offspring of such widows by any second marriage are held to be illegitimate and incapable of inheriting prope...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Marriage of Hindu widows legalized",
+      "content": "1. No marriage contracted between Hindus shall be invalid, and the issue of no such marriage shall be illegitimate, by reason of the woman having been previously married or betrothed to another person who was dead at the time of such marriage, any custom and any interpretation of Hindu law to the contrary notwithstanding."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Rights of widow in deceased husband's property to cease on her re-marriage",
+      "content": "2. All rights and interests which any widow may have in her deceased husband's property by way of maintenance, or by inheritance to her husband or to his lineal successors, or by virtue of any will or testamentary disposition conferring upon her, without express permission to re-marry, only a limited interest in such property, with no power of alienating the same, shall upon her re-marriage cease and determine as if she had then died; and the next heirs of her deceased husband, or other persons entitled to the property on her death, shall thereupon succeed to the same."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Guardianship of children of deceased husband on the re-marriage of his widow",
+      "content": "3. On the re-marriage of a Hindu widow, if neither the widow nor any other person has been expressly constituted by the will or testamentary disposition of the deceased husband the guardian of his children the father or paternal grandfather or the mother or paternal grandmother, of the deceased husband, or any male relative of the deceased husband, may petition the highest Court having original jurisdiction in civil cases in the place where the deceased husband was domiciled at the time of his death for the appointment of some proper person to be guardian of the said children, and thereupon it shall be lawful for the said Court, if it shall think fit, to appoint such guardian, who when appointed shall be entitled to have the care and custody of the said children, or of any of them during their minority, in the place of their mother; and in making such appointment the Court shall be guided, so far as may be by the laws and rules in force touching the guardianship of children who have neither father nor mother:\nProvided that, when the said children have not property of their own sufficient for their support and proper education whilst minors, no such appointment shall be made otherwise than with the consent of the mother unless the proposed guardian shall have given security for the support and proper education of the children whilst minors."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Nothing in this Act to render any childless widow capable of inheriting",
+      "content": "4. Nothing in this Act contained shall be construed to render any widow who, at the time of the death of any person leaving any property, is a childless widow, capable of inheriting the whole or any share of such property, if before the passing of this Act, she would have been incapable of inheriting the same by reason of her being childless widow."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Saving of rights of widow marrying, except as provided in sections 2 to 4",
+      "content": "5. Except as in the three preceding sections is provided, a widow shall not, by reason of her re-marriage forfeit any property or any right to which she would otherwise be entitled; and every widow who has re-married shall have the same rights of inheritance as she would have had, had such marriage been her first marriage."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Ceremonies constituting valid marriage to have same effect on widow's marriage",
+      "content": "6. Whatever words spoken, ceremonies performed or engagements made on the marriage of a Hindu female who has not been previously married, are sufficient to constitute a valid marriage, shall have the same effect if spoken, performed or made on the marriage of a Hindu widow; and no marriage shall be declared invalid on the ground that such words, ceremonies or engagements are inapplicable to the case of a widow."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Consent to re-marriage of minor widow",
+      "content": "7. If the widow re-marrying is a minor whose marriage has not been consummated, she shall not re-marry without the consent of her father, or if she has no father, of her paternal grandfather, or if she has no such grandfather, of her mother, or, failing all these, of her elder brother, or failing also brothers, of her next male relative."
+    }
+  ],
+  "definitions": []
+}

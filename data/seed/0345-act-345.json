@@ -1,0 +1,55 @@
+{
+  "id": "bd-act-345",
+  "type": "statute",
+  "title": "The Ex-Government Servants (Employment with Foreign Governments) (Prohibition) Act, 1966",
+  "title_en": "The Ex-Government Servants (Employment with Foreign Governments) (Prohibition) Act, 1966",
+  "short_name": "Act 345",
+  "status": "in_force",
+  "issued_date": "1966-07-07",
+  "in_force_date": "1966-07-07",
+  "url": "http://bdlaws.minlaw.gov.bd/act-345.html",
+  "description": "An Act to prohibit ex-Government servants from seeking or taking up employment with a foreign Government or foreign agency. WHEREAS in the interest of the security of Bangladesh, it is expedient to prohibit ex-Government servants from seeking or taking up employment with a foreign Government or foreign agency; AND WHEREAS the national interest in relation to the security of Bangladesh requires Central legislation ...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Ex-Government Servants (Employment with Foreign Governments) (Prohibition) Act, 1966 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) “ex-Government servant” means any person who was, at any time, appointed or employed as an officer or [employee of the Government] and has ceased to be so appointed or employed;\n(b) “foreign agency” means any office or establishment of the diplomatic or consular representative of a foreign Government by whatever name called, and includes any information, public relations, trade or commercial agency, service centre or foundation established or maintained by any such Government or by any person who is a national of a foreign country; and\n(c) “foreign Government” means the Government of a foreign country."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Prohibition of employment, etc.",
+      "content": "3. (1) No ex-Government servant shall, except with the previous permission in writing of the [Government], seek or take up employment as an officer or servant of a foreign Government or a foreign agency.\n(2) [Omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Penalty",
+      "content": "4. Whoever contravenes the provisions of section 3 shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to five thousand [Taka], or with both."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ex-Government servant",
+      "definition": "any person who was, at any time, appointed or employed as an officer or [employee of the Government] and has ceased to be so appointed or employed",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "foreign agency",
+      "definition": "any office or establishment of the diplomatic or consular representative of a foreign Government by whatever name called, and includes any information, public relations, trade or commercial agency, service centre or foundation established or maintained by any such Government or by any person who is a national of a foreign country",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "foreign Government",
+      "definition": "the Government of a foreign country.",
+      "source_provision": "sec2"
+    }
+  ]
+}

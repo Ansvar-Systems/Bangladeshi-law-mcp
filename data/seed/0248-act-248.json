@@ -1,0 +1,1366 @@
+{
+  "id": "bd-act-248",
+  "type": "statute",
+  "title": "The Army Act, 1952",
+  "title_en": "The Army Act, 1952",
+  "short_name": "Act 248",
+  "status": "in_force",
+  "issued_date": "1952-05-13",
+  "in_force_date": "1952-05-13",
+  "url": "http://bdlaws.minlaw.gov.bd/act-248.html",
+  "description": "An Act to consolidate and amend the law relating to the Bangladesh Army. WHEREAS it is expedient to consolidate and amend the law relating to the Bangladesh Army; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the [* * *] Army Act, 1952 .\n(2) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint in this behalf."
+    },
+    {
+      "provision_ref": "sec2",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "2",
+      "title": "2. Persons subject to the Act",
+      "content": "2. (1) The following persons shall be subject to this Act, namely:-\n(a) officers [and junior commissioned officers] of the Bangladesh Army;\n(b) persons enrolled under the [* * *] Army Act, 1911, before the date notified in pursuance of sub-section (2) of section 1, and serving with the Bangladesh Army immediately before that date, and persons enrolled under this Act;\n[(bb) persons subject to the Navy Ordinance, 1961 , or the Air Force Act, 1953 , when seconded for service with the Bangladesh Army, to such extent and subject to such regulations as the Government may direct;]\n(c) persons not otherwise subject to this Act, who, on active service, in camp, on the march, or at any frontier post specified by the Government by notification in this behalf, are employed by, or are in the service of or are followers of, or accompany any portion of the Bangladesh Army;\n(d) persons not otherwise subject to this Act who are accused of-\n(i) seducing or attempting to seduce any person subject to this Act from his duty or allegiance to Government, or\n(ii) having committed, in relation to any work of defence, arsenal, naval, military or air force establishment or station, ship or aircraft or otherwise in relation to the naval, military or air force affairs of Bangladesh, an offence under the Official Secrets Act, 1923 .\n(2) Every person subject to this Act under clause (a) or clause (b) of sub-section (1) shall remain so subject until duly retired, released, discharged, removed or dismissed from the service.\n(3) Every person subject to this Act under clause (bb) of sub-section (1) shall remain so subject during the period of his secondment to the Bangladesh Army."
+    },
+    {
+      "provision_ref": "sec3",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "3",
+      "title": "3. Secondment to Navy or Air Force",
+      "content": "[2A. The Government may by order in writing direct that any person referred to in clause (a), clause (b) or clause (c) of sub-section (1) of section 2 shall, under such conditions as may be laid down by regulations, be seconded for service with the Bangladesh Navy or the Bangladesh Air Force.]"
+    },
+    {
+      "provision_ref": "sec4",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "4",
+      "title": "4. Special provision as to rank in certain cases",
+      "content": "3. (1) The Government may, by notification, direct that any persons or class of persons subject to this Act under clause (c) of sub-section (1) of section 2 shall be so subject as officers, [junior commissioned officers] or non-commissioned officers, and may authorise any officer to give a like direction with respect to any such person or to cancel such direction.\n(2) All persons subject to this Act other than officers, [junior commissioned officers] or non-commissioned officers shall, if they are not persons in respect of whom a notification or direction under sub-section (1) is in force, be deemed to be of a rank [lower] to that of a non-commissioned officer."
+    },
+    {
+      "provision_ref": "sec5",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "5",
+      "title": "5. Commanding officer of certain persons subject to the Act",
+      "content": "4. Every person subject to the Act under clause (c) of sub-section (1) of section 2 shall, for the purposes of this Act, be deemed to be under the command of the commanding officer of the corps, unit or detachment (if any) to which he is attached, and if he is not so attached, then he shall be under the command of any officer who may for the time being be named as his commanding officer by the officer commanding the force with which such person may for the time being be serving, or if no such officer is named, under the command of the said officer commanding the force:\nProvided that an officer commanding a force shall not place a person under the command of an officer of rank [lower] to that of such person, if there is present at the place where such person is any officer of a higher rank under whose command he can be placed."
+    },
+    {
+      "provision_ref": "sec6",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "6",
+      "title": "6. Powers to apply Act to certain forces under the Government",
+      "content": "5. (1) The Government may, by notification, apply all or any provisions of this Act to any force raised and maintained in Bangladesh under the authority of the Government.\n(2) On such notification being made any provisions of this Act so applied shall have effect in respect of persons belonging to any such force as they have effect in respect of persons subject to this Act holding in the Bangladesh Army the same rank as or equivalent to that which the aforesaid persons hold for the time being in the said force; and shall have effect in respect of persons who are employed by, or are in the service of, or are followers of, or accompany any portion of any such force as they have effect in respect of persons subject to this Act under clause (c) of sub-section (1) of section 2.\n(3) While any of the provisions of this Act apply to any such force, the Government may, by notification, direct by what authority any jurisdiction, powers or duties incident to the operation of these provisions shall be exercised or performed in respect of that force, and may suspend the operation of any other enactment for the time being applicable to that force."
+    },
+    {
+      "provision_ref": "secomitted",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "6. [***]"
+    },
+    {
+      "provision_ref": "sec8",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "8",
+      "title": "8. Power to declare persons to be on active service",
+      "content": "7. Notwithstanding anything contained in clause (1) of section 8, the Government may, by notification, direct that any person or class of persons subject to this Act shall, with reference to any area in which they may be serving or with reference to all or any of the provisions of this Act or of any other law for the time being in force, be deemed to be on active service within the meaning of this Act."
+    },
+    {
+      "provision_ref": "sec9",
+      "chapter": "Chapter I: PRELIMINARY",
+      "section": "9",
+      "title": "9. Definitions",
+      "content": "8. In this Act, unless the context otherwise requires,-\n(1) “active service”, as applied to a person subject to this Act, means the time during which such person is attached to, or forms part of a force which is engaged in operations against an enemy, or is engaged in military operations in, or is on the line of march to, a country or place wholly or partly occupied by an enemy, or is attached to or forms part of a force which is in military occupation of a foreign country;\n(2) “civil offence” means an offence which, if committed in Bangladesh, would be triable by a criminal court;\n(3) “Chief of Army Staff” means the Chief of Army Staff of the Bangladesh Army;\n(4) “commanding officer” means:-\n(i) when used in any provision of this Act with reference to any separate portion of the Bangladesh Army, the officer whose duty it is under the regulations of the Bangladesh Army, or in the absence of such regulations by the custom of the service, to discharge with respect to that portion, the functions of the commanding officer, and\n(ii) when used in relation to a person subject to this Act, the officer for the time being in command of any separate portion of the Bangladesh Army or of any unit of a force to which such person belongs or is attached;\n(5) “corps” means any separate body of the Bangladesh Army or of any force which is prescribed as a corps for the purposes of all or any of the provisions of this Act;\n(6) “court martial” means a court martial held under this Act;\n(7) “criminal court” means a court of ordinary criminal justice in Bangladesh, or established elsewhere by the authority of the Government;\n(8) “enemy” includes all armed mutineers, armed rebels, armed rioters, pirates and any person in arms against whom it is the duty of any person subject to this Act to act;\n(9) “junior commissioned officer” means a person commissioned, gazetted or in pay as a junior commissioned officer in the Bangladesh Army;\n[(9a) “military custody” means the arrest or confinement of a person according to the usage of the service and includes naval or Air force custody;\n(9b) “military reward” includes any gratuity or annuity for long service or good conduct, any good service pay or pension, and any other military pecuniary award;]\n(10) “non-commissioned officer” means a person attested under this Act who holds a non-commissioned rank in the Bangladesh Army and includes an active non-commissioned officer;\n(11) “offence” means any act or omission punishable under this Act and includes a civil offence as hereinbefore defined;\n(12) “officer” means a person commissioned, gazetted or in pay as an officer of the Bangladesh Army and includes:-\n(i) an officer who being a citizen of Bangladesh holds a commission in Her Majesty's Land Forces, but does not include a junior commissioned officer; and\n(ii) in relation to a person subject to this Act when serving under such conditions as may be prescribed, an officer of the Bangladesh Navy and an officer of the Bangladesh Air Force;\n(13) “prescribed” means prescribed by rules made under this Act;\n(14) “service”, when used in relation to an institution, necessaries, books, band, mess, money, goods or other property means an institution, necessaries, books, band, mess, money, goods or other property belonging to, or connected with, the Bangladesh Army or any unit or part thereof;\n(15) “superior officer”, when used in relation to a person subject to this Act, includes [a junior commissioned officer] or a non-commissioned officer; and, as regards persons placed under his orders, an officer, warrant officer, petty officer or non-commissioned officer of the Bangladesh Navy or Air Force;\n[* * *]\n(17) all words and expressions used but not defined in this Act and defined in the [Penal Code] shall be deemed to have the meanings assigned to them in that Code."
+    },
+    {
+      "provision_ref": "secomitted-2",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "9. [Appointment to warrant rank.- Omitted by section 5 of the Army (Amendment) Act, 2006 (Act No. XXXIII of 2006).]"
+    },
+    {
+      "provision_ref": "secomitted-3",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "9A. [Administration of oath to warrant officers.- Omitted by section 6 of the Army (Amendment) Act, 2006 (Act No. XXXIII of 2006) which was inserted by section 2 of the Pakistan Army (Amendment) Ordinance, 1962 (Ordinance No. XXI of 1962).]"
+    },
+    {
+      "provision_ref": "sec12",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "12",
+      "title": "12. Ineligibility of aliens for service in the Army",
+      "content": "10. No person who is not a citizen of Bangladesh shall, except with the consent of the Government signified in writing, be granted a commission or warrant or be enrolled in the Bangladesh Army."
+    },
+    {
+      "provision_ref": "sec13",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "13",
+      "title": "13. Procedure before enrolling officer",
+      "content": "11. Upon the appearance before the prescribed enrolling officer of any person desirous of being enrolled, the enrolling officer shall read and explain to him, or cause to be read and explained to him in his presence, the conditions of the service for which he is enrolled and shall put to him the questions set forth in the prescribed form of enrolment and shall, after having cautioned him that if he makes a false answer to any such question he will be liable to punishment under this Act, record or cause to be recorded his answer to each such question."
+    },
+    {
+      "provision_ref": "sec14",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "14",
+      "title": "14. Enrolment",
+      "content": "12. If, after complying with the provisions of section 11, the enrolling officer is satisfied that the person desirous of being enrolled understands the questions put to him and consents to the conditions of service, and if the enrolling officer perceives no impediment, he shall sign and also cause such person to sign the enrolment paper and the person shall thereupon be deemed to be enrolled."
+    },
+    {
+      "provision_ref": "sec15",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "15",
+      "title": "15. Presumption of validity of enrolment in certain cases",
+      "content": "13. Every person who has for the space of three months been in receipt of military pay as a person enrolled under this Act and been borne on the rolls of any corps or unit of the Bangladesh Army shall be deemed to have been duly enrolled and shall not be entitled to claim his discharge on the ground of any irregularity or illegality in his enrolment or on any other ground whatsoever, and if any person, in receipt of such pay and borne on the rolls as aforesaid, claims his discharge before the expiry of three months from his enrolment, no such irregularity or illegality or other ground shall, until he is discharged in pursuance of his claim, affect his position as a person enrolled under this Act or invalidate any proceedings, act or thing taken or done prior to his discharge."
+    },
+    {
+      "provision_ref": "sec16",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "16",
+      "title": "16. Persons to be attested",
+      "content": "14. The following persons shall be attested, namely:-\n(a) all persons enrolled as combatants;\n(b) all persons selected to hold a non-commissioned or acting non-commissioned rank;\n(c) all other enrolled persons prescribed by the Government."
+    },
+    {
+      "provision_ref": "sec17",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "17",
+      "title": "17. Mode of attestation",
+      "content": "15. (1) When a person who is to be attested is reported fit for duty, or has completed the prescribed period of probation, an oath or affirmation shall be administered to him in the prescribed form by his commanding officer, in front of his corps or unit or such portion thereof as may be present, or by any other prescribed person.\n(2) The form of oath or affirmation prescribed under this section shall contain a promise that the person to be attested will be faithful to Bangladesh and its Constitution and bear true allegiance to the President of Bangladesh and that he will serve in the Bangladesh Army and will go wherever he is ordered by land, air or sea, and that he will obey all commands of any officer set over him, even to the peril of his life.\n(3) The fact that an enrolled person has taken the oath or affirmation directed by this section shall be entered on his enrolment paper, and authenticated by the signature of the officer administering the oath or affirmation."
+    },
+    {
+      "provision_ref": "secomitted-4",
+      "chapter": "Chapter II: APPOINTMENT, ENROLMENT AND ATTESTATION",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "15A. [***]"
+    },
+    {
+      "provision_ref": "sec19",
+      "chapter": "Chapter III: TERMINATION OF SERVICE",
+      "section": "19",
+      "title": "19. Dismissal or removal by Government",
+      "content": "16. The Government may dismiss or remove from the service any person subject to this Act."
+    },
+    {
+      "provision_ref": "sec20",
+      "chapter": "Chapter III: TERMINATION OF SERVICE",
+      "section": "20",
+      "title": "20. Dismissal or removal by Chief of Army Staff, or other authorised officer",
+      "content": "17. (1) The Chief of Army Staff may dismiss or remove from the service any [junior commissioned officer] or any person enrolled under this Act.\n(2) An officer having power to convene a district court martial or an officer not below the rank of lieutenant-colonel empowered by the Chief of Army Staff in this behalf may dismiss or remove from the service any person enrolled under this Act who may be serving under his command."
+    },
+    {
+      "provision_ref": "sec21",
+      "chapter": "Chapter III: TERMINATION OF SERVICE",
+      "section": "21",
+      "title": "21. Retirement, release, or discharge",
+      "content": "18. The prescribed authority may, in conformity with such rules as may be prescribed in this behalf, retire, release or discharge from the service any person subject to this Act."
+    },
+    {
+      "provision_ref": "sec22",
+      "chapter": "Chapter III: TERMINATION OF SERVICE",
+      "section": "22",
+      "title": "22. Certificate on termination of service",
+      "content": "19. Every junior commissioned officer [* * *] or person enrolled under this Act, who is dismissed, removed, retired, released or discharged from the service shall be furnished by his commanding officer with a certificate in the [Bengali] language or such other language as he understands, setting forth,-\n(a) the authority who terminates his service;\n(b) the cause for such termination;\n(c) the full period of his service in the Bangladesh Army."
+    },
+    {
+      "provision_ref": "sec23",
+      "chapter": "Chapter III: TERMINATION OF SERVICE",
+      "section": "23",
+      "title": "23. Discharge or dismissal when out of Bangladesh",
+      "content": "20. (1) Any person subject to this Act, who is entitled under the conditions of his service to be discharged, or whose discharge is ordered by competent authority, and who, when he is so entitled or ordered to be discharged, is serving out of Bangladesh, and requests to be sent to Bangladesh, shall, before being discharged, be sent to Bangladesh with all convenient speed.\n(2) Any person subject to this Act who is dismissed from the service and who, when he is so dismissed is serving out of Bangladesh, shall be sent to Bangladesh with all convenient speed.\n(3) When any such person as is mentioned in sub-section (2) is sentenced to dismissal combined with any other punishment, such other punishment, or in the case of a sentence of transportation or imprisonment, a portion of such sentence, may be inflicted before he is sent to Bangladesh.\nExplanation.-For the purposes of this section, the word “discharge” shall include retirement or release, and the word “dismissal” shall include removal."
+    },
+    {
+      "provision_ref": "sec24",
+      "chapter": "Chapter IV: SUMMARY REDUCTION AND PUNISHMENT OTHERWISE THAN BY SENTENCE OF COURT MARTIAL",
+      "section": "24",
+      "title": "24. 21 [Reduction of non-commissioned officers]",
+      "content": "21. [Sub-section (1) was omitted by section 9 of the Army (Amendment) Act, 2006 (Act No. XXXIII of 2006).]\n(2) The Chief of Army Staff or an officer having power to convene a district court martial or an officer not below the rank of lieutenant-colonel empowered by the Chief of Army Staff in this behalf may reduce to a lower grade or rank or to the ranks any non-commissioned officer who may be serving under his command."
+    },
+    {
+      "provision_ref": "sec25",
+      "chapter": "Chapter IV: SUMMARY REDUCTION AND PUNISHMENT OTHERWISE THAN BY SENTENCE OF COURT MARTIAL",
+      "section": "25",
+      "title": "25. Reversion of an acting non-commissioned officer",
+      "content": "22. The commanding officer of an acting non-commissioned officer may order him to revert to his permanent grade as a non-commissioned officer or, if he has no permanent grade above the ranks, to the ranks."
+    },
+    {
+      "provision_ref": "sec26",
+      "chapter": "Chapter IV: SUMMARY REDUCTION AND PUNISHMENT OTHERWISE THAN BY SENTENCE OF COURT MARTIAL",
+      "section": "26",
+      "title": "26. Minor punishments",
+      "content": "23. (1) The Government may, on the recommendation of the Chief of Army Staff prescribe the minor punishments to which persons subject to this Act shall be liable without the intervention of court martial, and the [officers, junior commissioned officers or non-commissioned officers by whom], and the extent to which, such minor punishments may be awarded.\n(2) Detention, or rigorous imprisonment in military custody, and, in the case of persons subject to this Act on active service, any prescribed field punishment may be specified as minor punishments:\nProvided that-\n(a) the term of such detention, rigorous imprisonment or field punishment shall not exceed twenty-eight days, and\n(b) such detention, rigorous imprisonment or field punishment shall not be awarded to any person who is of or above the rank of non-commissioned officer, or who, when he committed the offence in respect of which it is awarded, was of or above such rank."
+    },
+    {
+      "provision_ref": "sec27",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "27",
+      "title": "27. Offences in relation to enemy and punishable with death",
+      "content": "24. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) shamefully abandons or delivers up any garrison, fortress, airfield, place, post or guard committed to his charge or which it is his duty to defend, or uses any means to compel or induce any commanding officer or other person to do any of the said act; or\n(b) in the presence of any enemy, shamefully casts away his arms, ammunition, tools or equipment, or misbehaves in such manner as to show cowardice; or\n(c) intentionally uses words or any other means to compel or induce any person subject to this Act, or to [* * *] the Air Force Act, 1953 , or to the Navy Ordinance, 1961 , to abstain from acting against the enemy or to discourage such person from acting against the enemy; or\n(d) directly or indirectly, treacherously holds correspondence with, or communicates intelligence to, the enemy or who coming to the knowledge of such correspondence or communication treacherously omits to discover it to his commanding or other superior officer; or\n(e) directly or indirectly assists or relieves the enemy with arms, ammunition, equipment, supplies or money, or knowingly harbours or protects an enemy not being a prisoner; or\n(f) treacherously or through cowardice sends a flag of truce to the enemy; or\n(g) in time of war, or during any operation, intentionally occasions a false alarm in action, camp, garrison or quarters, or spreads reports calculated to create alarm or despondency; or\n(h) in time of action, leaves his commanding officer, or quits his post, guard, picquet, patrol or party without being regularly relieved or without leave; or\n(i) having been made a prisoner of war, voluntarily serves with or aids the enemy; or\n(j) knowingly does when on active service any act calculated to imperil the success of the Bangladesh forces or any forces co-operating therewith or of any part of such forces;\nshall, on conviction by court martial, be punished with death or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec28",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "28",
+      "title": "28. Offences in relation to the enemy and not punishable with death",
+      "content": "25. Any person subject to this Act who, on active service-\n(a) without orders from his superior officer leaves the ranks in order to secure prisoners, animals or materials, or on pretence of taking wounded men to the rear; or\n(b) without orders from his superior officer, wilfully destroys or damages any property; or\n(c) is taken prisoner for want of due precaution or through disobedience of orders a wilful neglect of duty, or, having been taken prisoner, fails to rejoin his service when able to do so; or\n(d) without due authority, either holds correspondence with, or communicates intelligence, or sends a flag of truce, to the enemy; or\n(e) by word of mouth, or in writing, or by signals, or otherwise spreads reports calculated to create alarm or despondency; or\n(f) in action, or previously to going into action, uses words calculated to create alarm or despondency;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec29",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "29",
+      "title": "29. Disclosure of parole or watchword",
+      "content": "26. Any person subject to this Act who-\n(a) treacherously makes known the parole, watchword or countersign to any person not entitled to receive it, or\n(b) treacherously gives a parole, watchword or countersign different from what he received,\nshall, on conviction by court martial,\nif he commits the offence on active service, be punished with death, or with such less punishment as is in this Act mentioned, and\nif he commits such offence not on active service, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec30",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "30",
+      "title": "30. Offences against property or persons of inhabitant of country where serving",
+      "content": "27. Any person subject to this Act who, on active service, commits any offence against the property or person of any inhabitant of, or resident in, the country in which he is serving shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec31",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "31",
+      "title": "31. Offences relating to sentries",
+      "content": "28. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) being a sentry, sleeps or is intoxicated on his post or quits it without leave; or\n(b) being a sentry, or on guard, plunders, or wilfully destroys, or injures, any property placed under his charge or under charge of his guard; or\n(c) strikes, or forces or attempts to force any sentry or safeguard; or\n(d) without orders from his superior officer, leaves his guard, picquet, patrol or post;\nshall, on conviction by court martial,\nif he commits such offence on active service, be punished with rigorous imprisonment which may extend to fourteen years or with such less punishment as is in this Act mentioned; and\nif he commits such offence not on active service, be punished with rigorous imprisonment for a term which may extend to five years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec32",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "32",
+      "title": "32. House breaking, false alarms, unauthorised disclosures, punishable more severely on active service than at other times",
+      "content": "29. Any person subject to this Act whoÔÇö\n(a) breaks into any house or other place in search of plunder; or\n(b) by any means whatever, intentionally occasions a false alarm; or\n(c) without due authority, either verbally or in writing or by signals or otherwise discloses the number or position of any of the Bangladesh forces, or any part thereof, or any preparation for, or orders relating to operations or movement of such forces;\nshall, on conviction by court martial,\nif he commits the offence on active service, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned, or\nif he commits the offence not on active service, be punished with rigorous imprisonment for a term which may extend to five years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec33",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "33",
+      "title": "33. Other service offences",
+      "content": "30. Any person subject to this Act who-\n(a) by any means whatever, negligently occasions a false alarm; or\n(b) makes known the parole, watchword, or countersign to any person not entitled to receive it, or, without good and sufficient cause, gives a watchword, parole or countersign different from what he received; or\n(c) irregularly detains or appropriates to his own unit or detachment any provisions or supplies proceeding to the forces, contrary to orders issued in that respect;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to three years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec34",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "34",
+      "title": "34. Mutiny and insubordination",
+      "content": "31. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) begins, incites, causes, or conspires with any other person to cause, or joins in, any mutiny in the military, naval or air forces of Bangladesh or any forces co-operating therewith; or\n(b) being present at any such mutiny, does not use his ut-most endeavours to suppress the same; or\n(c) knowing or having reason to believe in the existence of any such mutiny or any intention to commit such mutiny, or of any such conspiracy, does not without reasonable delay give information thereof to his commanding or other superior officer; or\n(d) attempts to seduce any person in the military, naval or air forces of Bangladesh from his duty or his allegiance to the Government of Bangladesh;\nshall, on conviction by court martial, be punished with death or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec35",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "35",
+      "title": "35. Offences in relation to superior officers",
+      "content": "32. (1) Any person subject to this Act who uses or attempts to use criminal force to, or commits an assault on, his superior officer being in the execution of his office, knowing or having reason to believe him to be such, shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned.\n(2) Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) uses or attempts to use criminal force to, or commits an assault on, his superior officer, knowing or having reason to believe him to be such; or\n(b) is grossly insubordinate or insolent to his superior officer, knowing or having reason to believe him to be such; or\n(c) impedes a provost marshal or any person lawfully acting on his behalf, or any member of the service police, or when called upon, refuses to assist a provost marshal or any person lawfully acting on his behalf or any member of the service police in the execution of his duty,\nshall, on conviction by court martial,\nif he commits such offence on active service, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned; and\nif he commits such offence not on active service, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned.\nExplanation.- For the purposes of sub-section (2), “provost marshal” shall be deemed to include a provost marshal or any of his assistants appointed under [* * *] the Air Force Act, 1953 , or the Navy Ordinance, 1961, and “service police” shall be deemed to include members of the Air Force or the Naval Police, being persons subject to the aforesaid Acts."
+    },
+    {
+      "provision_ref": "sec36",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "36",
+      "title": "36. Disobedience of lawful command",
+      "content": "33. (1) Any person subject to this Act who disobeys in such a manner as to show a wilful defiance of authority a lawful command given personally by his superior officer, knowing or having reason to believe him to be such, shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned.\n(2) Any person subject to this Act who disobeys the lawful command of his superior officer, knowing or having reason to believe him to be such, shall, on conviction by court martial,\nif he commits such offence on active service, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned; and\nif he commits such offence not on active service, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec37",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "37",
+      "title": "37. Neglect to obey orders",
+      "content": "34. Any person subject to this Act who neglects to obey any standing or routine or other orders shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to two years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec38",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "38",
+      "title": "38. Insubordination and obstruction",
+      "content": "35. Any person subject to this Act, who-\n(a) being concerned in any quarrel, affray or disorder, refuses to obey any officer, though of inferior rank, who orders him into arrest, or uses criminal force to, or assaults any such officer; or\n(b) uses criminal force to or assaults any person, whether subject to this Act or not, in whose custody he is lawfully placed, and whether he is or is not his superior officer; or\n(c) resists an escort whose duty it is to apprehend him or to have him in charge;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to two years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec39",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "39",
+      "title": "39. Desertion and aiding deserters",
+      "content": "36. (1) Any person subject to this Act who deserts or attempts to desert the service shall, on conviction by court martial,\nif he commits the offence when on active service or when under orders for active service, be punished with death, or such less punishment as is in this Act mentioned; and\nif he commits the offence under any other circumstances, be punished for the first offence with rigorous imprisonment for a term which may extend to two years or with such less punishment as is in this Act mentioned, and for the second or any subsequent offence with rigorous imprisonment for a term which may extend to ten years, or with such less punishment as is in this Act mentioned.\n(2) Any person subject to this Act who knowingly harbours any deserter from any of the military, naval or Air forces of Bangladesh shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to seven years or with such less punishment as is in this Act mentioned.\n(3) Any person subject to this Act who, being cognisant of any desertion, or attempt at desertion, of any person belonging to the military, naval or air forces of Bangladesh, does not forthwith give notice to his own or some other superior officer, or does not take any steps in his power to cause such person to be apprehended, shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to three years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec40",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "40",
+      "title": "40. Absence without leave",
+      "content": "37. Any person subject to this Act who,-\n(a) absents himself without leave; or\n(b) without sufficient cause overstays leave granted to him; or\n(c) being on leave of absence and having received information from proper authority that the corps or unit or detachment or portion of the corps, unit or detachment to which he belongs, has been ordered on active service, fails, without sufficient cause, to rejoin without delay; or\n(d) without sufficient cause fails to appear at the time fixed, at the parade or place appointed for exercise or duty; or\n(e) when on parade, or on the line of march, without sufficient cause or without leave from his superior officer, quits the parade or line of march; or\n(f) when in camp or garrison or elsewhere, is found beyond any limits fixed, or in any place prohibited, by any standing or routine order without a pass or written leave from his superior officer; or\n(g) without leave from his superior officer or without sufficient cause, absents himself from any school or other institution when duly ordered to attend there;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec41",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "41",
+      "title": "41. Fraudulent enrolment",
+      "content": "38. Any person subject to this Act who,-\n(a) without having obtained a regular discharge from the corps or unit to which he belongs, or without having otherwise fulfilled the conditions enabling him to enrol or enter, enrols himself in, or enters the same or any other corps or unit or any part of the Bangladesh Forces regular or non-regular; or\n(b) is concerned in the enrolment in any of the Bangladesh Forces, regular or non-regular, of any person whom he knows or has reason to believe to be so circumstanced that by enrolling he commits an offence against this Act or against [* * *] the Air Force Act, 1953 or the Navy Ordinance, 1961;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec42",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "42",
+      "title": "42. False answers on enrolment",
+      "content": "39. Any parson having become subject to this Act by enrolment who is discovered to have made at time of his enrolment a wilfully false answer to any question set forth in the prescribed form of enrolment which was put to him by the enrolling officer before whom he appeared for the purpose of being enrolled shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to five years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec43",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "43",
+      "title": "43. Fraudulent offence in respect of property",
+      "content": "40. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) dishonestly misappropriates or commits theft of, or criminal breach of trust in respect of, any property belonging to the Government or any service property or the property of any person subject to this Act, or [* * *] the [ Air Force Act, 1953 ,] or to the Navy Ordinance, 1961 or of any person serving with or attached to any of the armed forces of Bangladesh; or\n(b) dishonestly receives or retains any stolen property of the nature specified in clause (a), knowing or having reason to believe the same to be stolen; or\n(c) is guilty of any other act or omission with intent to defraud, or to cause wrongful gain or wrongful loss to any person;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec44",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "44",
+      "title": "44. Certain forms of disgraceful conduct",
+      "content": "41. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) malingers or feigns or produces disease or infirmity in himself, or intentionally delays his cure or aggravates his disease or infirmity; or\n(b) with intent to render himself or any other person subject to this Act unfit for service, voluntarily causes hurt to himself or such other person; or\n(c) is guilty of any disgraceful conduct of a cruel, indecent or unnatural kind;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to ten years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec45",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "45",
+      "title": "45. Illegal gratification",
+      "content": "42. Any person subject to this Act who directly or indirectly accepts or obtains, or agrees to accept, or attempts to obtain, from any person for himself or any other person, any gratification whatever other than a legal remuneration, as a motive or reward for doing or forbearing to do any act, or for showing favour or disfavour to any person, in relation to any of the affairs of the State or of any service affairs, shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec46",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "46",
+      "title": "46. Intoxication",
+      "content": "43. Any person subject to this Act who commits the following offence, that is to say, the offence of being in a state of intoxication, shall, on conviction by court martial,\nif he commits such offence on active service or while he is on duty, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned; and\nif he commits such offence while not on active service or not on duty, be punished,\nif he is subject to this Act as an officer, with dismissal or such less punishment as is in this Act mentioned; and\nif he is subject to this Act otherwise than as an officer, with rigorous imprisonment for a term which may extend to six months or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec47",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "47",
+      "title": "47. Offences in relation to persons in custody",
+      "content": "44. (1) Any person subject to this Act who, without authority, wilfully releases any prisoner or person placed in service custody, shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to fourteen years, or with such less punishment as is in this Act mentioned.\n(2) Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) negligently or without reasonable excuse allows any prisoner or person placed in his charge to escape, or\n(b) being in lawful custody escapes or attempts to escape or leaves such custody before he is set at liberty by proper authority;\nshall, on conviction by court martial, be punished,\nif he is subject to this Act as an officer with dismissal, or such less punishment as is in this Act mentioned; and\nif he is subject to this Act otherwise, with rigorous imprisonment for a term which may extend to two years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec48",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "48",
+      "title": "48. Loss of arms, etc., and destruction of property",
+      "content": "45. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) loses by neglect any arms, ammunition, equipment, instruments, tools, clothing or any other thing, being Government or service property issued to him for his use or entrusted to him for his use or entrusted to him for military purposes; or\n(b) wilfully destroys or injures any Government or service property;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to two years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec49",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "49",
+      "title": "49. False accusation",
+      "content": "46. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) makes a false accusation against any person subject to this Act, knowing or having reason to believe such accusation to be false; or\n(b) in making a complaint to his superior officer makes any statement affecting the character of a person subject to this Act knowing or having reason to believe such statement to be false, or in making such complaint knowingly and wilfully suppresses any material fact;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to two years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec50",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "50",
+      "title": "50. False documents",
+      "content": "47. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) in any report, return, list certificate, book or other service or official document made or signed by him or of the contents of which it is his duty to ascertain the accuracy,-\n(i) knowingly makes or is privy to the making of any false or fraudulent statement; or\n(ii) knowingly makes or is privy to the making of an omission with intent to defraud; or\n(b) knowingly and with intent to injure any person, or to defraud, suppresses, defaces, alters or makes away with, any service or official document which it is his duty to preserve or produce; or\n(c) when it is his official duty to make a declaration respecting any service or official matter, knowingly makes a false declaration;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to seven years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec51",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "51",
+      "title": "51. Signing in blank and failure to report",
+      "content": "48. Any person subject to this Act who,-\n(a) when signing any document relating to pay, arms, ammunition, equipment, clothing, supplies or stores of any other Government or service property, knowingly leaves in blank any material part for which his signature is a voucher; or\n(b) refuses, or by culpable neglect omits, to make a report or return which it is his duty to make;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to two years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec52",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "52",
+      "title": "52. Offences in relation to courts martial",
+      "content": "49. Any person subject to this Act who commits any of the following offences, that is to say,-\n(a) refuses to be sworn or affirmed when duly required by a court martial to be sworn or affirmed; or\n(b) refuses, when a witness, to answer any question or to produce or deliver up any book, document or other thing when duly required by a court martial to answer such question, or to produce or deliver up such book, document or other thing; or\n(c) is guilty of contempt of court martial, by using insulting or threatening language, or by causing any interruption or disturbance in the proceedings of such court;\nshall, on conviction by court martial be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec53",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "53",
+      "title": "53. False statement before court martial",
+      "content": "50. Any person subject to this Act who, having been duly sworn or affirmed before any court martial or other military court competent under this Act to administer an oath or affirmation, makes any statement which is false and which he either knows or believes to be false or does not believe to be true, shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to ten years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec54",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "54",
+      "title": "54. Irregular confinement",
+      "content": "51. Any person subject to this Act who,-\n(1) without lawful excuse, detains a person in arrest or confinement without bringing him to trial or fails to bring his case before the proper authority for investigation; or\n(2) having committed a person to custody, fails without reasonable cause to deliver at the time of such committal, or as soon as practicable, and in any case within twenty-four hours thereafter, to the officer or other person into whose custody the person arrested is committed, an account in writing signed by himself of the offence with which the person so committed is charged;\nshall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to two years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec55",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "55",
+      "title": "55. Unbecoming behaviour",
+      "content": "52. [Any officer or junior commissioned officer], who behaves in a manner unbecoming his position and the character expected of him shall, on conviction by court martial, be liable to be dismissed from the service or to suffer such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec56",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "56",
+      "title": "56. Striking or ill-treating person subject to the Act",
+      "content": "53. Any person subject to this Act who strikes or ill- treats any person subject to this Act being his subordinate in rank or position shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to five years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec57",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "57",
+      "title": "57. Unlawful detention of pay",
+      "content": "54. Any officer, [junior commissioned officer] or non-commissioned officer who, having received the pay of a person subject to this Act, unlawfully detains or refuses to pay the same, when due, shall, on conviction by court martial, be liable to be punished with rigorous imprisonment for a term which may extend to seven years or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec58",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "58",
+      "title": "58. Violation of good order and discipline",
+      "content": "55. Any person subject to this Act who is guilty of any act, conduct, disorder or neglect to the prejudice of good order and of military discipline shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to five years, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec59",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "59",
+      "title": "59. Offences relating to aircraft",
+      "content": "56. Any person subject to this Act who,-\n(a) voluntarily or negligently damages, destroys or loses any service aircraft or aircraft material; or\n(b) is guilty of any act or omission likely to cause such damage, destruction or loss; or\n(c) without due authority disposes of any service aircraft or aircraft material; or\n(d) is guilty of any act or omission in flying or in the use of any aircraft, or in relation to any aircraft, or aircraft material which causes or is likely to cause loss of life or bodily injury to any person; or\n(e) during a state of war, voluntarily and without proper occasion or negligently causes sequestration, by or under the authority of a neutral State, or the destruction in a neutral State, of any service aircraft,\nshall, on conviction by court martial, be punished,\nif he has acted voluntarily, with rigorous imprisonment for a term which may extend to fourteen years or with such less punishment as is in this Act mentioned; and\nif he has not acted voluntarily, with rigorous imprisonment for a term which may extend to five years or with such less punishment as is in this Act mentioned.\nExplanation.- In this section, “aircraft” includes aero-planes, baloons, kite baloons, airships, gliders or other machines for flying, and “aircraft material” includes any engines, fittings, guns, gear, instruments or apparatus for use in connection with aircraft, and components and accessories of aircraft, and petrol or any other substance used for providing motive power for aircraft, and lubricating oil."
+    },
+    {
+      "provision_ref": "sec60",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "60",
+      "title": "60. Attempt",
+      "content": "57. Any person subject to this Act who attempts to commit any offence [specified in this Act] and in such attempt does any act towards the commission of the offence shall, on conviction by court martial, where no express provision is made by this Act for the punishment of such attempt, be punished,\nif the offence attempted to be committed is punishable with death, with rigorous imprisonment for a term which may extend to fourteen years or with such less punishment as is in this Act mentioned; and\nif the offence attempted to be committed is punishable with rigorous imprisonment, with rigorous imprisonment for a term which may extend to one-half of the longest term provided for that offence, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec61",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "61",
+      "title": "61. Abetment",
+      "content": "58. Any person subject to this Act who abets the commission of any offence [specified in this Act], or of any offence punishable under [* * *] the Air Force Act, 1953 , or the Navy Ordinance, 1961, such offence being of the same nature as an offence [specified in this Act], shall, on conviction by court martial, be punished with the punishment provided for such offence in this Act or in [* * *] the Air Force Act, 1953 , or in the Navy Ordinance, 1961, as the case may be, or with such less punishment as is in this Act mentioned."
+    },
+    {
+      "provision_ref": "sec62",
+      "chapter": "Chapter V: OFFENCES",
+      "section": "62",
+      "title": "62. Civil offences",
+      "content": "59. (1) Subject to the provisions of sub-section (2), any person subject to this Act who at any place in or beyond Bangladesh commits any civil offence shall be deemed to be guilty of an offence against this Act and, if charged therewith under this section, shall be liable to be dealt with under this Act, and, on conviction, to be punished as follows, that is to say,-\n(a) if the offence is one which would be punishable under any law in force in Bangladesh with death or with transportation, he shall be liable to suffer any punishment other than whipping assigned for the offence by the aforesaid law or such less punishment as is in this Act mentioned; and\n(b) in any other case, he shall be liable to suffer any punishment other than whipping assigned for the offence by the law in force in Bangladesh, or with rigorous imprisonment for a term which may extend to five years or with such less punishment as is in this Act mentioned.\n(2) A person subject to this Act who commits an offence of murder against a person not subject to this Act or to [* * *] the Air Force Act, 1953 , or to the [Navy Ordinance, 1961], or of culpable homicide not amounting to murder against such a person or of rape in relation to such a person, shall not be deemed to be guilty of an offence against this Act and shall not be dealt with under this Act unless he commits any of the said offences,-\n(a) while on active service, or\n(b) at any place outside Bangladesh, or\n(c) at a frontier post specified by the Government by notification in this behalf.\n(3) The powers of a court martial or an officer exercising authority under section 23 to charge and punish any person under this section shall not be affected by reason of the fact that the civil offence with which such person is charged is also an offence against this Act.\n(4) Notwithstanding anything contained in this Act or in any other law for the time being in force, a person who becomes subject to this Act by reason of his being accused of an offence mentioned in clause (d) of sub-section (1) of section 2 shall be liable to be tired or otherwise dealt with under this Act for such offence as if the offence were an offence against this Act and were committed at the time when such person was subject to this Act; and the provisions of this section shall have effect accordingly."
+    },
+    {
+      "provision_ref": "sec63",
+      "chapter": "Chapter VI: PUNISHMENTS",
+      "section": "63",
+      "title": "63. Punishments",
+      "content": "60. Punishments may be inflicted in respect of offences committed by persons subject to this Act and convicted by courts martial according to the scale following, that is to say,-\n(a) death;\n(b) transportation for life or for any period not less than seven years;\n(c) rigorous imprisonment for any term not exceeding fourteen years;\n(d) dismissal from the service;\n(e) in the case of persons other than [officers or junior commissioned officers,] detention for a period not exceeding six months;\n(f) [* * *] in the case of non-commissioned officers, reduction to the ranks or to a lower rank;\n(g) in the case of officers, [junior commissioned officers] and non-commissioned officers, forfeiture of seniority of rank; or, in the case of any of the aforesaid whose promotion depends upon length of service, forfeiture of all or any part of the service for the purpose of promotion;\n(h) forfeiture of service for the purposes of increased pay, or any other prescribed purpose;\n(i) in the case of officers, [junior commissioned officers] and non-commissioned officers, severe reprimand or reprimand;\n(j) forfeiture, fines and stoppages as follows, namely:-\n(i) in the case of a person sentenced to dismissal from the service, forfeiture of all arrears of pay and allowances and other public money due to him at the time of such dismissal;\n(ii) fine;\n(iii) stoppages of pay and allowances until any proved loss or damage occasioned by the offence of which he is convicted is made good;\n(iv) for an offence committed on active service, forfeiture of pay and allowances for a period commencing on the day of the sentence and not exceeding three months:\nProvided that,-\n(1) a person shall not be sentenced to transportation or to be fined except in respect of an offence of which he is convicted under section 59 of this Act;\n(2) where in respect of an offence under this Act there is specified a particular punishment or such less punishment as is in this Act mentioned, there may be awarded in respect of that offence instead of such particular punishment, but subject to the other provisions of this Act and regard being had to the nature and degree of the offence, any one punishment lower in the scale than the particular punishment; and\n(3) an offender under this Act shall not be subject to detention for more than six months whether under one or more sentences."
+    },
+    {
+      "provision_ref": "sec64",
+      "chapter": "Chapter VI: PUNISHMENTS",
+      "section": "64",
+      "title": "64. Field punishment",
+      "content": "61. (1) Where any person subject to this Act, [being below the rank of junior commissioned officer], commits any offence on active service, it shall be lawful for a court martial to award for that offence any such punishment, other than flogging, as may be prescribed as a field punishment. Field punishment shall be of the character of personal restraint or of hard labour but shall not be of a nature to cause injury to life or limb.\n(2) Field punishment shall, for the purpose of commutation, be deemed to stand next below detention."
+    },
+    {
+      "provision_ref": "sec65",
+      "chapter": "Chapter VI: PUNISHMENTS",
+      "section": "65",
+      "title": "65. Special provisions regarding sentences",
+      "content": "62. [(1) Where an officer or junior commissioned officer is sentenced to death, transportation or rigorous imprisonment, the court shall, by its sentence, sentence such officer or junior commissioned officer to be dismissed from the service.]\n(2) A person subject to this Act, being below the rank of [junior commissioned officer] who is sentenced to transportation or rigorous imprisonment, may, in addition thereto, be sentenced to be dismissed from the service.\n(3) An officer, [junior commissioned officers] or non-commissioned officer, when sentenced to forfeiture of seniority of rank or service for the purposes of promotion or to forfeiture of service for the purposes of increased pay, or any other prescribed purpose, may, in addition thereto, be sentenced by court martial to be severely reprimanded or reprimanded.\n(4) In addition to, or without any other punishment, in respect of any offence, an offender may be sentenced by court martial to any forfeiture, fine or stoppages authorised by this Act.\n(5) A non-commissioned officer sentenced by court martial to transportation, rigorous imprisonment, detention, field punishment or dismissal from the service shall be deemed to be reduced to the ranks."
+    },
+    {
+      "provision_ref": "sec66",
+      "chapter": "Chapter VI: PUNISHMENTS",
+      "section": "66",
+      "title": "66. Retention in the ranks of person convicted on active service",
+      "content": "63. When, on active service, any person enrolled under this Act has been sentenced by court martial to dismissal from the service or to transportation or rigorous imprisonment whether combined with dismissal or not, the prescribed officer may direct that such person may be retained to serve in the ranks, and where such person has been sentenced to transportation or rigorous imprisonment, such service shall be reckoned as part of his term or transportation or rigorous imprisonment."
+    },
+    {
+      "provision_ref": "sec67",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "67",
+      "title": "67. Authorised deductions only to be made from pay",
+      "content": "64. The pay and allowances of an officer, [junior commissioned officer] or of any person enrolled under this Act shall be paid without any deductions other than deductions authorised by or under this Act or any other law for the time being in force."
+    },
+    {
+      "provision_ref": "sec68",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "68",
+      "title": "68. Deductions from pay and allowances",
+      "content": "65. (1) The following penal deductions may be made from the pay and allowances of an officer, that is to say,-\n(a) all pay and allowances for every day he absents himself without leave, unless a satisfactory explanation has been given to his commanding officer or other superior officer and has been accepted by the Government;\n(b) all pay and allowances for every day while he is in custody or under suspension from duty on a charge for an offence of which he is afterwards convicted by a criminal court or a court martial or by an officer exercising authority under section 23;\n(c) any sum required to make good the pay of any person subject to this Act which he has unlawfully retained or unlawfully refused to pay;\n(d) all pay and allowances ordered by a court martial or by an officer exercising authority under section 23 to be forfeited or stopped;\n(e) any sum required to pay a fine awarded by a criminal court or a court martial exercising jurisdiction under section 59;\n(f) any sum required to make good any loss, damage or destruction of any public or service property which, after due investigation, appears to the Government to have been occasioned by any wrongful act or negligence on the part of the officer;\n(g) all pay and allowances forfeited by order of the Government if the officer is found by a court of inquiry constituted in this behalf by the Chief of Army Staff to have deserted to the enemy, or while in enemy hands, to have served with or under the orders of, the enemy, or in any manner to have aided the enemy, or to have allowed himself to be taken prisoner by the enemy through want of due precaution or through disobedience of orders or wilful neglect of duty, or having been taken prisoner by the enemy to have failed to rejoin his service when it was possible to do so;\n(h) any sum which a criminal court or the Government orders him to pay for the maintenance of his wife or his child, legitimate or illegitimate.\n(2) The following penal deductions may be made from the pay and allowances of a person subject to this Act other than an officer, that is to say,-\n(a) all pay and allowances for every day of absence without leave or as a prisoner of war, and for every day of transportation, imprisonment or detention awarded by a criminal court, a court martial, or an officer exercising authority under section 23 or of field punishment awarded by court martial, or such officer;\n(b) all pay and allowances for every day while he is in custody or under suspension from duty on a charge for an offence of which he is afterwards convicted by a criminal court or a court martial, or on a charge of absence without leave for which he is afterwards awarded imprisonment, detention or field punishment by an officer exercising authority under section 23;\n(c) all pay and allowances for every day on which he is in hospital on account of sickness certified by the medical officer attending on him to have been caused by an offence under this Act committed by him;\n(d) for every day on which he is in hospital on account of sickness certified by the medical officer attending on him to have been caused by his own misconduct or imprudence, such sum as may be specified by order of the Government or of the prescribed officer;\n(e) all pay and allowances ordered by a court martial or by an officer exercising authority under section 23 to be forfeited or stopped;\n(f) all pay and allowances for every day between his being recovered from the enemy and his dismissal from the service in consequence of his conduct when being taken prisoner by, or while in the hands of, the enemy;\n(g) any sum required to make good such compensation for any expense, loss, damage or destruction caused by him to the Government or to any building or property as may be awarded by his commanding officer;\n(h) any sum required to pay a fine awarded by a criminal court, a court martial exercising jurisdiction under section 59 or an officer exercising authority under section 23;\n(i) any sum which a criminal court, the Government or any prescribed officer orders him to pay for the maintenance of his wife or his child, legitimate or illegitimate:\nProvided that the total deductions from the pay and allowances of a person under clauses (e), (g), (h) or (i) shall not, except where he is sentenced to dismissal, exceed in any one month one-half of his pay and allowances for that month.\nExplanation.- For the purposes of clauses (a) and (b):\n(i) no person shall be treated as absent or in custody unless the absence or custody has lasted for six hours or upwards (except where the absence or custody prevents the absentee from fulfilling any military duty which is thereby thrown on some other person);\n(ii) absence or custody for six consecutive hours or upwards, whether wholly in one day or partly in one day and partly in another may be reckoned as absence or custody for a day;\n(iii) absence or custody for twenty-four consecutive hours or upwards may be reckoned as absence or custody for the whole of each day during any portion of which the person was absent or in custody;\n(iv) for the purposes of this explanation “custody” includes custody on a charge for an offence of which a person is afterwards convicted, and any period in custody of any nature, under a sentence of transportation, rigorous imprisonment, detention or field punishment."
+    },
+    {
+      "provision_ref": "sec69",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "69",
+      "title": "69. Pay and allowances during trial",
+      "content": "66. In the case of a person subject to this Act who is in custody or under suspension from duty on a charge for an offence, the prescribed officer may direct that the whole or any part of the pay and allowances of such person shall be withheld, pending the result of his trial, on the charge against him, in order to give effect to the provisions of clause (b) of sub-section (1) or sub-section (2) of section 65."
+    },
+    {
+      "provision_ref": "sec70",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "70",
+      "title": "70. Deduction from public money due, other than pay",
+      "content": "67. Any sum authorised by this Act to be deducted from the pay and allowances of any person may, without prejudice to any other mode of recovering the same, be deducted from any public money due to him other than a pension."
+    },
+    {
+      "provision_ref": "sec71",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "71",
+      "title": "71. Power to withhold pay and allowances pending inquiry into conduct as prisoner of war",
+      "content": "68. Where the conduct of any person subject to this Act, when being taken prisoner by or whilst in the hands of the enemy, is to be inquired into under this Act or any other law for the time being in force, the Chief of Army Staff or any officer empowered by him in this behalf may order that the whole or any part of the pay and allowances of such person shall be withheld pending the result of such inquiry."
+    },
+    {
+      "provision_ref": "sec72",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "72",
+      "title": "72. Remission of deductions",
+      "content": "69. Any deduction from pay and allowances authorised by this Act may be remitted in such manner, to such extent and by such authority as may be prescribed."
+    },
+    {
+      "provision_ref": "sec73",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "73",
+      "title": "73. Provision for dependents of prisoner of war from remitted deductions",
+      "content": "70. In the case of a person subject to this Act being prisoner of war, whose pay and allowances have been forfeited under clause (g) of sub-section (1) or clause (a) of sub-section (2) of section 65 but in respect of whom a remission has been made under section 69 it shall be lawful for proper provision to be made by the prescribed authority out of such pay and allowances for any dependants of such a person and any such remission shall in that case be deemed to apply only to the balance thereafter remaining of such pay and allowances."
+    },
+    {
+      "provision_ref": "sec74",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "74",
+      "title": "74. General power to make provision for dependants",
+      "content": "71. In the case of a person subject to this Act, it shall be lawful, for proper provision to be made by the prescribed authority for any dependants of any such person who is a prisoner of war or missing out of his pay and allowances."
+    },
+    {
+      "provision_ref": "sec75",
+      "chapter": "Chapter VII: PENAL DEDUCTIONS",
+      "section": "75",
+      "title": "75. Period during which a person is deemed to be a prisoner of war",
+      "content": "72. For the purposes of sections 70 and 71 a person shall be deemed to continue to be a prisoner of war until the conclusion of any inquiry into his conduct such as is referred to in section 68 and if he is dismissed from the service in consequence of such conduct, until the date of dismissal."
+    },
+    {
+      "provision_ref": "sec76",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "76",
+      "title": "76. Custody of offenders",
+      "content": "73. (1) Any person subject to this Act who is charged with any offence may be taken into military custody.\n(2) Any such person may be ordered into military custody by any superior officer, or except in the case of a person subject to this Act as an officer, by any member of the military, naval or Air force police.\n(3) An officer may order into military custody any officer, though he may be of a higher rank, who is engaged in a quarrel, affray or disorder."
+    },
+    {
+      "provision_ref": "sec77",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "77",
+      "title": "77. Duty of Commanding Officer in regard to person in custody",
+      "content": "74. Every commanding officer shall take care that a person under his command when charged with an offence is not detained in custody for more than forty-eight hours after the committal of such person into custody is reported to him, without the charge being investigated, unless investigation within that period seems to him to be impracticable having due regard to the public service. Every case of a person detained in custody beyond a period of forty-eight hours and the reason therefor shall be reported by the commanding officer to the officer to whom application is to be made to convene a general or district court martial for the trial of the person charged:\nProvided that in reckoning the period of forty-eight hours all public holidays shall be excluded."
+    },
+    {
+      "provision_ref": "sec78",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "78",
+      "title": "78. Interval between committal and court martial",
+      "content": "75. In every case where any such person as is mentioned in section 73 and as is not on active service remains in custody for a longer period than eight days, without a court martial for his trial being ordered to assemble, a special report giving reasons for the delay shall be made by his commanding officer in the manner prescribed and a similar report shall be forwarded at intervals of eight days until a court martial is assembled or such person is released from custody."
+    },
+    {
+      "provision_ref": "sec79",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "79",
+      "title": "79. Arrest by civil authorities",
+      "content": "76. Whenever any person subject to this Act, who is accused of any offence under this Act, is within the jurisdiction of any magistrate or police officer, such magistrate or police officer shall aid in the apprehension and delivery to military custody of such person upon receipt of a written application to that effect signed by that person's commanding officer."
+    },
+    {
+      "provision_ref": "sec80",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "80",
+      "title": "80. Capture of deserters",
+      "content": "77. (1) Whenever any person subject to this Act deserts, his commanding officer shall give written information of the desertion to such civil authorities as in his opinion may be able to afford assistance towards the capture of the deserter. Such authorities shall thereupon take steps for the apprehension of the said deserter in like manner as if he were a person for whose apprehension a warrant had been issued by a magistrate, and shall deliver the deserter, when apprehended, into military custody.\n(2) It shall be lawful for any police officer to arrest without warrant any person whom he reasonably believes to be subject to this Act, and to be a deserter or absentee without leave, and to bring him without delay before the nearest magistrate, to be dealt with according to law."
+    },
+    {
+      "provision_ref": "sec81",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "81",
+      "title": "81. Inquiry into any other matter",
+      "content": "[78A. A court of inquiry may also be assembled in the prescribed manner to inquire into any matter which may be referred to it.]"
+    },
+    {
+      "provision_ref": "sec82",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "82",
+      "title": "82. Inquiry into absence of person subject to the Act",
+      "content": "78. (1) When any person subject to this Act has been absent from his duty without due authority for a period of sixty days, a court of inquiry shall, as soon as practicable, be assembled and such court shall, upon oath or affirmation administered in the prescribed manner, inquire respecting the absence of the person, and the deficiency, if any, in the property of the Government entrusted to his care, or in his arms, ammunition, equipment, instruments, clothing or necessaries; and, if satisfied of the fact of such absence without due authority or other sufficient cause, the court shall declare such absence and the period thereof and the said deficiency, if any, and the commanding officer of the corps or unit to which the person belongs shall enter in the court martial book of the corps or unit a record of the declaration.\n(2) If the person declared absent does not afterwards surrender, or is not apprehended, he shall, for the purposes of this Act, be deemed to be a deserter."
+    },
+    {
+      "provision_ref": "sec83",
+      "chapter": "Chapter VIII: ARREST AND PROCEEDINGS BEFORE TRIAL",
+      "section": "83",
+      "title": "83. Appointment, duties and powers of provost marshals",
+      "content": "79. (1) For the prompt and instant repression of irregularities and offences committed, provost marshals with assistants may be appointed by the Chief of Army Staff, or by any prescribed officer.\n(2) The duties of a provost marshal so appointed shall be to take charge of persons confined for any offence, to preserve good order and discipline, and to prevent breaches of the same by persons subject to this Act.\n(3) A provost marshal may at any time arrest and detain for trial any person subject to this Act who commits, or is charged with, an offence, and may also carry into effect any punishment to be inflicted in pursuance of a sentence awarded by a court martial, or by an officer exercising authority under section 23 but shall not inflict any punishment on his own authority:\nProvided that no officer shall be so arrested or detained otherwise than by or under the orders of an officer.\n(4) For the purposes of sub-sections (2) and (3) “provost marshal” shall be deemed to include an assistant provost marshal appointed under this Act, or a provost marshal or any of his assistants appointed under [* * *] the Air Force Act, 1953 , or the [Navy Ordinance, 1961]."
+    },
+    {
+      "provision_ref": "sec84",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "84",
+      "title": "84. Kinds of courts martial",
+      "content": "80. For the purposes of this Act, there shall be four kinds of courts martial, that is to say,-\n(1) general courts martial;\n(2) district courts martial;\n(3) field general courts martial; and\n(4) summary courts martial."
+    },
+    {
+      "provision_ref": "sec85",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "85",
+      "title": "85. Power to convene general courts martial",
+      "content": "81. A general court martial may be convened by the Chief of Army Staff or by an officer empowered in this behalf by warrant of the Chief of Army Staff."
+    },
+    {
+      "provision_ref": "sec86",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "86",
+      "title": "86. Power to convene district courts martial",
+      "content": "82. A district court martial may be convened by an authority having power to convene a general court martial or by an officer empowered in this behalf by a warrant of any such authority."
+    },
+    {
+      "provision_ref": "sec87",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "87",
+      "title": "87. Limitation of powers of convening authorities",
+      "content": "83. A warrant issued under section 81 or section 82 may contain such restrictions, reservations or conditions as the authority issuing it may think fit."
+    },
+    {
+      "provision_ref": "sec88",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "88",
+      "title": "88. Power to convene field general court martial",
+      "content": "84. The following authorities shall have power to convene a field general court martial, namely:-\n(a) an officer empowered in this behalf by an order of the Government or of the Chief of Army Staff;\n(b) on active service, an officer commanding a portion of the Bangladesh Army, not below the rank of [Brigadier General], if in the opinion of such officer commanding, such opinion to be recorded in writing and to be conclusive, it is not practicable with due regard to discipline and the exigencies of the service to try the alleged offender by a general court martial."
+    },
+    {
+      "provision_ref": "sec89",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "89",
+      "title": "89. Composition of general court martial",
+      "content": "85. A general court martial shall consist of not less than five officers each of whom has held a commission for not less than three whole years and of whom not less than four are of a rank not below that of captain."
+    },
+    {
+      "provision_ref": "sec90",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "90",
+      "title": "90. Composition of district court martial",
+      "content": "86. A district court martial shall consist of not less than three officers each of whom has held a commission for a continuous period of not less than two years."
+    },
+    {
+      "provision_ref": "sec91",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "91",
+      "title": "91. Composition of field general court martial",
+      "content": "87. A field general court martial shall consist of not less than three officers."
+    },
+    {
+      "provision_ref": "sec92",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "92",
+      "title": "92. Summary courts martial",
+      "content": "88. (1) A summary court martial may be held by the commanding officer of any corps or unit or any detachment thereof.\n(2) At every summary court martial, the officer holding the trial shall alone constitute the court, but the proceedings shall be attended throughout by two officers, or two junior commissioned officers, or one officer and one junior commissioned officer, who shall not as such be sworn or affirmed."
+    },
+    {
+      "provision_ref": "sec93",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "93",
+      "title": "93. Dissolution of courts martial",
+      "content": "89. (1) If a court martial after the commencement of a trial is reduced below the smallest number of officers of which it is by this Act required to consist, it shall be dissolved.\n(2) If, on account of the illness of the judge advocate or of the accused before the finding, it is impossible to continue the trial, the court martial shall be dissolved.\n(3) The officer who convened a court martial may dissolve such court martial if it appears to him that the exigencies of the service or the necessities of discipline render it impossible or inexpedient to continue the trial.\n(4) Where a court martial is dissolved under this section, the accused may be tried by a fresh court martial."
+    },
+    {
+      "provision_ref": "sec94",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "94",
+      "title": "94. Prohibition of second trial",
+      "content": "90. Where any person subject to this Act has been acquitted or convicted of an offence by a court martial or by a criminal court or has been summarily dealt with for an offence under section 23, he shall not be liable to be tried again for the same offence by a court martial or be dealt with summarily in respect of it under the said section."
+    },
+    {
+      "provision_ref": "sec95",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "95",
+      "title": "95. Period of limitation for trial",
+      "content": "91. (1) No trial by court martial of any person subject to this Act for any offence, other than an offence of desertion or fraudulent enrolment or any of the offences mentioned in section 31 or section 40, shall be commenced after the expiration of three years from the date of such offence and no such trial for an offence of desertion, other than desertion on active service or of fraudulent enrolment shall be commenced if the person in question, not being an officer, has subsequently to the commission of the offence, served continuously in an exemplary manner for not less than three years with any portion of the Bangladesh regular forces.\n(2) In the computation of the period of three years specified in sub-section (1) any time spent by the person in question as a prisoner of war, or in evading arrest, shall be excluded."
+    },
+    {
+      "provision_ref": "sec96",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "96",
+      "title": "96. Liability of offender who ceases to be subject to the Act",
+      "content": "92. (1) Where an offence has been committed by any person while subject to this Act, and he has ceased to be so subject, he may be taken into and kept in military custody and tried and punished for such offence as if he had continued to be so subject.\n(2) No such person shall be tried for an offence, unless his trial commences within six months after he had ceased to be subject to this Act:\nProvided that nothing contained in this sub-section shall apply to the trial of any such person for an offence of desertion, fraudulent enrolment, or for any of the offences mentioned in section 31 or shall affect the jurisdiction of a criminal court to try any offence triable by such court as well as by a court martial."
+    },
+    {
+      "provision_ref": "sec97",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "97",
+      "title": "97. Place of trial",
+      "content": "93. Any person subject to this Act who commits any offence against it may be tried and punished for such offence in any place whatever."
+    },
+    {
+      "provision_ref": "sec98",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "98",
+      "title": "98. Order in case of concurrent jurisdiction of court martial and criminal court",
+      "content": "94. When a criminal court and a court martial have each jurisdiction in respect of a civil offence, it shall be in the discretion of the prescribed officer to decide before which court the proceedings shall be instituted and, if that officer decides that they shall be instituted before a court martial, to direct that the accused person shall be detained in military custody."
+    },
+    {
+      "provision_ref": "sec99",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "99",
+      "title": "99. Power of criminal court to require delivery of offender",
+      "content": "95. (1) When a criminal court having jurisdiction is of the opinion that proceedings ought to be instituted before itself in respect of any civil offence, it may, by written notice, require the prescribed officer, at his option, either to deliver over the offender to the nearest magistrate to be proceeded against according to law, or to postpone proceedings pending a reference to the Government.\n(2) In every such case, the said officer shall either deliver over the offender in compliance with the requisition or shall forthwith refer the question as to the court before which the proceedings are to be instituted for the determination of the Government, whose order upon such reference shall be final."
+    },
+    {
+      "provision_ref": "sec100",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "100",
+      "title": "100. Trial by court martial, bar to subsequent trial by criminal court",
+      "content": "96. Where a person subject to this Act is acquitted or convicted of an offence by a court martial, a criminal court shall be debarred from trying him subsequently for the same offence or on the same facts."
+    },
+    {
+      "provision_ref": "sec101",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "101",
+      "title": "101. Definition of court martial",
+      "content": "[96A. For the purposes of sections 94 and 96, the term “court martial” shall include an officer exercising authority under section 23.]"
+    },
+    {
+      "provision_ref": "sec102",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "102",
+      "title": "102. Powers of general and field general courts martial",
+      "content": "97. A general or field general court martial shall have power to try any person subject to this Act for any offence made punishable therein, and to pass any sentence authorised by this Act."
+    },
+    {
+      "provision_ref": "sec103",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "103",
+      "title": "103. Power of district courts martial",
+      "content": "98. A district court martial shall have power to try any person subject to this Act, except [an officer or junior commissioned officer], for any offence made punishable therein, and to pass any sentence authorised by this Act other than a sentence of death or transportation or rigorous imprisonment for a term exceeding two years."
+    },
+    {
+      "provision_ref": "sec104",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "104",
+      "title": "104. Offences triable by summary court martial",
+      "content": "99. A summary court martial may try any offence punishable under any of the provisions of this Act:\nProvided that when there is no grave reason for immediate action and reference can without detriment to discipline be made to the officer empowered to convene a district court martial, or on active service a field general court martial, for the trial of the alleged offender, an officer holding a summary court martial shall not try without such reference any of the following offences, namely:-\n(a) any offence punishable under sections 24, 31 and 59;or\n(b) any offence against the officer holding the court."
+    },
+    {
+      "provision_ref": "sec105",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "105",
+      "title": "105. Persons triable by summary court martial",
+      "content": "100. A summary court martial may try any person subject to this Act and under the command of the officer holding the court, except [an officer or junior commissioned officer]."
+    },
+    {
+      "provision_ref": "sec106",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "106",
+      "title": "106. Sentence awardable by summary court martial",
+      "content": "101. A summary court martial may pass any sentence which may be passed under this Act, except a sentence of death or transportation or of rigorous imprisonment for a term exceeding one year:\nProvided that if the officer holding the summary court martial is below the rank of Major, he shall not award rigorous imprisonment for a term exceeding three months."
+    },
+    {
+      "provision_ref": "sec107",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "107",
+      "title": "107. President",
+      "content": "102. The president of a general, district or field general court martial shall be appointed by order of the authority convening the court."
+    },
+    {
+      "provision_ref": "sec108",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "108",
+      "title": "108. Judge Advocate",
+      "content": "103. Every general court martial shall, and every district or field general court martial may, be attended by a judge advocate, who shall be an officer belonging to the department of the Judge Advocate General, Bangladesh Army or, if no such officer is available, a person appointed by the convening officer."
+    },
+    {
+      "provision_ref": "sec109",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "109",
+      "title": "109. Challenges",
+      "content": "104. (1) At all trials by general, district or field general court martial, as soon as the court is assembled, the names of the president and members shall be read over to the accused, who shall thereupon be asked whether he objects to being tried by any officer sitting on the court.\n(2) If the accused objects to such officer, his objection, and also the reply thereto of the officer objected to, shall be heard and recorded, and the remaining officers of the court shall, decide on the objection in the absence of the challenged officer.\n(3) If the objection is allowed by one half or more of the votes of the officers entitled to vote, the objection shall be allowed and the member objected to shall retire and his vacancy may be filled in the prescribed manner by another officer subject to the right of the accused to object.\n(4) When no challenge is made, or when challenge has been made and disallowed or the place of every officer successfully challenged has been filled by another officer to whom no objection is made or allowed, the court shall proceed with the trial."
+    },
+    {
+      "provision_ref": "sec110",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "110",
+      "title": "110. Voting of members",
+      "content": "105. (1) Every decision of a court martial shall be passed by an absolute majority of votes; and where there is an equality of votes, as to either finding or sentence, the decision shall be in favour of the accused:\nProvided that no sentence of death shall be passed without the concurrence, in the case of a general court martial of at least two-thirds of the members and, in the case of a field general court martial of all the members, of the court.\n(2) In matters other than a challenge or the finding or sentence, the president shall have a second or casting vote."
+    },
+    {
+      "provision_ref": "sec111",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "111",
+      "title": "111. Oaths of president and members",
+      "content": "106. An oath or affirmation in the prescribed form shall be administered to every member of every court martial before the commencement of the trial."
+    },
+    {
+      "provision_ref": "sec112",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "112",
+      "title": "112. Oaths of judge advocate and others",
+      "content": "107. After the members of the court have been sworn or affirmed, an oath or affirmation in the prescribed form shall be administered to the following persons or such of them as are present at the court martial:-\n(a) judge advocate;\n(b) officer attending for the purpose of instruction;\n(c) shorthand writer;\n(d) interpreter."
+    },
+    {
+      "provision_ref": "sec113",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "113",
+      "title": "113. Oaths of witnesses",
+      "content": "108. Every person giving evidence at a court martial shall be examined on oath or affirmation and shall be duly sworn or affirmed in the prescribed form:\nProvided that where a court martial is satisfied that a child of tender years is unable to understand the nature of an oath or affirmation, it may dispense with the administration of oath or affirmation."
+    },
+    {
+      "provision_ref": "sec114",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "114",
+      "title": "114. Summoning witnesses and production of documents",
+      "content": "109. (1) The convening officer, the president of a court martial or a court of inquiry, the judge advocate, or the commanding officer of the accused person may, by summons under his hand, require the attendance at a time and place to be mentioned in the summons of any person either to give evidence or to produce any document or thing.\n(2) In the case of a witness amenable to military, naval or air force authority, the summons shall be sent to his commanding officer and such officer shall serve it upon him accordingly.\n(3) In the case of any other witness, the summons shall be sent to the magistrate within whose jurisdiction he may be or reside, and such magistrate shall give effect to the summons as if the witness were required in the court of such magistrate.\n(4) When a witness is required to produce any document or thing in his possession or power, the summons shall describe it with reasonable precision.\n(5) Nothing in this section shall be deemed to affect the Evidence Act, 1872 , sections 123 and 124, or to apply to any letter, postcard, telegram or other document in the custody of the postal or telegraph authorities.\n(6) If any document in such custody is, in the opinion of any district magistrate, high court, or court of session wanted for the purpose of any court martial, such magistrate or court may require the postal or telegraph authorities, as the case may be, to deliver such document to such person as such magistrate or court may direct.\n(7) If any such document is, in the opinion of any other magistrate or of any commissioner of police or district superintendent of police, wanted for any such purpose, he may require the postal or telegraph authorities, as the case may be, to cause search to be made for and to detain such document pending the orders of any such district magistrate, high court or court of session."
+    },
+    {
+      "provision_ref": "sec115",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "115",
+      "title": "115. Commission for the examination of witness",
+      "content": "110. (1) Whenever, in the course of a trial by a court martial, it appears to the court that the examination of a witness is necessary for the ends of justice, and that the attendance of such witness cannot be procured without an amount of delay, expense or inconvenience which, in the circumstances of the case, would be unreasonable, such court may, if it thinks necessary, issue a commission in the manner specified in Chapter XL of the Code of Criminal Procedure, 1898 , according as the witness resides in a place in or outside Bangladesh.\n(2) The court may be adjourned for a specified time reasonably sufficient for the execution and return of the commission.\n(3) Such a commission shall be executed by the magistrate or officer to whom it is issued in the same manner as if it was issued in the trial of a warrant case under the Code of Criminal Procedure, 1898 , or of any corresponding law in force at the place where the evidence is recorded; and shall be returned, together with the deposition of the witness examined thereunder, to the Judge Advocate General.\n(4) The Judge Advocate General will forward the same to the court martial who issued it or, if the said court martial is in the meanwhile dissolved, to another court martial convened for the trial of the accused in respect of the same charge and any deposition so taken shall be recorded in evidence and shall form part of the proceedings of the court.\nExplanation.- The expression “Judge Advocate General” means the Judge Advocate General, Bangladesh Army, and includes a Deputy Judge Advocate General."
+    },
+    {
+      "provision_ref": "sec116",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "116",
+      "title": "116. Conviction of one offence permissible on charge of another",
+      "content": "111. (1) A person charged before a court martial with desertion may be found guilty of attempting to desert or of being absent without leave.\n(2) A person charged before a court martial with attempting to desert may be found guilty of being absent without leave.\n(3) A person charged before a court martial with any one of the offences specified in clauses (a) and (b) of section 40 may be found guilty of any other of these offences with which he might have been charged.\n(4) A person charged before a court martial with an offence punishable under section 59 may be found guilty of any other offence of which he might have been found guilty if the provisions of the Code of Criminal Procedure, 1898 , had been applicable.\n(5) A person charged before a court martial with any offence under this Act may, on failure of proof of an offence having been committed in circumstances involving a more severe punishment be found guilty of the same offence as having been committed in circumstances involving a less severe punishment.\n(6) A person charged before a court martial with any offence under this Act may be found guilty of having attempted to commit, or of abetment of, that offence although the attempt or abetment is not separately charged.\n(7) A person charged before a court martial with using or attempting to use, criminal force, to his superior officer, knowing or having reason to believe him to be such may be found guilty of having committed an assault on such superior officer."
+    },
+    {
+      "provision_ref": "sec117",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "117",
+      "title": "117. Rules of evidence to be the same as in criminal courts",
+      "content": "112. Subject to the provisions of this Act, the rules of evidence in proceedings before courts martial shall be the same as those which are followed in criminal courts."
+    },
+    {
+      "provision_ref": "sec118",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "118",
+      "title": "118. Judicial notice",
+      "content": "113. A court martial may take judicial notice of any matter within the general military knowledge of the members."
+    },
+    {
+      "provision_ref": "sec119",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "119",
+      "title": "119. Presumption as to signatures",
+      "content": "114. In any proceedings under this Act, any application, certificate, warrant, reply or other document purporting to be signed by an officer in the [service of the Republic] shall, on production, be presumed to have been duly signed by the person by whom and in the character in which it purports to have been signed until the contrary is proved."
+    },
+    {
+      "provision_ref": "sec120",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "120",
+      "title": "120. Enrolment paper",
+      "content": "115. (1) Any enrolment paper purporting to be signed by an enrolling officer shall, in proceedings under this Act, be evidence that the person enrolled gave the answers which he is therein represented as having given.\n(2) The enrolment of such person may be proved by the production of his enrolment paper or a copy of his enrolment paper purporting to be certified to be a true copy by the officer having the custody of the enrolment paper."
+    },
+    {
+      "provision_ref": "sec121",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "121",
+      "title": "121. Presumption as to certain documents",
+      "content": "116. (1) A letter, return or other document with respect to a person,\n(i) having, or not having, at any time served in, or been discharged from any part of the armed forces of Bangladesh, or\n(ii) having, or not having, held any rank or appointment in, or been posted or transferred to any part of such forces, or having or not having served in any particular country or place, or\n(iii) being, or not being, authorised to use or wear any naval, military or Air force decoration, medal, metal ribbon, badge, wound stripe or emblem, the use or wearing of which by an unauthorised person is, by any law in force for the time being, an offence,\nif purporting to be signed by or on behalf of a Secretary to the Government, or on behalf of the Bangladesh Military, Naval or Air Force Headquarters, or by the commanding officer or the officer or record officer having the custody of the records of any portion of those forces or of any of the ships of Bangladesh Navy to which such person appears to have belonged, or alleges that he belongs or had belonged, shall, be evidence of the facts stated in such letter, return or other document.\n[(2) Any Army, navy or air force list or gazette purporting to be published by authority shall be evidence of the status and rank of the officers or junior commissioned officers therein mentioned, and of any appointment held by such officers or junior commissioned officers and the corps, unit, battalion, ship, arm, branch or department of the service to which such officers junior commissioned officers belong.]\n(3) Where a record is made in any service book in pursuance of this Act or of any rules made thereunder or otherwise in pursuance of duty and purports to be signed by the commanding officer or by the officer whose duty it is to make such record, such record shall be evidence of the facts thereby stated.\n(4) A copy of any record in any service book purporting to be certified to be a true copy by the officer having the custody of such book shall be evidence of such record.\n(5) Where any person subject to this Act is being tried on a charge of desertion or of absence without leave and such person has surrendered himself into the custody of, or has been apprehended by, any officer, or any portion, of the armed forces of Bangladesh, a certificate purporting to be signed by such officer, or by the commanding officer of that portion of the armed forces and stating the fact, date and place of such surrender or apprehension, shall be evidence of the matters so stated.\n(6) Where any person subject to this Act is being tried on a charge of desertion or of absence without leave and such person has on arrest or surrender been taken to a police station in Bangladesh, a certificate purporting to be signed by the officer-in-charge of that police station, and stating the fact, date and place of such surrender or apprehension shall be evidence of the matters so stated.\n(7) Any document purporting to be a report under the hand of any Chemical Examiner or Assistant Chemical Examiner to the Government of Bangladesh upon any matter or thing duly submitted to him for examination or analysis and report may be used as evidence in any proceeding under this Act."
+    },
+    {
+      "provision_ref": "sec122",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "122",
+      "title": "122. Reference by accused to Government officer",
+      "content": "117. (1) If at any trial, or other proceedings, for desertion or absence without leave, overstaying leave, or not re-joining when warned for service, the accused states in his defence any sufficient or reasonable excuse for his unauthorised absence, and refers in support thereof to any officer in the [service of the Republic] or if it appears that any such officer is likely to prove or disprove the said statement in the defence, the court or officer conducting the proceedings shall address such officer and adjourn the court or proceedings until his reply is received.\n(2) The written reply of any officer so addressed shall, if signed by him, be received in evidence and have the same effect as if made on oath before the court or officer conducting the proceedings.\n(3) If the court martial is dissolved before receipt of such reply or if it omits to comply with the provisions of this section, the convening officer may, at his discretion, annul the proceedings and order a fresh trial by the same or another court martial."
+    },
+    {
+      "provision_ref": "sec123",
+      "chapter": "Chapter IX: COURTS MARTIAL",
+      "section": "123",
+      "title": "123. Evidence of previous convictions and general character",
+      "content": "118. (1) When any person subject to this Act has been convicted by a court martial of any offence, such court martial may inquire into, and receive and record evidence of, any previous convictions of such person, either by a court martial or by a criminal court, and may further inquire into and record the general character of such person, and such other matters as may be prescribed.\n(2) Evidence received under this section may be either oral, or in the shape of entries in, or certified extracts from, service records, and it shall not be necessary to give notice before trial to the person tried that evidence as to his previous convictions or character will be received.\n(3) At a summary court martial, the officer holding the trial may, if he thinks fit, record any previous convictions against the offender, his general character, and such other matters as may be prescribed, as of his own knowledge, instead of requiring them to be proved under the foregoing provisions of this section."
+    },
+    {
+      "provision_ref": "sec124",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "124",
+      "title": "124. Finding and sentence not valid unless confirmed",
+      "content": "119. No finding or sentence of a general, district or field general court martial shall be valid except in so far as it may be confirmed as provided by this Act."
+    },
+    {
+      "provision_ref": "sec125",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "125",
+      "title": "125. Power to confirm finding and sentence of general court martial",
+      "content": "120. The finding and sentence of a general court martial may be confirmed by the Chief of Army Staff or by an officer empowered in this behalf by warrant of the Chief of Army Staff."
+    },
+    {
+      "provision_ref": "sec126",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "126",
+      "title": "126. Power to confirm finding and sentence of district court martial",
+      "content": "121. The finding and sentence of a district court martial may be confirmed by an officer having power to convene a general court martial or by any officer empowered in this behalf by warrant of any such officer."
+    },
+    {
+      "provision_ref": "sec127",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "127",
+      "title": "127. Limitation of powers of confirming authority",
+      "content": "122. A warrant issued under section 120 or section 121 may contain such restrictions, reservations or conditions as the officer issuing it may think fit."
+    },
+    {
+      "provision_ref": "sec128",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "128",
+      "title": "128. Power to confirm finding and sentence of field general court martial",
+      "content": "123. The finding and sentence of a field general court martial may be confirmed by the convening officer or if the convening officer so directs by an authority superior to him."
+    },
+    {
+      "provision_ref": "sec129",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "129",
+      "title": "129. Power of confirming authority to mitigate, remit or commute sentences",
+      "content": "124. Subject to such restrictions, reservations or conditions, as may be contained in any warrant issued under section 120 or section 121, a confirming officer may, when confirming the sentence of a court martial, mitigate or remit the punishment thereby awarded, or commute that punishment for any less punishment or punishments to which the offender might have been sentenced by court martial or if that punishment is death or transportation for life, for any less punishment or punishments mentioned in this Act:\nProvided that a sentence shall not be commuted for a sentence of transportation or fine unless the original sentence was awarded in respect of a civil offence:\nProvided further that a sentence of transportation shall not be commuted for a sentence of rigorous imprisonment for a term exceeding the term of transportation awarded by the court."
+    },
+    {
+      "provision_ref": "sec130",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "130",
+      "title": "130. Confirmation of finding and sentence on board a ship",
+      "content": "125. When any person subject to this Act is tried and sentenced by a court martial while on board a ship, the finding and sentence so far as not confirmed and executed on board the ship may be confirmed and executed in like manner as if such person had been tried at the port of disembarkation."
+    },
+    {
+      "provision_ref": "sec131",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "131",
+      "title": "131. Revision of finding and sentence",
+      "content": "126. (1) Any finding or sentence of a court martial which requires confirmation may be once revised by order of the confirming officer, and, on such revision, the court, if so directed by him, may take additional evidence.\n(2) The court, on revision, shall consist of the same officers as were present when the original decision was passed unless any of those officers are unavoidably absent.\n(3) In case of such unavoidable absence, the cause thereof shall be duly recorded in the proceedings, and the court shall proceed with the revision, provided that, if a general court martial, it still consists of five officers or, if a field general or district court martial, of three officers."
+    },
+    {
+      "provision_ref": "sec132",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "132",
+      "title": "132. Finding and sentence of a summary court martial",
+      "content": "127. The finding and sentence of a summary court martial shall not require to be confirmed, but may be carried out forthwith:\nProvided that if the officer holding the trial is of less than five years' service, he shall not, except on active service, carry into effect any sentence until it received the approval of an officer having power to convene a district court martial."
+    },
+    {
+      "provision_ref": "sec133",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "133",
+      "title": "133. Transmission of proceedings of a summary court martial",
+      "content": "128. The proceedings of every summary court martial shall without delay be forwarded to an officer having power to convene a district court martial, and such officer, or any higher authority, may, for reasons based on the merits of the case but not on any merely technical grounds, set aside the proceedings or reduce the sentence to any other sentence which the court might have passed."
+    },
+    {
+      "provision_ref": "sec134",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "134",
+      "title": "134. Substitution of a valid finding or sentence for an invalid finding or sentence",
+      "content": "129. (1) Where a finding of guilty by a court martial, which has been confirmed, or which does not require confirmation, is found for any reason to be invalid or cannot be supported by the evidence, the authority which would have had power under section 143 to commute the punishment awarded by the sentence, if the finding had been valid, may substitute a new finding, if the new finding could have validly been made by the court martial on the charge and if it appears that the court martial must have been satisfied of the facts establishing the offence specified or involved in the new finding, and may pass a sentence for the said offence.\n(2) Where a sentence passed by a court martial which has been confirmed, or which does not require confirmation, not being a sentence passed in pursuance of a new finding substituted under sub-section (1) is found for any reason to be invalid, the authority referred to in the sub-section may pass a valid sentence.\n(3) The punishment awarded by a sentence passed under sub-section (1) or sub-section (2) shall not be higher in the scale of punishments than, or in excess of the punishment awarded by, the sentence for which a new sentence is substituted under this section.\n(4) For the purposes of this Act, any finding or sentence substituted in accordance with this section for the finding or sentence of a court martial, and any sentence imposed for an offence specified or involved in any such substituted finding, shall have effect as if it were a finding or sentence of a court martial."
+    },
+    {
+      "provision_ref": "sec135",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "135",
+      "title": "135. Provision in the case of accused being lunatic",
+      "content": "130. (1) Whenever, in the course of a trial by court martial, it appears to the court that the person charged is of unsound mind and consequently incapable of making his defence, or that such person committed the act alleged but was by reason of unsoundness of mind incapable of knowing the nature of the act or that it was wrong or contrary to law, the court shall record a finding accordingly, and the president of the court, or the officer holding the trial as the case may be, shall forthwith report the case to the confirming officer or, in the case of a court martial whose finding does not require confirmation to the prescribed officer.\n(2) The confirming officer to whom a case is reported under sub-section (1) may, if he does not confirm the finding, take steps to have the accused person tried by the same or another court martial for the offence with which he was originally charged.\n(3) The prescribed officer to whom a case is reported under sub-section (1) and a confirming officer confirming a finding in any case so reported to him shall order the accused person to be kept in custody in the prescribed manner, and shall report the case for the orders of the Government.\n(4) On receipt of a report under sub-section (3), the Government may order the accused person to be detained in a lunatic asylum or other suitable place of safe custody.\n(5) Where an accused person, having been found by reason of unsoundness of mind to be incapable of making his defence, is in custody or under detention, the prescribed officer may-\n(a) if such person is in custody under sub-section (3), on the report of a medical officer that he is capable of making his defence, or\n(b) if such person is detained in a jail under sub-section (4), on a certificate of the Inspector General of Prisons and if such person is detained in a lunatic asylum under the said sub-section, on a certificate of any two or more of the visitors of such asylum that he is capable of making his defence,\ntake steps to have such person tried by the same or another court martial for the offence with which he was originally charged or, provided that the offence is a civil offence, by a criminal court.\n(6) Where any person is in custody under sub-section (3) or under detention under sub-section (4),-\n(a) if such person is in custody under sub-section (3), on the report of a medical officer, or\n(b) if such person is detained under sub-section (4), on a certificate from any of the authorities mentioned in clause (b) of sub-section (5), that, in the judgment of such officer or authority, such person may be released without danger of his doing injury to himself or to any other person,\nthe Government may order such person to be released, or to be detained in custody or to be transferred to a public lunatic asylum if he has not already been sent to such an asylum.\n(7) Where any relative or friend of any person who is in custody under sub-section (3) or under detention under sub-section (4) desires that he shall be delivered to his care and custody, the Government may, upon the application of such relative or friend and on his giving security to the satisfaction of the Government that the person delivered shall-\n(a) be properly taken care of and prevented from doing injury to himself or to any other person, and\n(b) be produced for the inspection of such authority, and at such time and places, as the Government may direct,\norder such person to be delivered to such relative or friend.\n(8) A copy of every order made by the prescribed officer under sub-section (5) shall forthwith be sent to the Government."
+    },
+    {
+      "provision_ref": "sec136",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "136",
+      "title": "136. Remedy against finding and sentence of court martial",
+      "content": "131. (1) Any person subject to this Act who considers himself aggrieved by the finding or sentence of a general, field general or district court martial may submit a petition, before confirmation of such finding or sentence, to the officer empowered to confirm it and, after confirmation, to the Government, or the Chief of Army Staff or to any prescribed officer, provided that such prescribed officer is higher in rank than the one who confirmed such finding or sentence.\n(2) Any person subject to this Act who considers himself aggrieved by the finding or sentence of a summary court martial may submit a petition to the Government, or the Chief of Army Staff, or any officer empowered to act under section 128."
+    },
+    {
+      "provision_ref": "sec137",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "137",
+      "title": "137. Annulment of proceedings",
+      "content": "132. The Government or the Chief of Army Staff or any prescribed officer may annul the proceedings of any court martial on the ground that they are illegal or unjust."
+    },
+    {
+      "provision_ref": "sec138",
+      "chapter": "Chapter X: CONFIRMATION AND REVISION OF FINDING AND SENTENCES",
+      "section": "138",
+      "title": "138. Bar of appeals",
+      "content": "133. No remedy shall lie against any decision of a court martial save as provided in this Act, and for the removal of doubt it is hereby declared that no appeal or application shall lie in respect of any proceeding or decision of a court martial to any court exercising any jurisdiction whatever."
+    },
+    {
+      "provision_ref": "sec139",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "139",
+      "title": "139. Form of sentence of death",
+      "content": "134. In awarding a sentence of death a court martial shall in its discretion, direct that the offender shall suffer death by being hanged by the neck until he be dead, or shall suffer death by being shot to death."
+    },
+    {
+      "provision_ref": "sec140",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "140",
+      "title": "140. Commencement of sentence of transportation, or rigorous imprisonment or detention",
+      "content": "135. Whenever any person is sentenced under this Act to transportation, rigorous imprisonment or detention, the term of sentence shall, whether it has been revised or not, be reckoned to commence on the day on which the original proceedings were signed by the president or, in the case of a summary court martial, by the court."
+    },
+    {
+      "provision_ref": "sec141",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "141",
+      "title": "141. Execution of sentence of transportation or rigorous imprisonment",
+      "content": "136. Whenever any sentence of transportation or rigorous imprisonment is passed under this Act, or whenever any sentence of death so passed is commuted to transportation or to rigorous imprisonment, the commanding officer of the person under sentence, or such other officer as may be prescribed, shall forward a warrant in the prescribed form to the officer-in-charge of the civil prison in which such person is to be confined, and shall forward him to such prison with the warrant:\nProvided that in the case of a sentence of rigorous imprisonment for a period not exceeding three months, the confirming officer, or in the case of a sentence which does not require confirmation, the court, may direct that the sentence shall be carried out in military custody:\nProvided further that, on active service, a sentence of rigorous imprisonment may be carried out by confinement in such place as the officer commanding the forces in the field may, from time to time, appoint."
+    },
+    {
+      "provision_ref": "sec142",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "142",
+      "title": "142. Execution of sentence of imprisonment in special cases",
+      "content": "137. Whenever in the opinion of an officer not below the rank of [Brigadier General] empowered in this behalf by the Chief of Army Staff any sentence or portion of a sentence of imprisonment cannot, for special reasons, be conveniently carried out in accordance with provisions of section 136 such officer may direct that such sentence or portion of sentence shall be carried out by confinement in any civil prison or other fit place."
+    },
+    {
+      "provision_ref": "sec143",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "143",
+      "title": "143. Execution of sentence of detention",
+      "content": "138. Where a sentence of detention is passed under this Act, the person on whom that sentence has been passed shall undergo the term of his detention either in a detention barrack or in military custody, or partly in one and partly in the other, but not in a prison."
+    },
+    {
+      "provision_ref": "sec144",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "144",
+      "title": "144. Interim custody of offenders sentenced to transportation",
+      "content": "139. In every case in which a sentence of transportation is passed under this Act, the offender, until he is transported, shall be dealt with in the same manner as if sentenced to rigorous imprisonment and shall be deemed to have been undergoing his sentence of transportation during the term of such imprisonment."
+    },
+    {
+      "provision_ref": "sec145",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "145",
+      "title": "145. Conveyance of prisoner from place to place",
+      "content": "140. A person under sentence of transportation, rigorous imprisonment or detention may during his conveyance from place to place, or when on board a ship or aircraft, be subjected to such restraint as is necessary for his safe conduct and removal."
+    },
+    {
+      "provision_ref": "sec146",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "146",
+      "title": "146. Communication of certain orders to civil prison officers",
+      "content": "141. Whenever an order is duly made under this Act setting aside or varying any sentence, order or warrant under which any person is confined in a civil prison, a warrant in accordance with such order shall be forwarded by the prescribed officer to the officer-in-charge of the prison in which such person is confined."
+    },
+    {
+      "provision_ref": "sec147",
+      "chapter": "Chapter XI: EXECUTION OF SENTENCES",
+      "section": "147",
+      "title": "147. Execution of sentence of fine",
+      "content": "142. When a sentence of fine is imposed by a court martial under this Act, whether the trial was held within Bangladesh or not, a copy of such sentence, signed and certified by the president of the court or the officer holding the trial, as the case may be, may be sent to any magistrate in Bangladesh, and such magistrate shall thereupon cause the fine to be recovered in accordance with the provisions of the Code of Criminal Procedure, 1898 , for the levy of fines as if it were a sentence of fine imposed by such magistrate."
+    },
+    {
+      "provision_ref": "sec148",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "148",
+      "title": "148. Pardons and remissions",
+      "content": "143. (1) When any person subject to this Act has been convicted by a court martial of any offence, the Government or the Chief of Army Staff or any officer not below the rank of [Brigadier General] empowered in this behalf by the Chief of Army Staff may-\n(i) either without conditions or upon any conditions which the person sentenced accepts, pardon the person or remit the whole or any part of the punishment awarded; or\n(ii) mitigate the punishment awarded or commute such punishment for any less punishment or punishments mentioned in this Act:\nProvided that a sentence of transportation shall not be commuted for a sentence of rigorous imprisonment for a term exceeding the term of transportation awarded by the court, and a sentence of rigorous imprisonment shall not be commuted for a sentence of detention for a term exceeding the term of rigorous imprisonment awarded by the court.\n(2) If any condition on which a person has been pardoned or a punishment has been remitted is, in the opinion of the authority which granted the pardon or remitted the punishment, not fulfilled, such authority may cancel the pardon or remission, and thereupon the sentence of the court shall be carried into effect as if such pardon had not been granted or such punishment had not been remitted:\nProvided that, in the case of a person sentenced to transportation, rigorous imprisonment, or detention, such person shall undergo only the unexpired portion of his sentence.\n(3) When under the provisions of sub-section (5) of section 62 a non-commissioned officer is deemed to be reduced to the ranks, such reduction shall, for the purposes this section, be treated as a punishment awarded by sentence of a court martial."
+    },
+    {
+      "provision_ref": "sec149",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "149",
+      "title": "149. Suspension of sentence of transportation, rigorous imprisonment or detention",
+      "content": "144. (1) Where a person subject to this Act has been sentenced by a court martial to transportation, rigorous imprisonment or detention, the Government, or the Chief of Army Staff, or any officer empowered to convene a general or field general court martial may suspend the sentence whether or not the offender has already been committed to prison or custody.\n(2) The authority or officer specified in sub-section (1) may in the case of an offender so sentenced direct that, until the orders of such authority or officer have been obtained, the offender shall not be committed to prison or custody.\n(3) The powers conferred by sub-sections (1) and (2) may be exercised in the case of any such sentence which has been confirmed, mitigated or commuted."
+    },
+    {
+      "provision_ref": "sec150",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "150",
+      "title": "150. Orders pending suspension",
+      "content": "145. (1) Where the sentence referred to in section 144 is imposed by a court martial other than a summary court martial the confirming officer may, when confirming the sentence, direct that the offender be not committed to prison or to custody until the orders of the authority or officer specified in section 144 have been obtained.\n(2) Where a sentence of rigorous imprisonment or detention is awarded by a summary court martial, the officer holding the trial or the officer authorised to approve the sentence under the proviso to section 127 may make the direction referred to in sub-section (1)."
+    },
+    {
+      "provision_ref": "sec151",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "151",
+      "title": "151. Release on suspension",
+      "content": "146. Where in accordance with any order passed under section 144 a sentence is suspended, the offender shall, whether he has been committed to prison or custody or not, be released forthwith."
+    },
+    {
+      "provision_ref": "sec152",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "152",
+      "title": "152. Computation of period of sentence under suspension",
+      "content": "147. Any period during which a sentence is under suspension shall be reckoned as part of the term of such sentence."
+    },
+    {
+      "provision_ref": "sec153",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "153",
+      "title": "153. Power to set aside suspension or to order remission",
+      "content": "148. The authority or officer specified in section 144 may, at any time whilst a sentence is suspended, order-\n(a) that the offender be committed to undergo the unexpired portion of the sentence; or\n(b) that the sentence be remitted."
+    },
+    {
+      "provision_ref": "sec154",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "154",
+      "title": "154. Periodical review of suspended sentence",
+      "content": "149. (1) Where a sentence has been suspended, the case may at any time and shall, at intervals of not more than four months be reconsidered by the authority or officer specified in section 144 or by an officer not below the rank of field officer duly authorised in this behalf by the authority or officer specified in section 144.\n(2) Where on such reconsideration by the officer authorised in this behalf under sub-section (1), it appears to him that the conduct of the offender since his conviction has been such as to justify a remission of the sentence, he shall refer the case to the authority or officer specified in section 144."
+    },
+    {
+      "provision_ref": "sec155",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "155",
+      "title": "155. Procedure on further sentence of offender whose sentence is suspended",
+      "content": "150. Where an offender, while a sentence on him is suspended, is sentenced for any other offence, then-\n(a) if the further sentence is also suspended under this Act, the two sentences shall run concurrently;\n(b) if the further sentence is for a period of three months or more and is not suspended under this Act, the offender shall also be committed to prison or military custody on the unexpired portion of the previous sentence, but both sentences shall run concurrently; and\n(c) if the further sentence is for a period of less than three months and is not suspended under this Act, the offender shall be committed on that sentence only, and the previous sentence shall, subject to any order which may be passed under section 148 or 149 continue to be suspended."
+    },
+    {
+      "provision_ref": "sec156",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "156",
+      "title": "156. Scope of power of suspension",
+      "content": "151. The powers conferred by section 144 or section 148 shall be in addition to and not in derogation of the powers of mitigation, remission or commutation of sentences."
+    },
+    {
+      "provision_ref": "sec157",
+      "chapter": "Chapter XII: PARDONS, REMISSIONS AND SUSPENSION",
+      "section": "157",
+      "title": "157. Effect of suspension on dismissal",
+      "content": "152. (1) Where in addition to any other sentence, the punishment of dismissal has been awarded by a court martial, and such other sentence is suspended under section 144, then, such dismissal shall not take effect until so ordered by the authority or officer specified in section 144.\n(2) If such other sentence is remitted under section 148 the punishment of dismissal shall also be remitted."
+    },
+    {
+      "provision_ref": "sec158",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "158",
+      "title": "158. Property of deceased persons and deserters, other than officers",
+      "content": "153. The following provisions are enacted respecting the disposal of the property of every person subject to this Act, other than an officer, who dies or deserts: -\n(1) The commanding officer of the corps, unit or detachment to which the deceased person or deserter belonged or the officer commanding a station where the deceased person or deserter left his belongings before moving to field or operational area or before deserting shall secure all the moveable property belonging to the deceased or deserter that is in camp or quarters, and cause an inventory thereof to be made, and draw any pay and allowances due to such person.\n(2) In the case of a deceased person who has left in a bank (including any post office savings bank, however named) a deposit not exceeding one thousand taka, the commanding officer or the officer commanding the station may, if he thinks fit, require the agent, manager or other proper officer of the bank to pay the deposit to him forthwith, and such agent, manager or other officer shall comply with the requisition notwithstanding anything in the rules of the bank; and after the payment thereof in accordance with such requisition, no person shall have any right in respect of the deposit except as hereinafter provided.\n(3) In the case of a deceased person whose representative, widow or next of kin is on the spot and has given security for the payment of regimental or other debts in camp or quarters, if any, of the deceased, the commanding officer or the officer commanding the station shall deliver over any property received under clauses (1) and (2) to that representative, widow or next of kin as the case may be, and shall not further interfere in relation to the property of the deceased.\n(4) In the case of a deceased person whose estate is not dealt with under clause (3), and in the case of any deserter, the commanding officer or the officer commanding the station shall cause such of the moveable property as does not consist of money to be sold by public auction, and shall pay the regimental and other debts in camp or quarters, if any, and in the case of a deceased person, the expenses of his funeral ceremonies, from the proceeds of the sale and from any pay and allowances drawn under clause (1) and from the amount of the deposit, if any, received under clause (2).\n(5) The surplus, if any, shall, in the case of a deceased person, be paid to his representative, widow or next of kin, if any, or in the event of no claim to such surplus being established, within twelve months after the death then the same shall be remitted to the prescribed person:\nProvided that such remission shall not bar the claim of any person to such surplus or any part thereof.\n(6) In the case of a deserter, the surplus, if any, shall be forthwith remitted to the prescribed person and shall, on the expiry of three years from the date of his desertion, be forfeited to the State unless the deserter shall in the meantime have surrendered or been apprehended.\n(7) The decision of the commanding officers or the officer commanding the station as to what are the regimental and other debts in camp or quarters of a deceased person or a deserter or as to the amount payable therefor shall be final."
+    },
+    {
+      "provision_ref": "sec159",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "159",
+      "title": "159. Disposal of certain property without production of probate, etc.",
+      "content": "154. Property deliverable and money payable to the representative, widow or next of kin of a deceased person under section 153 may, if the total value or amount thereof does not exceed one thousand taka, and if the prescribed person thinks fit, be delivered or paid to any one of them who appears to be entitled to receive it or to administer the estate of the deceased, without requiring the production of any probate, letters of administration, succession certificate or other such conclusive evidence of title."
+    },
+    {
+      "provision_ref": "sec160",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "160",
+      "title": "160. Discharge of commanding officer, prescribed person and the Government",
+      "content": "155. Any payment of money or delivery, application, sale or other disposition of any property made, or in good faith purported to be made, by the commanding officer or the officer commanding the station or the prescribed person in pursuance of section 153 or 154 shall be valid and shall be a full discharge to those ordering or making the same and to the Government from all further liability in respect of the property or money, but nothing herein contained shall affect the rights of any executor or administrator or other representative, or of any creditor of a deceased person against any person to whom such delivery or payment has been made."
+    },
+    {
+      "provision_ref": "sec161",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "161",
+      "title": "161. Application of sections 153 to 155 to lunatics, etc.",
+      "content": "156. The provisions of sections 153 to 155 shall, so far as they can be made applicable, apply in the case of a person subject to the Act, other than an officer who, notwithstanding anything contained in the Lunacy Act, 1912 , is ascertained in the prescribed manner to be insane, or who, being on active service, is officially reported missing, as if he had died on the day on which his insanity is so ascertained or, as the case may be, on the day on which he is officially reported missing:\nProvided that in the case of a person so reported missing no action shall be taken under clauses (2) to (5) of section 153 until he is officially presumed to be dead."
+    },
+    {
+      "provision_ref": "sec162",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "162",
+      "title": "162. Property of officers",
+      "content": "157. The provisions of sections 158 to 163, inclusive, shall apply to the disposal of the property of officers subject to this Act who die or desert."
+    },
+    {
+      "provision_ref": "sec163",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "163",
+      "title": "163. Powers of Committee of Adjustment",
+      "content": "158. (1) On the death or desertion of an officer, a Committee of Adjustment appointed in this behalf in the manner prescribed (hereinafter referred to as the committee) shall, as soon as may be, subject to the rules made in this behalf under this Act,-\n(a) secure all moveable property belonging to the deceased or deserter that is in camp or quarters and cause an inventory thereof to be made and ascertain the pay and allowances, if any, due to him; and\n(b) ascertain the amount, and provide for the payment, of the regimental and other debts in camp or quarters, if any, of the deceased or deserter.\n(2) In the case of a deceased officer whose representative, widow or next of kin has given security to the satisfaction of the committee for the payment of the regimental and other debts in camp or quarters, if any, of the deceased, the committee shall deliver any property received by it under sub-section (1) to that representative, widow or next of kin and shall not further interfere in relation to the property of the deceased.\n(3) In the case of a deceased officer, the committee, save as may be prescribed, shall, if it appears necessary for the payment of the regimental and other debts in camp or quarters, and the expenses, if any, incurred by the committee, collect all moneys left by the deceased in any bank (including any post office savings bank, however named) and for that purpose may require the agent, manager or other proper officer of the bank to pay the moneys to the committee forthwith, and such agent, manager or other officer shall comply with the requisition notwithstanding anything in any rules of the bank; and when any money has been paid in compliance with the requisition under this sub-section, no person shall have a claim against the bank in respect of such money.\n(4) In the case of a deceased officer, whose estate has not been dealt with under sub-section (2) and in the case of a deserter, the committee, save as may be prescribed, shall, for the purpose of paying the regimental and other debts in camp or quarters, any may in any other case, sell or convert into money such of the moveable property of the deceased or deserter as does not consist of money.\n(5) The committee shall, out of the money referred to in sub-sections (3) and (4), pay the regimental and other debts in camp or quarters, if any, of the deceased or deserter and, in the case of a deceased, also the expenses of his last illness and funeral.\n(6) In the case of a deceased officer the surplus, if any, shall be remitted to the prescribed person.\n(7) In the case of an officer who is a deserter, the surplus, if any, shall be forthwith remitted to the prescribed person and shall, on the expiry of three years from the date of his desertion, be forfeited to the State, unless the deserter shall in the meantime have surrendered or been apprehended.\n(8) If, in any case, a doubt or difference arises as to what are the regimental and other debts in camp or quarters of a deceased officer or a deserter or as to the amount payable therefor, the decision of the prescribed person shall be final.\n(9) For the purposes of the exercise of its duties under this section, the committee shall, to the exclusion of all authorities and persons whomsoever, have the same rights and powers as if it had taken out representation to the deceased, and any receipt given by the committee shall have effect accordingly."
+    },
+    {
+      "provision_ref": "sec164",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "164",
+      "title": "164. Disposal of surplus by the prescribed person",
+      "content": "159. On receipt of the surplus referred to in sub-section (6) of section 158 the prescribed person shall proceed as follows:-\n(1) if he knows of a representative, widow or next of kin of the deceased, he shall pay the surplus to that representative, widow or next of kin;\n(2) if he does not know of any such representative, widow or next of kin he shall publish every year a notice in the prescribed form and manner for six consecutive years. If no claim to the surplus is made by a representative, widow or next of kin of the deceased within six months after the publication of the last of such notices, the prescribed person shall deposit the surplus together with any income or accumulation of income accrued therefrom to the credit of the Government:\nProvided that such deposit shall not bar the claim of any person to such surplus or any part thereof."
+    },
+    {
+      "provision_ref": "sec165",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "165",
+      "title": "165. Disposal of certain property without production of probate, etc.",
+      "content": "160. Property deliverable and money payable to the representative, widow or next of kin of a deceased officer under section 158 or section 159 may, if the total value thereof does not exceed two thousand taka, and if the prescribed person thinks fit, be delivered or paid to any one of them who appears to him to be entitled to receive it or to administer the estate of the deceased, without requiring the production of any probate, letters of administration, succession certificate or other such conclusive evidence of title."
+    },
+    {
+      "provision_ref": "sec166",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "166",
+      "title": "166. Discharge of committee, prescribed person and the Government",
+      "content": "161. Any payment of money or delivery, application, sale or other disposition of any property made, or in good faith purported to be made, by the committee or the prescribed person in pursuance of section 158, section 159 or section 160 shall be valid and shall be a full discharge to those ordering or making the same and to the Government from all further liability in respect of the property or money; but nothing in this section shall affect the rights of any executor or administrator or other representative, or of any creditor of the deceased officer against any person to whom such delivery or payment has been made."
+    },
+    {
+      "provision_ref": "sec167",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "167",
+      "title": "167. Property in the hands of the committee or the prescribed person not to be assets at the place where the committee or the prescribed person is stationed",
+      "content": "162. Any property coming under section 158 into the hands of the committee or the prescribed person shall not, by reason of so coming, be deemed to be assets or effects at the place in which that committee or prescribed person is stationed and it shall not be necessary by reason thereof that representation be taken out in respect of that property for that place."
+    },
+    {
+      "provision_ref": "sec168",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "168",
+      "title": "168. Saving of rights of representative",
+      "content": "163. After the committee has deposited with the prescribed person the surplus of the property of any deceased officer under sub-section (6) of section 158 any representative of the deceased shall, as regards any property not collected by the committee and not forming part of the aforesaid surplus, have the same rights and duties as if section 158 had not been enacted."
+    },
+    {
+      "provision_ref": "sec169",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "169",
+      "title": "169. Applications of sections 158 to 163 to lunatics, etc.",
+      "content": "164. The provisions of sections 158 to 163 shall so far as they can be made applicable, apply in the case of an officer who, notwithstanding anything contained in the Lunacy Act, 1912 , is ascertained in the prescribed manner, to be insane or who, being on active service, is officially reported missing, as if he had died on the day on which his insanity is so ascertained or, as the case may be, on the day on which he is officially reported missing:\nProvided that, in the case of an office so reported missing, no action shall be taken under sub-sections (2) to (5) of section 158 until such time as he is officially presumed to be dead."
+    },
+    {
+      "provision_ref": "sec170",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "170",
+      "title": "170. Appointment of standing committee of adjustment when officers die or desert while on active service",
+      "content": "165. When an officer dies or deserts while on active service, the references in the foregoing sections of this Chapter to the committee shall be construed as references to the Standing Committee of Adjustment, if any, appointed in this behalf in the manner prescribed."
+    },
+    {
+      "provision_ref": "sec171",
+      "chapter": "Chapter XIII: PROPERTY OF DECEASED PERSONS, DESERTERS AND LUNATICS",
+      "section": "171",
+      "title": "171. Interpretations",
+      "content": "166. For the purposes of this Chapter:-\n(1) a person shall be deemed to be a deserter if he without authority has been absent from duty for a period of sixty days and has not subsequently surrendered or been apprehended;\n(2) the expression “regimental and other debts in camp or quarters” includes money due as military debts, namely, sums due in respect of, or of any advance in respect of-\n(a) quarters;\n(b) mess, band and other regimental accounts;\n(c) military clothing, appointments and equipment, not exceeding a sum equal to six months' pay of the deceased and having become due within eighteen months before his death;\n(3) “representation” includes probate and letters of administration with or without the will annexed, and a succession certificate, constituting a person the executor or administrator of the estate of a deceased person or authorising him to receive or realise the assets of a deceased person;\n(4) “representative” means any person who has taken out representation."
+    },
+    {
+      "provision_ref": "sec172",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "172",
+      "title": "172. Complaint against officers",
+      "content": "167. (1) Any person subject to this Act, other than an officer, who deems himself wronged by any superior or other officer, may, if not attached to a unit, troop or company, complain to the officer under whose command or orders he is serving; and may, if attached to a unit, troop or company, complain to the officer commanding the same.\n(2) When the officer complained against is the officer to whom any complaint should, under sub-section (1), be preferred the aggrieved person may complain to such officer's next superior officer.\n(3) Every officer receiving such complaint shall examine into it for giving full redress to the complainant or, when necessary refer it to superior authority.\n(4) Every such complaint shall be preferred in such manner and through such channels as may from time to time be specified by proper authority.\n(5) The Government may revise any decision by the Chief of Army Staff under sub-section (2), but otherwise the decision of the Chief of Army Staff shall be final."
+    },
+    {
+      "provision_ref": "sec173",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "173",
+      "title": "173. Complaint by officers",
+      "content": "168. Any officer who deems himself wronged by his commanding officer or any superior officer and who, on due application made to his commanding officer, does not receive the redress to which he considers himself entitled, may complain to the Government in such manner and through such channels as may from time to time be specified by proper authority."
+    },
+    {
+      "provision_ref": "sec174",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "174",
+      "title": "174. Privileges of persons attending courts martial",
+      "content": "169. (1) No president or member of a court martial, no judge advocate, no party to any proceedings before a court martial, or his legal practitioner or agent, and no witness acting in obedience to a summons or order to attend a court martial shall, while proceeding to, attending, or returning from, a court martial, be liable to arrest under civil or revenue process.\n(2) If any such person is arrested under any such process, he shall be discharged by order of the court martial."
+    },
+    {
+      "provision_ref": "sec175",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "175",
+      "title": "175. Exemption from arrest for debt",
+      "content": "170. (1) No person subject to this Act shall, so long as he belongs to the Bangladesh Army, by liable to be arrested for debt under any process issued by, or by the authority of, any civil or revenue court or revenue officer.\n(2) The judge of any such court or the said officer shall examine into any complaint made by any such person or his superior officer of the arrest of such person contrary to the provisions of this section, and shall, by warrant under his hand, discharge the person, and award reasonable costs to the complainant, who may recover those costs in like manner as he might have recovered costs awarded to him by a decree against the person obtaining the process.\n(3) For the recovery of such costs no court fee shall be payable by the complainant."
+    },
+    {
+      "provision_ref": "sec176",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "176",
+      "title": "176. Property exempted from attachment",
+      "content": "171. Neither the arms, clothes, equipment, accoutrement or necessaries of any person subject to this Act, nor any animal used by him for the discharge of his duty, shall be seized, nor shall the pay and allowances of any such person or any part thereof be attached, by direction of any civil or revenue court or any revenue officer, in satisfaction of any decree or order enforceable against him."
+    },
+    {
+      "provision_ref": "sec177",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "177",
+      "title": "177. Application of the last two foregoing sections to reservists",
+      "content": "172. Every person belonging to any of the categories of the Reserves of the Bangladesh Army constituted under the [ Army and Air Force Reserves Act, 1950 ,] shall, when called out or engaged upon or returning from, training or service, be entitled to all the privileges accorded by sections 170 and 171 to a person subject to this Act."
+    },
+    {
+      "provision_ref": "sec178",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "178",
+      "title": "178. Priority of hearing by courts of cases in which persons subject to this Act are concerned",
+      "content": "173. (1) On the presentation to any court by or on behalf of any person subject to this Act of a certificate from the proper authority, that leave of absence has been granted to him or has been applied for by him for the purpose of prosecuting or defending any suit or other proceeding in such court, the court shall, on the application of such person, arrange as far as may be possible, for the hearing and final disposal of such suit or other proceeding within the period of leave so granted or applied for.\n(2) The certificate from the proper authority shall state the first and the last day of leave or intended leave, and shall set forth a description of the case with respect to which the leave was granted or applied for.\n(3) No fee shall be payable to the court in respect of the presentation of any such certificate, or in respect of any application by or on behalf of any such person for priority for the hearing of his case.\n(4) Where the court is unable to arrange for the hearing and final disposal of the suit or other proceeding within the period of such leave or intended leave as aforesaid, it shall record its reasons for such inability and shall cause a copy thereof to be furnished to such person on his application without any payment whatever by him in respect of the application for such copy or of the copy itself or otherwise.\n(5) If in any case a question arises as to the proper authority qualified to grant such certificate as aforesaid such question shall be at once referred by the court to the officer commanding the corps or unit concerned, whose decision shall be final."
+    },
+    {
+      "provision_ref": "sec179",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "179",
+      "title": "179. Order for custody and disposal of property pending trial in certain cases",
+      "content": "174. When any property regarding which any offence appears to have been committed, or which appears to have been used for the commission of any offence, is produced before a court martial during a trial, the court may make such order as it thinks fit for the proper custody of such property pending the conclusion of the trial and, if the property is subject to speedy or natural decay, may, after recording such evidence as it thinks necessary, order it to be sold or otherwise disposed of."
+    },
+    {
+      "provision_ref": "sec180",
+      "chapter": "Chapter XIV: MISCELLANEOUS PRIVILEGES",
+      "section": "180",
+      "title": "180. Order for disposal of property regarding which offence committed",
+      "content": "175. (1) After the conclusion of a trial before a court martial, the court or the officer confirming the finding or sentence of such court martial, or any authority superior to such officer, or, in the case of the trial by summary court martial, an officer having power to convene a district court martial, may make such order as it or he thinks fit for the disposal by destruction, confiscation, delivery to any person claiming to be entitled to possession thereof or otherwise of any property or document produced before the court or in its custody, or regarding which any offence appears to have been committed or which has been used for the commission of any offence.\n(2) Where any order has been made under sub-section (1) in respect of property regarding which an offence appears to have been committed, a copy of such order signed and certified by the authority making the same may, whether the trial was held within Bangladesh or not, be sent to a magistrate in any district in which such property for the time being is, and such magistrate shall thereupon cause the order to be carried into effect as if it was an order passed by such magistrate under the provisions of the Code of Criminal Procedure, 1898 .\nExplanation.- In this section the term “property” includes in the case of property regarding which an offence appears to have been committed, not only such property as has been originally in the possession or under the control of any person, but also any property into or for which the same may have been converted or exchanged, and anything acquired by such conversion or exchange whether immediately or otherwise."
+    },
+    {
+      "provision_ref": "sec181",
+      "chapter": "Chapter XV: RULES",
+      "section": "181",
+      "title": "181. Power to make regulations",
+      "content": "[176A. The Government may make regulations for the governance, command, discipline, recruitment, terms and conditions of service, rank, precedence, and administration of the Bangladesh Army and generally for all or any of the purposes of this Act, other than those in respect of which rules have been made under section 176.]"
+    },
+    {
+      "provision_ref": "sec182",
+      "chapter": "Chapter XV: RULES",
+      "section": "182",
+      "title": "182. Power to make rules",
+      "content": "176. (1) The Government may make rules for the purpose of carrying into effect the provisions of this Act.\n(2) Without prejudice to the generality of the power conferred by sub-section (1), such rules may provide for-\n(a) the retirement, release, discharge, removal or dismissal from the service of persons subject to this Act;\n(b) the specification of punishments which may be awarded as field punishments under sections 23 and 61;\n(c) the assembly and procedure of courts of inquiry the recording of summaries of evidence and the abstracts of evidence and the administration of oaths and affirmations by such courts;\n(d) the convening and constitution of courts martial;\n(e) the adjournment, dissolution and sittings of courts martial;\n(f) the procedure to be observed in trials by courts martial and the qualifications of legal practitioners who appear thereat;\n(g) the confirmation, revision and annulment of, and petitions against, the findings and sentences of courts martial;\n(h) the carrying into effect of sentences of courts martial;\n(i) the forms and orders to be made under the provisions of this Act relating to courts martial and sentences of death, transportation, rigorous imprisonment or detention;\n(j) the constitution of authorities to decide for what persons, to what amounts and in what manner provision should be made for dependants under section 71 and the due carrying out of such decisions;\n(k) the relative rank of, and powers of command to be exercised by, officers, junior commissioned officers, [* * *] petty officers and non-commissioned officers of the Bangladesh Army, Navy and Air Force, when acting together;\n(l) deductions on account of public and regimental debts from the pay and allowances of persons subject to this Act; and\n(m) any matter in this Act directed to be prescribed.\n(3) All rules made under this Act shall be published in the official Gazette and, on such publication, shall have effect as if enacted in this Act."
+    },
+    {
+      "provision_ref": "secomitted-5",
+      "chapter": "Chapter XV: RULES",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "177. [***]"
+    },
+    {
+      "provision_ref": "secomitted-6",
+      "chapter": "Chapter XVI: TRANSITORY PROVISIONS",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "178. [***]"
+    },
+    {
+      "provision_ref": "secomitted-7",
+      "chapter": "Chapter XVI: TRANSITORY PROVISIONS",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "179. [***]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "civil offence",
+      "definition": "an offence which, if committed in Bangladesh, would be triable by a criminal court",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "Chief of Army Staff",
+      "definition": "the Chief of Army Staff of the Bangladesh Army",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "corps",
+      "definition": "any separate body of the Bangladesh Army or of any force which is prescribed as a corps for the purposes of all or any of the provisions of this Act",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "court martial",
+      "definition": "a court martial held under this Act",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "criminal court",
+      "definition": "a court of ordinary criminal justice in Bangladesh, or established elsewhere by the authority of the Government",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "junior commissioned officer",
+      "definition": "a person commissioned, gazetted or in pay as a junior commissioned officer in the Bangladesh Army",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "military custody",
+      "definition": "the arrest or confinement of a person according to the usage of the service and includes naval or Air force custody",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "non-commissioned officer",
+      "definition": "a person attested under this Act who holds a non-commissioned rank in the Bangladesh Army and includes an active non-commissioned officer",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "offence",
+      "definition": "any act or omission punishable under this Act and includes a civil offence as hereinbefore defined",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "officer",
+      "definition": "a person commissioned, gazetted or in pay as an officer of the Bangladesh Army and includes:-",
+      "source_provision": "sec9"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules made under this Act",
+      "source_provision": "sec9"
+    }
+  ]
+}

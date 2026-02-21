@@ -1,0 +1,87 @@
+{
+  "id": "bd-act-324",
+  "type": "statute",
+  "title": "The Allopathic System (Prevention of Misuse) Ordinance, 1962",
+  "title_en": "The Allopathic System (Prevention of Misuse) Ordinance, 1962",
+  "short_name": "Act 324",
+  "status": "in_force",
+  "issued_date": "1962-06-07",
+  "in_force_date": "1962-06-07",
+  "url": "http://bdlaws.minlaw.gov.bd/act-324.html",
+  "description": "An Ordinance to prevent the misuse of the allopathic system of medicine and to provide for matters connected therewith. WHEREAS it is expedient to prevent the misuse of the allopathic system of medicine and to provide for matters connected therewith; NOW, THEREFORE, in pursuance of the Proclamation of the seventh day of October, 1958, and in exercise of all powers enabling him in that behalf, the President is plea...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Allopathic System (Prevention of Misuse) Ordinance, 1962 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context, “registered medical practitioner” means a person registered under the [ Medical and Dental Council Act, 1980 (XVI of 1980)]."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Prohibition of the use of the word “doctor” and its variations, etc.",
+      "content": "3. No person practising the allopathic, homoeopathic, ayurvedic, unani or any other system of medicine shall use with his name or address or with the name or address of his business the word “doctor” or any of its grammatical variations, cognate expressions or abbreviations so as to give out that he is entitled to practise medicine unless he is a registered medical practitioner:\nProvided that nothing in this section shall apply to a person on whom a Doctor's degree other than medical degree has been conferred by any university in or outside Bangladesh."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Prohibition of the use of medical degrees or diplomas",
+      "content": "4. No person shall use a medical degree or a medical diploma to give out that he is a qualified medical practitioner or for any purpose connected with medical practice, unless such degree or diploma has been conferred or awarded by a university or institution in or outside Bangladesh recognised under the [ Medical and Dental Council Act, 1980 (XVI of 1980)]."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Prohibition of performing surgical operations by unqualified persons",
+      "content": "5. No person other than a registered medical practitioner shall perform any surgical operation other than circumcision, incision of boils and administration of injections."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Prohibition for prescribing certain drugs",
+      "content": "6. No person other than a registered medical practitioner or a person authorised in this behalf by the Government shall prescribe any antibiotic or dangerous drug specified in the rules made under this Ordinance."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Restriction on the sale of patent and proprietory medicines",
+      "content": "7. No person shall sell in the market any patent or proprietory medicine of the unani, ayurvedic, homoeopathic or biochemic system of medicine unless there is displayed, in a conspicuous and readily intelligible manner, on the label or container thereof and also on the outer cover of the container (other than ordinary wrapper) the true formula of the medicine contained in it."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Rule-making powers of the Government",
+      "content": "8. The [Government] may make rules for carrying out the purposes of this Ordinance."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Penalty",
+      "content": "9. Whoever contravenes the provisions of section 3 or section 4 or section 5 or section 6 or section 7 shall be punishable with imprisonment which may extend to one year or with fine not exceeding two thousand [taka], or with both."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Jurisdiction",
+      "content": "10. (1) No prosecution shall be instituted under this Ordinance except by an Inspector appointed under the Drugs Act, 1940 , or by a person specially empowered by the Government in this behalf.\n(2) No Court inferior to that of a Magistrate of the first class shall try an offence punishable under this Ordinance and notwithstanding anything contained in section 32 of the Code of Criminal Procedure, 1898 , it shall be lawful for such Magistrate to pass any sentence of fine to the extent provided for by this Ordinance in excess of his powers under the said section 32."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "11. Protection",
+      "content": "11. No suit or proceeding shall lie against any Inspector or person acting in good faith under section 10 of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "registered medical practitioner",
+      "definition": "a person registered under the [ Medical and Dental Council Act, 1980 (XVI of 1980)].",
+      "source_provision": "sec2"
+    }
+  ]
+}

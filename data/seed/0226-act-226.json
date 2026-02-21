@@ -1,0 +1,80 @@
+{
+  "id": "bd-act-226",
+  "type": "statute",
+  "title": "The Protection of Ports (Special Measures) Act, 1948",
+  "title_en": "The Protection of Ports (Special Measures) Act, 1948",
+  "short_name": "Act 226",
+  "status": "in_force",
+  "issued_date": "1948-06-11",
+  "in_force_date": "1948-06-11",
+  "url": "http://bdlaws.minlaw.gov.bd/act-226.html",
+  "description": "An Act to provide for special measures to ensure the protection of ports. WHEREAS it is necessary to provide for special measures to ensure the protection of ports; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Protection of Ports (Special Measures) Act, 1948 .\n(2) It shall extend to the Port of Chittagong in the first instance, but may at any time, by notification in the official Gazette, be extended by the Government to any other port in [Bangladesh].\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Interpretation",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) “port” means a “major port” as defined in sub-section (8) of section 3 of the Ports Act, 1908 ;\n(b) “protected area” means an area declared to be a protected area under the next succeeding section."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Protected area",
+      "content": "3. (1) If the Government considers it necessary or expedient to regulate the entry of persons into a port, it may, by notified order, declare the port to be a protected area, and thereupon, for so long as the order is in force, such area shall be a protected area for the purposes of this Act.\n(2) A notification under sub-section (1) shall define the limits of the area to which it refers:\nProvided that the Government may alter such limits from time to time by a notification issued in this behalf.\n(3) Limits defined under sub-section (2) may include any piers, jetties, landing-places, wharves, quays, docks and other works made on behalf of the public for convenience of traffic, for safety of vessels, or for the improvement, maintenance or good government of the port and its approaches, whether within or without high-watermark, and any portion of the shore or bank within any limits considered necessary by Government."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Rules for regulation of entry, etc.",
+      "content": "4. (1) The Government may, by notification in the official Gazette, make Rules for controlling or regulating the admission of persons to, and the conduct of persons in, and in the vicinity of, a protected area.\n(2) In particular, and without prejudice to the generality of the foregoing power, the Government may make Rules for any or all of the following purposes, namely:-\n(a) for restricting the entry of persons into the protected area;\n(b) for removing persons from the protected area;\n(c) for dealing with persons loitering in suspicious circumstances in the vicinity of the protected area."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Delegation",
+      "content": "5. Any order passed in pursuance of Rules made under section 4 may authorise an officer or officers specified in the order to issue directions for carrying out the purposes of this Act."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Penalties",
+      "content": "6. Whoever contravenes any Rule made under this Act or an order passed in pursuance thereof shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Procedure",
+      "content": "7. No prosecution for any offence punishable under this Act shall be instituted except on a reports in writing made by an officer authorised by the Government in this behalf."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Bar of legal proceeding",
+      "content": "8. No suit, prosecution or other legal proceeding shall lie against any person for anything done or in good faith intended to be done under this Act."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Saving of other laws",
+      "content": "9. The provisions of this Act shall be in addition to and not in derogation of any other law for the time being in force regulating the admission of persons to, and the conduct of persons in, and in the vicinity of, a port."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "port",
+      "definition": "a “major port” as defined in sub-section (8) of section 3 of the Ports Act, 1908",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "protected area",
+      "definition": "an area declared to be a protected area under the next succeeding section.",
+      "source_provision": "sec2"
+    }
+  ]
+}

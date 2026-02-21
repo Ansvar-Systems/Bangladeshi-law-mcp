@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-198",
+  "type": "statute",
+  "title": "The Armed Forces (Special Powers) Extension Ordinance, 1942",
+  "title_en": "The Armed Forces (Special Powers) Extension Ordinance, 1942",
+  "short_name": "Act 198",
+  "status": "in_force",
+  "issued_date": "1942-12-24",
+  "in_force_date": "1942-12-24",
+  "url": "http://bdlaws.minlaw.gov.bd/act-198.html",
+  "description": "An Ordinance to provide for the extension of the Armed Forces (Special Powers) Ordinance, 1942, to officers and members of police forces employed on certain duties. WHEREAS an emergency has arisen which makes it necessary to provide for the extension of the Armed Forces (Special Powers) Ordinance, 1942, to officers and members of police forces employed on certain duties; NOW, THEREFORE, in exercise of the powers c...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Armed Forces (Special Powers) Extension Ordinance, 1942 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Power to extend Ordinance XLI of 1942, to police forces",
+      "content": "2. The [Government] may, by notification in the official Gazette, direct that the provisions of section 2 and section 4 of the Armed Forces (Special Powers) Ordinance, 1942 , shall apply to the officers and members of any police force or any portion of a police force specified in the notification, when employed on any duty specified in the notification, as they apply to officers and members of the military forces of Bangladesh; and on such direction being made the powers exercisable by an officer not below the rank of Captain in the military forces of Bangladesh shall be exercisable by any officer of a police force so specified who holds a gazetted appointment in such force."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-508",
+  "type": "statute",
+  "title": "The Registration (Extension of Limitation) Ordinance, 1975",
+  "title_en": "The Registration (Extension of Limitation) Ordinance, 1975",
+  "short_name": "Act 508",
+  "status": "in_force",
+  "issued_date": "1975-12-23",
+  "in_force_date": "1975-12-23",
+  "url": "http://bdlaws.minlaw.gov.bd/act-508.html",
+  "description": "An Ordinance to extend the period of limitation in certain cases for registration of documents and for disposal of appeals and applications under the Registration Act, 1908. WHEREAS it is expedient to extend the period of limitation in certain cases for registration of documents and for disposal of appeals and applications under the Registration Act, 1908 (XVI of 1908); NOW, THEREFORE, in pursuance of the Proclama...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Registration (Extension of Limitation) Ordinance, 1975 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Extension of limitation for registration of documents and for disposal of appeals and applications under the Registration Act, 1908",
+      "content": "2. Where the period within which any document already presented for registration but could not be admitted to registration or any appeal or application already filed but could not be disposed of, by a Sub-Registrar or Registrar under any provision of the Registration Act, 1908 (XVI of 1908) expired at any time after the 1st day of March, 1971 and before the 1st day of March, 1972, such document, appeal or application may be registered or disposed of, notwithstanding anything contained in that Act or in any other law for the time being in force, within eight months from the date of commencement of this Ordinance."
+    }
+  ],
+  "definitions": []
+}

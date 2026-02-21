@@ -1,0 +1,102 @@
+{
+  "id": "bd-act-606",
+  "type": "statute",
+  "title": "The Film Clubs (Registration and Regulation) Act, 1980",
+  "title_en": "The Film Clubs (Registration and Regulation) Act, 1980",
+  "short_name": "Act 606",
+  "status": "repealed",
+  "issued_date": "1980-07-15",
+  "in_force_date": "1980-07-15",
+  "url": "http://bdlaws.minlaw.gov.bd/act-606.html",
+  "description": "An Act to provide for the registration and regulation of film clubs. WHEREAS it is expedient to provide for the registration and regulation of film clubs and for matters ancillary thereto; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Film Clubs (Registration and Regulation) Act, 1980 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) “authority” means the authority constituted under section 3 of the Censorship of Films Act, 1963 (XVIII of 1963);\n(b) “certified film” has the meaning assigned to it in the said Act;\n(c) “film” means a cinematograph film;\n(d) “film club” means any club, society, or organisation, by whatever name called, established for the purpose of exhibiting films to its members, and includes a federation or association of such film clubs;\n(e) “prescribed” means prescribed by rules made under this Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. No film club to function without registration",
+      "content": "3. No film club shall function as such unless it is registered in accordance with the provisions of this Act."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Registration of film clubs",
+      "content": "4. (1) A film club shall, before it commences its functions as such, make an application, in the prescribed form and on payment of prescribed fee, accompanied by a copy of its constitution, to the authority for its registration.\n(2) A film club shall not be entitled to registration under this Act unless the constitution thereof provides for the following matters, namely:-\n(a) the address of the head office of the club;\n(b) the objects for which the club has been formed;\n(c) the conditions of membership of the club;\n(d) the conditions under which films shall be exhibited;\n(e) the sources of income of the club;\n(f) the custody of the fund of the club;\n(g) the annual audit of the fund of the club and the manner of such audit.\n(3) If the authority is satisfied that the film club has complied with all the requirements of sub-sections (1) and (2), it shall register the film club in the prescribed register and issue a certificate of registration in the prescribed form.\n(4) If the authority finds that the film club has not complied with all the requirements of sub-sections (1) and (2), it shall, by an order in writing, reject the application.\n(5) A film club in existence immediately before the commencement of this Act shall not continue to function as such for more than three months from the date of such commencement unless, within thirty days of such commencement, an application for its registration has been made under sub-section (1).\n(6) If an application of an existing film club for registration is rejected, the club shall cease to function as such from the date on which the order of the authority rejecting the application is communicated to it."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Reports, etc.",
+      "content": "5. (1) Every registered film club shall furnish to the authority-\n(a) within three months of the close of each year, a report on the activities of the club during that year together with its audited accounts;\n(b) such statements, reports and records as the authority may require from time to time.\n(2) The authority, or any officer duly authorised by it in this behalf, may at all reasonable times inspect the books of accounts and other records of a film club."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Period of validity of registration",
+      "content": "6. (1) A certificate of registration issued under section 4 shall remain valid for a period of two years from the date of issue.\n(2) A certificate of registration may be renewed for a period of two years at a time on payment of the prescribed fee."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Exhibition of films",
+      "content": "7. (1) A registered film club shall, at least seven days before the exhibition of any film, inform in writing the authority and the Deputy Commissioner of the district where the film will be exhibited of the place, date and time of such exhibition.\n(2) A registered film club may exhibit a film supplied by any foreign diplomatic mission in Bangladesh only if the request for supplying such film has been made to the mission with the prior approval of the authority."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Cancellation of registration",
+      "content": "8. If, at any time, the authority has reason to believe that a registered film club is acting in contravention of its constitution or has contravened any of the provisions of this Act or the rules made thereunder, then, without prejudice to the provisions of section 10, it may, after giving the club an opportunity of being heard, cancel its registration."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Appeal",
+      "content": "9. Any film club aggrieved by an order of the authority under section 4 or section 8 may, within thirty days from the date on which the order is communicated to it, prefer an appeal to the Government, and the decision of the Government on such appeal shall be final."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Penalty",
+      "content": "10. (1) If any film club contravenes any of the provisions of this Act or any rule made thereunder, every member or office-bearer of the council, committee or body, by whatever name called, to which, by the constitution of the club, its executive functions and the management of its affairs are entrusted shall, unless he proves that the contravention took place without his knowledge or consent, be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to one thousand taka, or with both.\n(2) No Court shall take cognizance of an offence under this Act except upon a complaint in writing made by the authority or by any officer authorised by it in this behalf."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "11. Rules",
+      "content": "11. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authority",
+      "definition": "the authority constituted under section 3 of the Censorship of Films Act, 1963 (XVIII of 1963)",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "film",
+      "definition": "a cinematograph film",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "film club",
+      "definition": "any club, society, or organisation, by whatever name called, established for the purpose of exhibiting films to its members, and includes a federation or association of such film clubs",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules made under this Act.",
+      "source_provision": "sec2"
+    }
+  ]
+}

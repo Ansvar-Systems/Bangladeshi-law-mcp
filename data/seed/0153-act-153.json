@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-153",
+  "type": "statute",
+  "title": "The Mussalman Wakf Validating Act, 1930",
+  "title_en": "The Mussalman Wakf Validating Act, 1930",
+  "short_name": "Act 153",
+  "status": "in_force",
+  "issued_date": "1930-07-25",
+  "in_force_date": "1930-07-25",
+  "url": "http://bdlaws.minlaw.gov.bd/act-153.html",
+  "description": "An Act to give retrospective effect to the Mussalman Wakf Validating Act, 1913. WHEREAS the Mussalman Wakf Validating Act, 1913, does not apply to wakfs created before its enactment; AND WHEREAS it is expedient to validate such wakfs without infringing any rights contrary thereto which may have already accrued or been acquired; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Mussalman Wakf Validating Act, 1930 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Act VI of 1913 to apply retrospectively",
+      "content": "2. The Mussalman Wakf Validating Act, 1913 , shall be deemed to apply to wakfs created before its commencement:\nProvided that nothing herein contained shall be deemed in any way to affect any right, title, obligation or liability already acquired, accrued or incurred before the commencement of this Act."
+    }
+  ],
+  "definitions": []
+}

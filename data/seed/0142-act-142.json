@@ -1,0 +1,57 @@
+{
+  "id": "bd-act-142",
+  "type": "statute",
+  "title": "The Legal Practitioners (Fees) Act, 1926",
+  "title_en": "The Legal Practitioners (Fees) Act, 1926",
+  "short_name": "Act 142",
+  "status": "in_force",
+  "issued_date": "1926-03-25",
+  "in_force_date": "1926-03-25",
+  "url": "http://bdlaws.minlaw.gov.bd/act-142.html",
+  "description": "An Act to define in certain cases the rights of legal practitioners to sue for their fees and their liabilities to be sued in respect of negligence in the discharge of their professional duties. WHEREAS it is expedient to define in certain cases the rights of legal practitioners to sue for their fees and their liabilities to be sued in respect of negligence in the discharge of their professional duties; It is here...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1.(1) This Act may be called the Legal Practitioners (Fees) Act, 1926 .\n(2) It extends to the whole of [Bangladesh].\n(3) It shall come into force on such date as the [Government] may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Interpretation",
+      "content": "2. For the purposes of this Act, unless there is anything repugnant in the subject or context,\n[(a) \"Legal practitioner\" means an advocate and includes a mukhtear or a Revenue agent; and]\n(b) a legal practitioner shall not be deemed to \"act\" if he only pleads, or to \"agree to act\" if he agrees only to plead."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Agreement for engagement of legal practitioner",
+      "content": "3. Any legal practitioner who acts or agrees to act for any person may by private agreement settle with such person the terms of his engagement and the fee to be paid for his professional services."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Right of legal practitioner to sue for fees",
+      "content": "4. Any such legal practitioner shall be entitled to institute and maintain legal proceedings for the recovery of any fee due to him under the agreement, or, if no such fee has been settled, a fee computed in accordance with the law for the time being in force in regard to the computation of the costs to be awarded to a party in respect of the fee of his legal practitioner."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Liability of legal practitioner to be sued",
+      "content": "5. No legal practitioner who has acted or agreed to act shall, by reason only of being a legal practitioner, be exempt from liability to be sued in respect of any loss or injury due to any negligence in the conduct of his professional duties."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. [Repealed ]",
+      "content": "6. [Repealed by section 2 and Schedule of the Repealing Act, 1927 (Act No. XII of 1927 ).]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Legal practitioner",
+      "definition": "an advocate and includes a mukhtear or a Revenue agent",
+      "source_provision": "sec2"
+    }
+  ]
+}

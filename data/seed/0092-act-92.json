@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-92",
+  "type": "statute",
+  "title": "The Anand Marriage Act, 1909",
+  "title_en": "The Anand Marriage Act, 1909",
+  "short_name": "Act 92",
+  "status": "in_force",
+  "issued_date": "1909-10-22",
+  "in_force_date": "1909-10-22",
+  "url": "http://bdlaws.minlaw.gov.bd/act-92.html",
+  "description": "An Act to remove doubts as to the validity of the marriage ceremony common among the Sikhs called Anand WHEREAS it is expedient to remove any doubts as to the validity of the marriage ceremony common among the Sikhs called Anand; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Anand Marriage Act, 1909 ; and\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Validity of Anand marriage",
+      "content": "2. All marriages which may be or may have been duly solemnized according to the Sikh marriage ceremony called Anand shall be, and shall be deemed to have been with effect from the date of the solemnization of each respectively, good and valid in law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Exemption of certain marriages from Act",
+      "content": "3. Nothing in this Act shall apply to-\n(a) any marriage between persons not professing the Sikh religion, or\n(b) any marriage which has been judicially declared to be null and void."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Saving of marriages solemnized according to other ceremonies",
+      "content": "4. Nothing in this Act shall affect the validity of any marriage duly solemnized according to any other marriage ceremony customary among the Sikhs."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Non-validation of marriages within prohibited degrees",
+      "content": "5. Nothing in this Act shall be deemed to validate any marriage between persons who are related to each other in any degree of consanguinity or affinity which would, according to the customary law of the Sikhs, render a marriage between them illegal."
+    }
+  ],
+  "definitions": []
+}

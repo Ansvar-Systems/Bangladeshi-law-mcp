@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-372",
+  "type": "statute",
+  "title": "The Bangladesh (Legal Proceedings) Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh (Legal Proceedings) Order, 1972 (President's Order)",
+  "short_name": "Act 372",
+  "status": "in_force",
+  "issued_date": "1972-02-07",
+  "in_force_date": "1972-02-07",
+  "url": "http://bdlaws.minlaw.gov.bd/act-372.html",
+  "description": "WHEREAS during the material period there was disruption of normal life and activities throughout Bangladesh; AND WHEREAS due to the reign of terror perpetrated by the Pakistan occupation army people were not able to go to Courts or Tribunals either to institute legal proceedings or to defend them so to comply with directions issued by Courts or Tribunals and as a result many claims and legal rights have become tim...",
+  "provisions": [
+    {
+      "provision_ref": "sec23078",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh (Legal Proceedings) Order, 1972.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec23079",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. In this Order, “legal proceedings” includes suit, case, prosecution, appeal, revision and review."
+    },
+    {
+      "provision_ref": "sec23080",
+      "section": "3",
+      "title": "3. 3.",
+      "content": "3. Notwithstanding anything contained in any other law for the time being in force, all judgments, decrees or orders passed ex parte by any Court or Tribunal or orders disposing of matters due to default in compliance with any direction of any Court or Tribunal in any legal proceedings at any time after the 1st day of March, 1971, and before the commencement of this Order are hereby declared null and void and the proceedings shall, on the commencement of this Order, continue in accordance with the Law."
+    },
+    {
+      "provision_ref": "sec23081",
+      "section": "4",
+      "title": "4. 4.",
+      "content": "4. Notwithstanding anything contained in any other law for time being in force, in computing the period of limitation prescribed for any legal proceeding by or under any law, the period between the 1st day of March, 1971 and the 1st day of March, 1972 (both days inclusive), shall be excluded."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bd-act-630",
+  "type": "statute",
+  "title": "The Foreign Contributions (Regulation) Ordinance, 1982",
+  "title_en": "The Foreign Contributions (Regulation) Ordinance, 1982",
+  "short_name": "Act 630",
+  "status": "repealed",
+  "issued_date": "1982-09-08",
+  "in_force_date": "1982-09-08",
+  "url": "http://bdlaws.minlaw.gov.bd/act-630.html",
+  "description": "An Ordinance to regulate receipt of foreign contributions. WHEREAS it is expedient to regulate receipt of foreign contributions; NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in exercise of all powers enabling him in that behalf, the Chief Martial Law Administrator is pleased to make and promulgate the following Ordinance:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Foreign Contributions (Regulation) Ordinance, 1982 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Ordinance to override all other laws",
+      "content": "2. The provisions of this Ordinance shall have effect notwithstanding anything to the contrary contained in any other law for the time being in force or in any contract or agreement."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Definition",
+      "content": "3. In this Ordinance, unless there is anything repugnant in the subject or context, “foreign contribution” means any donation, grant or assistance, whether in cash or in kind, including a ticket for journey abroad, made by any Government, organisation or citizen of foreign state."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Receipt of foreign contribution without permission prohibited",
+      "content": "4. (1) No citizen of, or organisation in, Bangladesh shall receive any foreign contribution without the prior permission of the Government.\n(2) No Government, organisation or citizen of a foreign state shall make any donation, grant or assistance, whether in cash or in kind, including a ticket for journey abroad, to any citizen of, or organisation in, Bangladesh without the prior permission of the Government.\n(3) Nothing in this section shall apply to an organisation established by or under any law or the authority of the Government."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Penalty, etc",
+      "content": "5. (1) Whoever receives or makes any foreign contribution in contravention of the provisions of section 4 shall be punishable with imprisonment for a term which may extend to six months, or with fine not exceeding two times the amount or value of the contribution, or with both.\n(2) No Court shall take cognizance of an offence under this Ordinance except on a complaint made by the Government or any officer authorised by it in this behalf."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "foreign contribution",
+      "definition": "any donation, grant or assistance, whether in cash or in kind, including a ticket for journey abroad, made by any Government, organisation or citizen of foreign state.",
+      "source_provision": "sec3"
+    }
+  ]
+}

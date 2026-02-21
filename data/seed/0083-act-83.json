@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-83",
+  "type": "statute",
+  "title": "The Foreign Marriage Act, 1903",
+  "title_en": "The Foreign Marriage Act, 1903",
+  "short_name": "Act 83",
+  "status": "in_force",
+  "issued_date": "1903-10-23",
+  "in_force_date": "1903-10-23",
+  "url": "http://bdlaws.minlaw.gov.bd/act-83.html",
+  "description": "An Act to give effect to the Foreign Marriages Order in Council, 1903. WHEREAS it is expedient to give effect to the Foreign Marriages Order in Council, 1903; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and application.",
+      "content": "1.(1) This Act may be called the Foreign Marriage Act, 1903 .\n(2) It extends to the whole of [Bangladesh].\n(3) It applies also to all citizens of [Bangladesh] and to all persons in the service of Government, whether citizens of [Bangladesh] or not [* * *]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Notice of marriage intended to be solemnized.",
+      "content": "2.(1) Notice in writing of a marriage which it is intended to solemnize under the Foreign Marriage Act, 1892, may be given by one of the parties intending such marriage, to-\n(a) a Marriage Registrar appointed under the Christian Marriage Act, 1872 , where either of such parties is a person professing the Christian religion;\n(b) a District Magistrate where neither of such parties is a person professing the Christian religion:\nProvided that the party giving such notice as aforesaid shall have had his usual place of abode for not less than three consecutive weeks immediately preceding the giving of notice within the local limits of the area for which the Marriage Registrar, Magistrate to whom the notice is given, is appointed.\n(2) Every notice given under this section shall state-\n(a) the name, surname, age and profession or condition of each of the parties intending marriage;\n(b) the residence of each of them;\n(c) the time during which each of them has dwelt there; and\n(d) the place in which the intended marriage is to be solemnized;\nand it shall contain a declaration by the party giving the notice to the effect that he believes that there is no impediment of kindred or affinity or other lawful hindrance to the solemnization of the said intended marriage.\n(3) A copy of every notice given under this section shall be published by being affixed in some conspicuous place in the office of the officer to whom the notice is given.\n(4) On the expiration of four clear days after such notice as aforesaid has been published in the manner prescribed by sub-section (3), the officer to whom the notice is given, unless he is aware of any impediment of kindred or affinity or other lawful hindrance to the solemnization of the said intended marriage, shall, on payment of such fee (if any) as the Government may fix in this behalf, furnish the party by whom the notice was given, with a certificate, under his hand and seal, to the effect that the notice has been so given and published."
+    }
+  ],
+  "definitions": []
+}

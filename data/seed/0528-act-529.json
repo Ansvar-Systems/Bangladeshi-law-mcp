@@ -1,0 +1,55 @@
+{
+  "id": "bd-act-529",
+  "type": "statute",
+  "title": "The Public Servants (Marriage with Foreign Nationals) Ordinance, 1976",
+  "title_en": "The Public Servants (Marriage with Foreign Nationals) Ordinance, 1976",
+  "short_name": "Act 529",
+  "status": "repealed",
+  "issued_date": "1976-07-10",
+  "in_force_date": "1976-07-10",
+  "url": "http://bdlaws.minlaw.gov.bd/act-529.html",
+  "description": "An Ordinance to provide for restriction on marriage with foreign nationals. WHEREAS it is expedient to provide for restriction on marriage of public servants with foreign nationals and for matters connected therewith; NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and the 8th November, 1975, and in exercise of all powers enabling him in that behalf, the President is pleased to make and...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Public Servants (Marriage with Foreign Nationals) Ordinance, 1976 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “foreign national” means a person who is not a citizen of Bangladesh;\n(b) “marriage” means matrimonial relationship entered into in accordance with any law for the time being in force or any religious rites or ceremonies, and its grammatical variations and cognate expressions shall be construed accordingly;\n(c) “nationalised enterprise” means any corporation or any commercial or industrial enterprise including a bank which, or the entire or majority share in which, is owned or held by, or vested in, the Government or any local authority;\n(d) “public servant” includes any person who is, for the time being, in the service of the Republic or of any local authority or nationalised enterprise; and\n[***]"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Restriction on marriage with foreign nationals",
+      "content": "[3.(1) A public servant shall not marry or promise to marry a foreign national except with the permission granted under sub-section (2).\n(2) The President may, on an application made in this behalf, grant a public servant permission to marry or promise to marry a foreign national.\n(3) A public servant who contravenes the provisions of sub-section (1) shall, notwithstanding anything contained in any other law or in the terms and conditions of his service, be liable to be removed from service.]"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Repeal",
+      "content": "4. This Ordinance repeals and supersedes all laws, rules and other instruments in force immediately before its commencement relating to marriage or promise of marriage of a public servant with a foreign national."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "foreign national",
+      "definition": "a person who is not a citizen of Bangladesh",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "marriage",
+      "definition": "matrimonial relationship entered into in accordance with any law for the time being in force or any religious rites or ceremonies, and its grammatical variations and cognate expressions shall be construed accordingly",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "nationalised enterprise",
+      "definition": "any corporation or any commercial or industrial enterprise including a bank which, or the entire or majority share in which, is owned or held by, or vested in, the Government or any local authority",
+      "source_provision": "sec2"
+    }
+  ]
+}

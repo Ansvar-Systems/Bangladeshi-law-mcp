@@ -1,0 +1,86 @@
+{
+  "id": "bd-act-160",
+  "type": "statute",
+  "title": "The Money-Lenders Act, 1933",
+  "title_en": "The Money-Lenders Act, 1933",
+  "short_name": "Act 160",
+  "status": "in_force",
+  "issued_date": "1933-10-26",
+  "in_force_date": "1933-10-26",
+  "url": "http://bdlaws.minlaw.gov.bd/act-160.html",
+  "description": "An Act to provide more effectual control of money-lending in Bangladesh. WHEREAS it is expedient to make better provision for the control of money-lending and to give additional powers to Courts to deal with money-lending in Bangladesh.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the [* * *] Money-Lenders Act, 1933 .\n(2) It extends to the whole of Bangladesh, except the district of Sylhet.\n(3) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context-\n(1) \"money-lender\" means any person who grants a loan of money; and\n(2) \"prescribed\" means prescribed by rules made under this Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Presumption in case of certain loans",
+      "content": "3. Where in any suit in respect of any money lent by a money-lender after the commencement of the Usurious Loans Act, 1918 , it is found that the interest charged exceeds the rate\nof fifteen per cent. per annum in the case of a secured loan or twenty-five per cent. per annum in the case of an unsecured loan or that there is a stipulation for rests at intervals of less than six months, the Court shall, until the contrary is proved, presume for the purpose of section 3 of the Usurious Loans Act, 1918 , that the interest charged is excessive and that the transaction was harsh and unconscionable and was substantially unfair, but this provision shall be without prejudice to the powers of the Court under the said section where the Court is satisfied that the interest charged, though not exceeding fifteen per cent. per annum or twenty-five per cent. per annum, as the case may be, is excessive."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Power to limit interest recoverable in certain cases",
+      "content": "4. Notwithstanding anything in any other Act, where in any suit in respect of any money lent by a money-lender before the commencement of this Act it is found that the arrears of interest amount to a sum greater than the principal of the loan, the Court, unless it is satisfied that the money lender had reasonable grounds for not enforcing his claim earlier, shall limit the amount of such interest recoverable in the suit to an amount equal to the principal of the loan."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Maximum rate of interest recoverable under a contract which provides for the payment of compound interest",
+      "content": "5. No money-lender shall recover by suit interest of any kind at a rate exceeding ten per cent. per annum in respect of any loan made after the commencement of this Act under a contract which provides for the payment of compound interest"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Bar to recovery of interest exceeding the principal",
+      "content": "6. No Court shall, in respect of any loan made after the commencement of this Act, decree on account of arrears of interest a sum grater than the principal of the loan."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Money-lender to supply debtor with particulars of loan",
+      "content": "7.(1) Every money-lender, on demand made in the prescribed form by a debtor by registered post, shall supply such debtor with such particulars as may be prescribed concerning any loan made by him to the debtor on account of which any sum is due from the debtor.\n(2) A money-lender who sends by registered post to the debtor at the address mentioned in the form of demand the particulars referred to in sub-section (1) shall be presumed to have complied with the demand made under that sub-section.\n(3) Where a money-lender has complied with a demand made by a debtor under sub-section (1) the debtor shall not be entitled to make a further demand under the said sub-section in respect of the same loan within a period of six months from the date of such compliance."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Failure to supply particulars under section 7",
+      "content": "8. If a money-lender to whom a demand has been made in accordance with the provisions of sub-section (1) of section 7 fails without reasonable excuse to comply therewith within a month from the date of the service of the demand, interest shall not be chargeable in respect of the loan concerning which the demand was made for so long as the default continues."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Deposit in Court of money due to money-lender",
+      "content": "9.(1) Where a debtor has sent to a money-lender by postal money-order any sum of money due from him to the money-lender in respect of a loan and the money-lender has refused to accept the same the debtor may apply in the prescribed manner to the lowest Civil Court having jurisdiction over the place where he resides for permission to deposit the said sum in Court to the account of the money-lender and the Court on receiving the prescribed fee from the debtor shall keep the said sum in deposit and shall send a notice of the deposit in the prescribed manner to the money-lender.\n(2) If a money-lender accepts money sent in the manner specified in sub-section (1) by a debtor or withdraws money deposited under the said sub-section he shall not be bound by any statement made by the debtor in remitting or depositing the money."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Rules",
+      "content": "10.(1) The Government may make rules for carrying out the purposes of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-\n(i) the form of a demand by a debtor and the particulars to be supplied by a money-lender under sub-section (1) of section 7; and\n(ii) the manner in which an application for deposit is to be made under sub-section (1) of section 9, the fee to be paid for such application, and the manner in which a notice of the deposit is to be sent to the money-lender.\n(3) [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "money-lender",
+      "definition": "any person who grants a loan of money",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules made under this Act.",
+      "source_provision": "sec2"
+    }
+  ]
+}

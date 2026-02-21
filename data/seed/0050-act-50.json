@@ -1,0 +1,51 @@
+{
+  "id": "bd-act-50",
+  "type": "statute",
+  "title": "The Powers-of-Attorney Act, 1882",
+  "title_en": "The Powers-of-Attorney Act, 1882",
+  "short_name": "Act 50",
+  "status": "repealed",
+  "issued_date": "1882-02-24",
+  "in_force_date": "1882-02-24",
+  "url": "http://bdlaws.minlaw.gov.bd/act-50.html",
+  "description": "An Act to amend the law relating to Powers-of-Attorney For the purpose of amending the law relating to Powers-of-Attorney; It ishereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title Local extent Commencement",
+      "content": "1. This Act may be called the Powers-of-Attorney Act, 1882 .\nIt extends to the whole of [Bangladesh];\nand it shall come into force on the first day of May, 1882."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Execution under power-of-attorney",
+      "content": "2. The donee of a power-of-attorney may, if he thinks fit, execute or do any assurance, instrument or thing in and with his own name and signature, and his own seal, where sealing is required, by the authority of the donor of the power; and every assurance, instrument and thing so executed and done, shall be as effectual in law as if it had been executed or done by the donee of the power in the name, and with the signature and seal, of the donor thereof.\nThis section applies to powers-of-attorney created by instruments executed either before or after this Act comes into force."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Payment by attorney under power, without notice of death, etc., good",
+      "content": "3. Any person making or doing any payment or act in good faith, in pursuance of a power-of-attorney, shall not be liable in respect of the payment or act by reason that, before the payment or act, the donor of the power had died or become lunatic, of unsound mind, or bankrupt, or insolvent, or had revoked the power, if the fact of death, lunacy, unsoundness of mind, bankruptcy, insolvency or revocation was not, at the time of the payment or act, known to the person making or doing the same.\nBut this section shall not affect any right against the payee of any person interested in any money so paid; and that person shall have the like remedy against the payee as he would have had against the payer, if the payment had not been made by him.\nThis section applies only to payments and acts made or done after this Act comes into force."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Deposit of original instruments creating powers-of-attorney",
+      "content": "4. (a) An instrument creating a power-of-attorney, its execution being verified by affidavit, statutory declaration or other sufficient evidence, may, with the affidavit or declaration, if any, be deposited in the [High Court Division].\n(b) A separate file of instruments so deposited shall be kept; and any person may search that file, and inspect every instrument so deposited; and a certified copy thereof shall be delivered out to him on request.\n(c) A copy of an instrument so deposited may be presented at the office and may be stamped or marked as a certified copy, and, when so stamped or marked, shall become and be a certified copy.\n(d) A certified copy of an instrument so deposited shall, without further proof, be sufficient evidence of the contents of the instrument and of the deposit thereof in the [High Court Division].\n(e) The [Supreme Court] may, from time to time, make rules for the purposes of this section, and prescribing, with the concurrence of the [Government], the fees to be taken under clauses (a), (b) and (c).\n(f) [Repealed by section 48 of the Lower Burma Courts Act, 1900 (Act No. VI of 1900).]\n(g) This section applies to instruments creating powers-of-attorney executed either before or after this Act comes into force."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Power of attorney of married women",
+      "content": "5. A married woman, whether a minor or not, shall, by virtue of this Act, have power, as if she were unmarried and of full age, by a non-testamentary instrument, to appoint an attorney on her behalf, for the purpose of executing any non-testamentary instrument or doing any other act which she might herself execute or do; and the provisions of this Act, relating to instruments creating powers-of-attorney, shall apply thereto.\nThis section applies only to instruments executed after this Act comes into force."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. [Repealed]",
+      "content": "6. [Repealed by the Amending Act, 1891 (Act No. XII of 1891).]"
+    }
+  ],
+  "definitions": []
+}

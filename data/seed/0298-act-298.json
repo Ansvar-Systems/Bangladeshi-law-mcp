@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-298",
+  "type": "statute",
+  "title": "The Dhanmandai Residential Zone (Termination of Lease) Ordinance, 1959 (East Pakistan Ordinance)",
+  "title_en": "The Dhanmandai Residential Zone (Termination of Lease) Ordinance, 1959 (East Pakistan Ordinance)",
+  "short_name": "Act 298",
+  "status": "in_force",
+  "issued_date": "1959-12-07",
+  "in_force_date": "1959-12-07",
+  "url": "http://bdlaws.minlaw.gov.bd/act-298.html",
+  "description": "WHEREAS the Government have leased out plots of Dhanmandai Residential Area to the tenants on terms and conditions set forth in the Standard Agreement for Dhanmandai Residential Area; AND WHEREAS it is provided in the Indenture of Agreement executed by the tenants that the construction of houses, out-houses and appurtenances on the demised property shall be made within 2 years from the date of commencement of the ...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Dhanmandai Residential Zone (Termination of Lease) Ordinance, 1959.\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Bar to jurisdiction of Civil Courts",
+      "content": "2. When the Government terminates any lease in respect of any plot in the Dhanmandai Residential Area, on the failure of the tenant to complete the constructions of the houses, out-houses and appurtenances within the period stipulated in the Indenture of Lease and for allotment of more than one plot in the family and takes possession of the same, no suit or proceeding of any kind whatsoever shall lie or be proceeded with in any Court to challenge the validity of any such order of termination of the lease and taking over possession of the demised property on the termination of such lease.\nExplanation.- 'Family' means husband, wife and children."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Family",
+      "definition": "husband, wife and children.",
+      "source_provision": "sec2"
+    }
+  ]
+}

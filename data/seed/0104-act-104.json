@@ -1,0 +1,69 @@
+{
+  "id": "bd-act-104",
+  "type": "statute",
+  "title": "The Medical Degrees Act, 1916",
+  "title_en": "The Medical Degrees Act, 1916",
+  "short_name": "Act 104",
+  "status": "repealed",
+  "issued_date": "1916-03-16",
+  "in_force_date": "1916-03-16",
+  "url": "http://bdlaws.minlaw.gov.bd/act-104.html",
+  "description": "An Act to regulate the grant of titles implying qualifications in Western medical science, and the assumption and use by unqualified persons of such titles. WHEREAS it is expedient to regulate the grant of titles implying qualifications in Western medical science, and the assumption and use by unqualified persons of such titles; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Medical Degrees Act, 1916 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Act, \"Western medical science\" means the Western methods of Allopathic medicine, Obstetrics and Surgery, but does not include the Homoeopathic or Ayurvedic or Unani system of medicine."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Right to confer degrees, etc.",
+      "content": "3. The right of conferring, granting, or issuing in Bangladesh degrees, diplomas, licences, certificates or other documents stating or implying that the holder, grantee or recipient thereof is qualified to practise Western medical science, shall be exercisable only by the authorities specified in the Schedule, and by such other authority as the Government may, by notification in the official Gazette, and subject to such conditions and restrictions as it thinks fit to impose, authorize in this behalf."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Prohibition of unauthorized conferment of degrees, etc",
+      "content": "4. Save as provided by section 3, no person in Bangladesh shall confer, grant, or issue, or hold himself out as entitled to confer, grant or issue any degree, diploma, licence, certificate or other document stating or implying that the holder, grantee or recipient is qualified to practise Western medical science."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Contravention of section 4",
+      "content": "5. Whoever contravenes the provisions of section 4 shall be punishable with fine which may extend to one thousand Taka; and, if the person so contravening is an association, every member of such association who knowingly and wilfully authorizes or permits the contravention, shall be punishable with fine which may extend to five hundred Taka."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Penalty for falsely assuming or using medical titles",
+      "content": "6. Whoever voluntarily and falsely assumes, or uses any title or description or any addition to his name implying that he holds a degree, diploma, licence or certificate conferred, granted or issued by any authority referred to in section 3, or recognized by the General Council of Medical Education of the United Kingdom, or that he is qualified to practise Western medical science, shall be punishable with fine which may extend to two hundred and fifty Taka, or, if he subsequently commits, and is convicted of, an offence punishable under this section, with fine which may extend to five hundred Taka:\nProvided that nothing in this section shall apply to the use by any person of any title, description, or addition which, prior to the commencement of this Act, he used in virtue of any degree, diploma, licence or certificate conferred upon, or granted or issued to him."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Cognizance of offences",
+      "content": "7. No Court shall take cognizance of an offence punishable under this Act except upon complaint made by order of the Government, or upon complaint made, with the previous sanction of the Government, by a Council of Medical Registration established by any enactment for the time being in force [* * *]."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Jurisdiction of Magistrates",
+      "content": "8. No Court inferior to that of a Magistrate of the first class shall try any offence punishable under this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Western medical science",
+      "definition": "the Western methods of Allopathic medicine, Obstetrics and Surgery, but does not include the Homoeopathic or Ayurvedic or Unani system of medicine.",
+      "source_provision": "sec2"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-677",
+  "type": "statute",
+  "title": "The Districts (Extension to the Chittagong Hill-tracts) Ordinance, 1984",
+  "title_en": "The Districts (Extension to the Chittagong Hill-tracts) Ordinance, 1984",
+  "short_name": "Act 677",
+  "status": "repealed",
+  "issued_date": "1984-12-05",
+  "in_force_date": "1984-12-05",
+  "url": "http://bdlaws.minlaw.gov.bd/act-677.html",
+  "description": "An Ordinance to extend the Districts Act, 1836, to the Chittagong Hill-tracts. WHEREAS it is expedient to extend the Districts Act, 1836 (XXI of 1836), to the Chittagong Hill-tracts; NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in exercise of all powers, enabling him in that behalf, the President is pleased to make and promulgate the following Ordinance:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Districts (Extension to the Chittagong Hill-tracts) Ordinance, 1984 .\n(2) It shall be deemed to have come into force on the 18th April, 1981."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Ordinance, the expression “Chittagong Hill-tracts” means the area known by that name as existing on the first day of January, 1936."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Application of Act XXI of 1836 to the Chittagong Hill-tracts",
+      "content": "3. The Districts Act, 1836 (XXI of 1836), shall apply to the Chittagong Hill-tracts."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Validation",
+      "content": "4. The new districts of Bandarban and Khagrachari created in the Chittagong Hill-tracts under the Code of Criminal Procedure, 1898 (Act V of 1898), before the commencement of this Ordinance shall be deemed to have been created under the Districts Act, 1836 (XXI of 1836)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Chittagong Hill-tracts",
+      "definition": "the area known by that name as existing on the first day of January, 1936.",
+      "source_provision": "sec2"
+    }
+  ]
+}

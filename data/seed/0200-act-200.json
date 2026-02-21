@@ -1,0 +1,63 @@
+{
+  "id": "bd-act-200",
+  "type": "statute",
+  "title": "The Reciprocity Act, 1943",
+  "title_en": "The Reciprocity Act, 1943",
+  "short_name": "Act 200",
+  "status": "in_force",
+  "issued_date": "1943-03-31",
+  "in_force_date": "1943-03-31",
+  "url": "http://bdlaws.minlaw.gov.bd/act-200.html",
+  "description": "An Act to make provisions on a basis of reciprocity in regard to entry into, travel, residence, the acquisition, holding or disposal of property, the enjoyment of educational facilities, the holding of public office, or the carrying on of any occupation, trade, business or profession in Bangladesh by, and the franchise in Bangladesh of, persons domiciled in British Possessions. WHEREAS it is expedient to make prov...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Act may be called the Reciprocity Act, 1943 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force on the 1st day of September, 1943."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) “British possession” means any part of His Majesty's dominions and includes a protectorate or other territory administered by a British possession as a mandatory on behalf of the League of Nations; and where parts of those dominions are under both a central and a local legislature, the expression shall mean either each part under a local legislature or all parts under the central legislature.\n(b) “entry” includes landing at any port in Bangladesh during the stay in Bangladesh of a ship or aircraft on its way to a destination outside Bangladesh."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power of Government to impose reciprocal disabilities on persons domiciled in British possessions",
+      "content": "3. Where by the law or practice of any British possession persons of Bangladesh, Indian or Pakistani origin are subject in that British possession to disabilities in respect of entry into, or travel, residence, the acquisition, holding or disposal of property, the enjoyment of educational facilities, the holding of public office, the carrying on of any occupation, trade, business or profession, or the exercise of the franchise in, that British possession, to which in respect of the like matters in Bangladesh persons domiciled in that British possession are not subject in Bangladesh, the Government may, by notification in the official Gazette, direct that the same disabilities or disabilities as similar thereto as may be shall, notwithstanding anything contained in any other law for the time being in force, be imposed in Bangladesh on persons not being of Bangladesh, Indian or Pakistani origin who are domiciled in that British possession."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Burden of proof on person claiming exemption",
+      "content": "4. If any person alleged to be domiciled in any British Possession and to be subject to the provisions of this Act pleads that he is not so domiciled, or that the provisions of this Act do not apply to him, the onus of proving the truth of such a plea shall be on him."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. [Omitted]",
+      "content": "5. [Direction imposing disabilities in respect of entry, travel and residence not to apply to armed forces.- Omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Power to make rules",
+      "content": "6. (1) The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.\n(2) In particular and without prejudice to the generality of the foregoing power, rules made under this section may provide-\n(a) for the setting up of machinery to ascertain the disabilities in respect of any of the matters specified in section 3 to which persons of Bangladesh, Indian or Pakistani origin are subject in any British possession;\n(b) for the establishment of a suitable agency to administer the rules and for defining its functions and powers;\n(c) for specifying the disabilities that shall, when a direction has been made under section 3, be imposed in Bangladesh on persons not being of Bangladesh, Indian or Pakistani origin who are domiciled in any British possession and for the imposition on them of the disabilities so specified;\n(d) for the enforcement, by the prescription of a penalty by way of imprisonment or fine or both, of any rule made under clause (c);\n(e) for authorising the arrest of any person contravening or reasonably suspected of contravening any rule made under clause (c), and for prescribing the duties of public servants and others in regard to such arrests."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. [Omitted]",
+      "content": "7. [Repeal of Act III of 1924.- Omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "British possession",
+      "definition": "any part of His Majesty's dominions and includes a protectorate or other territory administered by a British possession as a mandatory on behalf of the League of Nations",
+      "source_provision": "sec2"
+    }
+  ]
+}

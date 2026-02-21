@@ -1,0 +1,96 @@
+{
+  "id": "bd-act-108",
+  "type": "statute",
+  "title": "The Cinematograph Act, 1918",
+  "title_en": "The Cinematograph Act, 1918",
+  "short_name": "Act 108",
+  "status": "in_force",
+  "issued_date": "1918-03-06",
+  "in_force_date": "1918-03-06",
+  "url": "http://bdlaws.minlaw.gov.bd/act-108.html",
+  "description": "An Act to make provision for regulating exhibitions by means of Cinematographs. WHEREAS it is expedient to make provision for regulating exhibitions by means of cinematographs; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1.(1) This Act may be called the Cinematograph Act, 1918 .\n(2) It extends to the whole of [Bangladesh].\n[(3) It shall come into force at once.]"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "[2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) \"cassette\" means a magazine or container of ferromagnetic recording tapes having the operating characteristic of being directly loaded into magnetic tape recording or re-producing machine;\n(b) \"cinematograph\" means a composite equipment including a video-cassette recorder used for production, projection and exhibition of motion picture film;\n(c) \"film\", in relation to a motion picture, means a thin flexible ribbon of transparent material having perforations along one or both edges and bearing a sensitized layer or other coating capable of producing photographic images; and includes unexposed film, exposed but unprocessed film and exposed and processed film;\n(d) \"place\" includes a house, building, tent or vessel;\n(e) \"prescribed\" means prescribed by rules made under this Act; and\n(f) \"video-cassette recorder\" means an electromagnetic equipment for recording and reproducing motion picture and sound signals simultaneously on cassette tapes.]"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Cinematograph exhibition to be licensed",
+      "content": "3. Save as otherwise provided in this Act, no person shall give an exhibition by means of a cinematograph elsewhere than in a place licensed under this Act, or otherwise than in compliance with any conditions and restrictions imposed by such license."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Video-cassette recorder not to be used for public exhibition",
+      "content": "[3A. No person shall give a public exhibition by means of a video-cassette recorder and no place shall be licensed under this Act for such exhibition.]"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Licensing authority",
+      "content": "[4. The authority having power to grant licences under this Act (hereinafter referred to as the \"licensing authority\") shall be the Deputy Commissioner.]"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Restrictions on powers of licensing authority",
+      "content": "5.(1) The licensing authority shall not grant a licence under this Act, unless it is satisfied that-\n(a) the rules made under the Act have been substantially complied with; and\n(b) adequate precautions have been taken in the place in respect of which the licence is to be given to provided for the safety of persons attending exhibitions therein.\n(2) A condition shall be inserted in every licence that the licensee will not exhibit, or permit to be exhibited, in such place any film other than a film which has been certified as suitable for public exhibition by [the authority] constituted under the Censorship of Films Act, 1963 , and which, when exhibited, displays the prescribed mark of that authority, and has not been altered or tampered with in any way since such mark was affixed thereto.\n(3) Subject to the foregoing provisions of this section, and to the control of the [* * *] Government, the licensing authority may grant licences under this Act to such persons as it thinks fit, and on such terms and conditions, and subject to such restrictions as it may determine."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Punishment for contravention of this Act and rules made thereunder",
+      "content": "[6.(1) If the owner or person in charge of a cinematograph uses the same or allows it to be used, or if the owner or occupier of any place permits that place to be used, in contravention of the provisions of this Act or the rules made thereunder, or of the conditions and restrictions upon, or subject to which, any licence has been granted under this Act, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to ten thousand taka, or with both; and his licence, if any, shall be liable to be revoked by the licensing authority.\n(2) If any person is convicted of an offence punishable under this Act committed by him in respect of any cinematograph, film or cassette, the convicting Court may further direct that the cinematograph, film or cassette shall be forfeited to the Government.]"
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. [ Repealed]",
+      "content": "7. [Repealed by section 13 of the Censorship of Films Act, 1963 (Act No. XVIII of 1963).]"
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Power to make rules",
+      "content": "8.(1) The [* * *] Government may make rules for the purpose of carrying into effect the provisions of this Act.\n(2) In particular and without prejudice to the generality of the foregoing power, rules under this section may provide for-\n(a) the regulation of cinematograph exhibitions for securing the public safety; and\n[* * *]\n(c) any other matter which by this Act is to be prescribed.\n[* * *]\n(4) All rules made under this Act shall be published in the official Gazette, and, on such publication, shall have effect as if enacted in this Act."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Power to exempt",
+      "content": "9. The [* * *] Government may, by order in writing, exempt, subject to such conditions and restrictions as it may impose, any cinematograph exhibition or class of cinematograph exhibitions from any of the provisions of this Act or of any rule made thereunder."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cassette",
+      "definition": "a magazine or container of ferromagnetic recording tapes having the operating characteristic of being directly loaded into magnetic tape recording or re-producing machine",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "cinematograph",
+      "definition": "a composite equipment including a video-cassette recorder used for production, projection and exhibition of motion picture film",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules made under this Act",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "video-cassette recorder",
+      "definition": "an electromagnetic equipment for recording and reproducing motion picture and sound signals simultaneously on cassette tapes.]",
+      "source_provision": "sec2"
+    }
+  ]
+}

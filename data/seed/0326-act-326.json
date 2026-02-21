@@ -1,0 +1,780 @@
+{
+  "id": "bd-act-326",
+  "type": "statute",
+  "title": "The Waqfs Ordinance, 1962 (East Pakistan Ordinance)",
+  "title_en": "The Waqfs Ordinance, 1962 (East Pakistan Ordinance)",
+  "short_name": "Act 326",
+  "status": "in_force",
+  "issued_date": "1962-01-19",
+  "in_force_date": "1962-01-19",
+  "url": "http://bdlaws.minlaw.gov.bd/act-326.html",
+  "description": "An Ordinance to consolidate and amend the law relating to the administration and management of Waqf properties in Bangladesh. WHEREAS it is expedient to consolidate and amend the law relating to the administration and management of Waqf properties in Bangladesh; NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of October, 1958, and having received the previous instructions of the Pr...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "chapter": "Chapter I",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Waqfs Ordinance, 1962.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "chapter": "Chapter I",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(1) “Administrator” means the Administrator of Waqfs appointed under section 7;\n(2) “beneficiary” means any person entitled to receive any pecuniary or other material benefits from a waqf and includes any institution, such as mosque, shrine, dargah, khanquah, school, madrasah, idgah or graveyard entitled to receive any such benefits;\n(3) “benefit” does not include any benefit which a mutawalli is entitled to claim solely by reason of his being such mutawalli;\n(4) “Committee” means the Waqfs Committee established under section 19;\n[(4A) “Deputy Commissioner” shall include Additional Deputy Commissioner]\n(5) “enrolment” means the enrolment of a waqf under section 47;\n(6) “mutawalli” means any person appointed either orally or under any deed or instrument by which a waqf has been created or by a competent authority to be the mutawalli of a waqf, and includes a naib mutawalli, any other person appointed or entrusted by a mutawalli to perform the duties of a mutawalli, the guardian of a mutawalli who is a minor or of unsound mind and any person or committee for the time being managing or administering any waqf property as such.\nExplanation. A Receiver appointed under the provisions of the Code of Civil Procedure, 1908 , or under section 145 or 146 of the Code of Criminal Procedure, 1898 , to manage or administer a waqf property, or a Common Manager managing any waqf property under the provisions of any law for the time being in force, shall be deemed to be a mutawalli for the purposes of this Ordinance;\n(7) “net available income” of a waqf means the income as determined from time to time, in the manner prescribed by the rules;\n(8) “person interested in a waqf ” includes a beneficiary and any person who has a right to worship or to perform any religious rite in a mosque, idgah, imambarah, dargah, maqbara or other religious institution and establishment connected with the waqf or to participate in any religious or charitable institutions under the waqf;\n(9) “stranger to waqf ” means a person other than a person interested within the meaning of clause (8);\n(10) “waqf ” means the permanent dedication by a person professing Islam of any movable or immovable property for any purpose recognised by Muslim Law as pious, religious or charitable, and includes any other endowment or grant for the aforesaid purposes, a waqf by user, and a waqf created by a non Muslim.\nExplanation. When more than fifty per cent of the net available income of a waqf is exclusively applied for religious and charitable purposes, such a waqf shall be deemed to be a public waqf within the meaning of clause (e) of sub-section (1) of section 85 of the [* * *] Non-Agricultural Tenancy Act, 1949 and shall be deemed to be a trust for public purposes of a charitable or religious nature within the meaning of section 92 of the Code of Civil Procedure, 1908 , [* * *];\n(11) “waqf deed” means any deed or instrument by which a waqf has been created and includes any valid subsequent deed or instrument by which any of the terms of the original dedication has been varied;\n[(11a) “waqf estate” means the totality of immovable properties, as well as movable properties, in respect of which the waqf is made by a deed; and no waqf property shall be designated as waqf estate if it consists of only movable properties;]\n(12) “waqf property” includes property of any kind acquired with the sale proceeds of, or in exchange of, or from the income arising out of, waqf property, and all offerings made, or charities consecrated or contributed, on or to waqf property; and\n(13) “waqif ” means any person creating a waqf."
+    },
+    {
+      "provision_ref": "sec3",
+      "chapter": "Chapter I",
+      "section": "3",
+      "title": "3. Application",
+      "content": "3. This Ordinance shall apply to all waqfs, whether created before or after the commencement of this Ordinance, and to any part of the property which is situated in Bangladesh."
+    },
+    {
+      "provision_ref": "secomitted",
+      "chapter": "Chapter I",
+      "section": "[Omitted",
+      "title": "[Omitted. ]",
+      "content": "4. [Exemption of certain waqf property.- Omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    },
+    {
+      "provision_ref": "sec5",
+      "chapter": "Chapter I",
+      "section": "5",
+      "title": "5. Power to exempt waqfs from the operation of this Ordinance",
+      "content": "5. The Administrator may, with the previous sanction of the Government, and subject to rules made by the Government in this behalf, exempt any waqf from all or any of the provisions of this Ordinance."
+    },
+    {
+      "provision_ref": "sec6",
+      "chapter": "Chapter I",
+      "section": "6",
+      "title": "6. Survey of waqf properties",
+      "content": "6. (1) The Administrator shall cause a survey to be made of all waqf properties existing at the date of the commencement of this Ordinance in such manner as may be prescribed by the rules, and, for this purpose, may appoint such persons as may be necessary, who shall, on completion of the survey, submit to the Administrator a report containing such particulars as may be prescribed by the rules.\n(2) On receipt of the report under sub section (1), the Administrator shall take such action as he may deem necessary under Chapter IV of this Ordinance for the enrolment of the waqfs."
+    },
+    {
+      "provision_ref": "sec7",
+      "chapter": "Chapter I",
+      "section": "7",
+      "title": "7. Record-of-Rights, separate khatian, etc.",
+      "content": "[6A. (1) Any immovable property belonging to any waqf estate shall be recorded in the record-of-rights in the name the waqf, and shall be represented by the designation of mutawalli, Receiver or Administrator, as the case may be.\n(2) The personal name of any mutawalli, Receiver or Administrator shall not be stated in the record-of-rights.\n(3) Notwithstanding anything contained in any other law for the time being in force, the Revenue Officer shall record the waqf estate in a separate khatian.\nExplanation.- Revenue-officer as referred to in this sub-section means the Revenue-officer as defined in section 2(24) of the State Acquisition and Tenancy, Act 1950 (Act No. XXVIII of 1951).\n(4) If any immovable property belonging to any waqf estate is not recorded in accordance with the provisions of this section, the Administrator shall take immediate steps for correction of the record-of-rights.]"
+    },
+    {
+      "provision_ref": "sec8",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "8",
+      "title": "8. Appointment of the Administrator",
+      "content": "7. (1) The Government shall appoint an Administrator of Waqfs [for Bangladesh].\n(2) No person shall be appointed as Administrator unless he is a Muslim and possesses such qualifications as may be prescribed by the rules.\n(3) The Administrator shall ordinarily be appointed for five years, and shall be eligible for re appointment."
+    },
+    {
+      "provision_ref": "sec9",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "9",
+      "title": "9. Terms and conditions of service of the Administrator",
+      "content": "8. Subject to the provisions of this Ordinance, the salary and the terms and conditions of service of the Administrator shall be such as may be prescribed by the rules."
+    },
+    {
+      "provision_ref": "sec10",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "10",
+      "title": "10. Removal of the Administrator",
+      "content": "9. If at any time it appears to the Government that the Administrator has shown himself to be unsuitable for his office, or has been guilty of misconduct or neglect which renders his removal expedient, it may, by notification in the official Gazette, declare that the Administrator shall cease to hold such office."
+    },
+    {
+      "provision_ref": "sec11",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "11",
+      "title": "11. Administrator to be a public officer",
+      "content": "10. The Administrator shall be deemed to be a public officer within the meaning of the Code of Civil Procedure, 1908 ."
+    },
+    {
+      "provision_ref": "sec12",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "12",
+      "title": "12. Administrator to be a Corporation sole",
+      "content": "11. The Administrator shall be a corporation sole by name of “the Administrator of Waqfs, Bangladesh” and shall have perpetual succession and an official seal and shall by the said name sue and be sued."
+    },
+    {
+      "provision_ref": "sec13",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "13",
+      "title": "13. Office of the Administrator",
+      "content": "12. The office of the Administrator shall be situated at Dacca."
+    },
+    {
+      "provision_ref": "sec14",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "14",
+      "title": "14. Appointment of Deputy and Assistant Administrators",
+      "content": "13. The Government may, in consultation with the Administrator, appoint such number of Deputy Administrators and Assistant Administrators as may be deemed necessary."
+    },
+    {
+      "provision_ref": "sec15",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "15",
+      "title": "15. Remuneration of the Deputy Administrators and Assistant Administrators",
+      "content": "14. The salaries, and the terms and conditions of service, of the Deputy Administrators and Assistant Administrators shall be such as may be prescribed by the rules."
+    },
+    {
+      "provision_ref": "sec16",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "16",
+      "title": "16. Strength and remuneration of staff",
+      "content": "15. The Administrator, with the previous sanction of the Government, may, from time to time, determine the number, designations and grades of other officers and servants whom he considers necessary to employ for the purposes of this Ordinance and the amount and nature of the salary, fees and allowances to be paid to each such officer and servant."
+    },
+    {
+      "provision_ref": "sec17",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "17",
+      "title": "17. Service condition of the officers and servants",
+      "content": "16. The conditions of service of the officers and servants mentioned in section 15 shall be such as may be prescribed by the rules."
+    },
+    {
+      "provision_ref": "sec18",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "18",
+      "title": "18. Power of appointment, etc., vested in the Administrator",
+      "content": "17. The power of appointing, promoting and granting leave to officers and servants mentioned in section 15 and reducing, suspending or dismissing them for misconduct, shall be vested in the Administrator:\nProvided that any such officer or servant in receipt of a monthly salary exceeding one hundred and fifty taka, who is reduced, suspended or dismissed by the Administrator, may appeal to the Government whose decision shall be final."
+    },
+    {
+      "provision_ref": "sec19",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "19",
+      "title": "19. Travelling allowances",
+      "content": "18. There shall be paid to Administrator, Deputy Administrators, Assistant Administrators and other officers and servants allowances for journeys undertaken in the discharge of their duties under this Ordinance at such reasonable rates as may, from time to time, be determined by the Government."
+    },
+    {
+      "provision_ref": "sec20",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "20",
+      "title": "20. Establishment of the Waqf Committee",
+      "content": "19. The Government shall establish a Committee to be called the Waqfs Committee for assisting and advising the Administrator in administering the waqfs and their funds and in the exercise and performance of his powers and duties in accordance with the provisions of this Ordinance."
+    },
+    {
+      "provision_ref": "sec21",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "21",
+      "title": "21. Constitution of Committee",
+      "content": "20. (1) The Committee shall consist of the Administrator as Chairman and ten members to be appointed by the Government of whom one shall be a mutawalli of Shia sect, and three shall be mutawallis of the Sunni sect, and the remaining six shall be from among the prominent, respectable and benevolent citizens of the Muslim community, well versed in Muslim Law.\n(2) The names of the members of the Committee, when appointed, shall be published by the Government in the official Gazette."
+    },
+    {
+      "provision_ref": "sec22",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "22",
+      "title": "22. Term of Office of Members",
+      "content": "21. (1) Every member of the Committee shall hold office for a term of five years, and shall, if otherwise qualified, be eligible for reappointment on the expiry of his term of office.\n(2) A member of the Committee, notwithstanding the expiry of his term of office, shall continue to hold office until the vacancy caused by the expiry of the said term has been filled.\n(3) If any mutawalli, who is, as such, a member of the Committee, ceases to be a mutawalli, the Government shall, by notification in the official Gazette, declare his place to be vacant."
+    },
+    {
+      "provision_ref": "sec23",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "23",
+      "title": "23. Removal of Members",
+      "content": "22. (1) The Government may, by notification in the official Gazette, remove any member of the Committee, if he-\n(a) refuses to act or becomes incapable of acting as a member of the Committee;\n(b) is declared insolvent;\n(c) has been or is convicted of any such offence or has been or is subjected by a criminal Court to any such order which, in the opinion of the Government, renders him unfit to continue as a member of the Committee; or\n(d) is absent without the permission of the Committee from more than three consecutive meetings of the Committee.\n(2) The Government may fix a period during which any person so removed shall not be eligible for reappointment."
+    },
+    {
+      "provision_ref": "sec24",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "24",
+      "title": "24. Resignation of Members",
+      "content": "23. A member of the Committee may resign his office by giving notice in writing to the Government, and, on such resignation being accepted, shall be deemed to have vacated his office."
+    },
+    {
+      "provision_ref": "sec25",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "25",
+      "title": "25. Casual vacancies",
+      "content": "24. When the place of a member of the Committee is declared vacant under sub section (3) of section 21 or becomes vacant by his removal under section 22 or resignation under section 23, or by death, a new member shall be appointed in the manner provided in section 20 and shall hold office so long as the member whose place he fills would have been entitled to hold office if such vacancy had not occurred:\nProvided that no act of the Committee shall be deemed to be invalid by reason only that the number of members of the Committee at the time of the performance of such act was less than the number provided in section 20."
+    },
+    {
+      "provision_ref": "sec26",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "26",
+      "title": "26. Quorum and President at meetings of the Committee",
+      "content": "25. (1) The presence of at least four members of the Committee shall be necessary to form a quorum at a meeting of the Committee.\n(2) The Administrator, or, in his absence, a member elected by the members present at a meeting of the Committee, shall preside at every meeting of the Committee, and shall have a second or casting vote in all cases of equality of votes."
+    },
+    {
+      "provision_ref": "sec27",
+      "chapter": "Chapter II: APPOINTMENT OF ADMINISTRATOR OF WAQFS, OFFICERS AND STAFF, AND CONSTITUTION OF COMMITTEE",
+      "section": "27",
+      "title": "27. Allowance to Members for journeys",
+      "content": "26. There shall be paid to each member of the Committee, allowances for journeys undertaken in the discharge of their duties under this Ordinance at such reasonable rates as may, from time to time, be determined by the Government."
+    },
+    {
+      "provision_ref": "sec28",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "28",
+      "title": "28. General powers and functions of the Administrator",
+      "content": "27. Subject to the provisions of this Ordinance and the rules made thereunder the powers and functions of the Administrator shall include-\n(a) investigating and determining the nature and extent of waqfs and waqf properties, and calling, from time to time, for accounts, returns and information from mutawallis;\n(b) ensuring that the waqf properties and income arising therefrom are applied to the objects, and for the purposes and for the benefit of any class of persons for which such waqfs were created or intended;\n(c) giving directions for the proper administration of waqfs;\n(d) managing himself, or through the officers and servants employed under this Ordinance or persons authorised by him, any waqf of which he may take or retain charge under this Ordinance and doing all such acts as may be necessary for the proper control, administration and management of any such property;\n(e) fixing the remuneration of a mutawalli, where there is no provision for such remuneration in the waqf deed;\n(f) investing any money received as compensation for the acquisition of waqf properties under any law for the time being in force, by himself or by issuing directions for proper investment by the mutawalli; and\n(g) generally doing all such acts as may be necessary for the due control, maintenance and administration of waqfs."
+    },
+    {
+      "provision_ref": "sec29",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "29",
+      "title": "29. General powers and functions of the Committee",
+      "content": "28. Subject to the provisions of this Ordinance and the rules made thereunder, the powers and functions of the Committee shall include-\n(i) in the absence of any directions by the waqif or any lawful authority, declaring what proportion of the income or other property of the waqf shall be allocated to any particular object of the waqf;\n(ii) declaring in what manner any surplus income of a waqf shall be utilised;\n(iii) settling, altering or revising schemes for the proper administration of a waqf in a manner not inconsistent with the terms and conditions of the waqf deed or the wishes of the waqif; and\n(iv) exercising and performing such other powers and duties as are expressly conferred or imposed on the Committee by or under this Ordinance."
+    },
+    {
+      "provision_ref": "sec30",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "30",
+      "title": "30. The Administrator and the Committee to carry out purposes of waqfs but Administrator may revise inoperative provisions",
+      "content": "29. The Administrator and the Committee, in exercising their powers and functions under this Ordinance in respect of the waqf, shall act in conformity with the directions of the waqif, the purposes of the waqf, and any custom or usage relating to waqfs under the Muslim Law:\nProvided that, in furtherance of the objects of the waqf or in the interest of the beneficiaries, the Committee may revise any provision in the waqf deed which has become inoperative or impossible of execution owing to the efflux of time or changed conditions."
+    },
+    {
+      "provision_ref": "sec31",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "31",
+      "title": "31. Exercise of Committee’s powers by Administrator",
+      "content": "30. (1) All decisions and actions of the Committee shall be given effect to by orders passed by the Administrator.\n(2) The Committee may, from time to time, authorise the Administrator to exercise and perform any of the powers and duties conferred or imposed on the Committee by or under this Ordinance.\n(3) The powers vested in the Committee under this Ordinance, shall, when there is no Committee or when the Committee cannot function for any reason, be exercisable by the Administrator."
+    },
+    {
+      "provision_ref": "sec32",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "32",
+      "title": "32. Powers and duties of the Deputy Administrators and Assistant Administrators",
+      "content": "31. The Deputy Administrator and the Assistant Administrator shall, subject to the control of the Government and of the Administrator, be competent to discharge such duties and exercise such powers of the Administrator under this Ordinance or the rules made thereunder as may be assigned and delegated to him by the Administrator by notification in the official Gazette with the prior approval of the Government."
+    },
+    {
+      "provision_ref": "sec33",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "33",
+      "title": "33. Magistarial powers of Administator and others.",
+      "content": "[31A. (1). The Adminidtrator shall have such powers of an Executive Magistrate as may be necessary for due administration, management, maintenance and protection of properties of a waqf estate.\n(2) The Administrator may, with prior approval of the government, by notification in the official Gazette, delegate to any Deputy Administrator and Assistant Administrator such of his powers of an Executive Magistrate as he may deem necessary for due administraton, management, maintenance and protection of properties of waqf estate.\n(3) The magistarial powers of the Administrator, Deputy Administrator and Assistant Administrator may extend all over the country, and while exercising the powers of an Executive Magistrate under this section within the territorial jurisdiction of a particular district, the Administrator shall be deemed to be a District Magistrate of that District and a Deputy Administrator or Assistant Administrator shall be deemed to be an Executive Magistrate of that District.\n(4) While exercising the powers of Executive Magistrate under this section within the territorial jurisdiction of a particular district or metropilitian area the Administrator, Deputy Administrator and Assistant Administrator, may, if necessary, ask for assistance of police and district Administration of that district or metropolition area, as the case may be, and, if so asked for, such assistance shall be provided.]"
+    },
+    {
+      "provision_ref": "sec34",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "34",
+      "title": "34. Removal of mutawalli in certain cases and his liability for breach of trust",
+      "content": "32. (1) Notwithstanding anything contained elsewhere in this Ordinance or in any other law for the time being in force, the Administrator may, on his own motion or on an application of any [beneficiary], remove a mutawalli-\n(i) for breach of trust, mismanagement, malfeasance or misappropriation; or\n(ii) for any act of the mutawalli causing loss of waqf property or affecting the proper administration, control or preservation of the waqf; or\n(iii) if the mutawalli has been convicted more than once under section 61 of this Ordinance; or\n(iv) if the existing mutawalli is found unsuitable, incompetent, negligent or otherwise undesirable:\nProvided that no such order for removal of a mutawalli shall be made without giving him an opportunity of being heard.\n(2) A mutawalli aggrieved by an order under sub-section (1) may, within three months from the date of communication of such order, appeal to the District Judge against such order of removal:\nProvided that no appeal shall lie against an order under sub section (1) unless the mutawalli has made over charge of the waqf to the new mutawalli appointed under sub-section (4).\n(3) A revision from every order passed in appeal by the District Judge under sub section (2), if presented within ninety days from the date of such order, shall lie to the [High Court Division], whose decision shall be final.\n(4) When a mutawalli has been removed, or when a mutawalli has resigned and his resignation has been accepted, the Administrator may appoint a new mutawalli to whom the outgoing mutawalli shall make over possession and charge of management of the waqf property together with the cash and all papers relating thereto by such date as may be specified by the Administrator.\n(5) If an outgoing mutawalli fails or refuses to make over possession and charge of management of the waqf property together with the cash and all papers relating thereto to the succeeding mutawalli under sub section (4), the succeeding mutawalli or the Administrator may apply to the Deputy Commissioner who shall evict the outgoing mutawalli and make over possession of the waqf property together with the cash and all papers relating thereto to the succeeding mutawalli or the Administrator, as the case may be.\n(6) When a mutawalli commits a breach of trust or does any wrongful act causing loss to the waqf property, he shall be liable to make good the loss sustained by the waqf property or its beneficiaries."
+    },
+    {
+      "provision_ref": "sec35",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "35",
+      "title": "35. Power of the Administrator to transfer waqf property",
+      "content": "33. Notwithstanding anything contained elsewhere in this Ordinance or in any other law for the time being in force or in any waqf deed or in any contract, the Administrator may, with the previous sanction of the Government, transfer any part of a waqf property by sale, mortgage, exchange or lease if he considers it necessary for the improvement and benefit of the waqf."
+    },
+    {
+      "provision_ref": "sec36",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "36",
+      "title": "36. Administrator may take over waqf property by notification",
+      "content": "34. (1) Notwithstanding anything contained elsewhere in this Ordinance, or in any other law for the time being in force, or in any decree or order of any Court, or in any deed or instrument, the Administrator may, by notification in the official Gazette, take over and assume the administration, control, management and maintenance of any waqf property, including any Shrine, dargah, imambara or other religious institution appertaining to such waqf property.\n(2) As soon as may be after the publication of the notification under sub section (1), the Administrator shall cause a notice to be served on the mutawalli of the waqf property specified in such notification requiring him to make over, by a specified date, the possession of the waqf property together with all papers relating thereto; and if the mutawalli fails to make over possession by the specified date, the Administrator may apply to the Deputy Commissioner who shall evict the mutawalli and make over the possession of the waqf property to the Administrator.\n(3) The Administrator may manage the waqf property taken over by him under sub section (1) through any officer subordinate to him or by an agent or official mutawalli or, if he considers necessary, by appointing a managing committee in the case of a shrine, dargah, imambara or other religious institutions.\n(4) If a managing committee is appointed under the provisions of sub section (3), the mutawalli of the waqf property concerned, the manager or Sajjada nashin, if there be one, and the Deputy Commissioner or his representative, shall be among the members thereof; and the President and the Secretary of each such committee shall be appointed by the Administrator from among the members of the committee.\n(5) The officer or agent or official mutawalli or the managing committee appointed under sub section (3) for the management of any waqf property taken over by the Administrator under sub section (1), shall frame a scheme for the administration of such waqf property as nearly as possible in conformity with the wishes of the waqif and the terms and conditions of the waqf and in accordance with the provisions of this Ordinance subject to the approval of the Administrator who may make such modifications in the scheme as he considers necessary.\n(6) The Administrator shall maintain a complete record of all waqf properties taken over by him under sub section (1), and shall keep accounts of income and expenditure of such property including the expenditures on the administration and his establishment for such purpose, in such manner as may be prescribed; and all moneys received or realised by the Administrator in respect of such properties under his control and management shall be credited to the Waqf Fund."
+    },
+    {
+      "provision_ref": "sec37",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "37",
+      "title": "37. Petition and appeal against notification or order by Administrator",
+      "content": "35. (1) The mutawalli, or any person claiming any interest in the property in respect of which a notification has been issued under sub section (1) of section 34, may, if aggrieved by such notification, submit a petition within three months of the publication of such notification or of the passing of such order, to the District Judge within whose jurisdiction such waqf property or a part thereof is situated, for a declaration,-\n(a) that the property is not a waqf property; or\n(b) that the property is waqf property within the limits stated in the petition.\n(2) The District Judge may pass such order as he thinks fit after hearing the parties, or he may, for reasons to be recorded in writing, refuse to issue any process for compelling the attendance of any witness or the production of any document, if he considers that the petition has been made for the purpose of vexation and delay, and dismiss the petition summarily.\n(3) Any person aggrieved by the decision of the District Judge under sub section (2) may, within sixty days of the order, appeal to the [High Court Division].\n(4) The decision of the District Judge, or when there is an appeal, the decision of the [High Court Division], shall be final."
+    },
+    {
+      "provision_ref": "sec38",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "38",
+      "title": "38. Exercise of powers through Deputy Commissioners, or others",
+      "content": "36. Subject to any rules made in this behalf, the Administrator may exercise any of the powers conferred on him by this Ordinance through the Deputy Commissioners of the districts in which the waqf property concerned is situated or through any other person whom he may appoint for such purpose and may, from time to time, delegate any of his powers to such Deputy Commissioners or other persons as aforesaid and may, at any time, revoke such delegation."
+    },
+    {
+      "provision_ref": "sec39",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "39",
+      "title": "39. Application for enquiry or audit of accounts",
+      "content": "37. Any person interested in a waqf may make an application, supported by an affidavit, to the Administrator to institute an enquiry relating to the administration of a waqf or for examination and audit of the accounts of a waqf; and the Administrator, on receipt of such application and on being satisfied from facts set forth in the affidavit that there are reasonable grounds for believing that the affairs of the waqf are being mismanaged, shall take such action thereon as he thinks fit:\nProvided that an application for the examination and audit of accounts shall not be made in respect of accounts relating to a period more than three years prior to the date of such application."
+    },
+    {
+      "provision_ref": "sec40",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "40",
+      "title": "40. Power of the Administrator for the purpose of an enquiry under this Ordinance",
+      "content": "38. (1) For the purpose of any enquiry under this Ordinance, the Administrator shall have the power to summon and enforce the attendance of persons and witnesses including the parties interested, to examine them, to compel the production of documents, and to issue commissions for the examination of witnesses, in the same manner as is provided in the case of a Civil Court under the Code of Civil Procedure, 1908 .\n(2) The Administrator shall be deemed to be a public servant for the purposes of section 188 of the [* * *] Penal Code and Civil Court for the purposes of section 195 and Chapter XXXV of the Code of Criminal Procedure, 1898 ."
+    },
+    {
+      "provision_ref": "sec41",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "41",
+      "title": "41. Protection of waqfs from mismanagement",
+      "content": "39. If after making an enquiry under section 37 the Administrator is of opinion that the affairs of any waqf have been mismanaged to such an extent as to make it desirable, for the protection of the waqf property or in the interest of the beneficiaries, that the waqf should be subjected to greater control and supervision, he may take over and assume the administration, control, management and maintenance of such waqf property under the provisions of section 34, or he may subject the waqf property to such provisions of this Ordinance for such specified period as he deems fit."
+    },
+    {
+      "provision_ref": "sec42",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "42",
+      "title": "42. Power of mutawalli to apply for directions",
+      "content": "40. (1) Any mutawalli may apply to the Administrator for the opinion, advice or direction of the Administrator on any question affecting the management or administration of the waqf property or on any point in a deed of waqf requiring clarification and the Administrator shall give his opinion, advice or direction, as the case may be, thereon:\nProvided that, if the Administrator cannot suitably dispose of the question, he may refer the mutawalli to the Court of the District Judge having local jurisdiction over the place where the waqf property or any part thereof is situated; and if the mutawalli thereafter applies by petition to such Court, the Court shall give its opinion, advice and direction in the manner provided in sub sections (2) and (3).\n(2) The Administrator on receiving a petition under sub section (1) may either give his opinion, advice or direction thereon forthwith, or fix a date for the hearing of the petition, and may direct a copy thereof, together with notice of the date so fixed to be served on such of the persons interested in the waqf, or to be published for information, in such manner as he thinks fit.\n(3) On any date fixed under sub section (2) or on any subsequent date to which the hearing may be adjourned, the Administrator, before giving any opinion, advice or direction, shall offer a reasonable opportunity of being heard to all persons appearing in connection with the petition.\n(4) Every mutawalli acting upon or in accordance with the opinion, advice or direction given by the Administrator or the Court, as the case may be, shall be deemed, so far as his own responsibility is concerned, to have discharged his duties as a mutawalli in the matter in respect of which the petition was made:\nProvided that nothing herein contained shall indemnify any mutawalli for any act done in accordance with such opinion, advice or direction if such mutawalli has been guilty of any fraud or wilful concealment or misrepresentation in obtaining such opinion, advice or direction."
+    },
+    {
+      "provision_ref": "sec43",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "43",
+      "title": "43. Creation of Reserve Fund",
+      "content": "41. For the purpose of making provision for the payment of rent, rates and taxes due to Government or to any local authority and for the discharge of the expenses of repairs of the waqf property and for the preservation of the waqf property, Administrator may direct the creation and maintenance, in such manner as it may think fit, of a reserve fund from the income of a waqf."
+    },
+    {
+      "provision_ref": "sec44",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "44",
+      "title": "44. Power to pay dues in case of default by mutawalli",
+      "content": "42. (1) Where a mutawalli refuses to pay or does not pay any rates and taxes due to the Government or any local authority, the Administrator may discharge the dues from the “Waqf Fund”, and then proceed to recover the same from the waqf property and may also recover damages at twelve and a half per cent of the dues from the mutawalli.\n(2) Any sum of money due under sub section (1) shall be recoverable as a public demand under the [* * *] Public Demands Recovery Act, 1913."
+    },
+    {
+      "provision_ref": "sec45",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "45",
+      "title": "45. Power to appoint a mutawalli in certain cases",
+      "content": "43. In the case of any waqf of which there is no mutawalli or where there appears to the Administrator to be an impediment to the appointment of a mutawalli in terms of the deed of waqf or where the successor to the office of mutawalli is a minor, a person of unsound mind or a person adjudged insolvent by a competent Court of law, the Administrator may, for such period as he deems fit, appoint a person to act as mutawalli with notice to all the persons interested in the waqf. Any person aggrieved by such an appointment may, within three months from the date of the receipt of the notice, appeal to the District Judge; and the decision of the District Judge shall be final."
+    },
+    {
+      "provision_ref": "sec46",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "46",
+      "title": "46. Appointment of official mutawalli",
+      "content": "44. Notwithstanding anything contained in this Ordinance or in any other law for the time being in force or in any deed or instrument, the Administrator may, where considered necessary, appoint an official mutawalli on such terms and conditions as to remuneration and other matters as the Administrator thinks fit for the Administration and management of a waqf property and institution attached thereto."
+    },
+    {
+      "provision_ref": "sec47",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "47",
+      "title": "47. Inspection of records and granting of copies",
+      "content": "45. (1) The Administrator may grant inspection and copies of proceedings or other records of his office on payment of such fees as may be prescribed by him and subject to such conditions as he may determine. Copies shall be certified by the Administrator or by such officer as may be authorised in that behalf by the Administrator in the manner provided in section 76 of the Evidence Act, 1872 .\n(2) Any beneficiary or other person interested in a waqf shall be entitled, with the permission of the Administrator, to inspect and obtain copies of such proceedings or other records relating to the waqf.\n(3) The Administrator at his discretion may allow a stranger to a waqf to inspect and obtain copies of such proceedings or other records relating to the waqf."
+    },
+    {
+      "provision_ref": "sec48",
+      "chapter": "Chapter III: POWERS AND FUNCTIONS OF THE ADMINISTRATOR AND THE COMMITTEE",
+      "section": "48",
+      "title": "48. Extension of time for performance of an act",
+      "content": "46. The Administrator may, from time to time, extend the time within which any act is required or ordered to be done by or under this Ordinance."
+    },
+    {
+      "provision_ref": "sec49",
+      "chapter": "Chapter IV: ENROLMENT OF WAQFS",
+      "section": "49",
+      "title": "49. Enrolment of waqfs",
+      "content": "47. (1) All waqfs existing at or created after the commencement of this Ordinance shall be enrolled at the office of the Administrator.\n(2) An application for enrolment shall be made by the mutawalli:\nProvided that any person interested in a waqf may apply for such enrolment.\n(3) An application for enrolment shall be made in such form and manner and at such place as the Administrator may prescribe and shall obtain the following particulars as far as possible:\n(a) a description of the waqf properties sufficient for the identification thereof;\n(b) the gross annual income from such properties;\n(c) the amount of rents, rates and taxes annually payable in respect of the waqf properties;\n(d) an estimate of the expenses annually incurred in the realisation of the income of the waqf properties based on such details as are available;\n(e) the amount set apart under the waqf for-\n(i) the salary of the mutawalli and allowances to individuals;\n(ii) purely religious purposes;\n(iii) charitable purposes; and\n(iv) any other purposes; and\n(f) any other particulars prescribed by the Administrator.\n(4) Every such application shall be accompanied by a true copy of the waqf deed or, if no such deed has been executed, or a copy thereof cannot be obtained, shall contain full particulars, as far as they are known to the applicant, of the origin, nature and objects of the waqf.\n(5) The Administrator shall, on receipt of every application for enrolment and before enrolling any property therein as waqf property, send a copy of the application to the Deputy Commissioner of the district in which the property is situated and ascertain from him whether such property is the khas property of the Government. If the Deputy Commissioner objects to the enrolment on the ground that the said property belongs to the Central or the Government, the applicant shall be informed accordingly and, unless the applicant can produce a decision of the Civil Court to the contrary, the application for enrolment shall be rejected.\n(6) Where an application for enrolment has not been rejected under sub section (5), the Administrator may, before enrolling the waqf, make such further enquiries as he thinks fit in respect of the genuineness and validity of the application, and the correctness of any particulars therein; and when the application is made by any person other than the person administering the waqf property the Administrator shall, before enrolling the waqf, give notice of the application to the person administering the waqf property and shall hear him if he desires to be heard.\n(7) In the case of waqfs created before the date on which this Ordinance comes into force, the application for enrolment shall be made within three months from that date, and in case of waqfs created after that date within three months from the date of the creation of the waqf:\nProvided that, in the case of a testamentary waqf, the application for enrolment shall be made within three months from the date on which this Ordinance comes into force or from the date of the death of the testator, whichever event happens later.\n(8) Every application made under sub section (2) shall be written in the English or Bengali language and shall be signed and verified by the applicant in the manner provided in the Code of Civil Procedure, 1908 , for the signing and verification of pleadings.\n(9) If the applicant omits or refuses on notice to sign or verify the application, a note to that effect shall be made in the register maintained under section 48."
+    },
+    {
+      "provision_ref": "sec50",
+      "chapter": "Chapter IV: ENROLMENT OF WAQFS",
+      "section": "50",
+      "title": "50. Register of waqfs",
+      "content": "48. The Administrator shall maintain a register of waqfs which shall contain in respect of each waqf copies of the waqf deeds and the following particulars:-\n(a) the name of the mutawalli;\n(b) the rules of succession to the office of mutawalli under the waqf deed or by custom or usage;\n(c) particulars of all waqf properties, and all title deeds and documents relating thereto;\n(d) particulars of the scheme of administration and the scale of expenditure at the time of enrolment; and\n(e) such other particulars as the Administrator may prescribe."
+    },
+    {
+      "provision_ref": "sec51",
+      "chapter": "Chapter IV: ENROLMENT OF WAQFS",
+      "section": "51",
+      "title": "51. Power to cause enrolment of waqf and to amend register",
+      "content": "49. The Administrator, on his own motion or on the petition of any person interested, verified in the manner referred to in sub section (8) of section 47, may direct a mutawalli to apply for the enrolment of a waqf or to supply any information regarding a waqf, or may himself collect such information, and may cause any waqf to be enrolled, or may at any time amend the register of waqfs."
+    },
+    {
+      "provision_ref": "sec52",
+      "chapter": "Chapter IV: ENROLMENT OF WAQFS",
+      "section": "52",
+      "title": "52. Decision if a property is waqf property",
+      "content": "50. Any question whether a particular property is waqf property or not shall be decided by the Administrator:\nProvided that the mutawalli or any person aggrieved by any decision or order of the Administrator in this behalf may, within three months from the date of such decision or order, submit a petition to the District Judge in accordance with the provision of sub section (1) of section 35; and if such a petition is filed, the provisions of section 35 shall apply."
+    },
+    {
+      "provision_ref": "sec53",
+      "chapter": "Chapter IV: ENROLMENT OF WAQFS",
+      "section": "53",
+      "title": "53. Notification of changes in enrolled waqfs",
+      "content": "51. (1) In the case of any change in the management of an enrolled waqf due to the death, retirement or removal of the mutawalli, the prospective mutawalli who is eligible or who considers himself to be eligible to succeed to the office of mutawalli in terms of the waqf deed or according to the custom or usage of the waqf, shall forthwith, and any other person may, notify the change to the Administrator.\n(2) In the case of any other change in any of the particulars mentioned in section 47, the mutawalli shall, within six months from the occurrence of the change, notify such change to the Administrator."
+    },
+    {
+      "provision_ref": "sec54",
+      "chapter": "Chapter V: WAQFS ACCOUNTS",
+      "section": "54",
+      "title": "54. Submission of accounts of waqfs",
+      "content": "52. (a) Before the fifteenth day of September next following the date on which the application referred to in section 47 has been made and thereafter before the fifteenth day of July in every year, every mutawalli of a waqf shall prepare and furnish to the Administrator a full and true statement of accounts, in such form and language and containing such particulars as may be prescribed by the Administrator, of all moneys received or expended by the mutawalli on behalf of the waqf during the period of twelve months ending on the thirtieth day of June or on the last day of the Bengali year, or, as the case may be, during that portion of the said period during which the provisions of this Ordinance have been applicable to the waqf.\n(b) Such statement shall also contain the following particulars-\n(i) any change which may have taken place since the application for enrolment or since the submission of the last annual statement, as the case may be, in the extent, nature or quality of the waqf properties including transfer, acquisition or transaction affecting such properties;\n(ii) the amount of the liabilities, if any, of the waqf on account of outgoings such as rent, rates, taxes, salaries and allowances and on account of all other matters; and\n(iii) any other particulars which the Administrator may require.\n(c) In the case of a Receiver appointed by any Court in any suit or proceeding in respect of a waqf property he shall submit a statement of accounts to the Administrator under the provisions of this section in addition to the statements that may be submitted by him to the Court."
+    },
+    {
+      "provision_ref": "sec55",
+      "chapter": "Chapter V: WAQFS ACCOUNTS",
+      "section": "55",
+      "title": "55. Audit of accounts of waqfs",
+      "content": "53. (1) The accounts of waqfs submitted to the Administrator under section 52 shall be audited and examined annually or at such other intervals as the Administrator may determine by an auditor appointed by the Administrator.\n(2) The auditor may, by written notice, require the production before him of any document, or require the attendance before him of any person responsible for the preparation of the account, to enable the auditor to obtain such information as he may consider necessary for the proper conduct of his audit.\n(3) After completing the audit, the auditor shall submit a report to the Administrator:\nProvided that the auditor may submit an interim report at any time if he thinks fit.\n(4) The report of the auditor shall, among other things, specify the cases of irregular, illegal or improper expenditure or of failure to recover money or other property lost by neglect or misconduct, loss of any property or money, and any other matter which the auditor considers it necessary to report. The report shall also contain the name of any person who, in the opinion of the auditor, is responsible for such expenditure or failure and the auditor shall, in every case, certify the amount of such expenditure or loss as due from such person.\n(5) The cost of the audit of the accounts of a waqf including the travelling allowance of the auditor shall be paid from the Waqf Fund.\nExplanation.- For the purposes of this section and sections 54 and 55, an “auditor” shall include an Inspector and any other person or officer authorised by the Administrator to audit and examine the accounts of a waqf."
+    },
+    {
+      "provision_ref": "sec56",
+      "chapter": "Chapter V: WAQFS ACCOUNTS",
+      "section": "56",
+      "title": "56. Administrator to pass orders on auditor's report",
+      "content": "54. The Administrator shall examine the auditor's report and may call for the explanation of any person in regard to any matter mentioned therein, and shall pass such orders on the report as he thinks fit."
+    },
+    {
+      "provision_ref": "sec57",
+      "chapter": "Chapter V: WAQFS ACCOUNTS",
+      "section": "57",
+      "title": "57. Sums certified due recoverable as public demand",
+      "content": "55. (1) Every sum certified to be due from any person by an auditor in his report under section 53, unless such certificate is modified or cancelled by the Administrator by an order made under section 54, and every sum due on a modified certificate shall be paid by such person within sixty days after the service of a demand for the same issued by the Administrator.\n(2) If such payment is not made in accordance with the provisions of sub section (1), the sum payable shall be recoverable as a public demand under the [* * *] Public Demands Recovery Act, 1913."
+    },
+    {
+      "provision_ref": "sec58",
+      "chapter": "Chapter VI: TRANSFER OF WAQF PROPERTIES",
+      "section": "58",
+      "title": "58. Bar to transfer of immovable property of a waqf",
+      "content": "56. (1) No transfer by a mutawalli of any immovable property of a waqf by way of sale, gift, mortgage or exchange, or by way of lease for a term exceeding 5 years shall be valid without the previous sanction of the Administrator:\nProvided that the sanction by the Administrator shall not validate any transfer which is in contravention of any other law for the time being in force or is otherwise invalid.\n(2) No Court shall grant permission to any Receiver appointed by the Court for the transfer of any waqf property unless the prior sanction of the Administrator has been obtained.\n(3) In the absence of the sanction required by sub-section (1), any transfer made by a mutawalli shall be declared void, if the Administrator, within 4 months of his coming to know of such transfer, or within 3 years from the date of such transfer, whichever is later, applies to the Civil Court in this behalf.\n(4) Where a mutawalli transfers a waqf property in contravention of sub section (1) and afterwards himself becomes the owner of the property, the mutawalli shall, on the direction of the Administrator, re convey the property to the waqf.\n(5) Any transfer made in contravention of the provisions of sub section (1) shall be deemed to be an act of malfeasance and breach of trust for the purpose of sub-section (1) of section 32."
+    },
+    {
+      "provision_ref": "sec59",
+      "chapter": "Chapter VI: TRANSFER OF WAQF PROPERTIES",
+      "section": "59",
+      "title": "59. Power of Administrator to grant sanction to transfer",
+      "content": "57. A mutawalli or a Receiver may apply to the Administrator for sanction to transfer waqf property under sub section (1) of section 56, and the Administrator, after making such enquiry and giving notice to such persons in such manner as he thinks fit and hearing them, if they desire to be heard, may accord sanction to such transfer on such terms and conditions as he may, in his discretion, impose:\nProvided that where such transfer is to be made under an express power conferred by the waqf deed, the Administrator shall not refuse to accord sanction."
+    },
+    {
+      "provision_ref": "sec60",
+      "chapter": "Chapter VI: TRANSFER OF WAQF PROPERTIES",
+      "section": "60",
+      "title": "60. Sub-registrar not to register deeds.",
+      "content": "[57A. (1) Notwithstanding anything contained to the contrary in the Registration Act, 1908 (Act No. XVI of 1908), no Sub-registrar shall register any deed of transfer of any immovable property belonging to a waqf, without the previous sanction of the Administrator or the Government, as the case may be.\n(2) If a Sub-registrar, knowingly and intentionally, registers a deed in violation of the prohibition under sub-section (1), he shall be liable for commission of the offence of abetment of criminal breach of trust.]"
+    },
+    {
+      "provision_ref": "sec61",
+      "chapter": "Chapter VI: TRANSFER OF WAQF PROPERTIES",
+      "section": "61",
+      "title": "61. Bar to any debt, compromise and other transactions by mutawalli",
+      "content": "58. (1) No debt incurred by a mutawalli shall be binding on a waqf property unless it is for the benefit of the waqf and previous written permission has been obtained from the Administrator authorising the incurring of such debt.\n(2) No mutawalli shall compromise, compound, abandon, submit to arbitration or otherwise settle any debt, account or claim relating to a waqf or for any of these purposes enter into and execute any agreement or instrument of compromise or arrangement, without the previous permission of the Administrator."
+    },
+    {
+      "provision_ref": "sec62",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "62",
+      "title": "62. Matawalli to convert property and invest money in certain cases",
+      "content": "59. Every mutawalli, unless there is anything to the contrary in the waqf deed, shall invest, in such manner as may be approved by the Administrator, any of the waqf property which consists of money which cannot be applied immediately or at an early date to the purpose of the waqf and shall, with the sanction of the Administrator, convert any of the waqf property which is of wasting nature and invest the proceeds in such manner as may be approved by the Administrator."
+    },
+    {
+      "provision_ref": "sec63",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "63",
+      "title": "63. Mutawalli entitled to pay certain costs from waqf property fund",
+      "content": "60. Notwithstanding anything contained in the waqf-deed, every mutawalli may pay from the income of the waqf property any expenses properly incurred by him for the purpose of enabling him to furnish any particulars, documents or copies under section 47, or any accounts under section 52, or any information or documents required by the Administrator or a person authorised by the Administrator, and for the preservation or benefit of the waqf property."
+    },
+    {
+      "provision_ref": "sec64",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "64",
+      "title": "64. Penalties",
+      "content": "61. (1) If a mutawalli fails-\n(a) to apply for enrolment; or\n(b) to maintain clear and accurate accounts and furnish statements of particulars or of accounts or returns as required by this Ordinance; or\n(c) to supply information or particulars as required by the Administrator or a person authorised by him; or\n(d) to allow inspection of waqf properties accounts, or records, or deeds and documents relating thereto, or assist enquiries and investigations, if called upon to do so by the Administrator or a person authorised by him; or\n(e) to deliver possession of any waqf property if ordered by the Administrator or the Court; or\n(f ) to carry out the directions of the Administrator or a person authorised by him; or\n(g) to pay the contribution payable under section 71; or\n(h) to pay the dues of any individual beneficiary of a waqf payable to him in terms of the waqf-deed; or\n(i) to furnish accounts and other full and accurate information as to the position and affairs of the waqf to the beneficiary or any person interested in a waqf in terms of the waqf-deed; or\n( j) to pay towards and look after, the proper maintenance and preservation of any mosque or other religious, charitable and educational institution or establishment, in terms of the waqf deed; or\n(k) to discharge any public dues; or\n(l) to co operate with the Committee and carry out its directions in the performance of its functions; or\n(m) to protect title to the waqf property and look after its preservation and safety; or\n(n) to do any other act which he is lawfully required to do by or under this Ordinance; he shall, unless he satisfies the Court that there was reasonable cause for his failure, be punishable with fine which may extend to [twenty thousand] taka and, in default with simple imprisonment which may extend to six months:\nProvided that when a mutawalli has been prosecuted for failure to pay the contribution payable under section 71 of this Ordinance, the amount of fine shall not be less than double the amount of the contribution due and unpaid, subject to the maximum of [twenty thousand] taka.\n(2) If a mutawalli furnishes any statement, return or information referred to in clause (b) or clause (c) of sub-section (1) which he knows or has reason to believe to be false, misleading, inaccurate or untrue in any material particular, he shall be punishable with fine which may extend to [twenty thousand] taka and in default with simple imprisonment which may extend to six months.\n(3) The fine imposed by the Court under sub section (1) or (2) and under section 63 shall, if realised, be paid and credited to the Waqf Fund."
+    },
+    {
+      "provision_ref": "sec65",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "65",
+      "title": "65. Purchase of property by mutawalli under certain conditions to be act of malfeasance and directions upon him to reconvey the same",
+      "content": "62. If a mutawalli intentionally and dishonestly allows a waqf property to be sold for arrears of rent, rates or taxes, and purchases the said property in the name of himself or any other person, such a purchase by the mutawalli shall be deemed to be an act of malfeasance and breach of trust for the purpose of sub section (1) of section 32; and the Administrator shall issue directions upon him to re-convey the property to the waqf or adequately compensate the waqf within the specified date."
+    },
+    {
+      "provision_ref": "sec66",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "66",
+      "title": "66. Penalties against outgoing mutawallis",
+      "content": "63. If an outgoing mutawalli fails or refuses to make over charge of management of the waqf, and of the accounts, documents, records, papers and cash of the waqf and to surrender possession of the property and produce of the land, if any, to the succeeding mutawalli, on being required to do so under any of the provisions of this Ordinance, he shall be punishable with fine which may extend to [twenty thousand] taka and in default with imprisonment which may extend to six months."
+    },
+    {
+      "provision_ref": "sec67",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "67",
+      "title": "67. Action against trespassers and miscreants",
+      "content": "64. (1) If a co sharer in a waqf property or an individual beneficiary or any other person interested in a waqf, or a stranger, creates disturbances or obstruction in the peaceful management of the waqf or any institution attached thereto in any way, or disturbs the possession of a waqf property by the mutawalli or any person or a managing committee appointed by the Administrator for managing the said property, or commits trespass on any such property, the Administrator shall apply to the Deputy Commissioner, who shall evict the trespasser, or take such steps for preventing such disturbance or obstruction as he deems fit.\n(2) Any person evicted by the Deputy Commissioner under sub section (1) may, within three months from the date of his eviction, appeal to the District Judge against such order of eviction; and the decision of the District Judge on such appeal shall be final."
+    },
+    {
+      "provision_ref": "sec68",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "68",
+      "title": "68. Resignation, retirement or discharge of a mutawalli",
+      "content": "65. (1) A mutawalli shall not resign or retire from his service except with the permission of the Administrator.\n(2) If a mutawalli proposes to retire or tenders resignation or applies for discharge from the office of the mutawalli, he shall not be permitted to retire or his resignation shall not be accepted and he shall not be discharged unless he has submitted the statement of accounts up to the date of his retirement, resignation or discharge and the same has been audited and unless he has paid the contribution payable under section 71 up to the said date."
+    },
+    {
+      "provision_ref": "sec69",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "69",
+      "title": "69. Mutawalli cannot delegate except with the permission of the Administrator",
+      "content": "66. A mutawalli shall not delegate his office or any of his duties to any one except with the permission of the Administrator:\nProvided that the appointment of an attorney or proxy to do an act merely ministerial and involving no independent discretion shall not be a delegation within the meaning of this section."
+    },
+    {
+      "provision_ref": "sec70",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "70",
+      "title": "70. Co mutawallis cannot act singly",
+      "content": "67. Where there are more than one mutawallis to a waqf, all of them shall act jointly in the exercise of their functions and performance of their duties unless the waqf deed otherwise provides."
+    },
+    {
+      "provision_ref": "sec71",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "71",
+      "title": "71. Control of discretionary power",
+      "content": "68. Where a discretionary power conferred on a mutawalli is not exercised reasonably and in good faith such power may be revoked by the Administrator."
+    },
+    {
+      "provision_ref": "sec72",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "72",
+      "title": "72. Remuneration of mutawalli",
+      "content": "69. Where no remuneration has been provided by a waqf deed for the office of mutawalli, or where the amount provided is inadequate, the Administrator may, on the application of the mutawalli, fix a sum not exceeding one tenth of the net available income of the waqf as his remuneration."
+    },
+    {
+      "provision_ref": "sec73",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "73",
+      "title": "73. Redetermination of monetary amounts.",
+      "content": "[69A. (1) If the waqif in his waqf deed directs for payment, out of income of the waqf estate or waqf property, of any amount of money on monthly or yearly basis, the mutawalli or beneficiary of any waqf estate or waqf property may every after ten years, apply to the Administrator for re-determination of the amount mentioned in the waqf deed.\n(2) The Administrator shall, upon application made under sub-section (1), if he considers the application reasonable and appropriate, re-determine the amount so as to make that consistent with prevalent market price.]"
+    },
+    {
+      "provision_ref": "sec74",
+      "chapter": "Chapter VII: MUTAWALLIS",
+      "section": "74",
+      "title": "74. Fixation of Imam's pay and his appointment and removal by Administrator",
+      "content": "70. (1) The Administrator may, by a general or special order, fix the minimum qualification and remuneration of the Imam of a mosque under the waqf; and every mutawalli or any person or a managing committee appointed by the Administrator to manage the waqf property, shall abide by his directions in this behalf.\n(2) The Administrator may, if he considers it necessary, himself appoint the Imam of a mosque under the waqf by removing an existing Imam if he is considered unfit, unqualified or unsuitable."
+    },
+    {
+      "provision_ref": "sec75",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "75",
+      "title": "75. Annual contributions payable to the office of the Administrator",
+      "content": "71. (1) The mutawalli of every waqf shall pay annually to the office of the Administrator contribution at the rate of five per cent of the net available income of the waqf.\n(2) The Administrator may, in the case of any particular waqf and in the interest thereof, reduce or remit any such contribution for such time as it thinks fit if the income of the waqf concerned so deteriorates for any reason as would justify such reduction or remission.\n(3) Subject to any provisions in the waqf deed, the mutawalli may realise the contributions payable by him under sub section (1) from the various persons entitled to receive any pecuniary or other material benefits from the waqf, but the sum realisable from any one of such persons shall not exceed such amount as shall bear to the total contribution payable, the same proportion as the value of benefits receivable by such person bears to the entire net available income of the waqf:\nProvided that, if there is any income of the waqf available in excess of the amount payable as dues under this Ordinance, other than as the contribution, and in excess of the amount payable under the waqf deed, the contribution shall be paid out of such income.\n(4) The contribution payable under sub section (1) in respect of a waqf shall, subject to the prior payment of any dues to the Government or to any local authority, and of any other statutory first charge on the waqf property or the income thereof, be a first charge on the income of the waqf and shall be recoverable as a public demand, under the [* * *] Public Demands Recovery Act, 1913.\n(5) If a mutawalli realises the income of the waqf and refuses to pay or does not pay such contribution, he shall also be personally liable for such contribution which may be realised from his person or property in the manner aforesaid.\n(6) Where a mutawalli dies or retires without paying the arrears of contribution due, the next succeeding mutawalli shall be liable to pay such arrears out of the income of the waqf.\n(7) All mosques which have no landed property for their maintenance or which have such property with an income of less than Tk. [10,000] per annum, shall be exempted from the levy of any contribution under sub section (1)."
+    },
+    {
+      "provision_ref": "sec76",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "76",
+      "title": "76. Administrator may borrow money",
+      "content": "72. (1) The Administrator, with the previous sanction of the Government, may, for the purpose of giving effect to the provisions of this Ordinance, borrow such sums of money and on such terms and conditions as the Government may fix; and the Administrator shall repay the money borrowed, together with any interest or costs due in respect thereof, according to the terms and conditions of the loan.\n(2) The Administrator shall not borrow money upon the security of the Waqf Fund."
+    },
+    {
+      "provision_ref": "sec77",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "77",
+      "title": "77. Waqf Fund",
+      "content": "73. (1) All monies received by the Administrator in respect of properties under his control and management and for the purposes of this Ordinance and all other monies realised under this Ordinance shall form a fund to be called the “Waqf Fund”.\n(2) The Government may make rules regulating the payment of monies into the Waqf Fund, the investment by the Administrator of monies received into that fund and the custody and disbursement of such monies.\n(3) The Waqf Fund shall, subject to the provisions of sub section (2), be under the control of the Administrator."
+    },
+    {
+      "provision_ref": "sec78",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "78",
+      "title": "78. Application of Waqf Fund",
+      "content": "74. (1) The Waqf Fund shall be applied to-\n(a) payment of the cost of survey of waqf properties under section 6;\n(b) repayment of any loan incurred under section 72 and payment of interest thereon;\n(c) payment of cost of audit of the Waqf Fund;\n(d) payment of the salaries and allowances of the Administrator, Deputy Administrator and Assistant Administrator;\n(e) payment of the salaries and allowances of the officers and servants appointed by the Administrator under section 17;\n(f ) payment of travelling allowances to the Administrator, Deputy Administrator, Assistant Administrator, other officers and servants of the office of the Administrator and to the members of the Committee;\n(g) payment of the cost of the establishment employed by the Administrator;\n(h) payment of all expenses incurred by the Administrator in the performance of the duties imposed and the exercise of the powers conferred by this Ordinance; and\n(i) payment for the reconstruction and repairs of mosques.\n(2) If any balance remains after meeting the expenditure referred to in sub section (1), the Administrator may use any portion of such balance of the fund for the improvement, preservation and protection of waqf property and also other religious and charitable works consistent with the purposes of the waqf.\n(3) (a) All monies received by the Administrator under the provisions of section 85 shall be invested by the Administrator in the purchase of house properties, lands and other properties for the waqf; and\n(b) If such purchase cannot be readily effected, such monies shall be invested in such Government or other approved securities as the Administrator thinks fit until such monies can be applied in the purchase of properties as aforesaid; and the Administrator shall direct the payment of the interest or other proceeds arising from such investment to persons interested in the waqf in fulfilment of the objects specified in the waqf deed."
+    },
+    {
+      "provision_ref": "sec79",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "79",
+      "title": "79. Accounts of Waqf Fund",
+      "content": "75. The Administrator shall keep such accounts of the receipts and disbursements of the Waqf Fund as may be prescribed by the rules and shall submit the same for examination from time to time by auditors."
+    },
+    {
+      "provision_ref": "sec80",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "80",
+      "title": "80. Audit of accounts of Waqf Fund",
+      "content": "76. (1) The Accounts of the Waqf Fund shall be audited and examined annually by such auditor as may be appointed by the Government.\n(2) The auditor may, by written notice, require the production before him of any document, or require the attendance before him of any person responsible for the preparation of the account, to enable the auditor to obtain such information as he may consider necessary for the proper conduct of his audit.\n(3) After completing the audit, the auditor shall submit a report to the Government:\nProvided that the auditor may submit an interim report at any time if he thinks fit.\n(4) The report of the auditor shall, among other things, specify all cases of irregular, illegal or improper expenditure or of failure to recover monies or other property due or of loss or waste of money or other property caused by neglect or misconduct and any other matter which the auditor considers it necessary to report. The report shall also contain the name of any person who, in the opinion of the auditor, is responsible for such expenditure or failure, and the auditor shall, in every such case, certify the amount of such expenditure or loss as due from such person."
+    },
+    {
+      "provision_ref": "sec81",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "81",
+      "title": "81. Government to pass orders on auditor's report",
+      "content": "77. The Government shall examine the auditor's report and may call for the explanation of any person in regard to any matter therein, and shall pass such orders on the report as it thinks fit."
+    },
+    {
+      "provision_ref": "sec82",
+      "chapter": "Chapter VIII: FINANCE",
+      "section": "82",
+      "title": "82. Sums certified due recoverable as public demand",
+      "content": "78. (1) Every sum certified to be due from any person by an auditor in his report under section 76, unless such certificate is modified or cancelled by the Government by an order made under section 77, and every sum due on a modified certificate, shall be paid by such person within sixty days after the service of a demand for the same issued by the Government.\n(2) If such payment is not made in accordance with the provisions of sub section (1), the sum payable shall be recoverable as a public demand under the [* * *] Public Demands Recovery Act, 1913."
+    },
+    {
+      "provision_ref": "sec83",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "83",
+      "title": "83. Deposits of decretal amount in Court in certain waqf cases",
+      "content": "79. Where a decree for rent or any other relief claimed under or on behalf of a waqf is passed or such decree is executed by any Court, the decretal amount, if any, shall, unless an application for enrolment of the waqf has been made under section 47, be paid into the Court passing or executing the decree, as the case may be, and shall be kept in deposit by the Court until an application for enrolment of the waqf has been made under section 47 or the waqf has been exempted under section 5."
+    },
+    {
+      "provision_ref": "sec84",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "84",
+      "title": "84. Bar to compromise of suits, etc., without sanction of the Administrator",
+      "content": "80. No suit, proceeding or appeal by or against a mutawalli as such in any Court shall be compromised without the prior approval of the Administrator and the sanction of the trying Court."
+    },
+    {
+      "provision_ref": "sec85",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "85",
+      "title": "85. Notice of suits, etc., to be given to the Administrator",
+      "content": "81. (1) In every suit or proceeding in respect of any waqf property, or of a mutawalli as such, except a suit or proceeding for the recovery of rent by or on behalf of a mutawalli, the Court in which, or the Deputy Commissioner or other authority before whom, such suit or proceeding is instituted, shall issue notice to the Administrator along with a copy of the plaint or application, as the case may be, at the cost of the party instituting such suit or proceeding.\n(2) Before any waqf property is notified for sale in execution of a decree or order for the recovery of any dues other than a public demand under the [* * *] Public Demands Recovery Act, 1913, notice shall be given to the Administrator by the Court or other authority concerned under whose decree or order the sale is notified.\n(3) In the absence of a notice under sub section (1) any decree or order passed in the suit or proceeding shall be declared void irrespective of the description of the property as waqf property or otherwise in such suit or proceeding, if the Administrator, within four months of his coming to know of such suit or proceeding, applies in this behalf to the Court, Deputy Commissioner or other Authority concerned.\n(4) In the absence of a notice under sub section (2) the sale shall be declared void, irrespective of the description of the property as waqf property or otherwise in the proceedings for sale, if the Administrator, within four months of his coming to know of the sale, applies in this behalf to the Court or other authority under whose order the sale was held."
+    },
+    {
+      "provision_ref": "sec86",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "86",
+      "title": "86. Administrator may be made a party to a suit or proceeding regarding a waqf on his application",
+      "content": "82. In any suit or proceeding in respect of a waqf or any waqf property, whether instituted or preferred before or after the commencement of this Ordinance, the Administrator may intervene and shall, on his application, be added as a party and shall be entitled to conduct or defend such suit or proceeding on behalf of and in the interest of the waqf."
+    },
+    {
+      "provision_ref": "sec87",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "87",
+      "title": "87. Administrator may institute suit or proceeding regarding a waqf",
+      "content": "83. If there is no mutawalli or the mutawalli refuses or neglects to act in the matter, within a reasonable time, the Administrator may, in his own name, institute a suit or proceeding in a Court against a stranger to the waqf or any other person-\n(a) for the establishment of right, title and interest in a waqf property, or\n(b) for confirmation of possession in a waqf property, or\n(c) for the recovery of any waqf property wrongfully possessed, alienated or leased, or\n(d) for having any waqf property discharged of an encumbrance or obligation wrongfully created, or\n(e) for the recovery of any money belonging to waqf, or\n(f) for any other relief in the interest of a waqf he may consider necessary."
+    },
+    {
+      "provision_ref": "sec88",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "88",
+      "title": "88. Breach of trust by a beneficiary",
+      "content": "84. Where one of several beneficiaries-\n(a) joins with the mutawalli in committing a breach of trust, or\n(b) knowingly gains any advantage therefrom without the consent of the other beneficiaries, or\n(c) becomes aware of a breach of trust committed or intended to be committed and either actually conceals it or does not, within a reasonable time, take proper steps to protect the interest of the other beneficiaries, or\n(d) has deceived the mutawalli and thereby induced him to commit a breach of trust,\nhe shall be liable to compensate the other beneficiaries for any loss caused to them by such breach."
+    },
+    {
+      "provision_ref": "sec89",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "89",
+      "title": "89. Compensation for acquisition of waqf property to be paid to the Administrator",
+      "content": "85. Where any waqf property is acquired under the [ Acquisition and Requisition of Immovable Property Ordinance, 1982 (Ord. No. II of 1982)], or any other law for the time being in force, the compensation money payable for such property shall be paid to the Administrator and shall be kept in deposit in the Waqf Fund till it is invested for the purposes stated in sub section (3) of section 74."
+    },
+    {
+      "provision_ref": "sec90",
+      "chapter": "Chapter IX: JUDICIAL PROCEEDINGS",
+      "section": "90",
+      "title": "90. Cost in suits or proceedings",
+      "content": "86. All costs and expenses incurred by the Administrator in connection with any suit or proceedings in respect of any waqf or any waqf property to which the Administrator is a party and all costs decreed against the Administrator by the Court, shall be payable out of the funds of such waqf."
+    },
+    {
+      "provision_ref": "sec91",
+      "chapter": "Chapter X: AMENDMENT AND REPEAL",
+      "section": "91",
+      "title": "91. 87 to 94. [Repealed by the East Pakistan Repealing and Amending Ordinance, 1966 (East Pakistan Ordinance No. XIII of 1966)].",
+      "content": "[Sections 87 to 94 were repealed by the Second Schedule of the East Pakistan Laws Repealing and Amending Ordinance, 1966 (East Pakistan Ordinance No. XIII of 1966).]"
+    },
+    {
+      "provision_ref": "sec92",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "92",
+      "title": "92. Certain functions under East Bengal Act XXVIII of 1951 to be performed by the Administrator",
+      "content": "95. Notwithstanding anything contained in sections 58 and 59 of the [* * *] State Acquisition and Tenancy Act, 1950, the functions of the Commissioner of Waqfs under sub section (4) of section 58 and sub section (4) of section 59 of that Act and the functions of the Deputy Commissioner under sub section (3) of section 58 and sub-sections (1), (2) and (3) of section 59 of that Act, in respect of compensation for waqfs al al aulad properties, shall, with effect from the date of coming into force of this Ordinance, be performed by the Administrator; and the cost referred to in sub section (3) of section 59 of that Act, shall be met from the Waqf Fund."
+    },
+    {
+      "provision_ref": "sec93",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "93",
+      "title": "93. Method of recovery of sums realisable as public demand",
+      "content": "96. (1) Any sum of money payable by a mutawalli from the funds of a waqf to the Administrator under this Ordinance including any damage chargeable thereon and costs, if any, incurred, shall be recoverable as a public demand.\n(2) The Administrator shall forward to the Deputy Commissioner a requisition in the form prescribed under the [* * *] Public Demands Recovery Act, 1913, under his signature specifying the sum recoverable under this Ordinance as a public demand, and the Deputy Commissioner, on receipt of such requisition, shall proceed to recover the sum under the [* * *] Public Demands Recovery Act, 1913."
+    },
+    {
+      "provision_ref": "sec94",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "94",
+      "title": "94. Administrator and every officer and servant to maintain secrecy about particulars of waqfs",
+      "content": "97. Subject to the provisions of this Ordinance, the Administrator and every officer and servant of his office shall maintain secrecy about the particulars and all other information relating to a waqf which comes into his possession in his capacity as Administrator or as an officer or servant of his office."
+    },
+    {
+      "provision_ref": "sec95",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "95",
+      "title": "95. Administrator, Auditor, etc., to be deemed public servants",
+      "content": "98. The Administrator, Deputy Administrator, Assistant Administrator, Inspector, Auditor and any other person appointed or authorised by the Administrator to do any act by or under this Ordinance shall be deemed to be a public servant within the meaning of section 21 of the [* * *] Penal Code, 1860 ."
+    },
+    {
+      "provision_ref": "sec96",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "96",
+      "title": "96. Service of notice or requisition",
+      "content": "99. A notice or requisition under this Ordinance may be served on the persons named in the notice or requisition either by post or as a summons issued by a Court under the Code of Civil Procedure, 1908 , or in such manner as may be prescribed by the rules."
+    },
+    {
+      "provision_ref": "sec97",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "97",
+      "title": "97. Attendance before Administrator may be either in person or by an agent",
+      "content": "100. Any mutawalli or other person who is entitled to attend before the Administrator or any other officer subordinate to him in connection with any proceedings under this Ordinance may, with the permission of the Administrator or such other officer, as the case may be, attend either in person or through any person authorised by him in writing in that behalf."
+    },
+    {
+      "provision_ref": "sec98",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "98",
+      "title": "98. Trial of offences",
+      "content": "101. No Court inferior to that of a Magistrate of the First Class shall try any offence punishable under this Ordinance."
+    },
+    {
+      "provision_ref": "sec99",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "99",
+      "title": "99. Bar to suits",
+      "content": "102. Except as otherwise expressly provided in this Ordinance, no decision or order of the Administrator shall be questioned in any suit or other proceeding in any Court."
+    },
+    {
+      "provision_ref": "sec100",
+      "chapter": "Chapter XI: MISCELLANEOUS",
+      "section": "100",
+      "title": "100. Effect of orders, etc., inconsistent with this Ordinance",
+      "content": "103. Except as otherwise expressly provided in this Ordinance, every order made and every action taken under this Ordinance shall have effect notwithstanding anything inconsistent therewith contained in any document, decree or order of any Court, deed, enactment or any instrument having effect by virtue of any such enactment other than this Ordinance."
+    },
+    {
+      "provision_ref": "sec101",
+      "chapter": "Chapter XII: RULES AND BY LAWS",
+      "section": "101",
+      "title": "101. Power to Government to make rules",
+      "content": "104. (1) The Government may make rules for carrying out the purposes of this Ordinance.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-\n(a) the exemptions of waqfs under section 4;\n(b) the manner in which the net available income of a waqf shall be determined;\n(c) the delegation of powers by the Administrator to Commissioners of Divisions, to Deputy Commissioners and to other persons;\n(d) the preparation of schemes for administration of waqf property;\n(e) the budgets, reports, accounts, returns or other information to be submitted by the Administrator;\n(f) the appointment and remuneration of auditors for auditing the accounts of the Waqf Fund;\n(g) the manner in which the accounts of the Waqf Fund shall be kept, audited and published and the form and contents of the auditors report;\n(h) the payment of monies into the Waqf Fund and the investment, custody and disbursement of such monies;\n(i) the regulation of functions of the Administrator and of the Committee referred to in sections 27 and 28;\n( j) the preparation of schemes of management and the allocation of incomes of shrines and dargahs and other religious institutions taken over by the Administrator under section 34; and\n(k) the services of notices and requisitions under section 99.\n(3) All rules made under this section shall be published in the official Gazette."
+    },
+    {
+      "provision_ref": "sec102",
+      "chapter": "Chapter XII: RULES AND BY LAWS",
+      "section": "102",
+      "title": "102. Power to the Administrator to make by laws",
+      "content": "105. (1) The administrator may, with previous sanction of the Government from time to time, make by laws as to-\n(a) the time and place of meetings of the Committee;\n(b) the business to be transacted at meetings;\n(c) the period of notice of meetings and the manner in which such notice shall be given;\n(d) the procedure and conduct of business at meetings;\n(e) the books to be kept at the office of the Administrator;\n(f ) the manner in which the accounts of waqfs shall be kept and audited, the time and place of audit of accounts of waqfs and the form and contents of the auditor's report;\n(g) the fees for inspection of proceedings and records of the Administrator and for copies of the same under section 45;\n(h) the form of application for enrolment, the particulars to be contained therein, and the manner and place of enrolment of waqfs under section 47;\n(i) the further particulars to be contained in the register of waqfs maintained under section 48; and\n( j) the form of, and the further particulars to be contained in, the statement of accounts under section 52.\n(2) All by laws made under this section shall be published in the official Gazette."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Administrator",
+      "definition": "the Administrator of Waqfs appointed under section 7",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "beneficiary",
+      "definition": "any person entitled to receive any pecuniary or other material benefits from a waqf and includes any institution, such as mosque, shrine, dargah, khanquah, school, madrasah, idgah or graveyard entitled to receive any such benefits",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the Waqfs Committee established under section 19",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "enrolment",
+      "definition": "the enrolment of a waqf under section 47",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "mutawalli",
+      "definition": "any person appointed either orally or under any deed or instrument by which a waqf has been created or by a competent authority to be the mutawalli of a waqf, and includes a naib mutawalli, any other person appointed or entrusted by a mutawalli to perform the duties of a mutawalli, the guardian of a mutawalli who is a minor or of unsound mind and any person or committee for the time being managing or administering any waqf property as such.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "stranger to waqf",
+      "definition": "a person other than a person interested within the meaning of clause (8)",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "waqf",
+      "definition": "the permanent dedication by a person professing Islam of any movable or immovable property for any purpose recognised by Muslim Law as pious, religious or charitable, and includes any other endowment or grant for the aforesaid purposes, a waqf by user, and a waqf created by a non Muslim.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "waqf deed",
+      "definition": "any deed or instrument by which a waqf has been created and includes any valid subsequent deed or instrument by which any of the terms of the original dedication has been varied",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "waqf estate",
+      "definition": "the totality of immovable properties, as well as movable properties, in respect of which the waqf is made by a deed",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "waqif",
+      "definition": "any person creating a waqf.",
+      "source_provision": "sec2"
+    }
+  ]
+}

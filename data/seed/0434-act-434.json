@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-434",
+  "type": "statute",
+  "title": "The Appropriation Act, 1973",
+  "title_en": "The Appropriation Act, 1973",
+  "short_name": "Act 434",
+  "status": "in_force",
+  "issued_date": "1973-07-15",
+  "in_force_date": "1973-07-15",
+  "url": "http://bdlaws.minlaw.gov.bd/act-434.html",
+  "description": "An Act to authorise payment and appropriation of certain further sums from and out of the Consolidated Fund for the services of the financial year ending on the thirtieth day of June, 1974. WHEREAS it is expedient to authorise payment and appropriation of certain further sums from and out of the Consolidated Fund for the services of the financial year ending on the thirtieth day of June, 1974; It is hereby enacted...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Appropriation Act, 1973 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Issue of Taka 1043,54,59,000 out of the Consolidated Fund for the year 1973-74, in addition to the sum already authorised to be withdrawn for that year",
+      "content": "2. In addition to the sum of Taka ninety-four crores, eighty-six lakhs and seventy-eight thousand authorised to be withdrawn and appropriated under the Appropriation (Vote on Account) Act, 1973 (VII of 1973), there may be paid and applied from and out of the Consolidated Fund sums not exceeding those specified in column 3 of the Schedule amounting in the aggregate to the sum of taka one thousand forty-three crores, fifty-four lakhs and fifty-nine thousand towards defraying the several charges which will come in course of payment during the financial year ending on the thirtieth day of June, 1974, in respect of the services and purposes specified in column 2 of the Schedule."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Appropriation",
+      "content": "3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Act shall be appropriated for the services and purposes expressed in the Schedule in relation to the financial year ending on the thirtieth day of June, 1974."
+    }
+  ],
+  "definitions": []
+}

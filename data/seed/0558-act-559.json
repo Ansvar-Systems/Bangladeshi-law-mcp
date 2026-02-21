@@ -1,0 +1,63 @@
+{
+  "id": "bd-act-559",
+  "type": "statute",
+  "title": "The Bangladesh Public Service Commission Ordinance, 1977",
+  "title_en": "The Bangladesh Public Service Commission Ordinance, 1977",
+  "short_name": "Act 559",
+  "status": "repealed",
+  "issued_date": "1977-11-28",
+  "in_force_date": "1977-11-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-559.html",
+  "description": "An Ordinance to establish a Public Service Commission to replace the two Public Service Commissions established by the Public Service Commissions Ordinance, 1977. WHEREAS it is expedient to establish a Public Service Commission to replace the two public service commissions established by the Public Service Commissions Ordinance, 1977 (Ordinance No.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Bangladesh Public Service Commission Ordinance, 1977 .\n(2) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context, “Commission” means the Bangladesh Public Service Commission established under section 3."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Establishment of Bangladesh Public Service Commission",
+      "content": "3. (1) There shall be established a public service commission to be called the Bangladesh Public Service Commission.\n(2) The number of members of the Commission, including the Chairman, shall be not less than six nor more than fifteen."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Functions to be subject to the Ordinance, etc.",
+      "content": "4. The exercise of the functions of the Commission under clause (2) of Article 140 of the Constitution in respect of any matter referred to therein shall be subject to the provisions of this Ordinance, any regulation made under that article or any other law for the time being in force affecting such matter."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Exclusion from the purview of the Commission",
+      "content": "5. Notwithstanding anything contained in this Ordinance or in any other law for the time being in force, consultation with the Commission shall not be necessary-\n(a) in respect of any appointment to or any other matter relating to-\n(i) a post in a divisional office, a district office or a subordinate office to which appointment may be made by the head or other officer of that office;\n(ii) a civil service or a civil post which is, or is declared by Government to be, a lower subordinate service or, as the case may be, a lower subordinate post;\n(iii) any service or post appointment to which was excluded from the purview of any public service commission before the commencement of this Ordinance; and\n(iv) such other service or post as the President may, by notification in the official Gazette, specify in this behalf;\n(b) in respect of any ad hoc appointment, or of any matter relating to such appointment, made during the period from the 16th day of December, 1971, to the 8th day of April, 1972; or\n(c) in respect of appointment of such class of persons in the service of the Republic, or of any matter relating thereto, as the President may, by notification in the official Gazette, specify in this behalf.\nExplanation.-In this section, “divisional office”, “district office” and “subordinate office” means such office as the Government may, by order, declare to be such an office for the purpose of this Ordinance."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Power of review",
+      "content": "6. Notwithstanding anything contained in this Ordinance or in any other law for the time being in force, the President may review such test or examination conducted, or advice given, by any public service commission during the period from the 26th day of March, 1971, to the 8th day of April, 1972, and pass such orders in respect thereof as he could under any law in force immediately before the 16th day of December, 1972."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Repeal and savings",
+      "content": "7. (1) The Public Service Commissions Ordinance, 1977 (Ordinance No. VIII of 1977), hereinafter referred to as the said Ordinance, is hereby repealed.\n(2) Any matter pending immediately before the commencement of this Ordinance with or before the Public Service (First) Commission or the Public Service (Second) Commission established under the said Ordinance shall stand transferred to, and shall be deemed to be pending with or before, the Commission and shall be disposed of accordingly.\n(3) A member of the Public Service (First) Commission or the Public Service (Second) Commission established under the said Ordinance who was holding office immediately before the commencement of this Ordinance shall, after such commencement, hold office for the remainder of his term as a member of the Commission as if he were appointed as such member on the same terms and conditions as were applicable to him and shall accordingly exercise and perform the functions of such member."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commission",
+      "definition": "the Bangladesh Public Service Commission established under section 3.",
+      "source_provision": "sec2"
+    }
+  ]
+}

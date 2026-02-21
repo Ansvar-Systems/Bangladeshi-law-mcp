@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-509",
+  "type": "statute",
+  "title": "The Universities Laws Amendment Ordinance, 1975",
+  "title_en": "The Universities Laws Amendment Ordinance, 1975",
+  "short_name": "Act 509",
+  "status": "amended",
+  "issued_date": "1975-12-26",
+  "in_force_date": "1975-12-26",
+  "url": "http://bdlaws.minlaw.gov.bd/act-509.html",
+  "description": "An Ordinance to amend the laws relating to Universities. WHEREAS it is expedient to amend the laws relating to Universities for the purposes hereinafter appearing; NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and 8th November, 1975, and in exercise of all powers enabling him in that behalf, the President is pleased to make and promulgate the following Ordinance:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Universities Laws Amendment Ordinance, 1975 .\n(2) It shall be deemed to have come into force on the 16th day of December, 1972."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Amendment of the Universities laws",
+      "content": "2. The laws relating to the Universities specified in the Schedule shall be amended to the extent and in the manner specified in the fourth column thereof."
+    }
+  ],
+  "definitions": []
+}

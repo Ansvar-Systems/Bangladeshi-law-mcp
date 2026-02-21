@@ -1,0 +1,56 @@
+{
+  "id": "bd-act-244",
+  "type": "statute",
+  "title": "The Service Tenants (Protection) Act, 1952 (East Bengal Act)",
+  "title_en": "The Service Tenants (Protection) Act, 1952 (East Bengal Act)",
+  "short_name": "Act 244",
+  "status": "in_force",
+  "issued_date": "1952-11-05",
+  "in_force_date": "1952-11-05",
+  "url": "http://bdlaws.minlaw.gov.bd/act-244.html",
+  "description": "An Act to make provisions for the protection of service tenants from ejectment. WHEREAS it is expedient to make provisions for the protection of service tenants from ejectment; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the [* * *] Service Tenants (Protection) Act, 1952.\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) “Civil Court” means a Civil Court within the meaning of the [* * *] Civil Courts Act, 1887 and includes any Court exercising appellate or revisional jurisdiction over any such Court;\n(b) “service tenant” means a person who holds land under another person for agricultural or horticultural purpose or for the purpose of residence, free of rent, in consideration of some service to be rendered by him to that person, under the system usually known as Nankar, Chakran or the like."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Bar to suits and proceedings and abatement thereof",
+      "content": "3. Notwithstanding anything contained in any other law for the time being in force, no Civil Court shall, after the coming into force of this Act, entertain any application for execution of a decree for ejectment of a service tenant or other proceedings relating thereto, and such application or proceedings as also any suit for ejectment of such tenant, if pending before a Civil Court, shall not be further proceeded with and shall abate.\nExplanation.- For the purpose of this section, “suit” includes appeal."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Application of Chapter III of the E.B. Act XXVIII of 1951",
+      "content": "4. (1) The provisions of Chapter III of the [* * *] State Acquisition and Tenancy Act, 1950, shall, so far as may be, apply to the lands held by service tenants in respect of which suits and proceedings are barred under section 3.\n(2) For the purpose of sub-section (1), the expression “within six months from the date of commencement of this Act”, occurring in sub-section (1) of section 12 of the said Act, shall be deemed to have been substituted by the expression “within three months from the date of commencement of the [* * *] Service Tenants (Protection) Act, 1952”."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. [Omitted]",
+      "content": "5. [Repeal and saving.- Omitted by section 3 and the Second Schedule of the East Pakistan Repealing and Amending Ordinance, 1966 (East Pakistan Ordinance No. XIII of 1966).]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Civil Court",
+      "definition": "a Civil Court within the meaning of the [* * *] Civil Courts Act, 1887 and includes any Court exercising appellate or revisional jurisdiction over any such Court",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "service tenant",
+      "definition": "a person who holds land under another person for agricultural or horticultural purpose or for the purpose of residence, free of rent, in consideration of some service to be rendered by him to that person, under the system usually known as Nankar, Chakran or the like.",
+      "source_provision": "sec2"
+    }
+  ]
+}

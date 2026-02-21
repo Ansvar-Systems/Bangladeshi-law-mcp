@@ -1,0 +1,69 @@
+{
+  "id": "bd-act-514",
+  "type": "statute",
+  "title": "The Delimitation of Constituencies Ordinance, 1976",
+  "title_en": "The Delimitation of Constituencies Ordinance, 1976",
+  "short_name": "Act 514",
+  "status": "repealed",
+  "issued_date": "1976-03-05",
+  "in_force_date": "1976-03-05",
+  "url": "http://bdlaws.minlaw.gov.bd/act-514.html",
+  "description": "An Ordinance to provide for the delimitation of constituencies for elections to Parliament. WHEREAS it is expedient to provide for the delimitation of constituencies for elections to Parliament and for matters ancillary thereto; NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and the 8th November, 1975, and in exercise of all powers enabling him in that behalf, the President is pleased ...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Delimitation of Constituencies Ordinance, 1976 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context, “Commission” means the Election Commission within the meaning of the Constitution."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Procedure of the Commission",
+      "content": "3. Subject to the provisions of this Ordinance, the Commission shall regulate its own procedure."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Delegation of Powers",
+      "content": "4. The Commission may authorise its Chairman or any Election Commissioner or any of its officers to exercise and perform all or any of its powers and functions under this Ordinance."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Assistance to the Commission",
+      "content": "5. (1) The Commission may require any person or authority to perform such functions or render such assistance for the purposes of this Ordinance as it may direct.\n(2) All executive authorities of the Government shall assist the Commission in the performance of its functions and, for this purpose, the President may, after consultation with the Commission, issue such directions as he may consider necessary."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Delimitation of Constituencies, etc.",
+      "content": "6. (1) The Commission shall, for the purpose of elections to the seats in Parliament, divide the country into as many single territorial constituencies as the number of members to be elected under clause (2) of Article 65 of the Constitution.\n(2) The Constituencies shall be so delimited, having regard to administrative convenience, that each constituency is a compact area and in doing so due regard shall be had, as far as practicable, to the distribution of population as given in the latest census report.\n(3) The Commission shall, after making such enquiries and examining such records as it may deem necessary, publish in the official Gazette a preliminary list of territorial constituencies specifying the areas proposed to be included in each such constituency together with a notice inviting objections and suggestions within such period as may be specified in the notice.\n(4) The Commission shall, after hearing and considering the objections and suggestions, if any, received by it, make such amendments, alterations or modifications in the preliminary list published under sub-section (3) as it thinks fit and shall, also after correcting any errors arising from any accidental slip or omission, publish in the official Gazette the final list of territorial constituencies showing the areas included in each such constituency."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Proceedings of Commission not questionable",
+      "content": "7. The validity of the delimitation or formation of any constituency, or of any proceedings taken or anything done by or under the authority of the Commission, under this Ordinance shall not be called in question in or before any Court or other authority."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Fresh delimitation of constituencies",
+      "content": "[ 8. (1) The territorial constituencies shall be delimited afresh-\n(a) upon the completion of each census, for the purpose of general election to Parliament to be held following such census; and\n(b) unless otherwise directed by the Commission for reasons to be recorded in writing, before each general election to Parliament.\n[ (2) Notwithstanding anything contained in this Ordinance, the territorial constituencies published by the Commission in the Bangladesh Gazette, Extraordinary, dated Thursday, the 20th September, 1984, being Notification নং এফ ১(৩)/৮৪-নি-১,তারিখ ২০শে সেপ্টেম্বর, 1984 Bs shall be deemed to be the territorial constituencies delimited for the purpose of the general election to Parliament to be held next following the commencement of the Delimitation of the Constituencies (Amendment) Ordinance, 1990 (অধ্যাদেশ নং ২৭, ১৯৯০).\n(3) For removal of doubt, it is hereby declared that the territorial constituencies deemed to have been delimited under sub-section (2) shall consist of exactly the same territorial areas as were included in such constituencies at the time when the notification mentioned in sub-section (2) was published, notwithstanding any changes in the names or areas of any City Corporations, Zilas, Municipalities, Upazilas, Thanas, Unions, or Mouzas, as the case may be, included in such constituencies at that time, made by or under any law after the publication of the said notification, as if there were no such changes therein:\nProvided that the Commission may, if it deems fit, publish in the official Gazette the list of the territorial constituencies deemed to have been delimited under sub-section (2) describing the areas included in the said constituencies.]]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commission",
+      "definition": "the Election Commission within the meaning of the Constitution.",
+      "source_provision": "sec2"
+    }
+  ]
+}

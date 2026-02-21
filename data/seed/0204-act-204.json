@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-204",
+  "type": "statute",
+  "title": "The Standard Time (Interpretation of References) Ordinance, 1943",
+  "title_en": "The Standard Time (Interpretation of References) Ordinance, 1943",
+  "short_name": "Act 204",
+  "status": "in_force",
+  "issued_date": "1943-01-20",
+  "in_force_date": "1943-01-20",
+  "url": "http://bdlaws.minlaw.gov.bd/act-204.html",
+  "description": "An Ordinance to provide for the interpretation in enactments in force in Bangladesh of references to Standard Time. WHEREAS an emergency has arisen which makes it necessary to provide for the interpretation in enactments in force in Bangladesh of references to Standard Time; NOW, THEREFORE, in exercise of the powers conferred by section 72 of the Government of India Act, as set out in the Ninth Schedule to the Gov...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Standard Time (Interpretation of References) Ordinance, 1943 .\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Interpretation of references to Standard Time",
+      "content": "2. While any order of the Government is in force fixing Standard Time by reference to Greenwich Mean Time as being in advance of Greenwich Mean Time by an interval other than five and one half hours, any reference in any enactment in force in Bangladesh to Standard Time shall, notwithstanding that such reference may define Standard Time as being five and one half hours in advance of Greenwich Mean Time, be interpreted as a reference to Standard Time as fixed for the time being by the order of the Government."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": "bd-act-497",
+  "type": "statute",
+  "title": "The Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Act, 1975",
+  "title_en": "The Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Act, 1975",
+  "short_name": "Act 497",
+  "status": "in_force",
+  "issued_date": "1975-07-21",
+  "in_force_date": "1975-07-21",
+  "url": "http://bdlaws.minlaw.gov.bd/act-497.html",
+  "description": "An Act to provide for special mode of payment of the value of the demonetised notes and recovery of taxes therefrom. WHEREAS it is expedient to provide for special mode of payment of the value of the demonetised notes and recovery of taxes therefrom; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Act, 1975 .\n(2) It shall be deemed to have come into force on the seventh day of April, 1975."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(a) “agency” means any bank, post office, treasury or sub-treasury;\n(b) “demonetised note” means a Bangladesh Bank Note of one-hundred-Taka denomination which has ceased to be legal tender with effect from the seventh day of April, 1975, in pursuance of the declaration made by the Government by notification No. I F. 5/31/75-95, dated the 6th April, 1975 (hereinafter referred to as the said notification);\n(c) “depositor” means a person who has deposited any demonetised note with any agency mentioned in the said notification within the time specified therein."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Effect of Act and rules inconsistent with other laws",
+      "content": "3. The provisions of this Act or any rule made thereunder shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Mode of payment of value of demonetised notes to be determined by Government",
+      "content": "4. The value of the demonetised notes deposited by a depositor shall be paid by an agency on such date and in such form and manner as the Government may, by notification in the official Gazette, determine."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Recovery of taxes",
+      "content": "5. (1) If the Government is satisfied that any taxes are recoverable from a depositor under any law for the time being in force, it may, by order in writing, direct the recovery of such taxes from the value of the demonetised notes deposited by him and send the order to the agency with which the demonetised notes have been deposited.\n(2) On receipt of an order under sub-section (1), the agency shall deduct the amount specified in the order from the value of the demonetised notes deposited by the depositor and pay the balance, if any, to him on such date and in such form and manner as may be determined by the Government under section 4."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Exemption",
+      "content": "6. The Government may, by notification in the official Gazette, exempt any person or class of persons or amount of demonetised notes from the operation of the provisions of this Act."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Indemnity",
+      "content": "7. (1) No action taken under this Act against any depositor in respect of the demonetised notes deposited by him shall be called in question in any manner by or before any court.\n(2) No suit, prosecution or other legal proceeding shall lie against the Government or the Bangladesh Bank or any agency for delay in the payment of the value of demonetised notes or for payment of the value thereof in any form or manner other than in cash or for deduction of any tax from the value of such notes."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Power to make rules",
+      "content": "8. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Repeal and savings",
+      "content": "9. (1) The Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Ordinance, 1975 (Ord. XXV of 1975), is hereby repealed.\n(2) Notwithstanding such repeal, anything done or any action taken under any provision of the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agency",
+      "definition": "any bank, post office, treasury or sub-treasury",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "demonetised note",
+      "definition": "a Bangladesh Bank Note of one-hundred-Taka denomination which has ceased to be legal tender with effect from the seventh day of April, 1975, in pursuance of the declaration made by the Government by notification No. I F. 5/31/75-95, dated the 6th April, 1975 (hereinafter referred to as the said notification)",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "depositor",
+      "definition": "a person who has deposited any demonetised note with any agency mentioned in the said notification within the time specified therein.",
+      "source_provision": "sec2"
+    }
+  ]
+}

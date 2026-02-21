@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-72",
+  "type": "statute",
+  "title": "The Epidemic Diseases Act, 1897",
+  "title_en": "The Epidemic Diseases Act, 1897",
+  "short_name": "Act 72",
+  "status": "repealed",
+  "issued_date": "1897-02-04",
+  "in_force_date": "1897-02-04",
+  "url": "http://bdlaws.minlaw.gov.bd/act-72.html",
+  "description": "An Act to provide for the better prevention of the spread of Dangerous Epidemic Disease. WHEREAS it is expedient to provide for the better prevention of the spread of dangerous epidemic disease; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Epidemic Diseases Act, 1897 .\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Power to take special measures and prescribe regulations as to dangerous epidemic disease",
+      "content": "2. (1) When at any time the [Government] is satisfied that [Bangladesh] or any part thereof is visited by, or threatened with an, outbreak of any dangerous epidemic disease, the Government, if it thinks that the ordinary provisions of the law for the time being in force are insufficient for the purpose, may take, or require or empower any person to take, such measures and, by public notice, prescribe such temporary regulations to be observed by the public or by any person or class of persons as it shall deem necessary to prevent the outbreak of such disease or the spread thereof, and may determine in what manner and by whom any expenses incurred (including compensation if any) shall be defrayed.\n(2) In particular and without prejudice to the generality of the foregoing provisions, the [Government] may take measures and prescribe regulations for\n(a) [Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]\n(b) the inspection of persons travelling by railway or otherwise, and the segregation, in hospital, temporary accommodation or otherwise, of persons suspected by the inspecting officer of being infected with any such disease.\n[(c) inspection of any ship or vessel leaving or arriving at any port in Bangladesh and for such detention thereof, or of any person to sail therein, or arriving thereby, as may be necessary]."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. [Omitted]",
+      "content": "2A. [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Penalty.",
+      "content": "3. Any person disobeying any regulation or order made under this Act shall be deemed to have committed an offence punishable under section 188 of the [* * *] Penal Code."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Protection to persons acting under Act.",
+      "content": "4. No suit or other legal proceeding shall lie against any person for anything done or in good faith intended to be done under this Act."
+    }
+  ],
+  "definitions": []
+}

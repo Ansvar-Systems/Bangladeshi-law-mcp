@@ -1,0 +1,57 @@
+{
+  "id": "bd-act-31",
+  "type": "statute",
+  "title": "The Foreign Recruiting Act, 1874",
+  "title_en": "The Foreign Recruiting Act, 1874",
+  "short_name": "Act 31",
+  "status": "in_force",
+  "issued_date": "1874-02-24",
+  "in_force_date": "1874-02-24",
+  "url": "http://bdlaws.minlaw.gov.bd/act-31.html",
+  "description": "An Act to control recruiting in Bangladesh for the service of Foreign States. WHEREAS it is expedient that the Government should exercise full control over recruiting in Bangladesh for the service of Foreign States;It is enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Foreign Recruiting Act, 1874 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Local extent",
+      "content": "It extends to the whole of Bangladesh.\n2. In this Act-\n\"Foreign State\" includes any person or persons exercising or assuming to exercise the powers of Government in or over any country, colony, province or people beyond the limits of Bangladesh."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to prohibit or permit recruiting",
+      "content": "3. If any person is, within the limits of Bangladesh, obtaining or attempting to obtain recruits for the service of any Foreign State in any capacity, the Government may, by order in writing, either prohibit such person from so doing, or permit him to do so subject to any conditions which the Government thinks fit to impose."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Power to impose conditions",
+      "content": "4. The Government may from time to time, by general order notified in the official Gazette, either prohibit recruiting for the service or any Foreign State, or impose upon such recruiting any conditions which it thinks fit."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Power to rescind or vary orders",
+      "content": "5. The Government may rescind or vary any order made under this Act in such manner as it thinks fit."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Offences",
+      "content": "6. Whoever, in violation of the prohibition of the Government, or of any condition subject to which permission to recruit may have been accorded,-\n(a) induces or attempts to induce any person to accept or agree to accept or to proceed to any place with a view to obtaining any commission or employment in the service of any Foreign State, or\n(b) knowingly aids in the engagement of any person so induced, by forwarding or conveying him or by advancing money or in any other way whatever,\nshall be liable to imprisonment for a term which may extend to seven years, or to fine to such amount as the Court thinks fit, or to both."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Place of trial",
+      "content": "7. Any offence against this Act may be inquired into and tried, as well in any district in which the person accused may be found, as in any district in which it might be inquired into and tried under the provisions of the [ Code of Criminal Procedure, 1898 ]."
+    }
+  ],
+  "definitions": []
+}

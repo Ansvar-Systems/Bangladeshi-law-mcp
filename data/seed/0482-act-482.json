@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-482",
+  "type": "statute",
+  "title": "The Stamp Duties (Additional Modes of Payment) Act, 1974",
+  "title_en": "The Stamp Duties (Additional Modes of Payment) Act, 1974",
+  "short_name": "Act 482",
+  "status": "in_force",
+  "issued_date": "1974-11-28",
+  "in_force_date": "1974-11-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-482.html",
+  "description": "An Act to provide for additional modes of payment of stamp duties. WHEREAS it is expedient to provide for additional modes of payment of stamp duties; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the Stamp Duties (Additional Modes of Payment) Act, 1974 .\n(2) It shall be deemed to have come into force on the 4th day of November, 1974."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Payment of stamp duties in cash or by chalan",
+      "content": "2. (1) Notwithstanding anything contained in the Stamp Act, 1899 (II of 1899) (hereinafter referred to as the said Act), or in any other law for the time being in force, where any instrument is required or intended to be registered under the Registration Act, 1908 (XVI of 1908), all duties with which such instrument is chargeable under the said Act may be paid-\n(a) to the registering officer in cash, if the duties do not exceed three hundred taka; or\n(b) by chalan in a Treasury or Sub-Treasury, or any branch of a Bank performing the functions of a Treasury or Sub-Treasury, or any branch of a Bank authorised by the Government in this behalf, by notification in the official Gazette [; or\n(c) by an account-payee pay order or an account-payee bank draft issued by a scheduled bank specified by or under rules:\nProvided that the Government may, by notification in the official Gazette, direct that any stamp duty in excess of the amount specified in the notification shall be paid only by such pay order, bank draft or chalan.]\n[(2) Where an instrument is presented to a registering officer for registration and the stamp duty is paid to him in cash or is shown to have been paid by chalan, pay order or bank draft under sub-section (1), that officer shall endorse the payment of the stamp duty on the instrument in the manner prescribed by rules, and upon such endorsement the instrument shall be deemed to have been duly stamped within the meaning of the said Act.]"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to make rules",
+      "content": "3. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Repeal and savings",
+      "content": "4. (1) The Stamp Duties (Additional Modes of Payment) Ordinance, 1974 (Ord. XXIII of 1974), is hereby repealed.\n(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken, as the case may be, under the corresponding provision of this Act."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bd-act-327",
+  "type": "statute",
+  "title": "The Prevention of Interference with Aids to Navigation Ordinance, 1962 (East Pakistan Ordinance)",
+  "title_en": "The Prevention of Interference with Aids to Navigation Ordinance, 1962 (East Pakistan Ordinance)",
+  "short_name": "Act 327",
+  "status": "in_force",
+  "issued_date": "1962-01-19",
+  "in_force_date": "1962-01-19",
+  "url": "http://bdlaws.minlaw.gov.bd/act-327.html",
+  "description": "An Ordinance to provide for punishment for interfering with the marks, buoys, lights, etc. installed on the inland waterways in Bangladesh.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Prevention of Interference with Aids to Navigation Ordinance, 1962.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “aids to navigation” means marks, buoys, lights, bandals and other contrivances installed for conservancy of channels and aids to navigation by the Authority;\n(b) “Authority” means the Bangladesh Inland Water Transport Authority established under section 3 of the [* * *] Inland Water Transport Authority Ordinance, 1958; and\n(c) “mischief ” means mischief as defined in section 425 of the [* * *] Penal Code, 1860 ."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Penalty for intentionally causing damage and tampering with aids to navigation",
+      "content": "3. Whoever commits mischief by damaging, removing, tampering with or handling any of the aids to navigation, or by doing any act which renders any of the aids to navigation less useful as such, and whoever abets such mischief, shall be punished with imprisonment which may extend to three years, or with fine, or with both."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Report to the District Magistrate regarding repeated damage, etc. and imposition of collective fines",
+      "content": "4. (1) Whenever it appears to the Authority that any act causing or likely to cause wrongful damage to, or any act of wrongful removal of, any of the aids to navigation is repeatedly committed in any place, the Authority, or an officer authorised by the Authority in this behalf, may make a report to the District Magistrate within whose jurisdiction the offence has been committed.\n(2) On receipt of the report under sub section (1) the District Magistrate shall make, or cause to be made, such enquiries as he deems fit; and if the District Magistrate is satisfied as a result of such enquiry that the inhabitants of any local area are concerned in the repeated commission of any such acts or are in any way assisting persons in committing such acts, the District Magistrate may, by order in writing specifying the reasons for making such order, impose on the inhabitants of such area, a collective fine which may extend to one thousand [taka] or three times the value of all the aids to navigation lost or damaged by such acts, whichever is greater, and may apportion such fine among such inhabitants in proportion to their respective means.\n(3) Every order imposing a collective fine under sub-section (2) shall be forthwith published in the local area in such manner as the District Magistrate considers best calculated to bring the order to the notice of the inhabitants of the area concerned.\n(4) The District Magistrate may exempt any person or class or section of such inhabitants from liability to pay any portion of such fine.\n(5) The portion of such fine payable by any person may be recovered from him as a fine or as a public demand under the [* * *] Public Demands Recovery Act, 1913.\n(6) Every apportionment of collective fine made under sub section (2) shall be subject to revision by the Sessions Judge of the District on application made in that behalf to him by any persons affected by such apportionment within thirty days from the date on which such apportionment is made; and the decision of the Sessions Judge thereon shall be final.\n(7) The [Government] may, by order in writing, define the limits of the area for purposes of sub-section (2)."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Payment of fine realised to Authority",
+      "content": "5. The District Magistrate may order that such fine or proportion thereof realised under section 3 or under section 4 be paid to the Authority, as he may deem fit under the circumstances."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Offences under the Ordinance",
+      "content": "6. Notwithstanding anything contained in the Code of Criminal Procedure, 1898 , offences under this Ordinance shall, for the purposes of the said Code, be bailable and non cognizable."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aids to navigation",
+      "definition": "marks, buoys, lights, bandals and other contrivances installed for conservancy of channels and aids to navigation by the Authority",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Bangladesh Inland Water Transport Authority established under section 3 of the [* * *] Inland Water Transport Authority Ordinance, 1958",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "mischief",
+      "definition": "mischief as defined in section 425 of the [* * *] Penal Code, 1860 .",
+      "source_provision": "sec2"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bd-act-370",
+  "type": "statute",
+  "title": "The Bangladesh Law Officers Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh Law Officers Order, 1972 (President's Order)",
+  "short_name": "Act 370",
+  "status": "in_force",
+  "issued_date": "1972-01-20",
+  "in_force_date": "1972-01-20",
+  "url": "http://bdlaws.minlaw.gov.bd/act-370.html",
+  "description": "WHEREAS it is expedient to appoint some law officers for conducting cases on behalf of the Government of Bangladesh before the superior Courts in Bangladesh; NOW, THEREFORE, in pursuance of the Proclamation of Independence read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that behalf, the President is pleased to make the following Order:-",
+  "provisions": [
+    {
+      "provision_ref": "sec22993",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Bangladesh Law Officers Order, 1972.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec22994",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. In this Order, “Law Officer” means the Attorney-General for Bangladesh, the Additional Attorney-General for Bangladesh, the Deputy Attorney-General, and Assistant Attorney-General for Bangladesh [* * *]."
+    },
+    {
+      "provision_ref": "sec22995",
+      "section": "3",
+      "title": "3. 3.",
+      "content": "3. [(1) The President may, in addition to the Attorney-General for Bangladesh, appoint, by notification in the official Gazette, Additional Attorneys-General, not exceeding three, and such number of Deputy Attorneys-General and Assistant Attorneys-General for Bangladesh as the President may determine. ]\n(2) No person shall be appointed an [* * *] Additional Attorney-General or a Deputy Attorney-General [* * *]\nunless he is qualified to be appointed as a Judge of the [Supreme Court] of Bangladesh [:\nProvided that while making the appointment, the President may consider relaxing the age-limit of an Additional Attorney-General or a Deputy Attorney-General, as the case may be, if he is found fit and efficient.]\n(3) No person shall be appointed an Assistant Attorney-General [* * *] unless he has completed [five] years' practice as an Advocate of the [Supreme Court].\n(4) [* * *] [Additional Attorneys-General], [Deputy Attorneys-General and Assistant Attorneys-General] shall perform such duties as the President may direct.\n(5) In the performance of their duties [* * *] [the Additional Attorneys-General], [and the Deputy Attorneys-General] shall have the right to audience in all Courts in Bangladesh."
+    },
+    {
+      "provision_ref": "sec22996",
+      "section": "4",
+      "title": "4. 4.",
+      "content": "4. (1) A Law Officer shall hold office during the pleasure of the President and [his services may be terminated] at any time by the President without any reason being assigned for his [termination].\n(2) A Law Officer may resign his office by a writing under his hand addressed to the President.\n[(3) A Law Officer shall receive such remuneration for his services and shall be entitled to such privileges as the President may determine.]"
+    },
+    {
+      "provision_ref": "sec22997",
+      "section": "5",
+      "title": "5. 5.",
+      "content": "5. (1) Notwithstanding anything contained in any law for the time being in force on the commencement of this Order, the office of the Additional Attorney–General, Advocate-General, Assistant Advocate-General, the Senior Government Pleader, Assistant Government Pleader, and the Deputy Legal Remembrancer in Bangladesh shall be deemed to have stood abolished on the 26th day of March, 1971.\n(2) The Office of [a Law Officer] shall be deemed not to be [an office] of profit nor shall “service of Bangladesh” mean or include the office of [a Law Officer]."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Law Officer",
+      "definition": "the Attorney-General for Bangladesh, the Additional Attorney-General for Bangladesh, the Deputy Attorney-General, and Assistant Attorney-General for Bangladesh [* * *].",
+      "source_provision": "sec22994"
+    }
+  ]
+}

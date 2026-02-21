@@ -1,0 +1,50 @@
+{
+  "id": "bd-act-340",
+  "type": "statute",
+  "title": "The Naval Academy (Award of Degrees) Ordinance, 1965",
+  "title_en": "The Naval Academy (Award of Degrees) Ordinance, 1965",
+  "short_name": "Act 340",
+  "status": "in_force",
+  "issued_date": "1965-07-21",
+  "in_force_date": "1965-07-21",
+  "url": "http://bdlaws.minlaw.gov.bd/act-340.html",
+  "description": "An Ordinance to authorise the Bangladesh Naval Academy to confer degrees. WHEREAS it is expedient to authorise the Bangladesh Naval Academy to confer degrees; AND WHEREAS the National Assembly is not in session and the President is satisfied that circumstances exist which render immediate legislation necessary; NOW, THEREFORE, in exercise of the powers conferred by clause (1) of Article 29 of the Constitution and ...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the [* * *] Naval Academy (Award of Degrees) Ordinance, 1965 .\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “Cadet-entry Officer” means a person appointed as a cadet in any branch of the Bangladesh Navy, and includes any such person promoted to the rank of midshipman or acting sub-lieutenant, while still undergoing the prescribed course;\n(b) “prescribed course” means a course of training prescribed by regulations made under this Ordinance."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Conferment of degrees on Cadet-entry Officers",
+      "content": "3. The Bangladesh Naval Academy shall have the power to confer the degree of the Bachelor of Science, abbreviation whereof shall be B.Sc. (N.A.), on any Cadet-entry Officer on his successful completion of the prescribed course in the Bangladesh Naval Academy appropriate to his branch, and such power shall include the power to confer that degree on any Cadet-entry Officer who at any time before the commencement of this Ordinance was commissioned on completion of a similar prescribed course."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Power to make Regulations",
+      "content": "4. The Bangladesh Naval Academy may, with the previous approval in writing of the [Government], make regulations for carrying out the purposes of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cadet-entry Officer",
+      "definition": "a person appointed as a cadet in any branch of the Bangladesh Navy, and includes any such person promoted to the rank of midshipman or acting sub-lieutenant, while still undergoing the prescribed course",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "prescribed course",
+      "definition": "a course of training prescribed by regulations made under this Ordinance.",
+      "source_provision": "sec2"
+    }
+  ]
+}

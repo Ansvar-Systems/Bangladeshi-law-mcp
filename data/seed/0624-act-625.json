@@ -1,0 +1,86 @@
+{
+  "id": "bd-act-625",
+  "type": "statute",
+  "title": "The Bangladesh Flag Vessels (Protection) Ordinance, 1982",
+  "title_en": "The Bangladesh Flag Vessels (Protection) Ordinance, 1982",
+  "short_name": "Act 625",
+  "status": "repealed",
+  "issued_date": "1982-06-28",
+  "in_force_date": "1982-06-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-625.html",
+  "description": "An Ordinance to provide protection for the Bangladesh f lag vessels. WHEREAS it is expedient to provide protection for the Bangladesh f lag vessels; NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in exercise of all powers enabling him in that behalf, the Chief Martial Law Administrator is pleased to make and promulgate the following Ordinance:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Bangladesh Flag Vessels (Protection) Ordinance, 1982 .\n(2) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “Bangladesh flag vessel” means a vessel registered in Bangladesh; and\n(b) “Prescribed Authority” means the Director-General, Department of Shipping, Government of the People's Republic of Bangladesh, or any other officer, body or authority appointed by the Government as such."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Limitation on carriage of cargoes of sea-borne trade",
+      "content": "3. Notwithstanding anything contained in any other law for the time being in force, at least forty per cent of the sea-borne cargoes relating to foreign trade of Bangladesh shall, subject to the other provisions of this Ordinance, be carried by Bangladesh f lag vessels:\nProvided that this limitation shall not apply to-\n(a) any cargo which is required to be carried by any vessel in accordance with any reciprocal arrangement made between the two trading partners; or\n(b) any cargo in respect of which a certificate of waiver is issued by the Prescribed Authority [; or]\n[(c) any cargo in respect of which a general waiver is announced by the Prescribed Authority.]"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Carriage of cargoes by third country f lag vessels",
+      "content": "4. (1) Where there is no Bangladesh flag vessel or flag vessel of the trading country concerned available for carriage of any cargo from or to Bangladesh, the Prescribed Authority may liberate the cargo for carriage by a third country f lag vessel.\n(2) Where the country to which or from which any cargo is to be carried is not served by Bangladesh f lag vessels and the f lag vessels of that country also do not serve Bangladesh, the Prescribed Authority may liberate the cargo for carriage by a third country f lag vessel."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Non-Bangladesh Flag vessels not to carry coastal trade cargoes",
+      "content": "5. No f lag vessel of any foreign country shall carry coastal trade cargoes of Bangladesh:\nProvided that this restriction shall not apply to a vessel in respect of which a certificate of waiver is issued by the Prescribed Authority."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Prohibition to join liner conference without licence",
+      "content": "6. No owner of Bangladesh f lag vessels shall join or form a liner conference without obtaining a licence from the Prescribed Authority."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Grant of licence, etc.",
+      "content": "7. (1) An Application for a licence under section 6 shall be made in such manner and in such form, and shall be accompanied by such fee, as the Government may specify in this behalf.\n(2) Any person aggrieved by refusal of a licence under section 6 may prefer an appeal, within three days from the date of such refusal, to the Government whose decision in the matter shall be final."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Penalty",
+      "content": "8. (1) If any vessel carries any cargo in contravention of any provision of this Ordinance, the owner of the vessel shall be punishable with fine not exceeding the value of the freight of such cargo.\n(2) Whoever contravenes any provision of this Ordinance not punishable under sub-section (1) shall be punishable with fine."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "9. Offences by companies",
+      "content": "9. (1) If the person contravening any of the provisions of this Ordinance is a company, every person who at the time the offence was committed, was in charge of and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly:\nProvided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Ordinance if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.\n(2) Notwithstanding anything contained in sub-section (1), where any offence under this Ordinance has been committed by a company and it is proved that the offence was committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\nExplanation.- For the purposes of this section,-\n(a) “company” means any body corporate and includes a firm or other association of individuals, and\n(b) “director”, in relation to a firm, means a partner in the firm."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "10. Power to make rules",
+      "content": "10. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bangladesh flag vessel",
+      "definition": "a vessel registered in Bangladesh",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Prescribed Authority",
+      "definition": "the Director-General, Department of Shipping, Government of the People's Republic of Bangladesh, or any other officer, body or authority appointed by the Government as such.",
+      "source_provision": "sec2"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-105",
+  "type": "statute",
+  "title": "The Hindu Disposition of Property Act, 1916",
+  "title_en": "The Hindu Disposition of Property Act, 1916",
+  "short_name": "Act 105",
+  "status": "in_force",
+  "issued_date": "1916-09-28",
+  "in_force_date": "1916-09-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-105.html",
+  "description": "An Act to remove certain existing disabilities in respect of the power of disposition of property by Hindus for the benefit of persons not in existence at the date of such disposition. WHEREAS it is expedient to remove certain existing disabilities in respect of the power of disposition of property by Hindus for the benefit of persons not in existence at the date of such disposition; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1.(1) This Act may be called the Hindu Disposition of Property Act, 1916 .\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Dispositions for the benefit of persons not in existence",
+      "content": "2. Subject to the limitations and provisions specified in this Act, no disposition of property by a Hindu, whether by transfer inter vivos by will, shall be invalid by reason only that any person for whose benefit it may have been made was not in existence at the date of such disposition."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Limitations and conditions",
+      "content": "3. The limitations and provisions referred to in section 2 shall be the following, namely:-\n(a) in respect of dispositions by transfer inter vivos, those contained in Chapter II of the Transfer of Property Act, 1882 , and\n(b) in respect of dispositions by will, those contained in sections 113, 114, 115 and 116 of the Succession Act, 1925 ."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. [ Repealed]",
+      "content": "4. [Repealed by section 12 of the Transfer of Property (Amendment) Supplementary Act, 1929 (Act No. XXI of 1929).]"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Application of this Act to the khoja community",
+      "content": "5. Where the [Government] is of opinion that the Khoja community in [Bangladesh] or any part thereof desire that the provisions of this Act should be extended to such community, it may, by notification in the official Gazette, declare that the provisions of this Act, with the substitution of the word \"Khojas\" or \"Khoja\", as the case may be, for the word \"Hindus\" or \"Hindu\" wherever those words occur, shall apply to that community in such area as may be specified in the notification, and this Act shall thereupon have effect accordingly."
+    }
+  ],
+  "definitions": []
+}

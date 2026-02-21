@@ -1,0 +1,39 @@
+{
+  "id": "bd-act-33",
+  "type": "statute",
+  "title": "The Majority Act, 1875",
+  "title_en": "The Majority Act, 1875",
+  "short_name": "Act 33",
+  "status": "in_force",
+  "issued_date": "1875-03-02",
+  "in_force_date": "1875-03-02",
+  "url": "http://bdlaws.minlaw.gov.bd/act-33.html",
+  "description": "An Act to amend the law respecting the age of majority WHEREAS, in the case of persons domiciled in Bangladesh, it is expedient to prolong the period of nonage, and to attain more uniformity and certainty respecting the age of majority than now exists; It is enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, Local extent, Commence-ment and operation",
+      "content": "1. This Act may be called the Majority Act, 1875 . It extends to the whole of Bangladesh;\nand it shall come into force and have effect only on the expiration of three months from the passing thereof."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Savings",
+      "content": "2. Nothing herein contained shall affect-\n(a) the capacity of any person to act in the following matters (namely),- marriage, dower, divorce and adoption;\n(b) the religion or religious rites and usages of any class of citizens of Bangladesh; or\n(c) the capacity of any person who before this Act comes into force has attained majority under the Law applicable to him."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Age of majority of persons domiciled in Bangladesh",
+      "content": "3. Subject as aforesaid, every minor of whose person or property or both a guardian, other than a guardian for a suit within the meaning of [Schedule I, Order XXXII of the Code of Civil Procedure, 1908 ,] has been or shall be appointed or declared by any Court of Justice before the minor has attained\nthe age of eighteen years, and every minor of whose property the superintendence has been or shall be assumed by any Court of Wards before the minor has attained that age shall, notwithstanding anything contained in [ Succession Act, 1925 ,] or in any other enactment, be deemed to have attained his majority when he shall have completed his age of twenty-one years and not before.\nSubject as aforesaid, every other person domiciled in Bangladesh shall be deemed to have attained his majority when he shall have completed his age of eighteen years and not before."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Age of majority how computed",
+      "content": "4. In computing the age of any person, the day on which he was born is to be included as a whole day, and he shall be deemed to have attained majority, if he falls within the first paragraph of section 3, at the beginning of the twenty-first anniversary of that day, and if he falls within the second paragraph of section 3, at the beginning of the eighteenth anniversary of that day.\nIllustrations\n(a) Z is born in Bangladesh on the first day of January, 1949, and has a Bangladesh domicile. A guardian of his person is appointed by a Court of Justice. Z attains majority at the first moment of the first day of January, 1970.\n(b) Z is born in Bangladesh on the twenty-ninth day of February, 1948 and has a Bangladesh domicile. A guardian of his property is appointed by a Court of Justice. Z attains majority at the first moment of the twenty-eighth day of February, 1969.\n(c) Z is born on the first day of January, 1948. He acquires a domicile in Bangladesh. No guardian is appointed of his person or property by any Court of Justice, nor is he under the jurisdiction of any Court of Wards. Z attains majority at the first moment of the first day of January, 1966."
+    }
+  ],
+  "definitions": []
+}

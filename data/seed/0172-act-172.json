@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-172",
+  "type": "statute",
+  "title": "The Arya Marriage Validation Act, 1937",
+  "title_en": "The Arya Marriage Validation Act, 1937",
+  "short_name": "Act 172",
+  "status": "in_force",
+  "issued_date": "1937-04-14",
+  "in_force_date": "1937-04-14",
+  "url": "http://bdlaws.minlaw.gov.bd/act-172.html",
+  "description": "An Act to recognise and remove doubts as to the validity of inter-marriages current among Arya Samajists. WHEREAS it is expedient to recognise and place beyond doubt the validity of inter-marriages of a class of Hindus known as Arya Samajists; It is hereby enacted as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Arya Marriage Validation Act, 1937 .\n(2) It extends to the whole of [Bangladesh] and applies also to all citizens of [Bangladesh] wherever they may be."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Marriage between Arya Samajists not to be invalid",
+      "content": "2. Notwithstanding any provision of Hindu Law, usage or custom to the contrary, no marriage contracted whether before or after the commencement of this Act between two persons being at the time of the marriage Arya Samajists shall be invalid or shall be deemed ever to have been invalid by reason only of the fact that the parties at any time belonged to different castes or different sub-castes of Hindus or that either or both of the parties at any time before the marriage belonged to a religion other than Hinduism."
+    }
+  ],
+  "definitions": []
+}

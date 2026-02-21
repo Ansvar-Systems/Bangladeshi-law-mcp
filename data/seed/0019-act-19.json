@@ -1,0 +1,63 @@
+{
+  "id": "bd-act-19",
+  "type": "statute",
+  "title": "The Alluvion (Amendment) Act, 1868",
+  "title_en": "The Alluvion (Amendment) Act, 1868",
+  "short_name": "Act 19",
+  "status": "amended",
+  "issued_date": "1868-07-08",
+  "in_force_date": "1868-07-08",
+  "url": "http://bdlaws.minlaw.gov.bd/act-19.html",
+  "description": "The long title [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision and Declaration) Act, 1973 (Act No. VIII of 1973).] WHEREAS it is expedient to amend the provisions of act IX of 1847; It is enacted and declared as follows:-",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. [Repealed]",
+      "content": "1. [Repealed by the Repealing Act, 1873 (Act No. XII of 1873).]"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. .Accessions to island considered increment thereto",
+      "content": "2. It is hereby declared that when any islands shall, under the provisions of clause 3, section 4, of Regulation XI of 1825, be at the disposal of Government, all lands gained by gradual accession to such island, whether from a recess of the river or of the sea, shall be considered an increment to such island, and shall be equally at the disposal of Government."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Newly thrown up islands to be assessed",
+      "content": "3. Whenever it shall appear to the local revenue-authorities that an island has been thrown up in a large and navigable river liable to be taken possession of by Government (under clause 3, section 4, of Regulation XI of 1825), the local revenue-authorities shall take immediate possession of the same for Government, and shall assess and settle the land according to rules in force in that behalf, reporting their proceedings forthwith [for the approval of the Board of Land Administration], whose order thereupon, in regard to the assessment, shall be final:\nProvided, however, that any party aggrieved by the act of the revenue-authorities in taking possession of any island as aforesaid shall be at liberty to contest the same by a regular suit in the Civil Court."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Subsequent junction to mainland not to affect Government right",
+      "content": "4. Any island of which possession may have been taken by the local revenue-authorities on behalf of Government under section 3 of this Act shall not be deemed to have become an accession to the property of any person by reason of such channel becoming fordable after possession of such island shall have been so taken."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Power to apply for ways across islands",
+      "content": "5. Whenever an island, of which possession shall have been taken by Government under section 3 of this Act, shall become attached to the mainland, any person having an estate or interest in any part of the riparian mainland to which such island may become attached while it is in the possession of Government may apply to the Collector to take measures for the construction of ways, paths and roads on the island: the costs thereof to be equally divided between the applicant and the [Government]."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Applicant for ways to deposit money, and ways to be made",
+      "content": "6. Thereupon the Collector may require the applicant to make such deposit of money as to the Collector shall seem sufficient, and, on such deposit being made, the Collector shall proceed to lay out and construct such ways, paths and roads in and through the island as he may deem necessary for securing access to the river or sea from the land to which the island may have become attached."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Costs of ways how borne",
+      "content": "7. In every case the applicant shall be liable to pay and make good to the [Government] one-half of the costs of laying out and constructing such ways, paths and roads as aforesaid, and any moneys due from the applicant under the provisions of this section may be deducted and retained by the Collector out of the deposit so made by the applicant as aforesaid."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Ways to be public",
+      "content": "8. Every way, road and path, which shall be laid out or appointed under the provisions aforesaid, shall be deemed a public highway."
+    }
+  ],
+  "definitions": []
+}

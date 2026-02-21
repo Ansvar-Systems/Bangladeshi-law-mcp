@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-1494",
+  "type": "statute",
+  "title": "Bangladesh Bank (Amendment) Ordinance, 2024",
+  "title_en": "Bangladesh Bank (Amendment) Ordinance, 2024",
+  "short_name": "Act 1494",
+  "status": "amended",
+  "issued_date": "2024-08-13",
+  "in_force_date": "2024-08-13",
+  "url": "http://bdlaws.minlaw.gov.bd/act-1494.html",
+  "description": "Bangladesh Bank Order, 1972 এর অধিকতর সংশোধনকল্পে প্রণীত অধ্যাদেশ যেহেতু নিম্নবর্ণিত উদ্দেশ্যপূরণকল্পে Bangladesh Bank Order, 1972 (P.O. No.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. সংক্ষিপ্ত শিরোনাম ও প্রবর্তন",
+      "content": "১। (১) এই অধ্যাদেশ Bangladesh Bank (Amendment) Ordinance, 2024 নামে অভিহিত হইবে।\n(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. P O No 127 of 1972 এর Article 10 এর সংশোধন",
+      "content": "২। Bangladesh Bank Order, 1972 (P.O. No. 127 of 1972) এর Article 10 এর clause (5) এর প্রান্তস্থিত কোলন \":\" চিহ্নের পরিবর্তে ফুলস্টপ \".\" চিহ্ন প্রতিস্থাপিত হইবে এবং proviso বিলুপ্ত হইবে।"
+    }
+  ],
+  "definitions": []
+}

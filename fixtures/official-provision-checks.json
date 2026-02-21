@@ -1,0 +1,30 @@
+{
+  "source": "http://bdlaws.minlaw.gov.bd",
+  "purpose": "Character-for-character verification targets from official portal",
+  "provisions": [
+    {
+      "act_id": 1538,
+      "document_id": "bd-cyber-protection-ordinance-2025",
+      "section": "1",
+      "source_url": "http://bdlaws.minlaw.gov.bd/act-details-1538.html",
+      "retrieved_at_utc": "2026-02-21T21:49:24.318Z",
+      "content": "১। (১) এই অধ্যাদেশ সাইবার সুরক্ষা অধ্যাদেশ, ২০২৫ নামে অভিহিত হইবে।\n(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "act_id": 1457,
+      "document_id": "bd-cyber-security-act-2023",
+      "section": "1",
+      "source_url": "http://bdlaws.minlaw.gov.bd/act-details-1457.html",
+      "retrieved_at_utc": "2026-02-21T21:49:24.322Z",
+      "content": "১। (১) এই আইন সাইবার নিরাপত্তা আইন, ২০২৩ নামে অভিহিত হইবে।\n(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    },
+    {
+      "act_id": 1261,
+      "document_id": "bd-digital-security-act-2018",
+      "section": "1",
+      "source_url": "http://bdlaws.minlaw.gov.bd/act-details-1261.html",
+      "retrieved_at_utc": "2026-02-21T21:49:24.325Z",
+      "content": "১। (১) এই আইন ডিজিটাল নিরাপত্তা আইন, ২০১৮ নামে অভিহিত হইবে।\n(২) ইহা অবিলম্বে কার্যকর হইবে।"
+    }
+  ]
+}

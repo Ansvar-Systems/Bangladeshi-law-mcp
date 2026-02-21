@@ -1,0 +1,84 @@
+{
+  "id": "bd-act-230",
+  "type": "statute",
+  "title": "The Essential Personnel (Registration) Ordinance, 1948",
+  "title_en": "The Essential Personnel (Registration) Ordinance, 1948",
+  "short_name": "Act 230",
+  "status": "in_force",
+  "issued_date": "1948-02-17",
+  "in_force_date": "1948-02-17",
+  "url": "http://bdlaws.minlaw.gov.bd/act-230.html",
+  "description": "An Ordinance to provide for the compulsory registration of Essential Personnel at District Employment and Manpower Offices. WHEREAS an emergency has arisen which renders it necessary to take power to require essential personnel to register at District Employment and Manpower Offices set up by the Government [* * *]; NOW, THEREFORE, in exercise of the powers conferred by section 42 of the Government of India Act, 1...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Essential Personnel (Registration) Ordinance, 1948 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “essential personnel” includes all persons normally exercising or following any of the professions, occupations or employments specified in Schedule I and persons trained or qualified to exercise or follow any such profession, occupation or employment.\n(b) “District Employment and Manpower Offices” means a District Employment and Manpower Office set up by the Government.\n(c) “ [Assistant Director] of a District Employment and Manpower Office” means the Officer-in-charge of a District Employment and Manpower Office and so appointed by the Government.\n[(cc) “Prescribed” means prescribed by rules made under this Ordinance.]\n(d) “Schedule” means a Schedule to this Ordinance."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Liability to register at District Employment and Manpower Offices",
+      "content": "3. (1) All essential personnel over the age of 18 and under the age of 60 years, residing in Bangladesh, and not being employees of the [* * *] Government, shall be liable to register themselves at a District Employment and Manpower Office.\n(2) Every person in charge of any institution which trains such essential personnel as aforesaid, or from where such personnel qualify, shall furnish to the [Assistant Director] of the District Employment and Manpower Office concerned such information as he may from time to time require.\n(3) All employers other than the [Government] shall be liable to get all persons to whom this Ordinance applies and who are employed by them registered at a District Employment and Manpower Office, if such persons are not already so registered.\n(4) Every person registered under this Ordinance shall notify any change of address, acquisition of new skills and change in employment status, at once to the District Employment and Manpower Office where he is registered."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Place of registration",
+      "content": "4. (1) All persons included within the definition of essential personnel shall register themselves [in any District Employment and Manpower Office].\n(2) In cases where it is not feasible for the essential personnel to call in person at the District Employment and Manpower Office to get registered they may submit by registered (acknowledgment due) post their particulars for registration on the form prescribed [* * *] to-\n(a) the [Assistant Director], District Employment and Manpower Office within whose area they reside; or\n(b) the District Magistrate of the district in which they reside."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Registration certificate",
+      "content": "5. (1) The District Employment and Manpower Office to which application is made shall issue within 10 days of the receipt of the application a registration certificate in the form prescribed [* * *].\n(2) When the application is made personally the District Employment and Manpower Office to which the application is made shall forthwith give to the applicant a memorandum [in the prescribed Form] acknowledging receipt of the application and specifying the time and date when the applicant should present himself to receive the registration certificate.\n(3) When the application is received by post the registration certificate shall be issued within 10 days by registered (acknowledgment due) post to the applicant.\n(4) When the application is submitted to the District Magistrate/Deputy Commissioner, he shall then issue to the applicant by registered (acknowledgment due) post a memorandum [in the prescribed Form] acknowledging receipt of the application and shall forward the application to the District Employment and Manpower Office whose area covers the district concerned. On receipt of the application from the District Magistrate the Exchange shall register the applicant and issue a registration certificate in respect of the applicant in accordance with section 5 (1) above and forward the registration certificate to the District Magistrate who will then issue it to the applicant concerned."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Penalties and procedure",
+      "content": "6. (1) Any person who, being within the age limits mentioned in sub-section (1) of section 3 and normally exercising or following any profession, occupation or employment which is, or in pursuance of the provisions of section 7 may be, specified in Schedule I, fails without sufficient cause to apply for registration within two months of that profession, occupation or employment being so specified and any person who otherwise contravenes the provisions of section 3, shall be punishable with fine not exceeding five hundred [taka].\n[* * *]\n[(3) No Court shall take cognizance of the offence except on complaint lodged by or made on the authority of the Government.]"
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "7. Power to amend Schedule",
+      "content": "[7. The Government may, by notification in the official Gazette, amend or alter any Schedule."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "8. Power to make rules",
+      "content": "8. The Government may, by notification in the official Gazette, make rules for the purpose of carrying into effect the provisions of this Ordinance.]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "District Employment and Manpower Offices",
+      "definition": "a District Employment and Manpower Office set up by the Government.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "[Assistant Director] of a District Employment and Manpower Office",
+      "definition": "the Officer-in-charge of a District Employment and Manpower Office and so appointed by the Government.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Prescribed",
+      "definition": "prescribed by rules made under this Ordinance.]",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Schedule",
+      "definition": "a Schedule to this Ordinance.",
+      "source_provision": "sec2"
+    }
+  ]
+}

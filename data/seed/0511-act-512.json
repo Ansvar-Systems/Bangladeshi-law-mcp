@@ -1,0 +1,67 @@
+{
+  "id": "bd-act-512",
+  "type": "statute",
+  "title": "The International Finance Corporation Ordinance, 1976",
+  "title_en": "The International Finance Corporation Ordinance, 1976",
+  "short_name": "Act 512",
+  "status": "repealed",
+  "issued_date": "1976-03-03",
+  "in_force_date": "1976-03-03",
+  "url": "http://bdlaws.minlaw.gov.bd/act-512.html",
+  "description": "An Ordinance to give effect to an international agreement for the establishment and operation of an International Finance Corporation and for purposes connected therewith. WHEREAS Articles of Agreement of the International Finance Corporation have, on the eleventh day of April, 1955 been approved by the Executive Directors of the International Bank for Reconstruction and Development, hereinafter referred to as the...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the International Finance Corporation Ordinance, 1976 .\n(2) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “Agreement” means any agreement which may be signed and accepted on behalf of the Government of the People's Republic of Bangladesh in pursuance of the Articles of Agreement approved by the Executive\nDirectors of the Bank on the eleventh day of April, 1955 (as amended by Resolutions of the Board of Governors of the Corporation dated the 1st September, 1961, and the 25th August, 1965), providing for the establishment and operation of an international body to be called the International Finance Corporation;\n(b) “Corporation” means the International Finance Corporation;\n(c) “member” means a member of the Corporation."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Financial Provisions",
+      "content": "3. (1) There shall be paid out of the Consolidated Fund all such sums as may be required for the purpose of making payments on behalf of the Government of the People's Republic of Bangladesh under paragraph (a) of section 3 of Article II of the Agreement.\n(2) Any sums received by the Government of the People's Republic of Bangladesh from the Corporation in pursuance of the Agreement shall be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Bangladesh Bank to be depository for the Corporations",
+      "content": "4. The Bangladesh Bank shall be the depository of the Bangladesh currency holdings or other assets of the Corporation."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Certain provision of Agreement to have force of law",
+      "content": "5. Notwithstanding anything to the contrary contained in any other law, the provisions of Article VI of the Agreement set out in the Schedule shall have the force of law in Bangladesh:\nProvided that nothing in section 9 thereof shall be construed as-\n(a) entitling the Corporation to import into Bangladesh goods free of any duty of customs without any restriction on their subsequent sale therein, or\n(b) conferring on the Corporation any exemption from duties or taxes which form part of the price of goods sold or which are in fact no more than charges for services rendered."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Act XXVIII of 1956 no part of Bangladesh laws",
+      "content": "6. It is hereby declared that the International Finance Corporation Act, 1956 (XXVIII of 1956), is no part of the laws of Bangladesh."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "any agreement which may be signed and accepted on behalf of the Government of the People's Republic of Bangladesh in pursuance of the Articles of Agreement approved by the Executive",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "the International Finance Corporation",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Corporation.",
+      "source_provision": "sec2"
+    }
+  ]
+}

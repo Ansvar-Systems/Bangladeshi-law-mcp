@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-205",
+  "type": "statute",
+  "title": "The Military Stores (Unlawful Possession) Ordinance, 1943",
+  "title_en": "The Military Stores (Unlawful Possession) Ordinance, 1943",
+  "short_name": "Act 205",
+  "status": "in_force",
+  "issued_date": "1943-10-11",
+  "in_force_date": "1943-10-11",
+  "url": "http://bdlaws.minlaw.gov.bd/act-205.html",
+  "description": "An Ordinance to make special provision for the punishment of the offence of unlawful possession of military stores. WHEREAS an emergency has arisen which renders it necessary to make special provision for the punishment of the offence of unlawful possession of military stores; NOW, THEREFORE, in exercise of the powers conferred by section 72 of the Government of India Act, as set out in the Ninth Schedule to the G...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title, extent and commencement",
+      "content": "1. (1) This Ordinance may be called the Military Stores (Unlawful Possession) Ordinance, 1943 .\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Ordinance “military stores” includes any article intended for use in the equipment of or for supply to the naval, military or air forces of Bangladesh or of any foreign Power allied with Bangladesh."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Unlawful possession of military stores",
+      "content": "3. Whoever is found or is proved to have been in possession of any article of military stores shall, if the Court sees reasonable grounds for believing such article to be or to have been the property of Government or of a foreign Power allied with Bangladesh, as the case may be, unless he proves that the article came into his possession lawfully, be punishable with imprisonment for a term which may extend to five years or with fine or with both."
+    }
+  ],
+  "definitions": []
+}

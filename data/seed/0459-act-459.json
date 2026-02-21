@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-459",
+  "type": "statute",
+  "title": "The Bidi (Restriction of Manufacture) (Repeal) Act, 1974",
+  "title_en": "The Bidi (Restriction of Manufacture) (Repeal) Act, 1974",
+  "short_name": "Act 459",
+  "status": "in_force",
+  "issued_date": "1974-02-05",
+  "in_force_date": "1974-02-05",
+  "url": "http://bdlaws.minlaw.gov.bd/act-459.html",
+  "description": "An Act to repeal the Bidi (Restriction of Manufacture) Ordinance, 1966. WHEREAS it is expedient to repeal the Bidi (Restriction of Manufacture) Ordinance, 1966 (E.P.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Act may be called the Bidi (Restriction of Manufacture) (Repeal) Act, 1974 .\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal",
+      "content": "2. The Bidi (Restriction of Manufacture) Ordinance, 1966 (E.P. Ord. IV of 1966) is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

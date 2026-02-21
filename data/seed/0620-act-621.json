@@ -1,0 +1,27 @@
+{
+  "id": "bd-act-621",
+  "type": "statute",
+  "title": "The Bangladesh Abandoned Children (Special Provisions) (Repeal) Ordinacne, 1982",
+  "title_en": "The Bangladesh Abandoned Children (Special Provisions) (Repeal) Ordinacne, 1982",
+  "short_name": "Act 621",
+  "status": "in_force",
+  "issued_date": "1982-06-07",
+  "in_force_date": "1982-06-07",
+  "url": "http://bdlaws.minlaw.gov.bd/act-621.html",
+  "description": "An Ordinance to repeal the Bangladesh Abandoned Children (Special Provisions) Order, 1972. WHEREAS it is expedient to repeal the Bangladesh Abandoned Children (Special Provisions) Order, 1972 (P.O.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Bangladesh Abandoned Children (Special Provisions) (Repeal) Ordinance, 1982."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Repeal of P.O. No. 124 of 1972",
+      "content": "2. The Bangladesh Abandoned Children (Special Provisions) Order, 1972 (P.O. No. 124 of 1972), is hereby repealed."
+    }
+  ],
+  "definitions": []
+}

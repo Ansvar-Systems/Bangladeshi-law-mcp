@@ -1,0 +1,33 @@
+{
+  "id": "bd-act-547",
+  "type": "statute",
+  "title": "The Appropriation (Railways) Ordinance, 1977",
+  "title_en": "The Appropriation (Railways) Ordinance, 1977",
+  "short_name": "Act 547",
+  "status": "in_force",
+  "issued_date": "1977-06-27",
+  "in_force_date": "1977-06-27",
+  "url": "http://bdlaws.minlaw.gov.bd/act-547.html",
+  "description": "An Ordinance to authorise expenditure of certain sums in respect of Bangladesh Railways from and out of the Consolidated Fund for the services of the period beginning on the first day of July, 1977 and ending on the thirtieth day of June, 1978. WHEREAS it is expedient to authorise expenditure of certain sums in respect of Bangladesh Railways from and out of the Consolidated Fund for the services of the period begi...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Appropriation (Railways) Ordinance, 1977 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Issue of Taka 96,98,93,000 from and out of the Consolidated Fund for the period beginning on the first day of July, 1977 and ending on the thirtieth day of June, 1978",
+      "content": "2. From and out of the Consolidated Fund there may be paid and applied sums not exceeding those specified in column 3 of the Schedule, amounting in the aggregate to the sums of Taka ninety-six crores ninety-eight lakhs and ninety-three thousand towards defraying the several charges which will come in course of payment during the period beginning on the first day of July, 1977, and ending on the thirtieth day of June, 1978, in respect of Bangladesh Railways for the services and purposes specified in column 2 of the Schedule."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Appropriation",
+      "content": "3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Ordinance shall be appropriated in respect of Bangladesh Railways for the services and purposes expressed in the Schedule in relation to the period specified in section 2."
+    }
+  ],
+  "definitions": []
+}

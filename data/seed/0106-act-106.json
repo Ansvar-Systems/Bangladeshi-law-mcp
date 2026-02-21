@@ -1,0 +1,51 @@
+{
+  "id": "bd-act-106",
+  "type": "statute",
+  "title": "The Destruction of Records Act, 1917",
+  "title_en": "The Destruction of Records Act, 1917",
+  "short_name": "Act 106",
+  "status": "in_force",
+  "issued_date": "1917-02-28",
+  "in_force_date": "1917-02-28",
+  "url": "http://bdlaws.minlaw.gov.bd/act-106.html",
+  "description": "An Act to consolidate and amend the law providing for the destruction or other disposal of certain documents in the possession or custody of Courts and Revenue and other public officers. WHEREAS it is expedient to consolidate and amend the law providing for the destruction or other disposal of certain documents in the possession or custody of Courts and Revenue and other public officers; It is hereby enacted as fo...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Destruction of Records Act, 1917 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. [ Repealed]",
+      "content": "2. [Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to certain authorities to make rules for disposal of documents",
+      "content": "3.(1) The authorities hereinafter specified may, from time to time, make rules for the disposal, by destruction or otherwise, of such documents as are, in the opinion of the authority making the rules, not of sufficient public value to justify their preservation.\n(2) The authorities shall be-\n(a) in the case of documents in the possession or custody of [the Supreme Court] or of the Courts of Civil or Criminal jurisdiction subordinate thereto,- [the Supreme Court];\n(b) in the case of documents in the possession or custody of Revenue Courts and officers,-The [Board of Land Administration]; and\n[(c) in the case of documents in the possession or custody of any other public officer, the Government or any officer specially authorized in that behalf by the Government.]\n(3) Rules made under this section by [the Supreme Court] or by an officer specially authorized in that behalf by [the Government] shall be subject to the previous approval of the [the Government] [* * *]."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. [ Omitted]",
+      "content": "4. [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Saving of certain documents.",
+      "content": "5. Nothing in this Act shall be deemed to authorize the destruction of any document which, under the provisions of any law for the time being in force, is to be kept and maintained."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. [ Repealed]",
+      "content": "6. [Repealed by the Repealing Act, 1927 (Act No. XII of 1927).]"
+    }
+  ],
+  "definitions": []
+}

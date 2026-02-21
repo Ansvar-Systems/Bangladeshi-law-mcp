@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-43",
+  "type": "statute",
+  "title": "The Kazis Act, 1880",
+  "title_en": "The Kazis Act, 1880",
+  "short_name": "Act 43",
+  "status": "in_force",
+  "issued_date": "1880-07-09",
+  "in_force_date": "1880-07-09",
+  "url": "http://bdlaws.minlaw.gov.bd/act-43.html",
+  "description": "An Act for the appointment of persons to the office of Kazi. [WHEREAS it is expedient to make provision for appointment of persons to be office of Kazi; It is enacted as follows:-]",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Kazis Act, 1880 ;"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Local extent",
+      "content": "The [Government] may from time to time, by notification in the official Gazette, extend it to the whole or any part of the territories under its administration."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power to appoint Kazis for any local area",
+      "content": "2. Whenever it appears to the [Government] that any considerable number of the [Muslims] resident in any local area desire that one or more Kazis should be appointed for such local area, the [Government] may, if it thinks fit, after consulting the principal [Muslim] residents of such local area, select one or more fit persons and appoint him or them to be kazis for such local area.\nIf any question arises whether any person has been rightly appointed kazi under this section, the decision thereof by the [Government] shall be conclusive.\nThe [Government] may, if it thinks fit, suspend or remove any kazi appointed under this section who is guilty of any misconduct in the execution of his office, or who is for a continuous period of six months absent from the local area for which he is appointed, or leaves such local area for the purpose or leaves such local area for the purpose of residing elsewhere, or is declared an insolvent, or desires to be discharged from the office, or who refuses or becomes in the opinion of the [Government] unfit, or personally incapable, to discharge the duties of the office."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Naib Kazis",
+      "content": "3. Any Kazi appointed under this Act may appoint one or more persons as his naib or naibs to act in his place in all or any of the matters appertaining to his office throughout the whole or in any portion of the local area for which he is appointed, and may suspend or remove any naib so appointed.\nWhen any Kazi is suspended or removed under section 2, his naib or naibs (if any) shall be deemed to be suspended or removed, as the case may be."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Nothing in act to confer judicial or administrative powers; or to render the presence of Kazi necessary; or to prevent any one acting as Kazi",
+      "content": "4. Nothing herein contained, and no appointment made hereunder, shall be deemed-\n(a) to confer any judicial or administrative powers on any Kazi or Naib Kazi appointed hereunder; or\n(b) to render the presence of a Kazi or Naib Kazi necessary at the celebration of any marriage or the performance of any rite or ceremony; or\n(c) to prevent any person discharging any of the functions of a Kazi."
+    }
+  ],
+  "definitions": []
+}

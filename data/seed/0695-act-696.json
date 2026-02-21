@@ -1,0 +1,45 @@
+{
+  "id": "bd-act-696",
+  "type": "statute",
+  "title": "The Drugs (Supplementary Provisions) Ordinance, 1986",
+  "title_en": "The Drugs (Supplementary Provisions) Ordinance, 1986",
+  "short_name": "Act 696",
+  "status": "in_force",
+  "issued_date": "1986-03-02",
+  "in_force_date": "1986-03-02",
+  "url": "http://bdlaws.minlaw.gov.bd/act-696.html",
+  "description": "An Ordinance to make supplementary provisions relating to certain medicines. WHEREAS it is expedient to make supplementary provisions relating to certain medicines; NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in exercise of all powers enabling him in that behalf, the President is pleased to make and promulgate the following Ordinance: -",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Ordinance may be called the Drugs (Supplementary Provisions) Ordinance, 1986 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Export of certain medicines",
+      "content": "2. (1) Notwithstanding anything contained in section 8(2)(a) of the Drugs (Control) Ordinance, 1982 (VΙΙΙ of 1982), hereinafter referred to as the said Ordinance, all medicines which were required to be destroyed under that section but have not been destroyed for any reason may, with the prior permission of the Government, be exported outside the country within a period of three months from the date of commencement of this Ordinance.\n(2) All medicines which may be exported under sub-section (1) but are not exported within the period specified therein shall stand forfeited to the Government and may be disposed of by the Government in such manner as it deems fit."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Surrender of medicines",
+      "content": "3. Any person in possession of medicines, which were required to be destroyed under section 8 (2)(a) of the said Ordinance, but which have neither been destroyed thereunder nor exported under section 2, shall surrender the medicines to the Government, or to any person authorised by the Government in this behalf, within fifteen days from the date of expiry of the period specified in section 2."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Penalty and procedure",
+      "content": "4. (1) Whoever contravenes the provision of section 3 shall be punishable with rigorous imprisonment for a term which may extend to ten years, or with fine which may extend to two lakh taka, or with both.\n(2) The provision of sections 21A and 22 of the said Ordinance shall, mutatis mutandis, apply to an offence punishable under this Ordinance."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Compensation for destruction of drugs",
+      "content": "5. Notwithstanding anything contained in any other law for the time being in force, no person shall be entitled to claim any compensation against the Government or any other person for the destruction of any medicine under the said Ordinance and no Court shall entertain any suit or other legal proceeding where prayer for any such compensation is made."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bd-act-415",
+  "type": "statute",
+  "title": "The Bangladesh Bank Order, 1972 (President's Order)",
+  "title_en": "The Bangladesh Bank Order, 1972 (President's Order)",
+  "short_name": "Act 415",
+  "status": "in_force",
+  "issued_date": "1972-10-31",
+  "in_force_date": "1972-10-31",
+  "url": "http://bdlaws.minlaw.gov.bd/act-415.html",
+  "description": "[WHEREAS, it is necessary to establish a central bank in Bangladesh to manage the monetary and credit system of Bangladesh with a view to stabilising domestic monetary value and maintaining a competitive external par value of the Bangladesh Taka towards fostering growth and development of country’s productive resources in the best national interest;] NOW, THEREFORE, in pursuance of the Proclamation of Independence...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "chapter": "Chapter V: [PROVISIONS RELATING TO NON-BANKING INSTITUTIONS RECEIVING DEPOSITS AND FINANCIAL INSTITUTIONS",
+      "section": "1",
+      "title": "1. Omitted",
+      "content": "Omitted by section 50 of আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩ (১৯৯৩ সনের ২৭ নং আইন)]"
+    },
+    {
+      "provision_ref": "sec2",
+      "chapter": "Chapter VI: GENERAL",
+      "section": "2",
+      "title": "2. [Omitted]",
+      "content": "68. [Omitted by section 21 of the Bangladesh Bank (Amendment) Act, 2003 (Act No. IX of 2003).]"
+    }
+  ],
+  "definitions": []
+}

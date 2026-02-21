@@ -1,0 +1,56 @@
+{
+  "id": "bd-act-101",
+  "type": "statute",
+  "title": "The Mussalman Wakf Validating Act, 1913",
+  "title_en": "The Mussalman Wakf Validating Act, 1913",
+  "short_name": "Act 101",
+  "status": "in_force",
+  "issued_date": "1913-03-07",
+  "in_force_date": "1913-03-07",
+  "url": "http://bdlaws.minlaw.gov.bd/act-101.html",
+  "description": "An Act to declare the rights of Mussalmans to make settlements of property by way of “wakf” in favour of their families, children and descendants. WHEREAS doubts have arisen regarding the validity of wakfs created by persons professing the Mussalman faith in favour of themselves, their families, children and descendants and ultimately for the benefit of the poor or for other religious, pious or charitable purposes...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and extent",
+      "content": "1. (1) This Act may be called the Mussalman Wakf Validating Act, 1913 .\n(2) It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definition",
+      "content": "2. In this Act, unless there is anything repugnant in the subject or context,-\n(1) “Wakf” means the permanent dedication by a person professing the Mussalman faith of any property for any purpose recognized by the Musslman law as religious, pious or charitable.\n(2) “Hanafi Mussalman” means a follower of the Mussalman faith who conforms to the tenets and doctrines of the Hanafi school of Mussalman law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Power of Mussalman to create certain wakfs",
+      "content": "3. It shall be lawful for any person professing the Mussalman faith to create a wakf which in all other respects is in accordance with the provisions of Mussalman law, for the following among other purposes:-\n(a) for the maintenance and support wholly or partially of his family, children or descendants, and\n(a) where the person creating a wakf is a Hanafi Mussalman, also for his own maintenance and support during his lifetime or for the payment of his debts out of the rents and profits of the property dedicated:\nProvided that the ultimate benefit is in such cases expressly or impliedly reserved for the poor or for any other purpose recognized by the Mussalman law as a religious, pious or charitable purpose of a permanent character."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Wakfs not to be invalid by reason of remoteness of benefit to poor, etc.",
+      "content": "4. No such wakf shall be deemed to be invalid merely because the benefit reserved therein for the poor or other religious, pious or charitable purpose of a permanent nature is postponed until after the extinction of the family, children or descendants of the person creating the wakf."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Saving of local and sectarian custom",
+      "content": "5. Nothing in this Act shall affect any custom or usage whether local or prevalent among Mussalmans of any particular class or sect."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Wakf",
+      "definition": "the permanent dedication by a person professing the Mussalman faith of any property for any purpose recognized by the Musslman law as religious, pious or charitable.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Hanafi Mussalman",
+      "definition": "a follower of the Mussalman faith who conforms to the tenets and doctrines of the Hanafi school of Mussalman law.",
+      "source_provision": "sec2"
+    }
+  ]
+}

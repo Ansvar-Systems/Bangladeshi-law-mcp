@@ -1,0 +1,56 @@
+{
+  "id": "bd-act-404",
+  "type": "statute",
+  "title": "The Printing Corporation (Vesting) Order, 1972 (President's Order)",
+  "title_en": "The Printing Corporation (Vesting) Order, 1972 (President's Order)",
+  "short_name": "Act 404",
+  "status": "in_force",
+  "issued_date": "1972-07-17",
+  "in_force_date": "1972-07-17",
+  "url": "http://bdlaws.minlaw.gov.bd/act-404.html",
+  "description": "WHEREAS it is expedient in the public interest to provide for the taking over by the Government of the undertaking of the Printing Corporation of Pakistan Limited in Bangladesh and for matters ancillary thereto; NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that behalf, ...",
+  "provisions": [
+    {
+      "provision_ref": "sec8924",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Printing Corporation (Vesting) Order, 1972.\n(2) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec8932",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. In this Order, unless the context otherwise requires,-\n(a) \"Government\" means the Government of the People's Republic of Bangladesh;\n(b) \"Printing Corporation\" means the undertaking in Bangladesh of the Printing Corporation of Pakistan Limited registered as a Public Limited Company under the Companies Act, 1913 (Act VII of 1913);\n(c) \"Undertaking\" includes any business, asset, right, power, authority and privilege, and any property movable and immovable, including land, building, press, machinery, cash or bank balance, reserve fund, investments, and any other right or interest in, or arising out of, such property and any book of accounts, register, record and any other document of whatever nature relating thereto."
+    },
+    {
+      "provision_ref": "sec8933",
+      "section": "3",
+      "title": "3. 3.",
+      "content": "3. Notwithstanding anything contained in any other law for the time being in force or in any memorandum or articles of association, or in any contract or agreement, or in any deed or other instrument, on the commencement of this Order,-\n(a) the entire undertaking of the Printing Corporation shall stand transferred to, and vest in, the Government;\n(b) all debts and liabilities incurred, all obligations undertaken, all contracts entered into and all agreements made, by or with the Printing Corporation shall, unless the Government otherwise directs, stand transferred to, and be deemed to have been incurred, undertaken, entered into, or made by or with, the Government;\n(c) all suits and other legal proceedings instituted by or against the Printing Corporation in Bangladesh before the commencement of this Order shall, unless the Government otherwise directs, be deemed to have been instituted by or against the Government and may be continued or proceeded with accordingly;\n(d) all officers and other employees of the Printing Corporation shall stand transferred to the Government on such terms and conditions as the Government may determine:\nProvided that an officer or other employee so transferred shall have the option not to continue in the service of the Government."
+    },
+    {
+      "provision_ref": "sec8934",
+      "section": "4",
+      "title": "4. 4.",
+      "content": "4. The Government may, for the purpose of removing any difficulty arising out of, or in connection with, or in relation to the transfer of the undertaking of the Printing Corporation under Article 3, make such order as it considers expedient and any such order shall be deemed to be, and given effect to as, part of the provisions of this Order."
+    },
+    {
+      "provision_ref": "sec8935",
+      "section": "5",
+      "title": "5. 5.",
+      "content": "5. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Order"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Government",
+      "definition": "the Government of the People's Republic of Bangladesh",
+      "source_provision": "sec8932"
+    },
+    {
+      "term": "Printing Corporation",
+      "definition": "the undertaking in Bangladesh of the Printing Corporation of Pakistan Limited registered as a Public Limited Company under the Companies Act, 1913 (Act VII of 1913)",
+      "source_provision": "sec8932"
+    }
+  ]
+}

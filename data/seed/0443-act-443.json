@@ -1,0 +1,79 @@
+{
+  "id": "bd-act-443",
+  "type": "statute",
+  "title": "The Asian Development Bank Order, 1973 (President's Order)",
+  "title_en": "The Asian Development Bank Order, 1973 (President's Order)",
+  "short_name": "Act 443",
+  "status": "in_force",
+  "issued_date": "1973-01-24",
+  "in_force_date": "1973-01-24",
+  "url": "http://bdlaws.minlaw.gov.bd/act-443.html",
+  "description": "WHEREAS the People’s Republic of Bangladesh is admitted to membership in the Asian Development Bank; AND WHEREAS it is expedient to make provision for the implementation of the Agreement establishing the Asian Development Bank and for carrying out the obligations of the People’s Republic of Bangladesh as a member of the Bank and for matters connected therewith; NOW, THEREFORE, in pursuance of paragraph 3 of the Fo...",
+  "provisions": [
+    {
+      "provision_ref": "sec6904",
+      "section": "1",
+      "title": "1. 1.",
+      "content": "1. (1) This Order may be called the Asian Development Bank Order, 1973.\n(2) It extends to the whole of Bangladesh.\n(3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "sec6905",
+      "section": "2",
+      "title": "2. 2.",
+      "content": "2. In this Order, unless there is anything repugnant in the subject or context,-\n(a) “Agreement” means the Agreement Establishing the Asian Development Bank dated 4th December, 1965;\n(b) “Bank” means the Asian Development Bank established under the Agreement;\n(c) “Government” means the Government of the People's Republic of Bangladesh."
+    },
+    {
+      "provision_ref": "sec6906",
+      "section": "3",
+      "title": "3. 3.",
+      "content": "3. (1) There shall be paid out of the Consolidated Fund all such sums as may, from time to time, be required for the purpose of paying-\n(a) the subscriptions payable by the People's Republic of Bangladesh to the Bank under paragraphs 1, 2 and 3 of Article 5 of the Agreement;\n(b) any commissions, fees or other charges payable by the People's Republic of Bangladesh to the Bank under Article 16 of the Agreement; and\n(c) any sum payable by the People's Republic of Bangladesh under paragraph 1 of Article 25 of the Agreement.\n(2) The Government may, if it thinks fit so to do, create and issue to the Bank, in such form as it thinks fit, any such non-interest bearing and non-negotiable notes or other obligations as are provided for by paragraph 3 of Article 6 of the Agreement.\n(3) Any sums received by or on behalf of the People's Republic of Bangladesh from the Bank shall be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "sec6907",
+      "section": "4",
+      "title": "4. 4.",
+      "content": "4. The Bangladesh Bank shall be the depository of Bangladesh currency holdings and other assets of the Bank located in Bangladesh."
+    },
+    {
+      "provision_ref": "sec6908",
+      "section": "5",
+      "title": "5. 5.",
+      "content": "5. (1) Notwithstanding anything to the contrary contained in any other law, the provisions of the Agreement set out in the Schedule shall have the force of law in Bangladesh:\nProvided that nothing in Article 56 of the Agreement shall be construed as-\n(a) entitling the Bank to import into Bangladesh goods free of any duty of customs without any restriction on their subsequent sale therein; or\n(b) conferring on the Bank any exemption from duties or taxes which form part of the price of goods sold; or\n(c) conferring on the Bank any exemption from duties or taxes which are in fact no more than charges for services rendered.\n(2) The Government may, by notification in the official Gazette, amend the Schedule in conformity with any amendments, which may hereafter be duly made and adopted, of the provisions of the Agreement set out therein."
+    },
+    {
+      "provision_ref": "sec6909",
+      "section": "6",
+      "title": "6. 6.",
+      "content": "6. Nothing in this Order shall prejudice or derogate from the right of the People's Republic of Bangladesh to claim, receive or recover any assets from Pakistan."
+    },
+    {
+      "provision_ref": "sec6910",
+      "section": "7",
+      "title": "7. 7.",
+      "content": "7. The Government shall designate, by a notification in the official Gazette, the officer who shall be authorised on behalf of the People's Republic of Bangladesh to sign the Instrument of Acceptance of the Articles of Agreement and Resolution No. 54 of the Board of Governors of the Bank adopted on 11th November, 1972, and deposit it with the Bank."
+    },
+    {
+      "provision_ref": "sec6911",
+      "section": "8",
+      "title": "8. 8.",
+      "content": "8. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Order."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "the Agreement Establishing the Asian Development Bank dated 4th December, 1965",
+      "source_provision": "sec6905"
+    },
+    {
+      "term": "Bank",
+      "definition": "the Asian Development Bank established under the Agreement",
+      "source_provision": "sec6905"
+    },
+    {
+      "term": "Government",
+      "definition": "the Government of the People's Republic of Bangladesh.",
+      "source_provision": "sec6905"
+    }
+  ]
+}

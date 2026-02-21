@@ -1,0 +1,57 @@
+{
+  "id": "bd-act-356",
+  "type": "statute",
+  "title": "The Defence Services (Inquiry) (Special Provisions) Ordinance, 1969",
+  "title_en": "The Defence Services (Inquiry) (Special Provisions) Ordinance, 1969",
+  "short_name": "Act 356",
+  "status": "in_force",
+  "issued_date": "1969-07-22",
+  "in_force_date": "1969-07-22",
+  "url": "http://bdlaws.minlaw.gov.bd/act-356.html",
+  "description": "An Ordinance to make provision for a uniform procedure for inquiring into the conduct of a member of a Defence Service serving otherwise than in an organisation or unit of his service. WHEREAS it is expedient to make provision for a uniform procedure for inquiring into the conduct of a member of a Defence Service serving otherwise than in an organisation or unit of his service and for matters ancillary thereto; NO...",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title and commencement",
+      "content": "1. (1) This Ordinance may be called the Defence Services (Inquiry) (Special Provisions) Ordinance, 1969 .\n(2) It shall come into force on such date as the Government may, by notification in the official Gazette, appoint."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Definitions",
+      "content": "2. In this Ordinance, unless there is anything repugnant in the subject or context,-\n(a) “board of inquiry” means a board of inquiry convened under this Ordinance;\n[(b) “Chief of Staff,” in relation to a person whose conduct is inquired into under this Ordinance, means the Chief of Army Staff, Naval Staff or Air Staff, as the case may be;]\n(c) “commanding officer”, in relation to a person subject to this Ordinance, means the head of the organisation or the commanding officer for the purpose of the service law of the unit in or to which such person is for the time being serving or attached;\n(d) “service law”, in relation to a person whose conduct is inquired into under this Ordinance, means the [* * *] Army Act, 1952 (XXXIX of 1952), the [* * *] Air Force Act, 1953 (VI of 1953), or the [* * *] Navy Ordinance, 1961 (XXXV of 1961), to which such person is subject;\n(e) “unit” includes a naval ship, vessel or establishment of which there is a commanding officer for the purposes of the [* * *] Navy Ordinance, 1961 (XXXV of 1961)."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Inquiry into the conduct of certain persons subject to service law",
+      "content": "3. The conduct of a person subject to a service law shall, notwithstanding anything contained in such law, be inquired into by a board of inquiry in accordance with the provisions of this Ordinance and the rules made thereunder where the conduct to be inquired into-\n(a) relates to a period when he was serving or attached, except on secondment, in or to an organisation or unit other than that of the service to which he belongs, or\n(b) is that of such person together with that of another person who was not, during the period to which the conduct relates, subject to the same service law."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. Convening of board of inquiry",
+      "content": "4. Where the conduct to be inquired into under section 3 is that of the commanding officer or that of the commanding officer together with the conduct of another person, a board of inquiry shall be convened by the Chief of Staff [* * *] to which the commanding officer belongs and, in any other case, by the commanding officer."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Composition of a board of inquiry, etc.",
+      "content": "5. (1) A board of inquiry shall consist of a president and such other persons and be convened in such manner, and the inquiry shall be conducted in accordance with such procedure, as may be prescribed by rules.\n(2) The president of a board of inquiry shall, after the conclusion of the inquiry, submit to the authority convening the board the proceedings of the board along with its findings and recommendations.\n(3) Upon the receipt of the proceedings of a board of inquiry submitted to him under sub-section (2), the commanding officer shall-\n(a) if the inquiry relates to any matter which he is himself competent to dispose of, take the necessary action and forward a copy of the proceedings to the Chief of Staff, informing him of the action taken by him;\n(b) if the inquiry relates to a matter which is not of the nature mentioned in clause (a), forward the proceedings together with his recommendations, to the Chief of Staff.\n(4) Upon the receipt of the proceedings of a board of inquiry submitted to him under sub-section (2), or forwarded to him under clause (b) of sub-section (3), the Chief of Staff shall direct that the person to whom the proceedings relate be dealt with in the manner authorised by the service law.\n(5) For the purpose of taking any action under the service law, the proceedings of a board of inquiry convened under this Ordinance may be acted upon as if they were proceedings of a board of inquiry or Court of inquiry assembled under such law."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Power to make rules",
+      "content": "6. (1) The Government may make rules for carrying out the purposes of this Ordinance.\n(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-\n(a) the composition of a board of inquiry;\n(b) the manner of convening a board of inquiry;\n(c) the procedure for the conduct of inquiry; and\n(d) such other matters as may be necessary for carrying out the purposes of this Ordinance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "board of inquiry",
+      "definition": "a board of inquiry convened under this Ordinance",
+      "source_provision": "sec2"
+    }
+  ]
+}

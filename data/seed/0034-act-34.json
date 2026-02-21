@@ -1,0 +1,51 @@
+{
+  "id": "bd-act-34",
+  "type": "statute",
+  "title": "The Law Reports Act, 1875",
+  "title_en": "The Law Reports Act, 1875",
+  "short_name": "Act 34",
+  "status": "in_force",
+  "issued_date": "1875-10-13",
+  "in_force_date": "1875-10-13",
+  "url": "http://bdlaws.minlaw.gov.bd/act-34.html",
+  "description": "An Act for the improvement of Law Reports. Preamble [Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "1. Short title",
+      "content": "1. This Act may be called the Law Reports Act, 1875 ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "2. Local extent",
+      "content": "It extends to the whole of [Bangladesh]."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "3. Commencement",
+      "content": "[And it shall come into force at once]."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "4. [Repealed ]",
+      "content": "2. [Repealed by the Repealing Act, 1876 (Act No. XII of 1876).]"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "5. Authority given only to authorized reports",
+      "content": "3. No Court shall be bound to hear cited, or shall receive or treat as an authority binding on it, the report of any case decided [* * *] by [the Supreme Court], other than a report published under the authority of [Government]."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "6. Authority of judicial decisions",
+      "content": "4. Nothing herein contained shall be construed to give to any judicial decision any further or other authority than it would have had if this Act had not been passed."
+    }
+  ],
+  "definitions": []
+}
