@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "eu.ansvar/bangladeshi-law-mcp",
-  "description": "Bangladeshi law database covering data protection, cybersecurity, e-commerce, and criminal law provisions via Model Context Protocol",
+  "description": "Bangladeshi legislation via MCP — full-text search across statutes and provisions",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/Bangladeshi-law-mcp",
     "source": "github"
@@ -14,7 +14,15 @@
       "registryType": "npm",
       "identifier": "@ansvar/bangladeshi-law-mcp",
       "version": "1.0.0",
-      "transport": { "type": "stdio" }
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
+  "remotes": [
+    {
+      "transportType": "streamable-http",
+      "url": "https://bangladeshi-law-mcp.vercel.app/mcp"
     }
   ]
 }
