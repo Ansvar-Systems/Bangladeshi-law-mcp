@@ -32,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (bdlaws.minlaw.gov.bd) — Government (State Chancellery of Bangladeshi)',
-    jurisdiction: 'EE',
+    data_source: 'Bangladesh Legal Framework (bdlaws.minlaw.gov.bd) — Bangladesh Bar Council / Ministry of Law, Justice and Parliamentary Affairs',
+    jurisdiction: 'BD',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Bangladeshi). ' +
-      'Always verify with the official Official Legal Database portal (bdlaws.minlaw.gov.bd).',
+      'This data is sourced from the Bangladesh Legal Framework under public domain. ' +
+      'The authoritative versions are maintained by the Ministry of Law, Justice and Parliamentary Affairs of Bangladesh. ' +
+      'Always verify with the official portal (bdlaws.minlaw.gov.bd).',
     freshness,
   };
 }
