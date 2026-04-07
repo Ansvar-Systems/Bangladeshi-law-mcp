@@ -40,12 +40,12 @@ This MCP server makes Bangladeshi law **searchable, cross-referenceable, and AI-
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-bangladeshi-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-bd/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add bangladeshi-law --transport http https://mcp.ansvar.eu/law-bangladeshi-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add bangladeshi-law --transport http https://mcp.ansvar.eu/law-bd/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -56,7 +56,7 @@ This MCP server makes Bangladeshi law **searchable, cross-referenceable, and AI-
   "mcpServers": {
     "bangladeshi-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-bangladeshi-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-bd/mcp"
     }
   }
 }
@@ -69,7 +69,7 @@ This MCP server makes Bangladeshi law **searchable, cross-referenceable, and AI-
   "github.copilot.chat.mcp.servers": {
     "bangladeshi-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-bangladeshi-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-bd/mcp"
     }
   }
 }
