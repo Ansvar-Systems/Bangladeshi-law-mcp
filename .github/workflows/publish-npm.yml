@@ -79,7 +79,7 @@ jobs:
 
       - name: Build database
         if: steps.check.outputs.already_published == 'false'
-        run: npm run build:db 2>/dev/null || true
+        run: npm run build:db
 
       - name: Publish
         if: steps.check.outputs.already_published == 'false'
